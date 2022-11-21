@@ -1,0 +1,42 @@
+format: jb-book
+root: welcome
+parts:
+- caption: Sample Preparation
+  chapters:
+  - file: 01_Sample_preparation/Considerations
+    title: Considerations for different sample types
+  - file: 01_Sample_preparation/Experimental_design
+    title: General experimental design
+  - file: 01_Sample_preparation/Reproducibility
+    title: Reproducibility
+- caption: Sample Acquisition
+  chapters:
+  - file: 02_Sample_acquisition/Picking
+    title: Picking the right microscopy modality
+  - file: 02_Sample_acquisition/Setting_up
+    title: Setting up your acquisition
+  - file: 02_Sample_acquisition/Practical_considerations
+    title: Practical considerations
+- caption: Analysis and Data Handling
+  chapters:
+  - file: 03_Image_analysis/Introduction
+    title: Common image analysis methods
+    sections:
+      - file: 03_Image_analysis/Image_processing
+        title: Image Processing
+      - file: 03_Image_analysis/Image_segmentation
+        title: Image Segmentation
+      - file: 03_Image_analysis/Image_measurements
+        title: Image Measurements
+  - file: 03_Image_analysis/Software
+    title: Open source software
+  - file: 03_Image_analysis/Data_management
+    title: Data management and sharing
+- caption: Data Presentation
+  chapters:
+  - file: 04_Data_presentation/Introduction
+    title: Presentation of microscope images
+  - file: 04_Data_presentation/Presentation_graphs
+    title: Presentation of graphs
+  - file: 04_Data_presentation/Statistics
+    title: Statistics
