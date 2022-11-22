@@ -6,7 +6,7 @@
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" /><meta name="generator" content="Docutils 0.17.1: http://docutils.sourceforge.net/" />
 
-    <title>Image Analysis &#8212; Microscopy for Beginners reference guide</title>
+    <title>Shape-based measurements &#8212; Microscopy for Beginners reference guide</title>
     
   <!-- Loaded before other Sphinx assets -->
   <link href="../_static/styles/theme.css?digest=1999514e3f237ded88cf" rel="stylesheet">
@@ -26,6 +26,7 @@
     <link rel="stylesheet" type="text/css" href="../_static/copybutton.css" />
     <link rel="stylesheet" type="text/css" href="../_static/mystnb.css" />
     <link rel="stylesheet" type="text/css" href="../_static/sphinx-thebe.css" />
+    <link rel="stylesheet" type="text/css" href="../_static/myfile.css" />
     <link rel="stylesheet" type="text/css" href="../_static/design-style.b7bb847fb20b106c3d81b95245e65545.min.css" />
     
   <!-- Pre-loaded scripts that we'll load fully later -->
@@ -50,13 +51,15 @@ const thebe_selector_input = "pre"
 const thebe_selector_output = ".output, .cell_output"
 </script>
     <script async="async" src="../_static/sphinx-thebe.js"></script>
+    <script>window.MathJax = {"options": {"processHtmlClass": "tex2jax_process|mathjax_process|math|output_area"}}</script>
+    <script defer="defer" src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>
     <script src="https://unpkg.com/mermaid/dist/mermaid.min.js"></script>
     <script>mermaid.initialize({startOnLoad:true});</script>
     <link rel="shortcut icon" href="../_static/favicon.png"/>
     <link rel="index" title="Index" href="../genindex.html" />
     <link rel="search" title="Search" href="../search.html" />
-    <link rel="next" title="Image Processing" href="Image_processing.html" />
-    <link rel="prev" title="Practical considerations" href="../02_Sample_acquisition/Practical_considerations.html" />
+    <link rel="next" title="Image Segmentation" href="Image_segmentation.html" />
+    <link rel="prev" title="Image Analysis" href="01_Introduction.html" />
     <meta name="viewport" content="width=device-width, initial-scale=1" />
     <meta name="docsearch:language" content="None">
     
@@ -93,6 +96,11 @@ const thebe_selector_output = ".output, .cell_output"
         <div class="bd-sidebar__top"><div class="navbar-brand-box">
     <a class="navbar-brand text-wrap" href="../index.html">
       
+        <!-- `logo` is deprecated in Sphinx 4.0, so remove this when we stop supporting 3 -->
+        
+      
+      
+      <img src="../_static/logo.png" class="logo" alt="logo">
       
       
       <h1 class="site-logo" id="site-title">Microscopy for Beginners reference guide</h1>
@@ -157,12 +165,12 @@ const thebe_selector_output = ".output, .cell_output"
 </ul>
 <p aria-level="2" class="caption" role="heading">
  <span class="caption-text">
-  Analysis and Data Handling
+  Image Analysis and Data Handling
  </span>
 </p>
 <ul class="current nav bd-sidenav">
  <li class="toctree-l1 current active has-children">
-  <a class="current reference internal" href="#">
+  <a class="reference internal" href="01_Introduction.html">
    Common image analysis methods
   </a>
   <input checked="" class="toctree-checkbox" id="toctree-checkbox-1" name="toctree-checkbox-1" type="checkbox"/>
@@ -170,10 +178,10 @@ const thebe_selector_output = ".output, .cell_output"
    <i class="fas fa-chevron-down">
    </i>
   </label>
-  <ul>
-   <li class="toctree-l2">
-    <a class="reference internal" href="Image_processing.html">
-     Image Processing
+  <ul class="current">
+   <li class="toctree-l2 current active">
+    <a class="current reference internal" href="#">
+     Shape-based measurements
     </a>
    </li>
    <li class="toctree-l2">
@@ -218,6 +226,18 @@ const thebe_selector_output = ".output, .cell_output"
  <li class="toctree-l1">
   <a class="reference internal" href="../04_Data_presentation/Statistics.html">
    Statistics
+  </a>
+ </li>
+</ul>
+<p aria-level="2" class="caption" role="heading">
+ <span class="caption-text">
+  Additional Resources
+ </span>
+</p>
+<ul class="nav bd-sidenav">
+ <li class="toctree-l1">
+  <a class="reference internal" href="../Glossary.html">
+   Glossary
   </a>
  </li>
 </ul>
@@ -310,7 +330,7 @@ title="Source repository"
       </li>
       
       <li>
-        <a href="https://github.com/executablebooks/jupyter-book/issues/new?title=Issue%20on%20page%20%2F03_Image_analysis/Introduction.html&body=Your%20issue%20content%20here."
+        <a href="https://github.com/executablebooks/jupyter-book/issues/new?title=Issue%20on%20page%20%2F03_Image_analysis/01-1_Shape.html&body=Your%20issue%20content%20here."
    class="headerbtn"
    data-toggle="tooltip"
 data-placement="left"
@@ -338,7 +358,7 @@ title="Open an issue"
   <div class="menu-dropdown__content">
     <ul>
       <li>
-        <a href="../_sources/03_Image_analysis/Introduction.md"
+        <a href="../_sources/03_Image_analysis/01-1_Shape.md"
    class="headerbtn"
    data-toggle="tooltip"
 data-placement="left"
@@ -398,8 +418,8 @@ title="Print to PDF"
     <nav id="bd-toc-nav" aria-label="Page">
         <ul class="visible nav section-nav flex-column">
  <li class="toc-h2 nav-item toc-entry">
-  <a class="reference internal nav-link" href="#introduction">
-   Introduction
+  <a class="reference internal nav-link" href="#what-are-shape-based-measurements">
+   What are shape-based measurements?
   </a>
  </li>
 </ul>
@@ -411,7 +431,7 @@ title="Print to PDF"
         <div class="col pl-md-3 pl-lg-5 content-container">
             <!-- Table of contents that is only displayed when printing the page -->
             <div id="jb-print-docs-body" class="onlyprint">
-                <h1>Image Analysis</h1>
+                <h1>Shape-based measurements</h1>
                 <!-- Table of contents -->
                 <div id="print-main-content">
                     <div id="jb-print-toc">
@@ -422,8 +442,8 @@ title="Print to PDF"
                         <nav aria-label="Page">
                             <ul class="visible nav section-nav flex-column">
  <li class="toc-h2 nav-item toc-entry">
-  <a class="reference internal nav-link" href="#introduction">
-   Introduction
+  <a class="reference internal nav-link" href="#what-are-shape-based-measurements">
+   What are shape-based measurements?
   </a>
  </li>
 </ul>
@@ -436,32 +456,53 @@ title="Print to PDF"
                 
               <div>
                 
-  <section class="tex2jax_ignore mathjax_ignore" id="image-analysis">
-<h1>Image Analysis<a class="headerlink" href="#image-analysis" title="Permalink to this headline">#</a></h1>
-<section id="introduction">
-<h2>Introduction<a class="headerlink" href="#introduction" title="Permalink to this headline">#</a></h2>
-<p>Microscopy images are inherently quantitative, which makes them a very powerful data source. As a biologist, image analysis allows you to translate these numbers into insights that answer biological questions. For our purposes, <strong>image analysis</strong> is the process of measuring aspects of biological phenomena captured in microscopy images. Microscopy images are already <em>inherently quantitative</em> in that they are matrices (i.e., grids) of numbers. However, image analysis is the process of turning these raw numbers into biologically interpretable measurements. Image analysis typically involves a series of steps that can be collected into a pipeline or analysis workflow. A simple example workflow is shown below:</p>
-<div class="mermaid">
-            flowchart LR
-   A[Raw image] --&gt;|Illumination correction| B[Corrected image]
-   B --&gt;|Segmentation| C((Identified objects \n e.g., cells, nuclei))
-   C --&gt;|Measure morphology| D(Shape measurements \n e.g., Average cell area)
-
-   B &amp; C--&gt;|Measure intensity|G(Intensity measurements \n e.g., Average eGFP intensity)
-  classDef empty width:0px,height:0px;
-
- style G fill:#DCC7FA, stroke:#8338EC
-
- style C fill:#FFF4d6,stroke:#FFBE0B
-
- style A fill:#FFD6E8,stroke:#F5006A
- style B fill:#FFD6E8,stroke:#F5006A
-
- style D fill:#D6E6FF,stroke:#3A86FF
- style G fill:#D6E6FF,stroke:#3A86FF
-        </div></section>
-<div class="toctree-wrapper compound">
+  <section class="tex2jax_ignore mathjax_ignore" id="shape-based-measurements">
+<h1>Shape-based measurements<a class="headerlink" href="#shape-based-measurements" title="Permalink to this headline">#</a></h1>
+<section id="what-are-shape-based-measurements">
+<h2>What are shape-based measurements?<a class="headerlink" href="#what-are-shape-based-measurements" title="Permalink to this headline">#</a></h2>
+<p>Shape measurements describe the 2D or 3D form of objects in our sample. Common measures of shape include:</p>
+<ul class="simple">
+<li><p><strong>Area</strong>: the 2D space an object takes up in the image or the 3D surface area of an object</p></li>
+<li><p><strong>Volume</strong>: the 3D space an object takes up in a 3D image</p></li>
+<li><p><strong>Perimeter</strong>: the distance around the edge of an object</p></li>
+<li><p><strong>Circularity</strong>: How circular vs. elongated an object is. Formally defined as <span class="math notranslate nohighlight">\(circularity = 4pi*{area}/{perimeter}^2\)</span> where 1 is a perfect circle and circularity &lt;1 is a more elongated polygon.</p></li>
+<li><p><strong>Solidity</strong>: how dense vs. wispy/holey an object is. Formally defined as <span class="math notranslate nohighlight">\(solidity = area/convex area\)</span> where <em>convex area</em> is akin to the area inside a shape formed by stretching a rubber band around the object.</p></li>
+</ul>
+<details class="sd-sphinx-override sd-dropdown sd-card sd-mb-3">
+<summary class="sd-summary-title sd-card-header">
+📏 How do I measure it?<div class="sd-summary-down docutils">
+<svg version="1.1" width="1.5em" height="1.5em" class="sd-octicon sd-octicon-chevron-down" viewBox="0 0 24 24" aria-hidden="true"><path fill-rule="evenodd" d="M5.22 8.72a.75.75 0 000 1.06l6.25 6.25a.75.75 0 001.06 0l6.25-6.25a.75.75 0 00-1.06-1.06L12 14.44 6.28 8.72a.75.75 0 00-1.06 0z"></path></svg></div>
+<div class="sd-summary-up docutils">
+<svg version="1.1" width="1.5em" height="1.5em" class="sd-octicon sd-octicon-chevron-up" viewBox="0 0 24 24" aria-hidden="true"><path fill-rule="evenodd" d="M18.78 15.28a.75.75 0 000-1.06l-6.25-6.25a.75.75 0 00-1.06 0l-6.25 6.25a.75.75 0 101.06 1.06L12 9.56l5.72 5.72a.75.75 0 001.06 0z"></path></svg></div>
+</summary><div class="sd-summary-content sd-card-body docutils">
+<p class="sd-card-text">After segmenting an image to locate the pixels belonging to different objects, morphology can be measured readily in many image analysis softwares, like FIJI and CellProfiler. In <a class="reference internal" href="../Glossary.html#term-Fiji"><span class="xref std std-term">Fiji</span></a>, after identifying your objects as <a class="reference internal" href="../Glossary.html#term-ROIs"><span class="xref std std-term">ROIs</span></a>, be sure to <strong>Analyze &gt; Set Measurements…</strong> and select “Shape Descriptors” then simply measure your ROIs with <strong>Analyze &gt; Measure</strong>. In CellProfiler, this is accomplished using the module MeasureObjectSizeShape.</p>
 </div>
+</details><details class="sd-sphinx-override sd-dropdown sd-card sd-mb-3">
+<summary class="sd-summary-title sd-card-header">
+<span style="color: red">⚠️</span> Where can things go wrong?<div class="sd-summary-down docutils">
+<svg version="1.1" width="1.5em" height="1.5em" class="sd-octicon sd-octicon-chevron-down" viewBox="0 0 24 24" aria-hidden="true"><path fill-rule="evenodd" d="M5.22 8.72a.75.75 0 000 1.06l6.25 6.25a.75.75 0 001.06 0l6.25-6.25a.75.75 0 00-1.06-1.06L12 14.44 6.28 8.72a.75.75 0 00-1.06 0z"></path></svg></div>
+<div class="sd-summary-up docutils">
+<svg version="1.1" width="1.5em" height="1.5em" class="sd-octicon sd-octicon-chevron-up" viewBox="0 0 24 24" aria-hidden="true"><path fill-rule="evenodd" d="M18.78 15.28a.75.75 0 000-1.06l-6.25-6.25a.75.75 0 00-1.06 0l-6.25 6.25a.75.75 0 101.06 1.06L12 9.56l5.72 5.72a.75.75 0 001.06 0z"></path></svg></div>
+</summary><div class="sd-summary-content sd-card-body docutils">
+<ul class="simple">
+<li><p class="sd-card-text"><strong>Not understanding the limitations of your images</strong>. All biological structures are 3D, but we often analyze 2D images. Often this is still very useful! But the larger and more complex your objects (e.g., neurons in a tissue section), the more limited a 2D view becomes.</p></li>
+<li><p class="sd-card-text"><strong>Failing to use calibrated units</strong>. Be sure to properly calibrate your images and present final measurements in microns (or similar units). If measuring 3D images, be sure to take into account the z-step, which is likely larger than the xy pixel size.</p></li>
+</ul>
+</div>
+</details><details class="sd-sphinx-override sd-dropdown sd-card sd-mb-3">
+<summary class="sd-summary-title sd-card-header">
+📚🤷‍♀️ Where can I learn more?<div class="sd-summary-down docutils">
+<svg version="1.1" width="1.5em" height="1.5em" class="sd-octicon sd-octicon-chevron-down" viewBox="0 0 24 24" aria-hidden="true"><path fill-rule="evenodd" d="M5.22 8.72a.75.75 0 000 1.06l6.25 6.25a.75.75 0 001.06 0l6.25-6.25a.75.75 0 00-1.06-1.06L12 14.44 6.28 8.72a.75.75 0 00-1.06 0z"></path></svg></div>
+<div class="sd-summary-up docutils">
+<svg version="1.1" width="1.5em" height="1.5em" class="sd-octicon sd-octicon-chevron-up" viewBox="0 0 24 24" aria-hidden="true"><path fill-rule="evenodd" d="M18.78 15.28a.75.75 0 000-1.06l-6.25-6.25a.75.75 0 00-1.06 0l-6.25 6.25a.75.75 0 101.06 1.06L12 9.56l5.72 5.72a.75.75 0 001.06 0z"></path></svg></div>
+</summary><div class="sd-summary-content sd-card-body docutils">
+<ul class="simple">
+<li><p class="sd-card-text">📄 <a class="reference external" href="https://www.mdpi.com/2073-4409/11/3/347/htm">Current Methods and Pipelines for Image-Based Quantitation of Nuclear Shape and Nuclear Envelope Abnormalities</a></p></li>
+<li><p class="sd-card-text">💻 <a class="reference external" href="https://cellprofiler-manual.s3.amazonaws.com/CellProfiler-4.2.4/modules/measurement.html#id20">Description of morphological measurements made by CellProfiler</a></p></li>
+<li><p class="sd-card-text">🎓 <a class="reference external" href="http://www.cyto.purdue.edu/cdroms/micro2/content/education/wirth10.pdf">Plain language description of various morphological measures by Michael Wirth</a></p></li>
+</ul>
+</div>
+</details></section>
 </section>
 
     <script type="text/x-thebe-config">
@@ -491,17 +532,17 @@ title="Print to PDF"
                 
     <!-- Previous / next buttons -->
 <div class='prev-next-area'>
-    <a class='left-prev' id="prev-link" href="../02_Sample_acquisition/Practical_considerations.html" title="previous page">
+    <a class='left-prev' id="prev-link" href="01_Introduction.html" title="previous page">
         <i class="fas fa-angle-left"></i>
         <div class="prev-next-info">
             <p class="prev-next-subtitle">previous</p>
-            <p class="prev-next-title">Practical considerations</p>
+            <p class="prev-next-title">Image Analysis</p>
         </div>
     </a>
-    <a class='right-next' id="next-link" href="Image_processing.html" title="next page">
+    <a class='right-next' id="next-link" href="Image_segmentation.html" title="next page">
     <div class="prev-next-info">
         <p class="prev-next-subtitle">next</p>
-        <p class="prev-next-title">Image Processing</p>
+        <p class="prev-next-title">Image Segmentation</p>
     </div>
     <i class="fas fa-angle-right"></i>
     </a>

@@ -6,7 +6,7 @@
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" /><meta name="generator" content="Docutils 0.17.1: http://docutils.sourceforge.net/" />
 
-    <title>Data Presentation &#8212; Microscopy for Beginners reference guide</title>
+    <title>Image Analysis &#8212; Microscopy for Beginners reference guide</title>
     
   <!-- Loaded before other Sphinx assets -->
   <link href="../_static/styles/theme.css?digest=1999514e3f237ded88cf" rel="stylesheet">
@@ -56,8 +56,8 @@ const thebe_selector_output = ".output, .cell_output"
     <link rel="shortcut icon" href="../_static/favicon.png"/>
     <link rel="index" title="Index" href="../genindex.html" />
     <link rel="search" title="Search" href="../search.html" />
-    <link rel="next" title="Presentation of graphs" href="Presentation_graphs.html" />
-    <link rel="prev" title="Data management and sharing" href="../03_Image_analysis/Data_management.html" />
+    <link rel="next" title="Shape-based measurements" href="01-1_Shape.html" />
+    <link rel="prev" title="Practical considerations" href="../02_Sample_acquisition/Practical_considerations.html" />
     <meta name="viewport" content="width=device-width, initial-scale=1" />
     <meta name="docsearch:language" content="None">
     
@@ -166,41 +166,41 @@ const thebe_selector_output = ".output, .cell_output"
   Image Analysis and Data Handling
  </span>
 </p>
-<ul class="nav bd-sidenav">
- <li class="toctree-l1 has-children">
-  <a class="reference internal" href="../03_Image_analysis/01_Introduction.html">
+<ul class="current nav bd-sidenav">
+ <li class="toctree-l1 current active has-children">
+  <a class="current reference internal" href="#">
    Common image analysis methods
   </a>
-  <input class="toctree-checkbox" id="toctree-checkbox-1" name="toctree-checkbox-1" type="checkbox"/>
+  <input checked="" class="toctree-checkbox" id="toctree-checkbox-1" name="toctree-checkbox-1" type="checkbox"/>
   <label for="toctree-checkbox-1">
    <i class="fas fa-chevron-down">
    </i>
   </label>
   <ul>
    <li class="toctree-l2">
-    <a class="reference internal" href="../03_Image_analysis/01-1_Shape.html">
+    <a class="reference internal" href="01-1_Shape.html">
      Shape-based measurements
     </a>
    </li>
    <li class="toctree-l2">
-    <a class="reference internal" href="../03_Image_analysis/Image_segmentation.html">
+    <a class="reference internal" href="Image_segmentation.html">
      Image Segmentation
     </a>
    </li>
    <li class="toctree-l2">
-    <a class="reference internal" href="../03_Image_analysis/Image_measurements.html">
+    <a class="reference internal" href="Image_measurements.html">
      Image Measurements
     </a>
    </li>
   </ul>
  </li>
  <li class="toctree-l1">
-  <a class="reference internal" href="../03_Image_analysis/Software.html">
+  <a class="reference internal" href="Software.html">
    Open source software
   </a>
  </li>
  <li class="toctree-l1">
-  <a class="reference internal" href="../03_Image_analysis/Data_management.html">
+  <a class="reference internal" href="Data_management.html">
    Data management and sharing
   </a>
  </li>
@@ -210,19 +210,19 @@ const thebe_selector_output = ".output, .cell_output"
   Data Presentation
  </span>
 </p>
-<ul class="current nav bd-sidenav">
- <li class="toctree-l1 current active">
-  <a class="current reference internal" href="#">
+<ul class="nav bd-sidenav">
+ <li class="toctree-l1">
+  <a class="reference internal" href="../04_Data_presentation/Introduction.html">
    Presentation of microscope images
   </a>
  </li>
  <li class="toctree-l1">
-  <a class="reference internal" href="Presentation_graphs.html">
+  <a class="reference internal" href="../04_Data_presentation/Presentation_graphs.html">
    Presentation of graphs
   </a>
  </li>
  <li class="toctree-l1">
-  <a class="reference internal" href="Statistics.html">
+  <a class="reference internal" href="../04_Data_presentation/Statistics.html">
    Statistics
   </a>
  </li>
@@ -328,7 +328,7 @@ title="Source repository"
       </li>
       
       <li>
-        <a href="https://github.com/executablebooks/jupyter-book/issues/new?title=Issue%20on%20page%20%2F04_Data_presentation/Introduction.html&body=Your%20issue%20content%20here."
+        <a href="https://github.com/executablebooks/jupyter-book/issues/new?title=Issue%20on%20page%20%2F03_Image_analysis/01_Introduction.html&body=Your%20issue%20content%20here."
    class="headerbtn"
    data-toggle="tooltip"
 data-placement="left"
@@ -356,7 +356,7 @@ title="Open an issue"
   <div class="menu-dropdown__content">
     <ul>
       <li>
-        <a href="../_sources/04_Data_presentation/Introduction.md"
+        <a href="../_sources/03_Image_analysis/01_Introduction.md"
    class="headerbtn"
    data-toggle="tooltip"
 data-placement="left"
@@ -429,7 +429,7 @@ title="Print to PDF"
         <div class="col pl-md-3 pl-lg-5 content-container">
             <!-- Table of contents that is only displayed when printing the page -->
             <div id="jb-print-docs-body" class="onlyprint">
-                <h1>Data Presentation</h1>
+                <h1>Image Analysis</h1>
                 <!-- Table of contents -->
                 <div id="print-main-content">
                     <div id="jb-print-toc">
@@ -454,11 +454,33 @@ title="Print to PDF"
                 
               <div>
                 
-  <section class="tex2jax_ignore mathjax_ignore" id="data-presentation">
-<h1>Data Presentation<a class="headerlink" href="#data-presentation" title="Permalink to this headline">#</a></h1>
+  <section class="tex2jax_ignore mathjax_ignore" id="image-analysis">
+<h1>Image Analysis<a class="headerlink" href="#image-analysis" title="Permalink to this headline">#</a></h1>
 <section id="introduction">
 <h2>Introduction<a class="headerlink" href="#introduction" title="Permalink to this headline">#</a></h2>
+<p>Microscopy images are inherently quantitative, which makes them a very powerful data source. As a biologist, image analysis allows you to translate these numbers into insights that answer biological questions. For our purposes, <strong>image analysis</strong> is the process of measuring aspects of biological phenomena captured in microscopy images. Microscopy images are already <em>inherently quantitative</em> in that they are matrices (i.e., grids) of numbers. However, image analysis is the process of turning these raw numbers into biologically interpretable measurements. Image analysis typically involves a series of steps that can be collected into a pipeline or analysis workflow. A simple example workflow is shown below:</p>
+<div class="mermaid">
+            flowchart LR
+   A[Raw image] --&gt;|Illumination correction| B[Corrected image]
+   B --&gt;|Segmentation| C((Identified objects \n e.g., cells, nuclei))
+   C --&gt;|Measure morphology| D(Shape measurements \n e.g., Average cell area)
+
+   B &amp; C--&gt;|Measure intensity|G(Intensity measurements \n e.g., Average eGFP intensity)
+  classDef empty width:0px,height:0px;
+
+ style G fill:#DCC7FA, stroke:#8338EC
+
+ style C fill:#FFF4d6,stroke:#FFBE0B
+
+ style A fill:#FFD6E8,stroke:#F5006A
+ style B fill:#FFD6E8,stroke:#F5006A
+
+ style D fill:#D6E6FF,stroke:#3A86FF
+ style G fill:#D6E6FF,stroke:#3A86FF
+        </div><p>The specifics of your workflow depend on your biological question. Below we present a few common types of analysis for fluorescence microscopy experiments. For each, we’ll explain key ideas to understand before you begin, common pitfalls, and links to a few key resources to learn more. We encourage you to think about your analysis strategy even before beginning sample preparation. While not always possible, speaking with an image analysis expert in your local core facility or asking a question on the <span class="xref myst">image.sc</span> forum <em>before you begin</em> can save you a ton of time and headache when it comes to designing an image analysis strategy.</p>
 </section>
+<div class="toctree-wrapper compound">
+</div>
 </section>
 
     <script type="text/x-thebe-config">
@@ -474,7 +496,7 @@ title="Print to PDF"
         },
         kernelOptions: {
             kernelName: "python3",
-            path: "./04_Data_presentation"
+            path: "./03_Image_analysis"
         },
         predefinedOutput: true
     }
@@ -488,17 +510,17 @@ title="Print to PDF"
                 
     <!-- Previous / next buttons -->
 <div class='prev-next-area'>
-    <a class='left-prev' id="prev-link" href="../03_Image_analysis/Data_management.html" title="previous page">
+    <a class='left-prev' id="prev-link" href="../02_Sample_acquisition/Practical_considerations.html" title="previous page">
         <i class="fas fa-angle-left"></i>
         <div class="prev-next-info">
             <p class="prev-next-subtitle">previous</p>
-            <p class="prev-next-title">Data management and sharing</p>
+            <p class="prev-next-title">Practical considerations</p>
         </div>
     </a>
-    <a class='right-next' id="next-link" href="Presentation_graphs.html" title="next page">
+    <a class='right-next' id="next-link" href="01-1_Shape.html" title="next page">
     <div class="prev-next-info">
         <p class="prev-next-subtitle">next</p>
-        <p class="prev-next-title">Presentation of graphs</p>
+        <p class="prev-next-title">Shape-based measurements</p>
     </div>
     <i class="fas fa-angle-right"></i>
     </a>
