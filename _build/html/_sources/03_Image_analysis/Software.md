@@ -1,3 +1,0 @@
-# Open source software
-
-## Introduction

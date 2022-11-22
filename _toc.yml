@@ -17,13 +17,13 @@ parts:
     title: Setting up your acquisition
   - file: 02_Sample_acquisition/Practical_considerations
     title: Practical considerations
-- caption: Analysis and Data Handling
+- caption: Image Analysis and Data Handling
   chapters:
-  - file: 03_Image_analysis/Introduction
+  - file: 03_Image_analysis/01_Introduction
     title: Common image analysis methods
     sections:
-      - file: 03_Image_analysis/Image_processing
-        title: Image Processing
+      - file: 03_Image_analysis/01-1_Shape
+        title: Shape-based measurements
       - file: 03_Image_analysis/Image_segmentation
         title: Image Segmentation
       - file: 03_Image_analysis/Image_measurements
@@ -40,3 +40,7 @@ parts:
     title: Presentation of graphs
   - file: 04_Data_presentation/Statistics
     title: Statistics
+- caption:  Additional Resources
+  chapters:
+  - file: Glossary
+    title: Glossary

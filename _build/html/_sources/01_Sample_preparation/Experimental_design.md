@@ -1,3 +1,0 @@
-# General experimental design
-
-## Introduction

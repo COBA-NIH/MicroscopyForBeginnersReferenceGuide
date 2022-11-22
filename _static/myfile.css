@@ -1,0 +1,57 @@
+summary.summary-title.card-header {
+  font-size: 20px;
+  padding: 0.75em;
+}
+
+p {
+  font-weight: 400;
+}
+h2 {
+  font-size: 20px;
+}
+body, h1, h2, h3, h4 ,h5, h6 {
+  font-family: "HelveticaNeue-Light", "Arial", sans-serif !important;
+}
+#main-content li {
+   margin-top: 0px;
+   padding-top: 0px;
+   margin-bottom: 4px;
+   padding-bottom: 4px;
+}
+.mermaid {
+  padding-bottom: 30px;
+}
+
+#site-navigation a {
+   margin-top: 0px;
+   padding-top: 0px;
+   margin-bottom: 0px;
+   padding-bottom: 0px;
+}
+.toctree-wrapper.compound p,ul {
+  margin-top: 0px;
+  padding-top: 0px;
+  margin-bottom: 0px;
+  padding-bottom: 0px;
+}
+li.toctree-l1 {
+  margin-top: 0px;
+  padding-top: 0px;
+  margin-bottom: 0px !important;
+  padding-bottom: 0px !important;
+}
+.bd-sidebar {
+  min-width: 300px;
+}
+
+/*
+#main-content ul.simple {
+  margin-bottom: 6px;
+  padding-bottom: 6px
+}
+.topbar>div {
+    padding-left: 20px;
+}
+#navbar-toggler {
+  position: relative;
+}

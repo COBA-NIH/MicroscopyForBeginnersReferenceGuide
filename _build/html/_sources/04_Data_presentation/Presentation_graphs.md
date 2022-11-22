@@ -1,3 +1,0 @@
-# Presentation of graphs
-
-## Introduction
