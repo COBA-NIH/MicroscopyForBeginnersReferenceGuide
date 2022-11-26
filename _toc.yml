@@ -23,7 +23,7 @@ parts:
     title: Common image analysis methods
     sections:
       - file: 03_Image_analysis/01-1_Shape
-        title: Shape-based measurements
+        title: Size and Shape measurements
       - file: 03_Image_analysis/Image_segmentation
         title: Image Segmentation
       - file: 03_Image_analysis/Image_measurements
