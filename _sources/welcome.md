@@ -1,14 +1,15 @@
 # Welcome
 
-Welcome to the world of bioimaging and bioimage analysis!
+Welcome to the world of bioimaging and bioimage analysis! 🎉
 ```{figure} ./BBBC_montage.png
 ---
 alt: BBBC image montage
 width: 80%
 align: center
 ---
-**Montage of fluorescence microscopy images from [BBBC](https://bbbc.broadinstitute.org/) (Broad Institute).** 
+**Montage of fluorescence microscopy images from [BBBC](https://bbbc.broadinstitute.org/) (Broad Institute).**
 ```
+## What is this book?
 
 This book is a companion website to our review "TITLE AND LINK." Our goal is to provide recommendations and a curated set of resources for biologists looking to understand the factors that impact their fluorescence microscopy experiments.
 
@@ -31,4 +32,11 @@ This book is a collaborative effort from experts in biology, imaging, image anal
 :::
 ::::
 
-Please select a section using the navigation panel on the left to get started or begin with sample preparation by clicking the "Next" button below.
+## What **isn't** this book?
+
+* This book is **not** meant to be an exhaustive list of all resources. Those exist (see [here]() and [here]()). Our goal is for a more streamlined, beginner-accessible guide.
+* This book is **not** a protocol or step by step guide, though certain resources we link to might be. Bioimaging and analysis are massive topics that we can't exhastively cover in a guide for beginners.
+
+
+## How to use this book:
+Please select a section using the navigation panel on the left to get started or begin with sample preparation by clicking the "Next" button below ↘️.

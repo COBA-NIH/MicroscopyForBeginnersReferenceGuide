@@ -6,7 +6,7 @@
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" /><meta name="generator" content="Docutils 0.17.1: http://docutils.sourceforge.net/" />
 
-    <title>Shape-based measurements &#8212; Microscopy for Beginners reference guide</title>
+    <title>Size and Shape measurements &#8212; Microscopy for Beginners reference guide</title>
     
   <!-- Loaded before other Sphinx assets -->
   <link href="../_static/styles/theme.css?digest=1999514e3f237ded88cf" rel="stylesheet">
@@ -181,7 +181,7 @@ const thebe_selector_output = ".output, .cell_output"
   <ul class="current">
    <li class="toctree-l2 current active">
     <a class="current reference internal" href="#">
-     Shape-based measurements
+     Size and Shape measurements
     </a>
    </li>
    <li class="toctree-l2">
@@ -418,8 +418,13 @@ title="Print to PDF"
     <nav id="bd-toc-nav" aria-label="Page">
         <ul class="visible nav section-nav flex-column">
  <li class="toc-h2 nav-item toc-entry">
-  <a class="reference internal nav-link" href="#what-are-shape-based-measurements">
-   What are shape-based measurements?
+  <a class="reference internal nav-link" href="#what-are-size-measurements">
+   What are size measurements?
+  </a>
+ </li>
+ <li class="toc-h2 nav-item toc-entry">
+  <a class="reference internal nav-link" href="#what-are-shape-measurements">
+   What are shape measurements?
   </a>
  </li>
 </ul>
@@ -431,7 +436,7 @@ title="Print to PDF"
         <div class="col pl-md-3 pl-lg-5 content-container">
             <!-- Table of contents that is only displayed when printing the page -->
             <div id="jb-print-docs-body" class="onlyprint">
-                <h1>Shape-based measurements</h1>
+                <h1>Size and Shape measurements</h1>
                 <!-- Table of contents -->
                 <div id="print-main-content">
                     <div id="jb-print-toc">
@@ -442,8 +447,13 @@ title="Print to PDF"
                         <nav aria-label="Page">
                             <ul class="visible nav section-nav flex-column">
  <li class="toc-h2 nav-item toc-entry">
-  <a class="reference internal nav-link" href="#what-are-shape-based-measurements">
-   What are shape-based measurements?
+  <a class="reference internal nav-link" href="#what-are-size-measurements">
+   What are size measurements?
+  </a>
+ </li>
+ <li class="toc-h2 nav-item toc-entry">
+  <a class="reference internal nav-link" href="#what-are-shape-measurements">
+   What are shape measurements?
   </a>
  </li>
 </ul>
@@ -456,16 +466,22 @@ title="Print to PDF"
                 
               <div>
                 
-  <section class="tex2jax_ignore mathjax_ignore" id="shape-based-measurements">
-<h1>Shape-based measurements<a class="headerlink" href="#shape-based-measurements" title="Permalink to this headline">#</a></h1>
-<section id="what-are-shape-based-measurements">
-<h2>What are shape-based measurements?<a class="headerlink" href="#what-are-shape-based-measurements" title="Permalink to this headline">#</a></h2>
-<p>Shape measurements describe the 2D or 3D form of objects in our sample. Common measures of shape include:</p>
+  <section class="tex2jax_ignore mathjax_ignore" id="size-and-shape-measurements">
+<h1>Size and Shape measurements<a class="headerlink" href="#size-and-shape-measurements" title="Permalink to this headline">#</a></h1>
+<section id="what-are-size-measurements">
+<h2>What are size measurements?<a class="headerlink" href="#what-are-size-measurements" title="Permalink to this headline">#</a></h2>
+<p>Size measurements describe the dimensions of objects in your image. Common size measurements include:</p>
 <ul class="simple">
 <li><p><strong>Area</strong>: the 2D space an object takes up in the image or the 3D surface area of an object</p></li>
 <li><p><strong>Volume</strong>: the 3D space an object takes up in a 3D image</p></li>
 <li><p><strong>Perimeter</strong>: the distance around the edge of an object</p></li>
-<li><p><strong>Circularity</strong>: How circular vs. elongated an object is. Formally defined as <span class="math notranslate nohighlight">\(circularity = 4pi*{area}/{perimeter}^2\)</span> where 1 is a perfect circle and circularity &lt;1 is a more elongated polygon.</p></li>
+</ul>
+</section>
+<section id="what-are-shape-measurements">
+<h2>What are shape measurements?<a class="headerlink" href="#what-are-shape-measurements" title="Permalink to this headline">#</a></h2>
+<p>Shape measurements describe the 2D or 3D form of objects in our sample. Common shape measurements include:</p>
+<ul class="simple">
+<li><p><strong>Circularity</strong>: How round vs. elongated an object is. Formally defined as <span class="math notranslate nohighlight">\(circularity = 4pi*{area}/{perimeter}^2\)</span> where 1 is a perfect circle and circularity &lt;1 is a more elongated polygon.</p></li>
 <li><p><strong>Solidity</strong>: how dense vs. wispy/holey an object is. Formally defined as <span class="math notranslate nohighlight">\(solidity = area/convex area\)</span> where <em>convex area</em> is akin to the area inside a shape formed by stretching a rubber band around the object.</p></li>
 </ul>
 <details class="sd-sphinx-override sd-dropdown sd-card sd-mb-3">
@@ -475,7 +491,7 @@ title="Print to PDF"
 <div class="sd-summary-up docutils">
 <svg version="1.1" width="1.5em" height="1.5em" class="sd-octicon sd-octicon-chevron-up" viewBox="0 0 24 24" aria-hidden="true"><path fill-rule="evenodd" d="M18.78 15.28a.75.75 0 000-1.06l-6.25-6.25a.75.75 0 00-1.06 0l-6.25 6.25a.75.75 0 101.06 1.06L12 9.56l5.72 5.72a.75.75 0 001.06 0z"></path></svg></div>
 </summary><div class="sd-summary-content sd-card-body docutils">
-<p class="sd-card-text">After segmenting an image to locate the pixels belonging to different objects, morphology can be measured readily in many image analysis softwares, like FIJI and CellProfiler. In <a class="reference internal" href="../Glossary.html#term-Fiji"><span class="xref std std-term">Fiji</span></a>, after identifying your objects as <a class="reference internal" href="../Glossary.html#term-ROIs"><span class="xref std std-term">ROIs</span></a>, be sure to <strong>Analyze &gt; Set Measurements…</strong> and select “Shape Descriptors” then simply measure your ROIs with <strong>Analyze &gt; Measure</strong>. In CellProfiler, this is accomplished using the module MeasureObjectSizeShape.</p>
+<p class="sd-card-text">After segmenting an image to locate the pixels belonging to different objects, morphology can be measured readily in many image analysis softwares, like FIJI and CellProfiler. For example, in <a class="reference internal" href="../Glossary.html#term-Fiji"><span class="xref std std-term">Fiji</span></a>, after identifying your objects as <a class="reference internal" href="../Glossary.html#term-ROIs"><span class="xref std std-term">ROIs</span></a>, be sure to <strong>Analyze &gt; Set Measurements…</strong> and select “Shape Descriptors” then simply measure your ROIs with <strong>Analyze &gt; Measure</strong>. In CellProfiler, this is accomplished using the module MeasureObjectSizeShape.</p>
 </div>
 </details><details class="sd-sphinx-override sd-dropdown sd-card sd-mb-3">
 <summary class="sd-summary-title sd-card-header">
