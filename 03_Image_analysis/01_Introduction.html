@@ -473,7 +473,7 @@ title="Print to PDF"
             flowchart LR
    A[Raw image] --&gt;|Illumination correction| B[Corrected image]
    B --&gt;|Segmentation| C((Identified objects \n e.g., cells, nuclei))
-   C --&gt;|Measure morphology| D(Shape measurements \n e.g., Average cell area)
+   C --&gt;|Measure size and shape| D(Size and shape measurements \n e.g., Average cell area)
 
    B &amp; C--&gt;|Measure intensity|G(Intensity measurements \n e.g., Average eGFP intensity)
   classDef empty width:0px,height:0px;
