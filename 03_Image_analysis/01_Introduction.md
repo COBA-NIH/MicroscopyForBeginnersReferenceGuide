@@ -8,7 +8,7 @@ Microscopy images are inherently quantitative, which makes them a very powerful 
 flowchart LR
    A[Raw image] -->|Illumination correction| B[Corrected image]
    B -->|Segmentation| C((Identified objects \n e.g., cells, nuclei))
-   C -->|Measure morphology| D(Shape measurements \n e.g., Average cell area)
+   C -->|Measure size and shape| D(Size and shape measurements \n e.g., Average cell area)
 
    B & C-->|Measure intensity|G(Intensity measurements \n e.g., Average eGFP intensity)
   classDef empty width:0px,height:0px;
