@@ -30,7 +30,7 @@ parts:
         title: Colocalization
       - file: 03_Image_analysis/01-4_Tracking
         title: Object tracking
-      - file: 04_Image_analysis/01-5_Classification
+      - file: 03_Image_analysis/01-5_Classification
         title: Object classification
   - file: 03_Image_analysis/Software
     title: Open source software
