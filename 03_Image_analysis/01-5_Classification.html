@@ -6,7 +6,7 @@
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" /><meta name="generator" content="Docutils 0.17.1: http://docutils.sourceforge.net/" />
 
-    <title>Considerations for different sample types &#8212; Microscopy for Beginners reference guide</title>
+    <title>Object classification &#8212; Microscopy for Beginners reference guide</title>
     
   <!-- Loaded before other Sphinx assets -->
   <link href="../_static/styles/theme.css?digest=1999514e3f237ded88cf" rel="stylesheet">
@@ -56,8 +56,6 @@ const thebe_selector_output = ".output, .cell_output"
     <link rel="shortcut icon" href="../_static/favicon.png"/>
     <link rel="index" title="Index" href="../genindex.html" />
     <link rel="search" title="Search" href="../search.html" />
-    <link rel="next" title="General experimental design" href="Experimental_design.html" />
-    <link rel="prev" title="Welcome" href="../welcome.html" />
     <meta name="viewport" content="width=device-width, initial-scale=1" />
     <meta name="docsearch:language" content="None">
     
@@ -122,19 +120,19 @@ const thebe_selector_output = ".output, .cell_output"
   Sample Preparation
  </span>
 </p>
-<ul class="current nav bd-sidenav">
- <li class="toctree-l1 current active">
-  <a class="current reference internal" href="#">
+<ul class="nav bd-sidenav">
+ <li class="toctree-l1">
+  <a class="reference internal" href="../01_Sample_preparation/Considerations.html">
    Considerations for different sample types
   </a>
  </li>
  <li class="toctree-l1">
-  <a class="reference internal" href="Experimental_design.html">
+  <a class="reference internal" href="../01_Sample_preparation/Experimental_design.html">
    General experimental design
   </a>
  </li>
  <li class="toctree-l1">
-  <a class="reference internal" href="Reproducibility.html">
+  <a class="reference internal" href="../01_Sample_preparation/Reproducibility.html">
    Reproducibility
   </a>
  </li>
@@ -168,7 +166,7 @@ const thebe_selector_output = ".output, .cell_output"
 </p>
 <ul class="nav bd-sidenav">
  <li class="toctree-l1 has-children">
-  <a class="reference internal" href="../03_Image_analysis/01_Introduction.html">
+  <a class="reference internal" href="01_Introduction.html">
    Common image analysis methods
   </a>
   <input class="toctree-checkbox" id="toctree-checkbox-1" name="toctree-checkbox-1" type="checkbox"/>
@@ -178,34 +176,34 @@ const thebe_selector_output = ".output, .cell_output"
   </label>
   <ul>
    <li class="toctree-l2">
-    <a class="reference internal" href="../03_Image_analysis/01-1_Shape.html">
+    <a class="reference internal" href="01-1_Shape.html">
      Size and Shape measurements
     </a>
    </li>
    <li class="toctree-l2">
-    <a class="reference internal" href="../03_Image_analysis/01-2_Intensity.html">
+    <a class="reference internal" href="01-2_Intensity.html">
      Intensity measurements
     </a>
    </li>
    <li class="toctree-l2">
-    <a class="reference internal" href="../03_Image_analysis/01-3_Colocalization.html">
+    <a class="reference internal" href="01-3_Colocalization.html">
      Colocalization
     </a>
    </li>
    <li class="toctree-l2">
-    <a class="reference internal" href="../03_Image_analysis/01-4_Tracking.html">
+    <a class="reference internal" href="01-4_Tracking.html">
      Object tracking
     </a>
    </li>
   </ul>
  </li>
  <li class="toctree-l1">
-  <a class="reference internal" href="../03_Image_analysis/Software.html">
+  <a class="reference internal" href="Software.html">
    Open source software
   </a>
  </li>
  <li class="toctree-l1">
-  <a class="reference internal" href="../03_Image_analysis/Data_management.html">
+  <a class="reference internal" href="Data_management.html">
    Data management and sharing
   </a>
  </li>
@@ -333,7 +331,7 @@ title="Source repository"
       </li>
       
       <li>
-        <a href="https://github.com/executablebooks/jupyter-book/issues/new?title=Issue%20on%20page%20%2F01_Sample_preparation/Considerations.html&body=Your%20issue%20content%20here."
+        <a href="https://github.com/executablebooks/jupyter-book/issues/new?title=Issue%20on%20page%20%2F03_Image_analysis/01-5_Classification.html&body=Your%20issue%20content%20here."
    class="headerbtn"
    data-toggle="tooltip"
 data-placement="left"
@@ -361,7 +359,7 @@ title="Open an issue"
   <div class="menu-dropdown__content">
     <ul>
       <li>
-        <a href="../_sources/01_Sample_preparation/Considerations.md"
+        <a href="../_sources/03_Image_analysis/01-5_Classification.md"
    class="headerbtn"
    data-toggle="tooltip"
 data-placement="left"
@@ -421,8 +419,8 @@ title="Print to PDF"
     <nav id="bd-toc-nav" aria-label="Page">
         <ul class="visible nav section-nav flex-column">
  <li class="toc-h2 nav-item toc-entry">
-  <a class="reference internal nav-link" href="#introduction">
-   Introduction
+  <a class="reference internal nav-link" href="#what-is-classification">
+   What is classification?
   </a>
  </li>
 </ul>
@@ -434,7 +432,7 @@ title="Print to PDF"
         <div class="col pl-md-3 pl-lg-5 content-container">
             <!-- Table of contents that is only displayed when printing the page -->
             <div id="jb-print-docs-body" class="onlyprint">
-                <h1>Considerations for different sample types</h1>
+                <h1>Object classification</h1>
                 <!-- Table of contents -->
                 <div id="print-main-content">
                     <div id="jb-print-toc">
@@ -445,8 +443,8 @@ title="Print to PDF"
                         <nav aria-label="Page">
                             <ul class="visible nav section-nav flex-column">
  <li class="toc-h2 nav-item toc-entry">
-  <a class="reference internal nav-link" href="#introduction">
-   Introduction
+  <a class="reference internal nav-link" href="#what-is-classification">
+   What is classification?
   </a>
  </li>
 </ul>
@@ -459,11 +457,56 @@ title="Print to PDF"
                 
               <div>
                 
-  <section class="tex2jax_ignore mathjax_ignore" id="considerations-for-different-sample-types">
-<h1>Considerations for different sample types<a class="headerlink" href="#considerations-for-different-sample-types" title="Permalink to this headline">#</a></h1>
-<section id="introduction">
-<h2>Introduction<a class="headerlink" href="#introduction" title="Permalink to this headline">#</a></h2>
-</section>
+  <section class="tex2jax_ignore mathjax_ignore" id="object-classification">
+<h1>Object classification<a class="headerlink" href="#object-classification" title="Permalink to this headline">#</a></h1>
+<section id="what-is-classification">
+<h2>What is classification?<a class="headerlink" href="#what-is-classification" title="Permalink to this headline">#</a></h2>
+<p>Simply put, phenotypic classification is about categorizing objects into different groups based on their features (aka measurements).</p>
+<br>
+<details class="sd-sphinx-override sd-dropdown sd-card sd-mb-3">
+<summary class="sd-summary-title sd-card-header">
+📏 How do I measure it?<div class="sd-summary-down docutils">
+<svg version="1.1" width="1.5em" height="1.5em" class="sd-octicon sd-octicon-chevron-down" viewBox="0 0 24 24" aria-hidden="true"><path fill-rule="evenodd" d="M5.22 8.72a.75.75 0 000 1.06l6.25 6.25a.75.75 0 001.06 0l6.25-6.25a.75.75 0 00-1.06-1.06L12 14.44 6.28 8.72a.75.75 0 00-1.06 0z"></path></svg></div>
+<div class="sd-summary-up docutils">
+<svg version="1.1" width="1.5em" height="1.5em" class="sd-octicon sd-octicon-chevron-up" viewBox="0 0 24 24" aria-hidden="true"><path fill-rule="evenodd" d="M18.78 15.28a.75.75 0 000-1.06l-6.25-6.25a.75.75 0 00-1.06 0l-6.25 6.25a.75.75 0 101.06 1.06L12 9.56l5.72 5.72a.75.75 0 001.06 0z"></path></svg></div>
+</summary><div class="sd-summary-content sd-card-body docutils">
+<p class="sd-card-text">Phenotypic classification can be performed a few different ways. One way to break this down is by unsupervised vs. supervised classification. In <strong>unsupervised classification</strong>, you group objects based on their measurements, but without any top-down human-defined guidance to what the groups should look like.</p>
+<ul class="simple">
+<li><p class="sd-card-text">For a simple example, you could classify cells into two groups based on expression levels of a particular protein tagged with a fluorophore. You could observe the distribution of mean intensities in the channel where you can see the tagged fluorophore and decide a cutoff (manually or using an algorithm).</p></li>
+<li><p class="sd-card-text">For a more complicated example, you could measure hundreds or thousands of features of cells from many treatments, as is typical in large-scale cell profiling experiments. Next you could try to cluster the cells into different groups based on having similar measurements. This is a form of unsupervised clustering, where you observe what groups emerge from a computer considering their measurements only, and not class labels we impose as researchers.</p></li>
+</ul>
+<p class="sd-card-text">In <strong>supervised classification</strong>, in addition to object measurements, a human also provides information on what the different groups of objects should look like by providing representative examples of each group in a training dataset. The computer then learns how to assign objects to groups based on their measurements by testing models against the ground truth training dataset.</p>
+<ul class="simple">
+<li><p class="sd-card-text">For example, you could classify cells based on a visual phenotype and train a machine learning classifier to derive which measurement ranges are associated with different classes. This is called supervised classification because a person is providing examples of labels for the computer to learn from. An example of this could be annotating cells that are in different stages of mitosis and training a classifier to use your labels on a subset of data to find other cells in those stages.</p></li>
+</ul>
+</div>
+</details><details class="sd-sphinx-override sd-dropdown sd-card sd-mb-3">
+<summary class="sd-summary-title sd-card-header">
+<span style="color: red">⚠️</span> Where can things go wrong?<div class="sd-summary-down docutils">
+<svg version="1.1" width="1.5em" height="1.5em" class="sd-octicon sd-octicon-chevron-down" viewBox="0 0 24 24" aria-hidden="true"><path fill-rule="evenodd" d="M5.22 8.72a.75.75 0 000 1.06l6.25 6.25a.75.75 0 001.06 0l6.25-6.25a.75.75 0 00-1.06-1.06L12 14.44 6.28 8.72a.75.75 0 00-1.06 0z"></path></svg></div>
+<div class="sd-summary-up docutils">
+<svg version="1.1" width="1.5em" height="1.5em" class="sd-octicon sd-octicon-chevron-up" viewBox="0 0 24 24" aria-hidden="true"><path fill-rule="evenodd" d="M18.78 15.28a.75.75 0 000-1.06l-6.25-6.25a.75.75 0 00-1.06 0l-6.25 6.25a.75.75 0 101.06 1.06L12 9.56l5.72 5.72a.75.75 0 001.06 0z"></path></svg></div>
+</summary><div class="sd-summary-content sd-card-body docutils">
+<ul class="simple">
+<li><p class="sd-card-text"><strong>Valid measurements are still important</strong> Classification can be simple or complex, but results always depend on the validity of your measurements. For this reason, all the caveats of earlier measurement sections also apply here.</p></li>
+<li><p class="sd-card-text"><strong>Machines are dumb</strong> Machine learning classifiers aren’t necessarily going to learn the biologically relevant features that distinguish objects from distinct groups. Confounding features, or features that vary with your phenotype but are not biologically related to it, can limit the usefulness of your classifier and lead to incorrect conclusions. For instance, if clinicians often put rulers next to malignant looking moles and not next to benign moles and try to train a machine learning classifier to distinguish malignant vs. benign, the model might learn to classify images with rulers as malignant without tapping into any of the relevant features of the moles. This is a <a class="reference external" href="https://www.sciencedirect.com/science/article/pii/S0022202X18322930">real example</a>. If possible, examining which features your model is relying on to classify objects can be a way to check for this. It’s also important to standardize how you capture images of your different classes of objects and include a large enough training set with images with lots of variation. You wouldn’t want all your positive cells to come from one image and all your negative to come from another image, for example.</p></li>
+<li><p class="sd-card-text"><strong>Violating model assumptions</strong> If using a machine learning classifier, different models come with different baked-in assumptions. If you’re starting out, it can be difficult to know which to pick. There are interactive tools such as <a class="reference external" href="https://academic.oup.com/bioinformatics/article/32/20/3210/2196630?login=false">CellProfiler Analyst</a> and <a class="reference external" href="https://www.piximi.app/">Piximi</a> that make training a classifier easier, especially if you don’t know how to code.</p></li>
+</ul>
+</div>
+</details><details class="sd-sphinx-override sd-dropdown sd-card sd-mb-3">
+<summary class="sd-summary-title sd-card-header">
+📚🤷‍♀️ Where can I learn more?<div class="sd-summary-down docutils">
+<svg version="1.1" width="1.5em" height="1.5em" class="sd-octicon sd-octicon-chevron-down" viewBox="0 0 24 24" aria-hidden="true"><path fill-rule="evenodd" d="M5.22 8.72a.75.75 0 000 1.06l6.25 6.25a.75.75 0 001.06 0l6.25-6.25a.75.75 0 00-1.06-1.06L12 14.44 6.28 8.72a.75.75 0 00-1.06 0z"></path></svg></div>
+<div class="sd-summary-up docutils">
+<svg version="1.1" width="1.5em" height="1.5em" class="sd-octicon sd-octicon-chevron-up" viewBox="0 0 24 24" aria-hidden="true"><path fill-rule="evenodd" d="M18.78 15.28a.75.75 0 000-1.06l-6.25-6.25a.75.75 0 00-1.06 0l-6.25 6.25a.75.75 0 101.06 1.06L12 9.56l5.72 5.72a.75.75 0 001.06 0z"></path></svg></div>
+</summary><div class="sd-summary-content sd-card-body docutils">
+<ul class="simple">
+<li><p class="sd-card-text">📄 <a class="reference external" href="https://www.nature.com/articles/nmeth.4397">Data-analysis strategies for image-based cell profiling</a></p></li>
+<li><p class="sd-card-text">📄 <a class="reference external" href="https://www.pnas.org/doi/10.1073/pnas.0808843106">Scoring diverse cellular morphologies in image-based screens with iterative feedback and machine learning</a></p></li>
+<li><p class="sd-card-text">🎥 <a class="reference external" href="https://www.youtube.com/watch?v=Odi9pIerT7I">iBiology video series: Measurement and Phenotype Classification</a></p></li>
+</ul>
+</div>
+</details></section>
 </section>
 
     <script type="text/x-thebe-config">
@@ -479,7 +522,7 @@ title="Print to PDF"
         },
         kernelOptions: {
             kernelName: "python3",
-            path: "./01_Sample_preparation"
+            path: "./03_Image_analysis"
         },
         predefinedOutput: true
     }
@@ -493,20 +536,6 @@ title="Print to PDF"
                 
     <!-- Previous / next buttons -->
 <div class='prev-next-area'>
-    <a class='left-prev' id="prev-link" href="../welcome.html" title="previous page">
-        <i class="fas fa-angle-left"></i>
-        <div class="prev-next-info">
-            <p class="prev-next-subtitle">previous</p>
-            <p class="prev-next-title">Welcome</p>
-        </div>
-    </a>
-    <a class='right-next' id="next-link" href="Experimental_design.html" title="next page">
-    <div class="prev-next-info">
-        <p class="prev-next-subtitle">next</p>
-        <p class="prev-next-title">General experimental design</p>
-    </div>
-    <i class="fas fa-angle-right"></i>
-    </a>
 </div>
             </footer>
         </div>

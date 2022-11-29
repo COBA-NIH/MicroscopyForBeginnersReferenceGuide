@@ -13,6 +13,7 @@ Shape measurements describe the 2D or 3D form of objects in our sample. Common s
 * **Circularity**: How round vs. elongated an object is. Formally defined as $circularity = 4pi*{area}/{perimeter}^2$ where 1 is a perfect circle and circularity <1 is a more elongated polygon.
 * **Solidity**: how dense vs. wispy/holey an object is. Formally defined as $solidity = area/convex area$ where _convex area_ is akin to the area inside a shape formed by stretching a rubber band around the object.
 
+<br>
 
 ```{dropdown} 📏 How do I measure it?
 
