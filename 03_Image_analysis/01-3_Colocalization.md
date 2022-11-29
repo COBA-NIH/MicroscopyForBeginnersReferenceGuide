@@ -1,7 +1,9 @@
 # Colocalization
 
 ## What is colocalization?
-```{figure} ./images/colocalization.png
+
+Colocalization is when two or more different labels (e.g., eGFP and mCherry) spatially overlap in your image (also called co-occurrence). Another component of colocalization is that the fluorescent labels often correlate in intensity (i.e., pixels with brighter eGFP also have brighter mCherry). It is very important to measure colocalization quantitatively–**do not just trust your eyes!**
+```{figure} ../images/colocalization.png
 ---
 alt: degrees of colocalization
 width: 100%
@@ -9,7 +11,6 @@ align: center
 ---
 **Colocalization is about intensity and spatial overlap of labels**
 ```
-Colocalization is when two or more different labels (e.g., eGFP and mCherry) spatially overlap in your image (also called co-occurrence). Another component of colocalization is that the fluorescent labels often correlate in intensity (i.e., pixels with brighter eGFP also have brighter mCherry). It is very important to measure colocalization quantitatively–**do not just trust your eyes!**
 
 <br>
 
