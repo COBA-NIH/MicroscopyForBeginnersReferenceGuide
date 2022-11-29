@@ -24,10 +24,14 @@ parts:
     sections:
       - file: 03_Image_analysis/01-1_Shape
         title: Size and Shape measurements
-      - file: 03_Image_analysis/Image_segmentation
-        title: Image Segmentation
-      - file: 03_Image_analysis/Image_measurements
-        title: Image Measurements
+      - file: 03_Image_analysis/01-2_Intensity
+        title: Intensity measurements
+      - file: 03_Image_analysis/01-3_Colocalization
+        title: Colocalization
+      - file: 03_Image_analysis/01-4_Tracking
+        title: Object tracking
+      - file: 04_Image_analysis/01-5_Classification
+        title: Object classification
   - file: 03_Image_analysis/Software
     title: Open source software
   - file: 03_Image_analysis/Data_management

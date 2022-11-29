@@ -7,7 +7,7 @@ alt: BBBC image montage
 width: 80%
 align: center
 ---
-**Montage of fluorescence microscopy images from [BBBC](https://bbbc.broadinstitute.org/) (Broad Institute).**
+**Montage of fluorescence microscopy images from [BBBC](https://bbbc.broadinstitute.org/) (Broad Institute).** Images shown are from experiments BBBC007, BBBC008, BBBC034, BBBC038, BBBC039, and BBBC020 from left to right, top to bottom.
 ```
 ## What is this book?
 
@@ -29,6 +29,8 @@ This book is a collaborative effort from experts in biology, imaging, image anal
 |   🌐     | Website                    |
 |   🎓     | Lecture notes or slides    |
 |   🎥     | Video                      |
+|   🔢     | Math-heavy theory          |
+
 :::
 ::::
 
