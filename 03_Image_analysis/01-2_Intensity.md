@@ -2,7 +2,7 @@
 
 ## What are intensity measurements?
 Intensity refers to the brightness of signal for a fluorescent label. Using intensity measurements, we can infer a relative amount of fluorophore or stain. So for instance, if you have a protein tagged with a fluorophore, you can measure the intensity of that fluorophore to get a relative measure of how much protein is present in your sample. Intensity measurements include the following (non-exhaustive) and can be measured within an image, in a object like a cell, in subregions of an object:
-* **Mean intensity**: the average intensity across all pixels.
+* **Mean intensity**: the average intensity across all pixels
 * **Integrated intensity**: the sum of pixel intensities, a proxy for the total amount of that marker in an object
 * **Texture measurements**: the smoothness of the intensities
 
