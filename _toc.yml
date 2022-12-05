@@ -20,7 +20,7 @@ parts:
 - caption: Image Analysis and Data Handling
   chapters:
   - file: 03_Image_analysis/01_Introduction
-    title: Common image analysis methods
+    title: Common image analysis tasks
     sections:
       - file: 03_Image_analysis/01-1_Shape
         title: Size and Shape measurements
