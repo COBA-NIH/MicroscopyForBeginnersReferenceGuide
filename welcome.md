@@ -1,5 +1,7 @@
 # Welcome
 
+🚧 **Please note that this website is currently under construction and the content here does not represent a final state** 🚧
+
 Welcome to the world of bioimaging and bioimage analysis! 🎉
 ```{figure} ./BBBC_montage.png
 ---
