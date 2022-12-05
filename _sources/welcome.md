@@ -38,8 +38,8 @@ This book is a collaborative effort from experts in biology, imaging, image anal
 
 ## What **isn't** this book?
 
-* This book is **not** meant to be an exhaustive list of all resources. Those exist (see [here]() and [here]()). Our goal is for a more streamlined, beginner-accessible guide.
-* This book is **not** a protocol or step by step guide, though certain resources we link to might be. Bioimaging and analysis are massive topics that we can't exhastively cover in a guide for beginners.
+* This book is **not** meant to be an exhaustive list of all resources. Those exist (see [here](https://febs.onlinelibrary.wiley.com/doi/10.1002/1873-3468.14451) and [here](https://www.bioimagingnorthamerica.org/training-education-resources/)). Our goal is for a more streamlined, beginner-accessible guide.
+* This book is **not** a protocol or step by step guide, though certain resources we link to might be. Each subsection from sample prep to data interpretation are massive topics that we can't exhaustively cover in a guide for beginners.
 
 
 ## How to use this book:
