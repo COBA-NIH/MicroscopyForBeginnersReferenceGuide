@@ -36,14 +36,14 @@ parts:
     title: Open source software
   - file: 03_Image_analysis/Data_management
     title: Data management and sharing
-- caption: Data Presentation
+- caption: Data Interpretation
   chapters:
+  - file: 04_Data_presentation/Statistics
+    title: Statistics
   - file: 04_Data_presentation/Introduction
     title: Presentation of microscope images
   - file: 04_Data_presentation/Presentation_graphs
     title: Presentation of graphs
-  - file: 04_Data_presentation/Statistics
-    title: Statistics
 - caption:  Additional Resources
   chapters:
   - file: Glossary
