@@ -20,5 +20,5 @@ There are several options for tracking objects, like the [TrackMate](https://ima
 ```{dropdown} 📚🤷‍♀️ Where can I learn more?
 
 * 📄 [Computerized Cell Tracking](https://www.sciencedirect.com/science/article/pii/S2468502X20300711)
-* 💻 [TrackMate Manual](https://imagej.net/media/plugins/trackmate/trackmate-manual.pdf)
+* 🌐 [TrackMate Manual](https://imagej.net/media/plugins/trackmate/trackmate-manual.pdf)
 ```
