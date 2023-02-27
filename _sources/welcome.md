@@ -44,3 +44,6 @@ This book is a collaborative effort from experts in biology, imaging, image anal
 
 ## How to use this book:
 Please select a section using the navigation panel on the left to get started or begin with sample preparation by clicking the "Next" button below ↘️.
+
+## What if my question/topic is not included?:
+Please feel free to open an (issue)[https://github.com/broadinstitute/MicroscopyForBeginnersReferenceGuide/issues] or pull request to contribute! We hope for this to be a living document reflecting the best practices and resources available.
