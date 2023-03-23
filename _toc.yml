@@ -20,7 +20,9 @@ parts:
 - caption: Image Analysis and Data Handling
   chapters:
   - file: 03_Image_analysis/01_Introduction
-    title: Common image analysis tasks
+    title: Introduction
+  - file: 03_Image_analysis/Common_types_of_analysis.md
+    title: Common types of analysis
     sections:
       - file: 03_Image_analysis/01-1_Shape
         title: Size and Shape measurements
@@ -36,6 +38,8 @@ parts:
     title: Open source software
   - file: 03_Image_analysis/Data_management
     title: Data management and sharing
+  - file: 03_Image_analysis/Common_pitfalls.md
+    title: Common pitfalls
 - caption: Data Interpretation
   chapters:
   - file: 04_Data_presentation/Statistics
