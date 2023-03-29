@@ -14,63 +14,63 @@ Whatever software you choose, be sure to include a detailed description of your 
 :class-container: text-center
 
 :::{grid-item-card} ImageJ
-:columns: 3
+:columns: 4
 :link: content/imagej
 :link-type: ref
 ![logo](https://imagej.net/media/icons/imagej2.png)
 :::
 
 :::{grid-item-card} CellProfiler
-:columns: 3
+:columns: 4
 :link: content/cellprofiler
 :link-type: ref
 ![logo](https://global.discourse-cdn.com/business4/uploads/imagej/original/2X/b/bcdcd5ba157e07e74dd1964ec81765e708455ed9.png)
 :::
 
 :::{grid-item-card} QuPath
-:columns: 3
+:columns: 4
 :link: content/qupath
 :link-type: ref
 ![logo](https://global.discourse-cdn.com/business4/uploads/imagej/optimized/3X/6/0/6039b2daa4b6b1c32943f63f464cf3c477898bfe_2_750x750.png)
 :::
 
 :::{grid-item-card} Icy
-:columns: 3
+:columns: 4
 :link: content/icy
 :link-type: ref
 ![logo](https://icy.bioimageanalysis.org/wp-content/uploads/2018/07/logo_full_notext600px.png)
 :::
 
 :::{grid-item-card} Microscopy Image Browser
-:columns: 3
+:columns: 4
 :link: content/mib
 :link-type: ref
 ![logo](https://global.discourse-cdn.com/business4/uploads/imagej/optimized/3X/7/4/74273a1f9a663b52053d44c9767ed49193f2170f_2_787x750.png)
 :::
 
 :::{grid-item-card} napari
-:columns: 3
+:columns: 4
 :link: content/napari
 :link-type: ref
 ![logo](https://global.discourse-cdn.com/business4/uploads/imagej/optimized/3X/7/7/775e83f70639e1cb7cb299d8681d272e18718089_2_750x750.png)
 :::
 
 :::{grid-item-card} Cellpose
-:columns: 3
+:columns: 4
 :link: content/cellpose
 :link-type: ref
 ![logo](https://www.cellpose.org/static/images/cellpose_transparent.png)
 :::
 
 :::{grid-item-card} ilastik
-:columns: 3
+:columns: 4
 :link: content/ilastik
 :link-type: ref
 ![logo](https://global.discourse-cdn.com/business4/uploads/imagej/original/3X/9/f/9f5be5e138c63bc6a50be0bb0027b8eef0194935.png)
 :::
 
 :::{grid-item-card} Piximi
-:columns: 3
+:columns: 4
 :link: content/piximi
 :link-type: ref
 ![logo](https://global.discourse-cdn.com/business4/uploads/imagej/original/3X/3/f/3fe4d974194caabdb61a5574e24402db8484ab9b.png)
