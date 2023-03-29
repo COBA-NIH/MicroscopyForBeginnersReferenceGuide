@@ -318,7 +318,7 @@ For documentation examples and  tutorials.
 ### Piximi
 
 
-#### [Piximi](https://www.piximi.app/) is an application for annotation and classification that runs entirely from your browser and requires no installation and minimal setup. 
+[Piximi](https://www.piximi.app/) is an application for annotation and classification that runs entirely from your browser and requires no installation and minimal setup. 
 
 
 #### What type of image analysis is it good for?
