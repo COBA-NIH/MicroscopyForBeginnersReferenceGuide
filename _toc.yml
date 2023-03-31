@@ -51,6 +51,6 @@ parts:
 - caption:  Additional Resources
   chapters:
   - file: contributors
-    title: Contributing to this resource
   - file: Glossary
     title: Glossary
+  - file: genindex
