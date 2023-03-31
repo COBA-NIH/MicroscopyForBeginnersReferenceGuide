@@ -12,7 +12,7 @@ There are several options for tracking objects, like the [TrackMate](https://ima
 ```
 
 ````{dropdown} <span style="color: red">⚠️</span> Where can things go wrong?
-* **Poor segmentation** If objects are dropping out from frame to frame, this makes it more difficult to track them over time. Accurate segmentation is the foundation of good tracking results. This can become more difficult if your objects are also changing in shape or intensity over the course of the video. It’s important to find a segmentation strategy that can work well across your frames.
+* **Poor segmentation** If objects are dropping out from frame to frame, this makes it more difficult to track them over time. Accurate segmentation is the foundation of good tracking results. This can become more difficult if your objects are also changing in shape or intensity (due to things such as bleaching) over the course of the video. It’s important to find a segmentation strategy that can work well across your frames.
 * **Inadequate frame rate** If objects are highly dynamic but the images were not taken at a high frequency, tracking can be difficult because objects might have moved too much for the algorithm to relate them from one frame to the next. It is important to match the image acquisition frequency to how dynamic your cells or objects are.
 
 ````
