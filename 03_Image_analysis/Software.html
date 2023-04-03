@@ -76,7 +76,7 @@ const thebe_selector_output = ".output, .cell_output"
     <link rel="index" title="Index" href="../genindex.html" />
     <link rel="search" title="Search" href="../search.html" />
     <link rel="next" title="Data management and sharing" href="Data_management.html" />
-    <link rel="prev" title="Object classification" href="01-5_Classification.html" />
+    <link rel="prev" title="Object classification" href="Classification.html" />
   <meta name="viewport" content="width=device-width, initial-scale=1"/>
   <meta name="docsearch:language" content="en"/>
   </head>
@@ -181,13 +181,13 @@ const thebe_selector_output = ".output, .cell_output"
 </ul>
 <p aria-level="2" class="caption" role="heading"><span class="caption-text">Image Analysis and Data Handling</span></p>
 <ul class="current nav bd-sidenav">
-<li class="toctree-l1"><a class="reference internal" href="01_Introduction.html">Introduction</a></li>
+<li class="toctree-l1"><a class="reference internal" href="Introduction.html">Introduction</a></li>
 <li class="toctree-l1 has-children"><a class="reference internal" href="Common_types_of_analysis.html">Common types of analysis</a><input class="toctree-checkbox" id="toctree-checkbox-1" name="toctree-checkbox-1" type="checkbox"/><label class="toctree-toggle" for="toctree-checkbox-1"><i class="fa-solid fa-chevron-down"></i></label><ul>
-<li class="toctree-l2"><a class="reference internal" href="01-1_Shape.html">Size and Shape measurements</a></li>
-<li class="toctree-l2"><a class="reference internal" href="01-2_Intensity.html">Intensity measurements</a></li>
-<li class="toctree-l2"><a class="reference internal" href="01-3_Colocalization.html">Colocalization</a></li>
-<li class="toctree-l2"><a class="reference internal" href="01-4_Tracking.html">Object tracking</a></li>
-<li class="toctree-l2"><a class="reference internal" href="01-5_Classification.html">Object classification</a></li>
+<li class="toctree-l2"><a class="reference internal" href="Shape.html">Size and Shape measurements</a></li>
+<li class="toctree-l2"><a class="reference internal" href="Intensity.html">Intensity measurements</a></li>
+<li class="toctree-l2"><a class="reference internal" href="Colocalization.html">Colocalization</a></li>
+<li class="toctree-l2"><a class="reference internal" href="Tracking.html">Object tracking</a></li>
+<li class="toctree-l2"><a class="reference internal" href="Classification.html">Object classification</a></li>
 </ul>
 </li>
 <li class="toctree-l1 current active"><a class="current reference internal" href="#">Open source software</a></li>
@@ -415,32 +415,32 @@ document.write(`
                 <ul class="visible nav section-nav flex-column">
 <li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#introduction">Introduction</a></li>
 <li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#general-use-software">General use software</a><ul class="nav section-nav flex-column">
-<li class="toc-h3 nav-item toc-entry"><a class="reference internal nav-link" href="#imagej">ImageJ</a><ul class="nav section-nav flex-column">
+<li class="toc-h3 nav-item toc-entry"><a class="reference internal nav-link" href="#img-src-https-imagej-net-media-icons-imagej2-png-alt-logo-width-30px-imagej"><img alt="logo" src="https://imagej.net/media/icons/imagej2.png" width="30px"/> ImageJ</a><ul class="nav section-nav flex-column">
 <li class="toc-h4 nav-item toc-entry"><a class="reference internal nav-link" href="#what-are-its-disadvantages">What are its disadvantages?</a></li>
 <li class="toc-h4 nav-item toc-entry"><a class="reference internal nav-link" href="#how-to-download-install-and-learn-more">How to download/install and learn more?</a></li>
 </ul>
 </li>
-<li class="toc-h3 nav-item toc-entry"><a class="reference internal nav-link" href="#cellprofiler">CellProfiler</a><ul class="nav section-nav flex-column">
+<li class="toc-h3 nav-item toc-entry"><a class="reference internal nav-link" href="#img-src-https-global-discourse-cdn-com-business4-uploads-imagej-original-2x-b-bcdcd5ba157e07e74dd1964ec81765e708455ed9-png-alt-logo-width-30px-cellprofiler"><img alt="logo" src="https://global.discourse-cdn.com/business4/uploads/imagej/original/2X/b/bcdcd5ba157e07e74dd1964ec81765e708455ed9.png" width="30px"/> CellProfiler</a><ul class="nav section-nav flex-column">
 <li class="toc-h4 nav-item toc-entry"><a class="reference internal nav-link" href="#id1">What are its disadvantages?</a></li>
 <li class="toc-h4 nav-item toc-entry"><a class="reference internal nav-link" href="#id2">How to download/install and learn more?</a></li>
 </ul>
 </li>
-<li class="toc-h3 nav-item toc-entry"><a class="reference internal nav-link" href="#qupath">QuPath</a><ul class="nav section-nav flex-column">
+<li class="toc-h3 nav-item toc-entry"><a class="reference internal nav-link" href="#img-src-https-global-discourse-cdn-com-business4-uploads-imagej-optimized-3x-6-0-6039b2daa4b6b1c32943f63f464cf3c477898bfe-2-750x750-png-alt-logo-width-30px-qupath"><img alt="logo" src="https://global.discourse-cdn.com/business4/uploads/imagej/optimized/3X/6/0/6039b2daa4b6b1c32943f63f464cf3c477898bfe_2_750x750.png" width="30px"/> QuPath</a><ul class="nav section-nav flex-column">
 <li class="toc-h4 nav-item toc-entry"><a class="reference internal nav-link" href="#id3">What are its disadvantages?</a></li>
 <li class="toc-h4 nav-item toc-entry"><a class="reference internal nav-link" href="#id4">How to download/install and learn more?</a></li>
 </ul>
 </li>
-<li class="toc-h3 nav-item toc-entry"><a class="reference internal nav-link" href="#icy">Icy</a><ul class="nav section-nav flex-column">
+<li class="toc-h3 nav-item toc-entry"><a class="reference internal nav-link" href="#img-src-https-icy-bioimageanalysis-org-wp-content-uploads-2018-07-logo-full-notext600px-png-alt-logo-width-30px-icy"><img alt="logo" src="https://icy.bioimageanalysis.org/wp-content/uploads/2018/07/logo_full_notext600px.png" width="30px"/> Icy</a><ul class="nav section-nav flex-column">
 <li class="toc-h4 nav-item toc-entry"><a class="reference internal nav-link" href="#id5">What are its disadvantages?</a></li>
 <li class="toc-h4 nav-item toc-entry"><a class="reference internal nav-link" href="#id6">How to download/install and learn more?</a></li>
 </ul>
 </li>
-<li class="toc-h3 nav-item toc-entry"><a class="reference internal nav-link" href="#mib-microscopy-image-browser">MIB (Microscopy Image Browser)</a><ul class="nav section-nav flex-column">
+<li class="toc-h3 nav-item toc-entry"><a class="reference internal nav-link" href="#img-src-https-global-discourse-cdn-com-business4-uploads-imagej-optimized-3x-7-4-74273a1f9a663b52053d44c9767ed49193f2170f-2-787x750-png-alt-logo-width-30px-mib-microscopy-image-browser"><img alt="logo" src="https://global.discourse-cdn.com/business4/uploads/imagej/optimized/3X/7/4/74273a1f9a663b52053d44c9767ed49193f2170f_2_787x750.png" width="30px"/> MIB (Microscopy Image Browser)</a><ul class="nav section-nav flex-column">
 <li class="toc-h4 nav-item toc-entry"><a class="reference internal nav-link" href="#id7">What are its disadvantages?</a></li>
 <li class="toc-h4 nav-item toc-entry"><a class="reference internal nav-link" href="#id8">How to download/install and learn more?</a></li>
 </ul>
 </li>
-<li class="toc-h3 nav-item toc-entry"><a class="reference internal nav-link" href="#napari">napari</a><ul class="nav section-nav flex-column">
+<li class="toc-h3 nav-item toc-entry"><a class="reference internal nav-link" href="#img-src-https-global-discourse-cdn-com-business4-uploads-imagej-optimized-3x-7-7-775e83f70639e1cb7cb299d8681d272e18718089-2-750x750-png-alt-logo-width-30px-napari"><img alt="logo" src="https://global.discourse-cdn.com/business4/uploads/imagej/optimized/3X/7/7/775e83f70639e1cb7cb299d8681d272e18718089_2_750x750.png" width="30px"/> napari</a><ul class="nav section-nav flex-column">
 <li class="toc-h4 nav-item toc-entry"><a class="reference internal nav-link" href="#id9">What are its disadvantages?</a></li>
 <li class="toc-h4 nav-item toc-entry"><a class="reference internal nav-link" href="#id10">How to download/install and learn more?</a></li>
 </ul>
@@ -448,19 +448,19 @@ document.write(`
 </ul>
 </li>
 <li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#specified-use-software">Specified use software</a><ul class="nav section-nav flex-column">
-<li class="toc-h3 nav-item toc-entry"><a class="reference internal nav-link" href="#cellpose">Cellpose</a><ul class="nav section-nav flex-column">
+<li class="toc-h3 nav-item toc-entry"><a class="reference internal nav-link" href="#img-src-https-www-cellpose-org-static-images-cellpose-transparent-png-alt-logo-width-30px-cellpose"><img alt="logo" src="https://www.cellpose.org/static/images/cellpose_transparent.png" width="30px"/> Cellpose</a><ul class="nav section-nav flex-column">
 <li class="toc-h4 nav-item toc-entry"><a class="reference internal nav-link" href="#what-type-of-image-analysis-problem-is-it-good-for">What type of image analysis problem is it good for?</a></li>
 <li class="toc-h4 nav-item toc-entry"><a class="reference internal nav-link" href="#id11">What are its disadvantages?</a></li>
 <li class="toc-h4 nav-item toc-entry"><a class="reference internal nav-link" href="#id12">How to download/install and learn more?</a></li>
 </ul>
 </li>
-<li class="toc-h3 nav-item toc-entry"><a class="reference internal nav-link" href="#ilastik">ilastik</a><ul class="nav section-nav flex-column">
+<li class="toc-h3 nav-item toc-entry"><a class="reference internal nav-link" href="#img-src-https-global-discourse-cdn-com-business4-uploads-imagej-original-3x-9-f-9f5be5e138c63bc6a50be0bb0027b8eef0194935-png-alt-logo-width-30px-ilastik"><img alt="logo" src="https://global.discourse-cdn.com/business4/uploads/imagej/original/3X/9/f/9f5be5e138c63bc6a50be0bb0027b8eef0194935.png" width="30px"/> ilastik</a><ul class="nav section-nav flex-column">
 <li class="toc-h4 nav-item toc-entry"><a class="reference internal nav-link" href="#what-image-analysis-problem-can-it-be-used-for">What image analysis problem can it be used for?</a></li>
 <li class="toc-h4 nav-item toc-entry"><a class="reference internal nav-link" href="#id13">What are its disadvantages?</a></li>
 <li class="toc-h4 nav-item toc-entry"><a class="reference internal nav-link" href="#id14">How to download/install and learn more?</a></li>
 </ul>
 </li>
-<li class="toc-h3 nav-item toc-entry"><a class="reference internal nav-link" href="#piximi">Piximi</a><ul class="nav section-nav flex-column">
+<li class="toc-h3 nav-item toc-entry"><a class="reference internal nav-link" href="#img-src-https-global-discourse-cdn-com-business4-uploads-imagej-original-3x-3-f-3fe4d974194caabdb61a5574e24402db8484ab9b-png-alt-logo-width-30px-piximi"><img alt="logo" src="https://global.discourse-cdn.com/business4/uploads/imagej/original/3X/3/f/3fe4d974194caabdb61a5574e24402db8484ab9b.png" width="30px"/> Piximi</a><ul class="nav section-nav flex-column">
 <li class="toc-h4 nav-item toc-entry"><a class="reference internal nav-link" href="#what-type-of-image-analysis-is-it-good-for">What type of image analysis is it good for?</a></li>
 <li class="toc-h4 nav-item toc-entry"><a class="reference internal nav-link" href="#id15">What are its disadvantages?</a></li>
 <li class="toc-h4 nav-item toc-entry"><a class="reference internal nav-link" href="#id16">How to download/install and learn more?</a></li>
@@ -488,7 +488,7 @@ document.write(`
 <p>Whatever software you choose, be sure to include a detailed description of your analysis in your methods, with pipeline or workflow files if possible, so others can reproduce your work. Also be sure to cite the analysis software you use! This helps developers of the software get grant funding and helps others find useful tools.</p>
 <div class="sd-container-fluid sd-sphinx-override sd-mb-4 text-center docutils">
 <div class="sd-row sd-g-3 sd-g-xs-3 sd-g-sm-3 sd-g-md-3 sd-g-lg-3 docutils">
-<div class="sd-col sd-d-flex-row sd-col-4 sd-col-xs-4 sd-col-sm-4 sd-col-md-4 sd-col-lg-4 docutils">
+<div class="sd-col sd-d-flex-row sd-col-3 sd-col-xs-3 sd-col-sm-3 sd-col-md-3 sd-col-lg-3 docutils">
 <div class="sd-card sd-sphinx-override sd-w-100 sd-shadow-sm sd-card-hover docutils">
 <div class="sd-card-body docutils">
 <div class="sd-card-title sd-font-weight-bold docutils">
@@ -497,7 +497,7 @@ ImageJ</div>
 </div>
 <a class="sd-stretched-link reference internal" href="#content-imagej"><span class="std std-ref"></span></a></div>
 </div>
-<div class="sd-col sd-d-flex-row sd-col-4 sd-col-xs-4 sd-col-sm-4 sd-col-md-4 sd-col-lg-4 docutils">
+<div class="sd-col sd-d-flex-row sd-col-3 sd-col-xs-3 sd-col-sm-3 sd-col-md-3 sd-col-lg-3 docutils">
 <div class="sd-card sd-sphinx-override sd-w-100 sd-shadow-sm sd-card-hover docutils">
 <div class="sd-card-body docutils">
 <div class="sd-card-title sd-font-weight-bold docutils">
@@ -506,7 +506,7 @@ CellProfiler</div>
 </div>
 <a class="sd-stretched-link reference internal" href="#content-cellprofiler"><span class="std std-ref"></span></a></div>
 </div>
-<div class="sd-col sd-d-flex-row sd-col-4 sd-col-xs-4 sd-col-sm-4 sd-col-md-4 sd-col-lg-4 docutils">
+<div class="sd-col sd-d-flex-row sd-col-3 sd-col-xs-3 sd-col-sm-3 sd-col-md-3 sd-col-lg-3 docutils">
 <div class="sd-card sd-sphinx-override sd-w-100 sd-shadow-sm sd-card-hover docutils">
 <div class="sd-card-body docutils">
 <div class="sd-card-title sd-font-weight-bold docutils">
@@ -515,7 +515,7 @@ QuPath</div>
 </div>
 <a class="sd-stretched-link reference internal" href="#content-qupath"><span class="std std-ref"></span></a></div>
 </div>
-<div class="sd-col sd-d-flex-row sd-col-4 sd-col-xs-4 sd-col-sm-4 sd-col-md-4 sd-col-lg-4 docutils">
+<div class="sd-col sd-d-flex-row sd-col-3 sd-col-xs-3 sd-col-sm-3 sd-col-md-3 sd-col-lg-3 docutils">
 <div class="sd-card sd-sphinx-override sd-w-100 sd-shadow-sm sd-card-hover docutils">
 <div class="sd-card-body docutils">
 <div class="sd-card-title sd-font-weight-bold docutils">
@@ -524,7 +524,7 @@ Icy</div>
 </div>
 <a class="sd-stretched-link reference internal" href="#content-icy"><span class="std std-ref"></span></a></div>
 </div>
-<div class="sd-col sd-d-flex-row sd-col-4 sd-col-xs-4 sd-col-sm-4 sd-col-md-4 sd-col-lg-4 docutils">
+<div class="sd-col sd-d-flex-row sd-col-3 sd-col-xs-3 sd-col-sm-3 sd-col-md-3 sd-col-lg-3 docutils">
 <div class="sd-card sd-sphinx-override sd-w-100 sd-shadow-sm sd-card-hover docutils">
 <div class="sd-card-body docutils">
 <div class="sd-card-title sd-font-weight-bold docutils">
@@ -533,7 +533,7 @@ Microscopy Image Browser</div>
 </div>
 <a class="sd-stretched-link reference internal" href="#content-mib"><span class="std std-ref"></span></a></div>
 </div>
-<div class="sd-col sd-d-flex-row sd-col-4 sd-col-xs-4 sd-col-sm-4 sd-col-md-4 sd-col-lg-4 docutils">
+<div class="sd-col sd-d-flex-row sd-col-3 sd-col-xs-3 sd-col-sm-3 sd-col-md-3 sd-col-lg-3 docutils">
 <div class="sd-card sd-sphinx-override sd-w-100 sd-shadow-sm sd-card-hover docutils">
 <div class="sd-card-body docutils">
 <div class="sd-card-title sd-font-weight-bold docutils">
@@ -542,7 +542,7 @@ napari</div>
 </div>
 <a class="sd-stretched-link reference internal" href="#content-napari"><span class="std std-ref"></span></a></div>
 </div>
-<div class="sd-col sd-d-flex-row sd-col-4 sd-col-xs-4 sd-col-sm-4 sd-col-md-4 sd-col-lg-4 docutils">
+<div class="sd-col sd-d-flex-row sd-col-3 sd-col-xs-3 sd-col-sm-3 sd-col-md-3 sd-col-lg-3 docutils">
 <div class="sd-card sd-sphinx-override sd-w-100 sd-shadow-sm sd-card-hover docutils">
 <div class="sd-card-body docutils">
 <div class="sd-card-title sd-font-weight-bold docutils">
@@ -551,7 +551,7 @@ Cellpose</div>
 </div>
 <a class="sd-stretched-link reference internal" href="#content-cellpose"><span class="std std-ref"></span></a></div>
 </div>
-<div class="sd-col sd-d-flex-row sd-col-4 sd-col-xs-4 sd-col-sm-4 sd-col-md-4 sd-col-lg-4 docutils">
+<div class="sd-col sd-d-flex-row sd-col-3 sd-col-xs-3 sd-col-sm-3 sd-col-md-3 sd-col-lg-3 docutils">
 <div class="sd-card sd-sphinx-override sd-w-100 sd-shadow-sm sd-card-hover docutils">
 <div class="sd-card-body docutils">
 <div class="sd-card-title sd-font-weight-bold docutils">
@@ -560,7 +560,7 @@ ilastik</div>
 </div>
 <a class="sd-stretched-link reference internal" href="#content-ilastik"><span class="std std-ref"></span></a></div>
 </div>
-<div class="sd-col sd-d-flex-row sd-col-4 sd-col-xs-4 sd-col-sm-4 sd-col-md-4 sd-col-lg-4 docutils">
+<div class="sd-col sd-d-flex-row sd-col-3 sd-col-xs-3 sd-col-sm-3 sd-col-md-3 sd-col-lg-3 docutils">
 <div class="sd-card sd-sphinx-override sd-w-100 sd-shadow-sm sd-card-hover docutils">
 <div class="sd-card-body docutils">
 <div class="sd-card-title sd-font-weight-bold docutils">
@@ -574,8 +574,8 @@ Piximi</div>
 </section>
 <section id="general-use-software">
 <h2>General use software<a class="headerlink" href="#general-use-software" title="Permalink to this heading">#</a></h2>
-<section id="imagej">
-<span id="content-imagej"></span><h3>ImageJ<a class="headerlink" href="#imagej" title="Permalink to this heading">#</a></h3>
+<section id="img-src-https-imagej-net-media-icons-imagej2-png-alt-logo-width-30px-imagej">
+<span id="content-imagej"></span><h3><img src="https://imagej.net/media/icons/imagej2.png" alt="logo" width="30px"> ImageJ<a class="headerlink" href="#img-src-https-imagej-net-media-icons-imagej2-png-alt-logo-width-30px-imagej" title="Permalink to this heading">#</a></h3>
 <p><a class="reference external" href="https://imagej.net/">ImageJ</a> is an imaging processing program that is capable of operating on a variety of images including multichannel, 3D and time series. It provides a variety of basic imaging processing operations, but it can be complemented with a variety of plugins for more complex tasks.</p>
 <section id="what-are-its-disadvantages">
 <h4>What are its disadvantages?<a class="headerlink" href="#what-are-its-disadvantages" title="Permalink to this heading">#</a></h4>
@@ -596,8 +596,8 @@ Piximi</div>
 </ul>
 </section>
 </section>
-<section id="cellprofiler">
-<span id="content-cellprofiler"></span><h3>CellProfiler<a class="headerlink" href="#cellprofiler" title="Permalink to this heading">#</a></h3>
+<section id="img-src-https-global-discourse-cdn-com-business4-uploads-imagej-original-2x-b-bcdcd5ba157e07e74dd1964ec81765e708455ed9-png-alt-logo-width-30px-cellprofiler">
+<span id="content-cellprofiler"></span><h3><img src="https://global.discourse-cdn.com/business4/uploads/imagej/original/2X/b/bcdcd5ba157e07e74dd1964ec81765e708455ed9.png" alt="logo" width="30px"> CellProfiler<a class="headerlink" href="#img-src-https-global-discourse-cdn-com-business4-uploads-imagej-original-2x-b-bcdcd5ba157e07e74dd1964ec81765e708455ed9-png-alt-logo-width-30px-cellprofiler" title="Permalink to this heading">#</a></h3>
 <p><a class="reference external" href="https://cellprofiler.org/">CellProfiler</a> is a software designed for biologist by biologist, it creates a bridge between image analysis and scientist with no need of computational expertise. It was designed with the idea of an image analysis pipeline in mind, it allows you to take a series of interoperable modules to design your own custom analysis pipeline that can be applied to one or thousands of images, making it suitable for high throughput image analysis.</p>
 <section id="id1">
 <h4>What are its disadvantages?<a class="headerlink" href="#id1" title="Permalink to this heading">#</a></h4>
@@ -622,8 +622,8 @@ Piximi</div>
 </ul>
 </section>
 </section>
-<section id="qupath">
-<span id="content-qupath"></span><h3>QuPath<a class="headerlink" href="#qupath" title="Permalink to this heading">#</a></h3>
+<section id="img-src-https-global-discourse-cdn-com-business4-uploads-imagej-optimized-3x-6-0-6039b2daa4b6b1c32943f63f464cf3c477898bfe-2-750x750-png-alt-logo-width-30px-qupath">
+<span id="content-qupath"></span><h3><img src="https://global.discourse-cdn.com/business4/uploads/imagej/optimized/3X/6/0/6039b2daa4b6b1c32943f63f464cf3c477898bfe_2_750x750.png" alt="logo" width="30px"> QuPath<a class="headerlink" href="#img-src-https-global-discourse-cdn-com-business4-uploads-imagej-optimized-3x-6-0-6039b2daa4b6b1c32943f63f464cf3c477898bfe-2-750x750-png-alt-logo-width-30px-qupath" title="Permalink to this heading">#</a></h3>
 <p><a class="reference external" href="https://qupath.github.io/">QuPath</a> offers a wide set of image analysis tools that can be applied to whole slide images. For that reason it is widely utilized with pathology images, but it can be used with other images as well. QuPath also contains pixel classification tools and can integrate with ImageJ (e.g., for sending ROIs between the programs, or for accessing ImageJ plugins).</p>
 <section id="id3">
 <h4>What are its disadvantages?<a class="headerlink" href="#id3" title="Permalink to this heading">#</a></h4>
@@ -644,8 +644,8 @@ Piximi</div>
 </ul>
 </section>
 </section>
-<section id="icy">
-<span id="content-icy"></span><h3>Icy<a class="headerlink" href="#icy" title="Permalink to this heading">#</a></h3>
+<section id="img-src-https-icy-bioimageanalysis-org-wp-content-uploads-2018-07-logo-full-notext600px-png-alt-logo-width-30px-icy">
+<span id="content-icy"></span><h3><img src="https://icy.bioimageanalysis.org/wp-content/uploads/2018/07/logo_full_notext600px.png" alt="logo" width="30px"> Icy<a class="headerlink" href="#img-src-https-icy-bioimageanalysis-org-wp-content-uploads-2018-07-logo-full-notext600px-png-alt-logo-width-30px-icy" title="Permalink to this heading">#</a></h3>
 <p><a class="reference external" href="https://icy.bioimageanalysis.org/">Icy</a> is an out of the box image analysis tools, it utilizes plugins to create visual image analysis protocols that can be shared with other users.</p>
 <section id="id5">
 <h4>What are its disadvantages?<a class="headerlink" href="#id5" title="Permalink to this heading">#</a></h4>
@@ -666,8 +666,8 @@ Piximi</div>
 </ul>
 </section>
 </section>
-<section id="mib-microscopy-image-browser">
-<span id="content-mib"></span><h3>MIB (Microscopy Image Browser)<a class="headerlink" href="#mib-microscopy-image-browser" title="Permalink to this heading">#</a></h3>
+<section id="img-src-https-global-discourse-cdn-com-business4-uploads-imagej-optimized-3x-7-4-74273a1f9a663b52053d44c9767ed49193f2170f-2-787x750-png-alt-logo-width-30px-mib-microscopy-image-browser">
+<span id="content-mib"></span><h3><img src="https://global.discourse-cdn.com/business4/uploads/imagej/optimized/3X/7/4/74273a1f9a663b52053d44c9767ed49193f2170f_2_787x750.png" alt="logo" width="30px"> MIB (Microscopy Image Browser)<a class="headerlink" href="#img-src-https-global-discourse-cdn-com-business4-uploads-imagej-optimized-3x-7-4-74273a1f9a663b52053d44c9767ed49193f2170f-2-787x750-png-alt-logo-width-30px-mib-microscopy-image-browser" title="Permalink to this heading">#</a></h3>
 <p><a class="reference external" href="http://mib.helsinki.fi/index.html">MIB</a> is a user-friendly software for image analysis of multidimensional datasets for both light and electron microscopy. It allows you to use the whole acquired data for its analysis and extraction of morphological features.</p>
 <section id="id7">
 <h4>What are its disadvantages?<a class="headerlink" href="#id7" title="Permalink to this heading">#</a></h4>
@@ -689,8 +689,8 @@ Piximi</div>
 </ul>
 </section>
 </section>
-<section id="napari">
-<span id="content-napari"></span><h3>napari<a class="headerlink" href="#napari" title="Permalink to this heading">#</a></h3>
+<section id="img-src-https-global-discourse-cdn-com-business4-uploads-imagej-optimized-3x-7-7-775e83f70639e1cb7cb299d8681d272e18718089-2-750x750-png-alt-logo-width-30px-napari">
+<span id="content-napari"></span><h3><img src="https://global.discourse-cdn.com/business4/uploads/imagej/optimized/3X/7/7/775e83f70639e1cb7cb299d8681d272e18718089_2_750x750.png" alt="logo" width="30px"> napari<a class="headerlink" href="#img-src-https-global-discourse-cdn-com-business4-uploads-imagej-optimized-3x-7-7-775e83f70639e1cb7cb299d8681d272e18718089-2-750x750-png-alt-logo-width-30px-napari" title="Permalink to this heading">#</a></h3>
 <p>napari](<a class="reference external" href="https://napari.org/">https://napari.org/</a>) is being developed as a multi-dimensional image viewer that can be expanded via a variety of plugins to perform basic and complex image analysis tasks.</p>
 <section id="id9">
 <h4>What are its disadvantages?<a class="headerlink" href="#id9" title="Permalink to this heading">#</a></h4>
@@ -714,8 +714,8 @@ Piximi</div>
 </section>
 <section id="specified-use-software">
 <h2>Specified use software<a class="headerlink" href="#specified-use-software" title="Permalink to this heading">#</a></h2>
-<section id="cellpose">
-<span id="content-cellpose"></span><h3>Cellpose<a class="headerlink" href="#cellpose" title="Permalink to this heading">#</a></h3>
+<section id="img-src-https-www-cellpose-org-static-images-cellpose-transparent-png-alt-logo-width-30px-cellpose">
+<span id="content-cellpose"></span><h3><img src="https://www.cellpose.org/static/images/cellpose_transparent.png" alt="logo" width="30px"> Cellpose<a class="headerlink" href="#img-src-https-www-cellpose-org-static-images-cellpose-transparent-png-alt-logo-width-30px-cellpose" title="Permalink to this heading">#</a></h3>
 <p><a class="reference external" href="https://www.cellpose.org/">Cellpose</a> is a segmentation algorithm, it provides a graphical user interface that allows users to use trained models or train their own using their images and annotations.</p>
 <section id="what-type-of-image-analysis-problem-is-it-good-for">
 <h4>What type of image analysis problem is it good for?<a class="headerlink" href="#what-type-of-image-analysis-problem-is-it-good-for" title="Permalink to this heading">#</a></h4>
@@ -736,8 +736,8 @@ Piximi</div>
 </ul>
 </section>
 </section>
-<section id="ilastik">
-<span id="content-ilastik"></span><h3>ilastik<a class="headerlink" href="#ilastik" title="Permalink to this heading">#</a></h3>
+<section id="img-src-https-global-discourse-cdn-com-business4-uploads-imagej-original-3x-9-f-9f5be5e138c63bc6a50be0bb0027b8eef0194935-png-alt-logo-width-30px-ilastik">
+<span id="content-ilastik"></span><h3><img src="https://global.discourse-cdn.com/business4/uploads/imagej/original/3X/9/f/9f5be5e138c63bc6a50be0bb0027b8eef0194935.png" alt="logo" width="30px"> ilastik<a class="headerlink" href="#img-src-https-global-discourse-cdn-com-business4-uploads-imagej-original-3x-9-f-9f5be5e138c63bc6a50be0bb0027b8eef0194935-png-alt-logo-width-30px-ilastik" title="Permalink to this heading">#</a></h3>
 <p><a class="reference external" href="https://www.ilastik.org/">ilastik</a> is a tool for interactive image classification, segmentation and analysis. It leverages machine-learning algorithms to perform pixel and object-level classification. Using it requires no experience in image processing.</p>
 <section id="what-image-analysis-problem-can-it-be-used-for">
 <h4>What image analysis problem can it be used for?<a class="headerlink" href="#what-image-analysis-problem-can-it-be-used-for" title="Permalink to this heading">#</a></h4>
@@ -762,8 +762,8 @@ Piximi</div>
 </ul>
 </section>
 </section>
-<section id="piximi">
-<span id="content-piximi"></span><h3>Piximi<a class="headerlink" href="#piximi" title="Permalink to this heading">#</a></h3>
+<section id="img-src-https-global-discourse-cdn-com-business4-uploads-imagej-original-3x-3-f-3fe4d974194caabdb61a5574e24402db8484ab9b-png-alt-logo-width-30px-piximi">
+<span id="content-piximi"></span><h3><img src="https://global.discourse-cdn.com/business4/uploads/imagej/original/3X/3/f/3fe4d974194caabdb61a5574e24402db8484ab9b.png" alt="logo" width="30px"> Piximi<a class="headerlink" href="#img-src-https-global-discourse-cdn-com-business4-uploads-imagej-original-3x-3-f-3fe4d974194caabdb61a5574e24402db8484ab9b-png-alt-logo-width-30px-piximi" title="Permalink to this heading">#</a></h3>
 <p><a class="reference external" href="https://www.piximi.app/">Piximi</a> is an application for annotation and classification that runs entirely from your browser and requires no installation and minimal setup.</p>
 <section id="what-type-of-image-analysis-is-it-good-for">
 <h4>What type of image analysis is it good for?<a class="headerlink" href="#what-type-of-image-analysis-is-it-good-for" title="Permalink to this heading">#</a></h4>
@@ -818,7 +818,7 @@ Piximi</div>
     <div class="footer-article-item"><!-- Previous / next buttons -->
 <div class="prev-next-area">
     <a class="left-prev"
-       href="01-5_Classification.html"
+       href="Classification.html"
        title="previous page">
       <i class="fa-solid fa-angle-left"></i>
       <div class="prev-next-info">
@@ -855,32 +855,32 @@ Piximi</div>
     <ul class="visible nav section-nav flex-column">
 <li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#introduction">Introduction</a></li>
 <li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#general-use-software">General use software</a><ul class="nav section-nav flex-column">
-<li class="toc-h3 nav-item toc-entry"><a class="reference internal nav-link" href="#imagej">ImageJ</a><ul class="nav section-nav flex-column">
+<li class="toc-h3 nav-item toc-entry"><a class="reference internal nav-link" href="#img-src-https-imagej-net-media-icons-imagej2-png-alt-logo-width-30px-imagej"><img alt="logo" src="https://imagej.net/media/icons/imagej2.png" width="30px"/> ImageJ</a><ul class="nav section-nav flex-column">
 <li class="toc-h4 nav-item toc-entry"><a class="reference internal nav-link" href="#what-are-its-disadvantages">What are its disadvantages?</a></li>
 <li class="toc-h4 nav-item toc-entry"><a class="reference internal nav-link" href="#how-to-download-install-and-learn-more">How to download/install and learn more?</a></li>
 </ul>
 </li>
-<li class="toc-h3 nav-item toc-entry"><a class="reference internal nav-link" href="#cellprofiler">CellProfiler</a><ul class="nav section-nav flex-column">
+<li class="toc-h3 nav-item toc-entry"><a class="reference internal nav-link" href="#img-src-https-global-discourse-cdn-com-business4-uploads-imagej-original-2x-b-bcdcd5ba157e07e74dd1964ec81765e708455ed9-png-alt-logo-width-30px-cellprofiler"><img alt="logo" src="https://global.discourse-cdn.com/business4/uploads/imagej/original/2X/b/bcdcd5ba157e07e74dd1964ec81765e708455ed9.png" width="30px"/> CellProfiler</a><ul class="nav section-nav flex-column">
 <li class="toc-h4 nav-item toc-entry"><a class="reference internal nav-link" href="#id1">What are its disadvantages?</a></li>
 <li class="toc-h4 nav-item toc-entry"><a class="reference internal nav-link" href="#id2">How to download/install and learn more?</a></li>
 </ul>
 </li>
-<li class="toc-h3 nav-item toc-entry"><a class="reference internal nav-link" href="#qupath">QuPath</a><ul class="nav section-nav flex-column">
+<li class="toc-h3 nav-item toc-entry"><a class="reference internal nav-link" href="#img-src-https-global-discourse-cdn-com-business4-uploads-imagej-optimized-3x-6-0-6039b2daa4b6b1c32943f63f464cf3c477898bfe-2-750x750-png-alt-logo-width-30px-qupath"><img alt="logo" src="https://global.discourse-cdn.com/business4/uploads/imagej/optimized/3X/6/0/6039b2daa4b6b1c32943f63f464cf3c477898bfe_2_750x750.png" width="30px"/> QuPath</a><ul class="nav section-nav flex-column">
 <li class="toc-h4 nav-item toc-entry"><a class="reference internal nav-link" href="#id3">What are its disadvantages?</a></li>
 <li class="toc-h4 nav-item toc-entry"><a class="reference internal nav-link" href="#id4">How to download/install and learn more?</a></li>
 </ul>
 </li>
-<li class="toc-h3 nav-item toc-entry"><a class="reference internal nav-link" href="#icy">Icy</a><ul class="nav section-nav flex-column">
+<li class="toc-h3 nav-item toc-entry"><a class="reference internal nav-link" href="#img-src-https-icy-bioimageanalysis-org-wp-content-uploads-2018-07-logo-full-notext600px-png-alt-logo-width-30px-icy"><img alt="logo" src="https://icy.bioimageanalysis.org/wp-content/uploads/2018/07/logo_full_notext600px.png" width="30px"/> Icy</a><ul class="nav section-nav flex-column">
 <li class="toc-h4 nav-item toc-entry"><a class="reference internal nav-link" href="#id5">What are its disadvantages?</a></li>
 <li class="toc-h4 nav-item toc-entry"><a class="reference internal nav-link" href="#id6">How to download/install and learn more?</a></li>
 </ul>
 </li>
-<li class="toc-h3 nav-item toc-entry"><a class="reference internal nav-link" href="#mib-microscopy-image-browser">MIB (Microscopy Image Browser)</a><ul class="nav section-nav flex-column">
+<li class="toc-h3 nav-item toc-entry"><a class="reference internal nav-link" href="#img-src-https-global-discourse-cdn-com-business4-uploads-imagej-optimized-3x-7-4-74273a1f9a663b52053d44c9767ed49193f2170f-2-787x750-png-alt-logo-width-30px-mib-microscopy-image-browser"><img alt="logo" src="https://global.discourse-cdn.com/business4/uploads/imagej/optimized/3X/7/4/74273a1f9a663b52053d44c9767ed49193f2170f_2_787x750.png" width="30px"/> MIB (Microscopy Image Browser)</a><ul class="nav section-nav flex-column">
 <li class="toc-h4 nav-item toc-entry"><a class="reference internal nav-link" href="#id7">What are its disadvantages?</a></li>
 <li class="toc-h4 nav-item toc-entry"><a class="reference internal nav-link" href="#id8">How to download/install and learn more?</a></li>
 </ul>
 </li>
-<li class="toc-h3 nav-item toc-entry"><a class="reference internal nav-link" href="#napari">napari</a><ul class="nav section-nav flex-column">
+<li class="toc-h3 nav-item toc-entry"><a class="reference internal nav-link" href="#img-src-https-global-discourse-cdn-com-business4-uploads-imagej-optimized-3x-7-7-775e83f70639e1cb7cb299d8681d272e18718089-2-750x750-png-alt-logo-width-30px-napari"><img alt="logo" src="https://global.discourse-cdn.com/business4/uploads/imagej/optimized/3X/7/7/775e83f70639e1cb7cb299d8681d272e18718089_2_750x750.png" width="30px"/> napari</a><ul class="nav section-nav flex-column">
 <li class="toc-h4 nav-item toc-entry"><a class="reference internal nav-link" href="#id9">What are its disadvantages?</a></li>
 <li class="toc-h4 nav-item toc-entry"><a class="reference internal nav-link" href="#id10">How to download/install and learn more?</a></li>
 </ul>
@@ -888,19 +888,19 @@ Piximi</div>
 </ul>
 </li>
 <li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#specified-use-software">Specified use software</a><ul class="nav section-nav flex-column">
-<li class="toc-h3 nav-item toc-entry"><a class="reference internal nav-link" href="#cellpose">Cellpose</a><ul class="nav section-nav flex-column">
+<li class="toc-h3 nav-item toc-entry"><a class="reference internal nav-link" href="#img-src-https-www-cellpose-org-static-images-cellpose-transparent-png-alt-logo-width-30px-cellpose"><img alt="logo" src="https://www.cellpose.org/static/images/cellpose_transparent.png" width="30px"/> Cellpose</a><ul class="nav section-nav flex-column">
 <li class="toc-h4 nav-item toc-entry"><a class="reference internal nav-link" href="#what-type-of-image-analysis-problem-is-it-good-for">What type of image analysis problem is it good for?</a></li>
 <li class="toc-h4 nav-item toc-entry"><a class="reference internal nav-link" href="#id11">What are its disadvantages?</a></li>
 <li class="toc-h4 nav-item toc-entry"><a class="reference internal nav-link" href="#id12">How to download/install and learn more?</a></li>
 </ul>
 </li>
-<li class="toc-h3 nav-item toc-entry"><a class="reference internal nav-link" href="#ilastik">ilastik</a><ul class="nav section-nav flex-column">
+<li class="toc-h3 nav-item toc-entry"><a class="reference internal nav-link" href="#img-src-https-global-discourse-cdn-com-business4-uploads-imagej-original-3x-9-f-9f5be5e138c63bc6a50be0bb0027b8eef0194935-png-alt-logo-width-30px-ilastik"><img alt="logo" src="https://global.discourse-cdn.com/business4/uploads/imagej/original/3X/9/f/9f5be5e138c63bc6a50be0bb0027b8eef0194935.png" width="30px"/> ilastik</a><ul class="nav section-nav flex-column">
 <li class="toc-h4 nav-item toc-entry"><a class="reference internal nav-link" href="#what-image-analysis-problem-can-it-be-used-for">What image analysis problem can it be used for?</a></li>
 <li class="toc-h4 nav-item toc-entry"><a class="reference internal nav-link" href="#id13">What are its disadvantages?</a></li>
 <li class="toc-h4 nav-item toc-entry"><a class="reference internal nav-link" href="#id14">How to download/install and learn more?</a></li>
 </ul>
 </li>
-<li class="toc-h3 nav-item toc-entry"><a class="reference internal nav-link" href="#piximi">Piximi</a><ul class="nav section-nav flex-column">
+<li class="toc-h3 nav-item toc-entry"><a class="reference internal nav-link" href="#img-src-https-global-discourse-cdn-com-business4-uploads-imagej-original-3x-3-f-3fe4d974194caabdb61a5574e24402db8484ab9b-png-alt-logo-width-30px-piximi"><img alt="logo" src="https://global.discourse-cdn.com/business4/uploads/imagej/original/3X/3/f/3fe4d974194caabdb61a5574e24402db8484ab9b.png" width="30px"/> Piximi</a><ul class="nav section-nav flex-column">
 <li class="toc-h4 nav-item toc-entry"><a class="reference internal nav-link" href="#what-type-of-image-analysis-is-it-good-for">What type of image analysis is it good for?</a></li>
 <li class="toc-h4 nav-item toc-entry"><a class="reference internal nav-link" href="#id15">What are its disadvantages?</a></li>
 <li class="toc-h4 nav-item toc-entry"><a class="reference internal nav-link" href="#id16">How to download/install and learn more?</a></li>
@@ -927,7 +927,7 @@ Piximi</div>
     
   <p class="copyright">
     
-      © Copyright 2022.
+      © Copyright 2023.
       <br/>
     
   </p>
