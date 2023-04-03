@@ -7,8 +7,17 @@ p {
   font-weight: 400;
 }
 h2 {
+  font-size: 30px;
+}
+
+h3 {
+  font-size: 24px;
+}
+
+h4 {
   font-size: 20px;
 }
+
 body, h1, h2, h3, h4 ,h5, h6 {
   font-family: "HelveticaNeue-Light", "Arial", sans-serif !important;
 }

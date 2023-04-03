@@ -19,20 +19,20 @@ parts:
     title: Practical considerations
 - caption: Image Analysis and Data Handling
   chapters:
-  - file: 03_Image_analysis/01_Introduction
+  - file: 03_Image_analysis/Introduction
     title: Introduction
   - file: 03_Image_analysis/Common_types_of_analysis.md
     title: Common types of analysis
     sections:
-      - file: 03_Image_analysis/01-1_Shape
+      - file: 03_Image_analysis/Shape
         title: Size and Shape measurements
-      - file: 03_Image_analysis/01-2_Intensity
+      - file: 03_Image_analysis/Intensity
         title: Intensity measurements
-      - file: 03_Image_analysis/01-3_Colocalization
+      - file: 03_Image_analysis/Colocalization
         title: Colocalization
-      - file: 03_Image_analysis/01-4_Tracking
+      - file: 03_Image_analysis/Tracking
         title: Object tracking
-      - file: 03_Image_analysis/01-5_Classification
+      - file: 03_Image_analysis/Classification
         title: Object classification
   - file: 03_Image_analysis/Software
     title: Open source software
