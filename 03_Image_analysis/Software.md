@@ -4,7 +4,7 @@
 
 When it comes time to select a software program for your image analysis, there are many options, some more general and others highly specialized to specific image modalities or types of experiments. In general, a good place to start exploring is by examining papers in your field and seeing what others have used to analyze similar experiments to your own. It’s important to note that there isn’t one correct answer to "Which program should I use?" Depending on your biological question, your images, and your own comfort with coding, there are many options available. 
 
-Below, we summarize the use-cases and limitations of some of the most common, free and open-source software for image analysis, this is a small list and more extensive ones exist like the [A Hitchhiker's guide through the bio-image analysis software universe](https://febs.onlinelibrary.wiley.com/doi/full/10.1002/1873-3468.14451) and the [BioImage Informatics Index](bii.eu). 
+Below, we summarize the use-cases and limitations of some of the most common, free and open-source software for image analysis, this is a small list and more extensive ones exist like the [A Hitchhiker's guide through the bio-image analysis software universe](https://febs.onlinelibrary.wiley.com/doi/full/10.1002/1873-3468.14451) and the [BioImage Informatics Index](https://biii.eu). 
 
 Whatever software you choose, be sure to include a detailed description of your analysis in your methods, with pipeline or workflow files if possible, so others can reproduce your work. Also be sure to cite the analysis software you use! This helps developers of the software get grant funding and helps others find useful tools.  
 

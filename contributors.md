@@ -6,7 +6,7 @@ The original material for this book was created as part of the paper [A biologis
 	
 ```{code-cell}
 :tags: ["hide-cell"]
-#Since that paper was published, we gratefully acknowledge contributions from the following members of the microscopy and bioimage analysis community! (list of names))
+#Since that paper was published, we gratefully acknowledge contributions from the following members of the microscopy and bioimage analysis community! (list of names)
 ```
 
 ## How can I become a contributor?
