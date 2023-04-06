@@ -12,36 +12,35 @@ Whatever software you choose, be sure to include a detailed description of your 
 
 ::::{grid}
 :gutter: 3
-:class-container: text-center
 
-:::{grid-item-card} ImageJ
+:::{grid-item-card}
 :columns: 4
 :img-top: https://imagej.net/media/icons/imagej2.png
 ```{dropdown} ImageJ
-[ImageJ](https://imagej.net/) is an imaging processing program that is capable of operating on a variety of images including multichannel, 3D and time series. It provides a variety of basic imaging processing operations, but it can be complemented with a variety of plugins for more complex tasks.
+[ImageJ](https://imagej.net/) is an imaging processing program that is capable of operating on a variety of images including multichannel, 3D and time series. It provides basic imaging processing operations and has a variety of plugins for more complex tasks.
 [Read more...](content/imagej)
 ```
 :::
 
-:::{grid-item-card} CellProfiler
+:::{grid-item-card}
 :columns: 4
 :img-top: https://global.discourse-cdn.com/business4/uploads/imagej/original/2X/b/bcdcd5ba157e07e74dd1964ec81765e708455ed9.png
 ```{dropdown} CellProfiler
-[CellProfiler](https://cellprofiler.org/) is a software designed for biologists by biologists; it creates a bridge between image analysis and scientist with no need of computational expertise. It was designed with the idea of an image analysis pipeline in mind: it allows you to take a series of interoperable modules to design your own custom analysis pipeline that can be applied to one or thousands of images, making it suitable for high throughput image analysis.
+[CellProfiler](https://cellprofiler.org/) was designed with the idea of an image analysis pipeline in mind; it allows you to take a series of interoperable modules to design your own custom analysis pipeline that can be applied to one or thousands of images, making it suitable for high throughput image analysis.
 [Read more...](content/cellprofiler)
 ```
 :::
 
-:::{grid-item-card} QuPath
+:::{grid-item-card}
 :columns: 4
 :img-top: https://global.discourse-cdn.com/business4/uploads/imagej/optimized/3X/6/0/6039b2daa4b6b1c32943f63f464cf3c477898bfe_2_750x750.png
 ```{dropdown} QuPath
-[QuPath](https://qupath.github.io/) offers a wide set of image analysis tools that can be applied to whole slide images. For that reason it is widely utilized with pathology images, but it can be used with other images as well. QuPath also contains pixel classification tools and can integrate with ImageJ (e.g., for sending ROIs between the programs, or for accessing ImageJ plugins).
+[QuPath](https://qupath.github.io/) offers a wide set of image analysis tools that can be applied to whole slide images like pathology images, but it can be used with other images as well. QuPath also contains pixel classification tools and can integrate with ImageJ.
 [Read more...](content/qupath)
 ```
 :::
 
-:::{grid-item-card} Icy
+:::{grid-item-card}
 :columns: 4
 :img-top: https://icy.bioimageanalysis.org/wp-content/uploads/2018/07/logo_full_notext600px.png
 ```{dropdown} Icy
@@ -50,7 +49,7 @@ Whatever software you choose, be sure to include a detailed description of your 
 ```
 :::
 
-:::{grid-item-card} Microscopy Image Browser
+:::{grid-item-card}
 :columns: 4
 :img-top: https://global.discourse-cdn.com/business4/uploads/imagej/optimized/3X/7/4/74273a1f9a663b52053d44c9767ed49193f2170f_2_787x750.png
 ```{dropdown} MIB
@@ -59,7 +58,7 @@ Whatever software you choose, be sure to include a detailed description of your 
 ```
 :::
 
-:::{grid-item-card} napari
+:::{grid-item-card}
 :columns: 4
 :img-top: https://global.discourse-cdn.com/business4/uploads/imagej/optimized/3X/7/7/775e83f70639e1cb7cb299d8681d272e18718089_2_750x750.png
 ```{dropdown} napari
@@ -68,7 +67,7 @@ Whatever software you choose, be sure to include a detailed description of your 
 ```
 :::
 
-:::{grid-item-card} Cellpose
+:::{grid-item-card}
 :columns: 4
 :img-top: https://www.cellpose.org/static/images/cellpose_transparent.png
 ```{dropdown} Cellpose
@@ -77,7 +76,7 @@ Whatever software you choose, be sure to include a detailed description of your 
 ```
 :::
 
-:::{grid-item-card} ilastik
+:::{grid-item-card}
 :columns: 4
 :img-top: https://global.discourse-cdn.com/business4/uploads/imagej/original/3X/9/f/9f5be5e138c63bc6a50be0bb0027b8eef0194935.png
 ```{dropdown} ilastik
@@ -86,7 +85,7 @@ Whatever software you choose, be sure to include a detailed description of your 
 ```
 :::
 
-:::{grid-item-card} Piximi
+:::{grid-item-card}
 :columns: 4
 :img-top: https://global.discourse-cdn.com/business4/uploads/imagej/original/3X/3/f/3fe4d974194caabdb61a5574e24402db8484ab9b.png
 ```{dropdown} Piximi
