@@ -57,6 +57,13 @@ li.toctree-l1 {
 .bd-sidebar {
   min-width: 300px;
 }
+/* grid text sizing and padding for software section */
+.sd-card-text{
+  font-size: 0.9em;
+}
+.sd-card-body.docutils{
+  padding: 0.5em;
+}
 
 /*
 #main-content ul.simple {
