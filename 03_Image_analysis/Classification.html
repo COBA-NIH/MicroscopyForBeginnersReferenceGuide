@@ -190,9 +190,12 @@ const thebe_selector_output = ".output, .cell_output"
 <li class="toctree-l2 current active"><a class="current reference internal" href="#">Object classification</a></li>
 </ul>
 </li>
-<li class="toctree-l1"><a class="reference internal" href="Software.html">Open source software</a></li>
+<li class="toctree-l1 has-children"><a class="reference internal" href="Software.html">Open source software</a><input class="toctree-checkbox" id="toctree-checkbox-2" name="toctree-checkbox-2" type="checkbox"/><label class="toctree-toggle" for="toctree-checkbox-2"><i class="fa-solid fa-chevron-down"></i></label><ul>
+<li class="toctree-l2"><a class="reference internal" href="GeneralUseSoftware.html">General Use Software</a></li>
+<li class="toctree-l2"><a class="reference internal" href="SpecificUseSoftware.html">Specific Use Software</a></li>
+</ul>
+</li>
 <li class="toctree-l1"><a class="reference internal" href="Data_management.html">Data management and sharing</a></li>
-<li class="toctree-l1"><a class="reference internal" href="Common_pitfalls.html">Common pitfalls</a></li>
 </ul>
 <p aria-level="2" class="caption" role="heading"><span class="caption-text">Data Interpretation</span></p>
 <ul class="nav bd-sidenav">
@@ -202,7 +205,9 @@ const thebe_selector_output = ".output, .cell_output"
 </ul>
 <p aria-level="2" class="caption" role="heading"><span class="caption-text">Additional Resources</span></p>
 <ul class="nav bd-sidenav">
+<li class="toctree-l1"><a class="reference internal" href="../contributors.html">Contributing to this resource</a></li>
 <li class="toctree-l1"><a class="reference internal" href="../Glossary.html">Glossary</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../genindex.html">Index</a></li>
 </ul>
 
     </div>
@@ -438,14 +443,14 @@ document.write(`
 <div class="sd-summary-up docutils">
 <svg version="1.1" width="1.5em" height="1.5em" class="sd-octicon sd-octicon-chevron-up" viewBox="0 0 24 24" aria-hidden="true"><path fill-rule="evenodd" d="M18.78 15.28a.75.75 0 000-1.06l-6.25-6.25a.75.75 0 00-1.06 0l-6.25 6.25a.75.75 0 101.06 1.06L12 9.56l5.72 5.72a.75.75 0 001.06 0z"></path></svg></div>
 </summary><div class="sd-summary-content sd-card-body docutils">
-<p class="sd-card-text">Phenotypic classification can be performed a few different ways. One way to break this down is by unsupervised vs. supervised classification. In <strong>unsupervised classification</strong>, you group objects based on their measurements, but without any top-down human-defined guidance to what the groups should look like.</p>
+<p class="sd-card-text">Phenotypic classification can be performed a few different ways. One way to break this down is by unsupervised vs. supervised classification.</p>
+<p class="sd-card-text">In <strong>supervised classification</strong>, a human also provides information on what the different groups of objects should look like by providing representative examples of each group in a training dataset. The computer then learns how to assign objects to groups based on their measurements by testing models against the ground truth training dataset.</p>
 <ul class="simple">
-<li><p class="sd-card-text">For a simple example, you could classify cells into two groups based on expression levels of a particular protein tagged with a fluorophore. You could observe the distribution of mean intensities in the channel where you can see the tagged fluorophore and decide a cutoff (manually or using an algorithm).</p></li>
-<li><p class="sd-card-text">For a more complicated example, you could measure hundreds or thousands of features of cells from many treatments, as is typical in large-scale cell profiling experiments. Next you could try to cluster the cells into different groups based on having similar measurements. This is a form of unsupervised clustering, where you observe what groups emerge from a computer considering their measurements only, and not class labels we impose as researchers.</p></li>
+<li><p class="sd-card-text">For example, you could classify cells based on a visual phenotype and train a machine learning classifier to derive which measurement ranges are associated with different classes. This is supervised classification because a person is providing instruction of how many classes there should be and examples of what each class should look like for the computer to learn from. An example of this could be annotating a subset of cells that are in different stages of mitosis and training a classifier to use your labels oto find other cells in those stages.</p></li>
 </ul>
-<p class="sd-card-text">In <strong>supervised classification</strong>, in addition to object measurements, a human also provides information on what the different groups of objects should look like by providing representative examples of each group in a training dataset. The computer then learns how to assign objects to groups based on their measurements by testing models against the ground truth training dataset.</p>
+<p class="sd-card-text">In <strong>unsupervised classification</strong>, you group objects based on their measurements, but without any top-down human-defined guidance into how many groups there are or what the groups should look like.</p>
 <ul class="simple">
-<li><p class="sd-card-text">For example, you could classify cells based on a visual phenotype and train a machine learning classifier to derive which measurement ranges are associated with different classes. This is called supervised classification because a person is providing examples of labels for the computer to learn from. An example of this could be annotating cells that are in different stages of mitosis and training a classifier to use your labels on a subset of data to find other cells in those stages.</p></li>
+<li><p class="sd-card-text">For example, you could measure hundreds or thousands of features of cells from many treatments, as is typical in large-scale cell profiling experiments. Next you could let the computer cluster the cells into some number of different groups based on having similar measurements. This is a form of unsupervised clustering, where you observe what groups emerge from a computer considering their measurements only, and not class labels we impose as researchers.</p></li>
 </ul>
 </div>
 </details><details class="sd-sphinx-override sd-dropdown sd-card sd-mb-3">
@@ -459,7 +464,14 @@ document.write(`
 <li><p class="sd-card-text"><strong>Valid measurements are still important</strong> Classification can be simple or complex, but results always depend on the validity of your measurements. For this reason, all the caveats of earlier measurement sections also apply here.</p></li>
 <li><p class="sd-card-text"><strong>Machines are dumb</strong> Machine learning classifiers aren’t necessarily going to learn the biologically relevant features that distinguish objects from distinct groups. Confounding features, or features that vary with your phenotype but are not biologically related to it, can limit the usefulness of your classifier and lead to incorrect conclusions. For instance, if clinicians often put rulers next to malignant looking moles and not next to benign moles and try to train a machine learning classifier to distinguish malignant vs. benign, the model might learn to classify images with rulers as malignant without tapping into any of the relevant features of the moles. This is a <a class="reference external" href="https://www.sciencedirect.com/science/article/pii/S0022202X18322930">real example</a>. If possible, examining which features your model is relying on to classify objects can be a way to check for this. It’s also important to standardize how you capture images of your different classes of objects and include a large enough training set with images with lots of variation. You wouldn’t want all your positive cells to come from one image and all your negative to come from another image, for example.</p></li>
 <li><p class="sd-card-text"><strong>Violating model assumptions</strong> If using a machine learning classifier, different models come with different baked-in assumptions. If you’re starting out, it can be difficult to know which to pick. There are interactive tools such as <a class="reference external" href="https://academic.oup.com/bioinformatics/article/32/20/3210/2196630?login=false">CellProfiler Analyst</a> and <a class="reference external" href="https://www.piximi.app/">Piximi</a> that make training a classifier easier, especially if you don’t know how to code.</p></li>
+<li><p class="sd-card-text"><strong>Messy boundaries</strong> Most methods of supervised classification, where the user assigns objects to a score or to a bin, ultimately treat each bin as a totally separate entity; biology is rarely so neat. For example, a classifier for cell cycle phase must assign a cell to one phase, but in fact progression through the cell cycle is not a perfectly switch-like process, as can be visualized by measurements of individual cells (colored by their class given by a human observer). More sophisticated methods may be needed to classify more continuous phenotypes</p></li>
 </ul>
+<figure class="align-center" id="id1">
+<a class="reference internal image-reference" href="../_images/discrete_classes.png"><img alt="drawing discrete boun" src="../_images/discrete_classes.png" style="width: 100%;" /></a>
+<figcaption>
+<p><span class="caption-number">Fig. 3 </span><span class="caption-text"><strong>Strict division into supervised classes can be tricky for continuous biological processes</strong>. Adapted from Eulenberg, P., Köhler, N., Blasi, T. <em>et al</em>. Reconstructing cell cycle and disease progression using deep learning. <em>Nat Commun</em> <strong>8</strong>, 463 (2017)</span><a class="headerlink" href="#id1" title="Permalink to this image">#</a></p>
+</figcaption>
+</figure>
 </div>
 </details><details class="sd-sphinx-override sd-dropdown sd-card sd-mb-3">
 <summary class="sd-summary-title sd-card-header">

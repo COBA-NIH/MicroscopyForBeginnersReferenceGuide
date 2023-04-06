@@ -190,9 +190,12 @@ const thebe_selector_output = ".output, .cell_output"
 <li class="toctree-l2"><a class="reference internal" href="Classification.html">Object classification</a></li>
 </ul>
 </li>
-<li class="toctree-l1"><a class="reference internal" href="Software.html">Open source software</a></li>
+<li class="toctree-l1 has-children"><a class="reference internal" href="Software.html">Open source software</a><input class="toctree-checkbox" id="toctree-checkbox-2" name="toctree-checkbox-2" type="checkbox"/><label class="toctree-toggle" for="toctree-checkbox-2"><i class="fa-solid fa-chevron-down"></i></label><ul>
+<li class="toctree-l2"><a class="reference internal" href="GeneralUseSoftware.html">General Use Software</a></li>
+<li class="toctree-l2"><a class="reference internal" href="SpecificUseSoftware.html">Specific Use Software</a></li>
+</ul>
+</li>
 <li class="toctree-l1"><a class="reference internal" href="Data_management.html">Data management and sharing</a></li>
-<li class="toctree-l1"><a class="reference internal" href="Common_pitfalls.html">Common pitfalls</a></li>
 </ul>
 <p aria-level="2" class="caption" role="heading"><span class="caption-text">Data Interpretation</span></p>
 <ul class="nav bd-sidenav">
@@ -202,7 +205,9 @@ const thebe_selector_output = ".output, .cell_output"
 </ul>
 <p aria-level="2" class="caption" role="heading"><span class="caption-text">Additional Resources</span></p>
 <ul class="nav bd-sidenav">
+<li class="toctree-l1"><a class="reference internal" href="../contributors.html">Contributing to this resource</a></li>
 <li class="toctree-l1"><a class="reference internal" href="../Glossary.html">Glossary</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../genindex.html">Index</a></li>
 </ul>
 
     </div>
@@ -443,7 +448,7 @@ document.write(`
 <div class="sd-summary-up docutils">
 <svg version="1.1" width="1.5em" height="1.5em" class="sd-octicon sd-octicon-chevron-up" viewBox="0 0 24 24" aria-hidden="true"><path fill-rule="evenodd" d="M18.78 15.28a.75.75 0 000-1.06l-6.25-6.25a.75.75 0 00-1.06 0l-6.25 6.25a.75.75 0 101.06 1.06L12 9.56l5.72 5.72a.75.75 0 001.06 0z"></path></svg></div>
 </summary><div class="sd-summary-content sd-card-body docutils">
-<p class="sd-card-text">Intensity is relatively straightforward to measure, but quite tricky to do right (see below). We strongly suggest you contact an image analysis expert before proceeding with this type of analysis because there are so many places things can go wrong. In general, you want to measure on either raw images, or illumination-corrected images, but in general with minimal image processing. Illumination-correction is a form of image processing to compensate for the uneven pattern of illumination produced by most light sources where the middle of the field of illumination is brighter than the edges. Then intensity measurements can be made in any standard image analysis software, either across the whole image or in identified objects. See below for an example workflow:</p>
+<p class="sd-card-text">Intensity is relatively straightforward to measure, but can be quite tricky to do <em>correctly</em> (see below). We strongly suggest you contact an image analysis expert before proceeding with this type of analysis because there are so many places things can go wrong. In general, you want to measure on either raw images, or illumination-corrected images, but in general with minimal image processing. Illumination-correction is a form of image processing to compensate for the uneven pattern of illumination produced by most light sources where the middle of the field of illumination is brighter than the edges. Then intensity measurements can be made in any standard image analysis software, either across the whole image or in identified objects. See below for an example workflow:</p>
 <div class="mermaid">
             flowchart LR
     A[Raw image] --&gt;|&quot;Correct uneven illumination\n (optional, but best practice)&quot; | B[Corrected image]--&gt;|Segmentation|C((Identified objects \n e.g., cells))
@@ -473,8 +478,8 @@ document.write(`
 </aside>
 <ul class="simple">
 <li><p class="sd-card-text"><strong>Saturation</strong> Saturated pixels are so bright their intensity values max out our detector (camera). If you have saturated pixels in the cells you’re trying to measure, you really can’t do most intensity measurements. This is because for saturated pixels, you don’t know how bright they really are, just that they’re brighter than you can detect. There are some intensity measurements that are robust to some saturation. For example, the median intensity of an image won’t be affected by saturation unless you have &gt;½ the image saturated. But measurements like mean intensity will be affected by saturation.</p></li>
-<li><p class="sd-card-text"><strong>Inadequate controls</strong> In most cases, the exact intensity measures you get don’t mean anything biologically in isolation. It’s only by comparison of conditions that we can generate some biological insight. A control condition is then super important to compare to your experimental condition.</p></li>
-<li><p class="sd-card-text"><strong>Not matching imaging conditions across experimental conditions</strong> Because intensity measures are affected by exposure time, light source intensity, and other factors, it’s very important to match imaging settings across your samples. Relatedly, you should make sure you don’t separate imaging your experimental and control conditions to different days if this can be avoided at all. Fluorophores can become dimmer over time in samples, which complicates interpretation if different sample types were imaged on different days.</p></li>
+<li><p class="sd-card-text"><strong>Inadequate controls</strong> In most cases, the exact intensity measures you get don’t mean anything biologically in isolation. It’s only by comparison of conditions that we can generate some biological insight. A control condition is therefore <strong>very</strong> important to compare to your experimental condition.</p></li>
+<li><p class="sd-card-text"><strong>Not matching imaging conditions across experimental conditions</strong> Because intensity measures are affected by exposure time, light source intensity, and other factors, it’s very important to match imaging settings across your samples. Relatedly, you should make sure you don’t separate imaging your experimental and control conditions to different days if this can be in any way avoided. Fluorophores can become dimmer over time in samples, which complicates interpretation if different sample types were imaged on different days.</p></li>
 </ul>
 </div>
 </details><details class="sd-sphinx-override sd-dropdown sd-card sd-mb-3">

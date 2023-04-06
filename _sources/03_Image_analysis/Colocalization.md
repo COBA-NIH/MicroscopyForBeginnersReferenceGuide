@@ -3,6 +3,13 @@
 ## What is colocalization?
 
 Colocalization is when two or more different labels (e.g., eGFP and mCherry) spatially overlap in your image (also called co-occurrence). Another component of colocalization is that the fluorescent labels often correlate in intensity (i.e., pixels with brighter eGFP also have brighter mCherry). It is very important to measure colocalization quantitatively–**do not just trust your eyes!**
+
+It is also important to recognize that co-ocurrence does not _necessarily_ imply interaction. 
+
+```{margin}
+As an example, it is possible for two people to work in the same building an never interact. 
+```
+
 ```{figure} ../images/colocalization.png
 ---
 alt: degrees of colocalization
@@ -43,10 +50,10 @@ flowchart LR
 ````
 
 ````{dropdown} <span style="color: red">⚠️</span> Where can things go wrong?
-* **Not having adequate controls** (e.g., single label controls where only one fluorescent label is present). Noise, uneven illumination can both cause correlation between two channels
+* **Not having adequate controls** (e.g., single label controls where only one fluorescent label is present). Noise, uneven illumination, and other technical artifacts can cause correlation between two channels
 * **Not correcting for shift between channels** It’s common to have some degree of shift between different imaging channels due to differences in optics (e.g., different filter cubes). Not correcting for this shift (e.g., by measuring it and applying the corresponding correction to the channels) can limit your ability to detect colocalization.
 * **Bleedthrough** Sometimes signal from one fluorescent channel bleeds into another, which can falsely increase your detected colocalization. This happens most commonly with fluorophores that are similar in spectra (e.g., GFP and YFP). This is caused by fluorophore in one channel being weakly excited by light used to excite a different fluorophore and the resulting emitted fluorescence makes it through the emission filter (e.g., your green objects show up in the yellow channel as well). Assess this with single label controls.
-
+* **Improper interpretation of your colocalization metric** The details of the metric chosen here are very important - they vary widely in terms of their inclusion of background pixels, their sensitivity to signal-to-noise, etc. Consultation with an expert and the inclusion of proper controls can help you be assured that your measurement is truly what you think it is. 
 ````
 
 ```{dropdown} 📚🤷‍♀️ Where can I learn more?
