@@ -10,7 +10,7 @@ Intensity refers to the brightness of signal for a fluorescent label. Using inte
 
 ````{dropdown} 📏 How do I measure it?
 
-Intensity is relatively straightforward to measure, but quite tricky to do right (see below). We strongly suggest you contact an image analysis expert before proceeding with this type of analysis because there are so many places things can go wrong. In general, you want to measure on either raw images, or illumination-corrected images, but in general with minimal image processing. Illumination-correction is a form of image processing to compensate for the uneven pattern of illumination produced by most light sources where the middle of the field of illumination is brighter than the edges. Then intensity measurements can be made in any standard image analysis software, either across the whole image or in identified objects. See below for an example workflow:
+Intensity is relatively straightforward to measure, but can be quite tricky to do _correctly_ (see below). We strongly suggest you contact an image analysis expert before proceeding with this type of analysis because there are so many places things can go wrong. In general, you want to measure on either raw images, or illumination-corrected images, but in general with minimal image processing. Illumination-correction is a form of image processing to compensate for the uneven pattern of illumination produced by most light sources where the middle of the field of illumination is brighter than the edges. Then intensity measurements can be made in any standard image analysis software, either across the whole image or in identified objects. See below for an example workflow:
 
 ```{mermaid}
 flowchart LR
@@ -37,9 +37,9 @@ To understand saturation another way, imagine you’re trying to measure average
 
 * **Saturation** Saturated pixels are so bright their intensity values max out our detector (camera). If you have saturated pixels in the cells you’re trying to measure, you really can’t do most intensity measurements. This is because for saturated pixels, you don’t know how bright they really are, just that they’re brighter than you can detect. There are some intensity measurements that are robust to some saturation. For example, the median intensity of an image won’t be affected by saturation unless you have >½ the image saturated. But measurements like mean intensity will be affected by saturation.
 
-* **Inadequate controls** In most cases, the exact intensity measures you get don’t mean anything biologically in isolation. It’s only by comparison of conditions that we can generate some biological insight. A control condition is then super important to compare to your experimental condition.
+* **Inadequate controls** In most cases, the exact intensity measures you get don’t mean anything biologically in isolation. It’s only by comparison of conditions that we can generate some biological insight. A control condition is therefore **very** important to compare to your experimental condition.
 
-* **Not matching imaging conditions across experimental conditions** Because intensity measures are affected by exposure time, light source intensity, and other factors, it’s very important to match imaging settings across your samples. Relatedly, you should make sure you don’t separate imaging your experimental and control conditions to different days if this can be avoided at all. Fluorophores can become dimmer over time in samples, which complicates interpretation if different sample types were imaged on different days.
+* **Not matching imaging conditions across experimental conditions** Because intensity measures are affected by exposure time, light source intensity, and other factors, it’s very important to match imaging settings across your samples. Relatedly, you should make sure you don’t separate imaging your experimental and control conditions to different days if this can be in any way avoided. Fluorophores can become dimmer over time in samples, which complicates interpretation if different sample types were imaged on different days.
 
 ````
 

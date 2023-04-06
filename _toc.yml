@@ -35,11 +35,11 @@ parts:
       - file: 03_Image_analysis/Classification
         title: Object classification
   - file: 03_Image_analysis/Software
-    title: Open source software
+    sections:
+      - file: 03_Image_analysis/GeneralUseSoftware
+      - file: 03_Image_analysis/SpecificUseSoftware
   - file: 03_Image_analysis/Data_management
     title: Data management and sharing
-  - file: 03_Image_analysis/Common_pitfalls.md
-    title: Common pitfalls
 - caption: Data Interpretation
   chapters:
   - file: 04_Data_presentation/Statistics
@@ -50,5 +50,7 @@ parts:
     title: Presentation of graphs
 - caption:  Additional Resources
   chapters:
+  - file: contributors
   - file: Glossary
     title: Glossary
+  - file: genindex
