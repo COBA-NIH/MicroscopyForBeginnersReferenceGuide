@@ -42,10 +42,11 @@ parts:
     title: Data management and sharing
 - caption: Data Interpretation
   chapters:
-  - file: 04_Data_presentation/Statistics
-    title: Statistics
   - file: 04_Data_presentation/Introduction
     title: Presentation of microscope images
+  - file: 04_Data_presentation/Statistics
+    title: Statistics
+
   - file: 04_Data_presentation/Presentation_graphs
     title: Presentation of graphs
 - caption:  Additional Resources
