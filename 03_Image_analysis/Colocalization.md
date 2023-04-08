@@ -46,7 +46,7 @@ flowchart LR
   style D fill:#FFD6E8,stroke:#F5006A
 ```
 
-* **Correlation-based colocalization** is more appropriate when the labels you’re measuring are not found in discrete objects or when you predict that the signal in the labels should correlate. Correlation-based colocalization is simpler to measure as it does not require any segmentation of objects. Pearson correlation coefficients are readily measurable in most image analysis softwares (e.g., FIJI, CellProfiler, etc.).
+* **Correlation-based colocalization** is more appropriate when the labels you’re measuring are not found in discrete objects or when you predict that the signal in the labels should correlate. Correlation-based colocalization is simpler to measure as it does not require any {term}`segmentation` of objects. Pearson correlation coefficients are readily measurable in most image analysis softwares (e.g., FIJI, CellProfiler, etc.).
 ````
 
 ````{dropdown} <span style="color: red">⚠️</span> Where can things go wrong?

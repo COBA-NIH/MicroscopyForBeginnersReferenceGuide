@@ -10,7 +10,7 @@ Intensity refers to the brightness of signal for a fluorescent label. Using inte
 
 ````{dropdown} 📏 How do I measure it?
 
-Intensity is relatively straightforward to measure, but can be quite tricky to do _correctly_ (see below). We strongly suggest you contact an image analysis expert before proceeding with this type of analysis because there are so many places things can go wrong. In general, you want to measure on either raw images, or illumination-corrected images, but in general with minimal image processing. Illumination-correction is a form of image processing to compensate for the uneven pattern of illumination produced by most light sources where the middle of the field of illumination is brighter than the edges. Then intensity measurements can be made in any standard image analysis software, either across the whole image or in identified objects. See below for an example workflow:
+Intensity is relatively straightforward to measure, but can be quite tricky to do _correctly_ (see below). We strongly suggest you contact an image analysis expert before proceeding with this type of analysis because there are so many places things can go wrong. In general, you want to measure on either raw images, or illumination-corrected images, but in general with minimal {term}`image processing`. Illumination-correction is a form of {term}`image processing` to compensate for the uneven pattern of illumination produced by most light sources where the middle of the field of illumination is brighter than the edges. Then intensity measurements can be made in any standard image analysis software, either across the whole image or in identified objects. See below for an example workflow:
 
 ```{mermaid}
 flowchart LR
