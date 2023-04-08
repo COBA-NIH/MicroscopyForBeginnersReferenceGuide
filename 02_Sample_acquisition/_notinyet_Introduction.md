@@ -1,4 +1,4 @@
-# Setting up your acquisition
+# Sample Acquisition
 
 ## Introduction
 

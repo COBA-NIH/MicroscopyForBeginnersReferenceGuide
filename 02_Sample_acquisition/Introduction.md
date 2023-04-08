@@ -1,3 +1,0 @@
-# Sample Acquisition
-
-## Introduction

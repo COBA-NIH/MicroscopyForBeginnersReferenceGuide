@@ -10,3 +10,7 @@ In addition to the mistakes we summarize for common image analysis tasks, here w
    ![image](https://user-images.githubusercontent.com/28116530/206793825-364998d4-6043-4b1d-8438-0a5b37b97232.png)
 
    
+<!-- 
+Commented out text not shown on the page
+
+ -->
