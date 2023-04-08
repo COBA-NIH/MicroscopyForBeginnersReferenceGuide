@@ -38,3 +38,8 @@ align: center
 
 ```
 
+<!-- Stuff we know we still want to add
+Versioning
+GitHub
+DataLad
+ -->
