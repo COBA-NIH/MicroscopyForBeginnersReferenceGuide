@@ -13,6 +13,9 @@
 * - Peter Bankhead’s Intro to Bioimage Analysis
   - https://bioimagebook.github.io/
   - Guide for absolute beginners to image analysis, including embedded questions/answers, exercises with Python and ImageJ, and videos to check understanding
+* - Bioimage Data Analysis
+  - https://analyticalscience.wiley.com/do/10.1002/was.00050003/full/bioimagedataanalysis.pdf
+  - A free online textbook introducing various topics by Bioimage Analysis experts, edited by Kota Miura 
 * - Reproducible image handling and analysis 
   - https://www.embopress.org/doi/full/10.15252/embj.2020105889 
   - An article reviewing major pitfalls in image handling and how to avoid them and create reproducible analysis workflows
@@ -34,4 +37,10 @@
 * - Galaxy Imaging Node 
   - https://imaging.usegalaxy.eu/ 
   - A Galaxy node prepopulated with a number of open-source image analysis tools and workflows, making it easy to create and share reproducible FAIR workflows
+* - Bioimage Analysis AwesomeList
+  - https://github.com/hallvaaw/awesome-biological-image-analysis
+  - A curated [AwesomeList](https://github.com/sindresorhus/awesome) of resources related to bioimage analysis
+* - Bioimage Analysis AwesomeList
+  - https://github.com/hallvaaw/awesome-biological-image-analysis
+  - A curated [AwesomeList](https://github.com/sindresorhus/awesome) of resources related to bioimage analysis  
 ```
