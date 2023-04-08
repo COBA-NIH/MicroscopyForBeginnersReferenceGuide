@@ -13,7 +13,7 @@ align: center
 ```
 ## What is this book?
 
-This book is a companion website to our paper [A biologist’s guide to the field of quantitative bioimaging](https://doi.org/10.5281/zenodo.7439283) Our goal is to provide recommendations and a curated set of resources for biologists looking to understand the factors that impact their fluorescence microscopy experiments.
+This book is a companion website to our paper "[**_A biologist’s guide to the field of quantitative bioimaging_**](https://doi.org/10.5281/zenodo.7439283)". Our goal is to provide recommendations and a curated set of resources for biologists looking to understand the factors that impact their fluorescence microscopy experiments.
 
 This book is a collaborative effort from experts in biology, imaging, image analysis, and data management, interpretation, and presentation. Our tips and recommendations come from real experiences training and working with biologists who are beginners to bioimaging and bioimage analysis. When starting out in a new field, you often don't know what you don't know. Here we provide context, tips for avoiding common beginner errors, and a focused list of high-quality, open source resources (full list available [HERE LINK]). We use icons to indicate the type of resource:
 
