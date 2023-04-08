@@ -6,8 +6,15 @@
 Fiji
   [Fiji](https://imagej.net/software/fiji/) Is Just ImageJ. ImageJ2 plus a lot of common plugins.
 
+Fixation
+  Fixation of a specimen refers to the stabilization of the cellular/molecular components within the sample while at the same time stopping any biological function in that sample. The fixative used (e.g., paraformaldehyde, glutaraldehyde, methanol), concentration and conditions (e.g., buffer, temperature) determine the extent of preservation of the cellular and/or molecular structures within a sample, and needs to be optimized depending on the sample or structure that is being imaged.
+
+
 Image processing
   Is an operation that can be performed on an image, the result benign another image. There are simple image processing operations, like resizing or rotating an image. And other more advanced like enhancing particular features of an image like circles or lines.
+
+Refractive index
+  It's a measure of how light travels through a specific medium. It is an important value when calculating the numerical aperture of an objective, Ideally, a mismatch in refractive index between the sample (mounting medium), the coverslip and immersion media should be minimized in order to enhance the image quality. 
 
 ROIs
   Regions Of Interest. Pixels in your image that you care about (e.g., a region in tissue, a cell, a tumor, etc.) 
