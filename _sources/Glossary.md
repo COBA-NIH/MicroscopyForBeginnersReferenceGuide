@@ -29,4 +29,32 @@ Detection
 Thresholding
   The easiest form of image segmentation, it divides the image into two part the background and the foreground (or signal). It creates a binary image were usually the background pixels would be change to a 0 value and the foreground pixels values would be 1.
 
+Widefield
+Super-resolution
+Deconvolution
+Confocal microscopy
+Spectral imaging
+Light sheet
+Multiphoton
+Optical clearing
+Köhler illumination
+Wavelength
+Intensity
+Objectives
+Light source
+Laser
+Absorption
+Numerical aperture (NA)
+Color correction
+Working distance (WD)
+Emission spectra
+Photobleaching
+Detector
+Phototoxicity
+Saturation
+Photo-multiplier tube
+Averaging
+Signal to noise ratio
+
+
   -->
