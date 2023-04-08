@@ -30,7 +30,7 @@
   - Repository platform for searching bioimage analysis tools and workflows based on the problem, method or software of choice
 * - iBiology Bioimage Analysis video series
   - https://youtu.be/1xo4vi6Ub4I 
-  - Video series that introduces Bioimage analysis, including overviews of image processing, segmentation, tracking, making and interpreting measurements, tips and pitfalls
+  - Video series that introduces Bioimage analysis, including overviews of {term}`image processing`, {term}`segmentation`, tracking, making and interpreting measurements, tips and pitfalls
 * - Bioimage ANalysis Desktop (BAND)
   - https://band.embl.de 
   - Access to virtual desktops allowing access to bioimage analysis software from a browser

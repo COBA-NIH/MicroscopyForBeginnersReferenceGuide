@@ -17,7 +17,7 @@ Shape measurements describe the 2D or 3D form of objects in our sample. Common s
 
 ```{dropdown} 📏 How do I measure it?
 
-After segmenting an image to locate the pixels belonging to different objects, morphology can be measured readily in many image analysis softwares, like FIJI and CellProfiler. For example, in {term}`Fiji`, after identifying your objects as {term}`ROIs`, be sure to **Analyze > Set Measurements…** and select “Shape Descriptors” then simply measure your ROIs with **Analyze > Measure**. In CellProfiler, this is accomplished using the module MeasureObjectSizeShape.
+After segmenting an image to locate the pixels belonging to different objects, morphology can be measured readily in many image analysis softwares, like FIJI and CellProfiler. For example, in {term}`Fiji`, after identifying your objects as {term}`ROIs`, be sure to **Analyze > Set Measurements…** and select “Shape Descriptors” then simply measure your {term}`ROIs` with **Analyze > Measure**. In CellProfiler, this is accomplished using the module MeasureObjectSizeShape.
 ```
 
 ```{dropdown} <span style="color: red">⚠️</span> Where can things go wrong?

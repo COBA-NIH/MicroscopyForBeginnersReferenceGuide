@@ -71,7 +71,7 @@ Whatever software you choose, be sure to include a detailed description of your 
 :columns: 4
 :img-top: https://www.cellpose.org/static/images/cellpose_transparent.png
 ```{dropdown} Cellpose
-[Cellpose](https://www.cellpose.org/) is a segmentation algorithm, it provides a graphical user interface that allows users to use trained models or train their own using their images and annotations.
+[Cellpose](https://www.cellpose.org/) is a {term}`segmentation` algorithm, it provides a graphical user interface that allows users to use trained models or train their own using their images and annotations.
 [Read more...](content/cellpose)
 ```
 :::
@@ -80,7 +80,7 @@ Whatever software you choose, be sure to include a detailed description of your 
 :columns: 4
 :img-top: https://global.discourse-cdn.com/business4/uploads/imagej/original/3X/9/f/9f5be5e138c63bc6a50be0bb0027b8eef0194935.png
 ```{dropdown} ilastik
-[ilastik](https://www.ilastik.org/) is a tool for interactive image classification, segmentation and analysis. It leverages machine-learning algorithms to perform pixel and object-level classification. Using it requires no experience in image processing.
+[ilastik](https://www.ilastik.org/) is a tool for interactive image classification, {term}`segmentation` and analysis. It leverages machine-learning algorithms to perform pixel and object-level classification. Using it requires no experience in {term}`image processing`.
 [Read more...](content/ilastik)
 ```
 :::

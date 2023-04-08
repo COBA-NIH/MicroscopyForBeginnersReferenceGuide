@@ -65,7 +65,7 @@ For documentation examples and  tutorials.
 (content/qupath)=
 ## <img src="https://global.discourse-cdn.com/business4/uploads/imagej/optimized/3X/6/0/6039b2daa4b6b1c32943f63f464cf3c477898bfe_2_750x750.png" alt="logo" width="30px"> QuPath
 
-[QuPath](https://qupath.github.io/) offers a wide set of image analysis tools that can be applied to whole slide images. For that reason it is widely utilized with pathology images, but it can be used with other images as well. QuPath also contains pixel classification tools and can integrate with ImageJ (e.g., for sending ROIs between the programs, or for accessing ImageJ plugins). 
+[QuPath](https://qupath.github.io/) offers a wide set of image analysis tools that can be applied to whole slide images. For that reason it is widely utilized with pathology images, but it can be used with other images as well. QuPath also contains pixel classification tools and can integrate with ImageJ (e.g., for sending {term}`ROIs` between the programs, or for accessing ImageJ plugins). 
 
 
 ```{dropdown} What are its disadvantages?
