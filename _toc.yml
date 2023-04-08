@@ -40,6 +40,7 @@ parts:
       - file: 03_Image_analysis/SpecificUseSoftware
   - file: 03_Image_analysis/Data_management
     title: Data management and sharing
+  - file: 03_Image_analysis/Resources
 - caption: Data Interpretation
   chapters:
   - file: 04_Data_presentation/Introduction
