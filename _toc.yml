@@ -52,6 +52,7 @@ parts:
     title: Presentation of graphs
 - caption:  Additional Resources
   chapters:
+  - file: community_resources
   - file: contributors
   - file: Glossary
     title: Glossary
