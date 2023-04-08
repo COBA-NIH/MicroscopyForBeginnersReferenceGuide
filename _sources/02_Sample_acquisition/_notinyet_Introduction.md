@@ -1,3 +1,4 @@
+(content/acquisition)=
 # Sample Acquisition
 
 ## Introduction
