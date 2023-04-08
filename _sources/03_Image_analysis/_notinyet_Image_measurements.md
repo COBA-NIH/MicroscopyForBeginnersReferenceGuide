@@ -23,3 +23,7 @@ types of methods that can be used to obtain this measurement.
 
 - 📄 [Co-occurrence versus correlation and their use in bioimage analysis](https://journals.biologists.com/jcs/article/131/3/jcs211847/77151/Image-co-localization-co-occurrence-versus)
 
+<!-- 
+Commented out text not shown on the page
+
+ -->

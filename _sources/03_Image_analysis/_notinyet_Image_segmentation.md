@@ -1,4 +1,4 @@
-# Setting up your acquisition
+# Image Segmentation
 
 ## Introduction
 

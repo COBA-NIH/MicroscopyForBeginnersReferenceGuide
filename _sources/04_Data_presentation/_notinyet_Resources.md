@@ -2,7 +2,7 @@
 
 ```{list-table}
 :header-rows: 1
-:name: sample-preparation-resource-table
+:name: data-presentation-resource-table
 
 * - **Resource Name**
   - **Link**
@@ -12,3 +12,8 @@
   - 
 
 ```
+
+<!-- 
+Commented out text not shown on the page
+
+ -->
