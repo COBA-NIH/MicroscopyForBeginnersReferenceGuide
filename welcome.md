@@ -26,6 +26,7 @@ This book is a collaborative effort from experts in biology, imaging, image anal
 
 | **Icon** | **Resource type**          |
 |:--------:|----------------------------|
+|   📖     | Textbook (free online)     |
 |   📄     | Scientific paper           |
 |   💻     | Software or software notes |
 |   🌐     | Website                    |

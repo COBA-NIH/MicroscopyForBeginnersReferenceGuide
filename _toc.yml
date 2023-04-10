@@ -50,4 +50,5 @@ parts:
   - file: contributors
   - file: Glossary
     title: Glossary
+  - file: bibliography
   - file: genindex
