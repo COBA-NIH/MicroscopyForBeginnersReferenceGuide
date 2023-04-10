@@ -13,6 +13,13 @@ align: center
 **Flow chart to help choose which type of microscope to use.** Figure by Jeremy Sanderson. [Source](https://www.researchgate.net/figure/Flow-chart-to-help-choose-which-type-of-microscope-to-use_fig5_341918746)
 ```
 
+## Opportunities for microscopy resource access
+
+While some imaging facilities are open only to members of a single institution, others allow outside visitors or even sponsor visitors to travel to them. 
+
+* **Advanced Imaging Center - Janelia Research Campus.** The AIC was created to give access to the broad scientific community to new imaging instruments that are not commercially available. Proposals can be submitted during open calls at [their website](https://www.aicjanelia.org/apply).
+
+
 <!-- 
 Commented out text not shown on the page
 
