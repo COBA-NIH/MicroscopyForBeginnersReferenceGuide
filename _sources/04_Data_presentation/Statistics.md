@@ -27,12 +27,9 @@ Think about linking out to the Datasaurus Dozen https://www.google.com/url?q=htt
 ```
 
 ```{dropdown} 📚🤷‍♀️ Where can I learn more?
-
-<!-- 
-To learn more about dimensionality reduction in general: CJC Burges, Dimension Reduction: A Guided Tour, ISBN‎ 978-1601983787 (freely available textbook)
-To learn more about UMAP and use it in Python: https://umap-learn.readthedocs.io/en/latest/index.html
-To use t-SNE in Python: https://scikit-learn.org/stable/modules/generated/sklearn.manifold.TSNE.html 
--->
+* 📖 [Dimension Reduction: A Guided Tour](https://www.researchgate.net/publication/220416606_Dimension_Reduction_A_Guided_Tour)
+* 💻 [UMAP introduction and Python implementation](https://umap-learn.readthedocs.io/en/latest/index.html) 
+* 💻 [t-SNE Python implementation](https://scikit-learn.org/stable/modules/generated/sklearn.manifold.TSNE.html)
 
 ```
 
@@ -52,11 +49,9 @@ One major thing that would be nice to clarify in this particular case - how do y
 -->
 ```
 ```{dropdown} 📚🤷‍♀️ Where can I learn more?
-<!-- 
-To learn more about batch effects and how to correct them: https://doi.org/10.1016/j.tibtech.2017.02.012 
-To use ComBat in Python: pyComBat , https://epigenelabs.github.io/pyComBat/
-To learn more about SVA (and use it in R): https://doi.org/10.1093/bioinformatics/bts034 
--->
+* 📄 [Why Batch Effects Matter in Omics Data, and How to Avoid Them](https://doi.org/10.1016/j.tibtech.2017.02.012)
+* 💻 [pyComBat (ComBat Python implementation)](https://epigenelabs.github.io/pyComBat/)
+* 📄 [The sva package for removing batch effects and other unwanted variation in high-throughput experiments](https://doi.org/10.1093/bioinformatics/bts034)
 
 ```
 
@@ -73,11 +68,9 @@ A p-values smaller than a pre-defined significance threshold (usually 0.05) indi
 Although lots of the “standard” statistical methods have been designed with a normnality assumption, alternative approaches exist for non-normally-ditributed data. Many biological processes result in multimodal “states” (for instance differentiation) that are inherently not Gaussian. Normality testing should therefore not be mistaken for a quality assessment of the data: it merely informs on the types of tools that are appropriate to use when analyzing them.
 ```
 ```{dropdown} 📚🤷‍♀️ Where can I learn more?
-<!-- 
-To learn more about statistics in biology: W. Huber & S. Holmes, Modern statistics for modern biology, https://www.huber.embl.de/msmb/ (freely available textbook)
-To get started with statistical analysis: R, https://www.r-project.org/
-To do statistics in Python: scipy.stats, https://docs.scipy.org/doc/scipy/reference/stats.html
--->
+* 📖 [Modern statistics for modern biology](https://www.huber.embl.de/msmb/)
+* 💻 [To get started with statistical analysis: R](https://www.r-project.org/)
+* 💻 [To do statistics in Python: scipy.stats](https://docs.scipy.org/doc/scipy/reference/stats.html)
 
 ```
 <!-- 

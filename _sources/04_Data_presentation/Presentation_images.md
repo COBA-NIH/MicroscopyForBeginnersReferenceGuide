@@ -27,8 +27,8 @@ See the [cheat-sheet below](image-cheat-sheet) for more information.
 Any adjustments that alter the conclusions are not permitted. 
 ```
 ```{dropdown} 📚🤷‍♀️ Where can I learn more?
-* 📄 <!--(Miura and Norrelykke, 2021).--> 
-* 📄 <!--(Cromey DW).-->
+* 📄 [Reproducible image handling and analysis](https://doi.org/10.15252/embj.2020105889)
+* 📄 [Avoiding Twisted Pixels: Ethical Guidelines for the Appropriate Use and Manipulation of Scientific Digital Images](https://doi.org/10.1007%2Fs11948-010-9201-y)
 ```
 ````
 
@@ -45,7 +45,7 @@ See the [cheat-sheet below](image-cheat-sheet) for more information.
 Any adjustments that result in the disappearance of image details are considered misleading  <!--(Cromey DW).-->. Note that many nonlinear transformations of brightness and contrast are available in image processing software, before using these users should ensure that they faithfully represent the data to avoid accidentally misleading audiences and disclose them as annotations.
 ```
 ```{dropdown} 📚🤷‍♀️ Where can I learn more?
-* 📄 <!--(Cromey DW).-->
+* 📄 [Avoiding Twisted Pixels: Ethical Guidelines for the Appropriate Use and Manipulation of Scientific Digital Images](https://doi.org/10.1007%2Fs11948-010-9201-y)
 ```
 ````
 
@@ -65,7 +65,7 @@ For composite images consider if color combinations are accessible to color-blin
 Tools for color blindness simulation of the images exist in image processing software (ImageJ/Fiji) and visibility of colors in final image figures can be tested with applications such as ColorOracle. 
 ```
 ```{dropdown} 📚🤷‍♀️ Where can I learn more?
-* 📄 <!--(Jambor et al PLosBio).--> 
+* 📄 [Creating clear and informative image-based figures for scientific publications](https://doi.org/10.1371/journal.pbio.3001161) {cite}`Jambor2021-qe`
 ```
 ````
 
@@ -85,7 +85,8 @@ Lack of details and missing of key explanations will make it impossible for audi
 To unambiguously reference probes consider using terms from the ISAC Probe Tag Dictionary, a standardized nomenclature for probers used in cytometry and microscopy. 
 ```
 ```{dropdown} 📚🤷‍♀️ Where can I learn more?
-* 📄 <!--(Blenman et al, Cytometry, 2021).--> 
+* 📄 [ISAC Probe Tag Dictionary: Standardized Nomenclature for Detection and Visualization Labels Used in Cytometry and Microscopy Imaging
+](https://doi.org/10.1002/cyto.a.24224)
 ```
 ````
 
@@ -99,9 +100,9 @@ See the [cheat-sheet below](image-cheat-sheet) for more information.
 Missing explanations of image details/methods may result in non-reproducible data and limits the insights from the data. 
 ```
 ```{dropdown} 📚🤷‍♀️ Where can I learn more?
-* 📄 <!--(Sheen et al for the consequences of unintelligible images in research.).--> 
-* 📄 <!--(Marques et al for a survey of method statements in papers with image data.).-->
-* 📄 <!--(Yu, Agarwal, Johnston and Cohen for a user analysis of the understandability of figure legends in the literature ).-->
+* 📄 [Replication Study: Biomechanical remodeling of the microenvironment by stromal caveolin-1 favors tumor invasion and metastasis](https://doi.org/10.7554/eLife.45120)
+* 📄 [Imaging methods are vastly underreported in biomedical research](https://doi.org/10.7554/eLife.55133)
+* 📄 [Are figure legends sufficient? Evaluating the contribution of associated text to biomedical figure comprehension.](https://doi.org/10.1186/1747-5333-4-1)
 ```
 ````
 

@@ -17,7 +17,7 @@
   - [link](https://www.protocols.io/)
   - A secure platform for developing and sharing reproducible methods 
 * - Designing a rigorous microscopy experiment: Validating methods and avoiding bias 
-  - [link](https://rupress.org/jcb/article/218/5/1452/120908/Designing-a-rigorous-microscopy-experiment )
+  - [link](https://rupress.org/jcb/article/218/5/1452/120908/Designing-a-rigorous-microscopy-experiment)
   - Review of aspects of designing a rigorous light microscopy experiment, including validation of samples and imaging, identification and correction of errors, and strategies to avoid biases
 
 ```
