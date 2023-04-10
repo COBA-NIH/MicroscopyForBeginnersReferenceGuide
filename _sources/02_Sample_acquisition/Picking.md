@@ -1,4 +1,4 @@
-# Picking the right microscopy modality
+# Choosing the right microscopy modality
 
 ## Introduction
 
