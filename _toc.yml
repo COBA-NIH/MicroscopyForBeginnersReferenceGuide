@@ -9,6 +9,7 @@ parts:
     title: General experimental design
   - file: 01_Sample_preparation/Reproducibility
     title: Reproducibility
+  - file: 01_Sample_preparation/Resources
 - caption: Sample Acquisition
   chapters:
   - file: 02_Sample_acquisition/Picking
