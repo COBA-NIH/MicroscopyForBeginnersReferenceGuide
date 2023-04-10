@@ -47,9 +47,6 @@ parts:
   - file: 04_Data_presentation/Presentation_images
   - file: 04_Data_presentation/Statistics
     title: Statistics
-
-  - file: 04_Data_presentation/Presentation_graphs
-    title: Presentation of graphs
 - caption:  Additional Resources
   chapters:
   - file: community_resources
