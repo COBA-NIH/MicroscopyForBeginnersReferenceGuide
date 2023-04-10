@@ -12,6 +12,7 @@ parts:
 - caption: Sample Acquisition
   chapters:
   - file: 02_Sample_acquisition/Picking
+  - file: 02_Sample_acquisition/Resources
 - caption: Image Analysis and Data Handling
   chapters:
   - file: 03_Image_analysis/Introduction
@@ -41,6 +42,7 @@ parts:
   - file: 04_Data_presentation/Introduction
   - file: 04_Data_presentation/Presentation_images
   - file: 04_Data_presentation/Statistics
+  - file: 04_Data_presentation/Resources
 - caption:  Additional Resources
   chapters:
   - file: community_resources
