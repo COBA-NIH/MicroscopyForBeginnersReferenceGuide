@@ -6,7 +6,7 @@ Tools on this page tend to be relatively multipurpose across a lot of kinds of a
 ## <img src="https://imagej.net/media/icons/imagej2.png" alt="logo" width="30px"> ImageJ
 
 
-[ImageJ](https://imagej.net/) is an imaging processing program that is capable of operating on a variety of images including multichannel, 3D and time series. It provides a variety of basic imaging processing operations, but it can be complemented with a variety of plugins for more complex tasks.
+[ImageJ](https://imagej.net/){cite}`Schneider2012-gs,Schindelin2012-kk,Rueden2017-ku` is an imaging processing program that is capable of operating on a variety of images including multichannel, 3D and time series. It provides a variety of basic imaging processing operations, but it can be complemented with a variety of plugins for more complex tasks.
 
 ```{dropdown} What are its disadvantages?
 
@@ -33,7 +33,7 @@ For documentation and tutorials on how to use ImageJ as well as a list of availa
 (content/cellprofiler)=
 ## <img src="https://global.discourse-cdn.com/business4/uploads/imagej/original/2X/b/bcdcd5ba157e07e74dd1964ec81765e708455ed9.png" alt="logo" width="30px"> CellProfiler
 
-[CellProfiler](https://cellprofiler.org/) is a software designed for biologists by biologists; it creates a bridge between image analysis and scientist with no need of computational expertise. It was designed with the idea of an image analysis pipeline in mind: it allows you to take a series of interoperable modules to design your own custom analysis pipeline that can be applied to one or thousands of images, making it suitable for high throughput image analysis. 
+[CellProfiler](https://cellprofiler.org/){cite}`Stirling2021-sg` is a software designed for biologists by biologists; it creates a bridge between image analysis and scientist with no need of computational expertise. It was designed with the idea of an image analysis pipeline in mind: it allows you to take a series of interoperable modules to design your own custom analysis pipeline that can be applied to one or thousands of images, making it suitable for high throughput image analysis. 
 
 
 ```{dropdown} What are its disadvantages?
@@ -65,7 +65,7 @@ For documentation examples and  tutorials.
 (content/qupath)=
 ## <img src="https://global.discourse-cdn.com/business4/uploads/imagej/optimized/3X/6/0/6039b2daa4b6b1c32943f63f464cf3c477898bfe_2_750x750.png" alt="logo" width="30px"> QuPath
 
-[QuPath](https://qupath.github.io/) offers a wide set of image analysis tools that can be applied to whole slide images. For that reason it is widely utilized with pathology images, but it can be used with other images as well. QuPath also contains pixel classification tools and can integrate with ImageJ (e.g., for sending {term}`ROIs` between the programs, or for accessing ImageJ plugins). 
+[QuPath](https://qupath.github.io/){cite}`Bankhead2017-kz` offers a wide set of image analysis tools that can be applied to whole slide images. For that reason it is widely utilized with pathology images, but it can be used with other images as well. QuPath also contains pixel classification tools and can integrate with ImageJ (e.g., for sending {term}`ROIs` between the programs, or for accessing ImageJ plugins). 
 
 
 ```{dropdown} What are its disadvantages?
@@ -92,7 +92,7 @@ For documentation examples and  tutorials.
 (content/icy)=
 ## <img src="https://icy.bioimageanalysis.org/wp-content/uploads/2018/07/logo_full_notext600px.png" alt="logo" width="30px"> Icy
 
-[Icy](https://icy.bioimageanalysis.org/) is an out of the box image analysis tools, it utilizes plugins to create visual image analysis protocols that can be shared with other users.
+[Icy](https://icy.bioimageanalysis.org/){cite}`De_Chaumont2012-pe` is an out of the box image analysis tools, it utilizes plugins to create visual image analysis protocols that can be shared with other users.
 
 
 ```{dropdown} What are its disadvantages?
@@ -121,7 +121,7 @@ For documentation examples and  tutorials.
 (content/mib)=
 ## <img src="https://global.discourse-cdn.com/business4/uploads/imagej/optimized/3X/7/4/74273a1f9a663b52053d44c9767ed49193f2170f_2_787x750.png" alt="logo" width="30px"> MIB (Microscopy Image Browser) 
 
-[MIB](http://mib.helsinki.fi/index.html) is a user-friendly software for image analysis of multidimensional datasets for both light and electron microscopy. It allows you to use the whole acquired data for its analysis and extraction of morphological features.
+[MIB](http://mib.helsinki.fi/index.html){cite}`Belevich2016-vi` is a user-friendly software for image analysis of multidimensional datasets for both light and electron microscopy. It allows you to use the whole acquired data for its analysis and extraction of morphological features.
 
 
 ```{dropdown} What are its disadvantages?
@@ -151,7 +151,7 @@ For documentation examples and  tutorials.
 (content/napari)=
 ## <img src="https://global.discourse-cdn.com/business4/uploads/imagej/optimized/3X/7/7/775e83f70639e1cb7cb299d8681d272e18718089_2_750x750.png" alt="logo" width="30px"> napari
 
-[napari](https://napari.org/) is being developed as a multi-dimensional image viewer that can be expanded via a variety of plugins to perform basic and complex image analysis tasks.
+[napari](https://napari.org/){cite}`Sofroniew2022-nd` is being developed as a multi-dimensional image viewer that can be expanded via a variety of plugins to perform basic and complex image analysis tasks.
 
 
 ```{dropdown} What are its disadvantages?
