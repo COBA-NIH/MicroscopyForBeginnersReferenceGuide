@@ -5,7 +5,7 @@ Tools on this page tend to be extremely good at certain tasks, but are less inte
 (content/cellpose)=
 ## <img src="https://www.cellpose.org/static/images/cellpose_transparent.png" alt="logo" width="30px"> Cellpose
 
-[Cellpose](https://www.cellpose.org/) is a {term}`segmentation` algorithm, it provides a graphical user interface that allows users to use trained models or train their own using their images and annotations.
+[Cellpose](https://www.cellpose.org/){cite}`Stringer2021-uq` is a {term}`segmentation` algorithm, it provides a graphical user interface that allows users to use trained models or train their own using their images and annotations.
 
 
 ```{dropdown} What type of image analysis problem is it best at?
@@ -32,7 +32,7 @@ Object {term}`segmentation`, most trained models are for cell {term}`segmentatio
 (content/ilastik)=
 ## <img src="https://global.discourse-cdn.com/business4/uploads/imagej/original/3X/9/f/9f5be5e138c63bc6a50be0bb0027b8eef0194935.png" alt="logo" width="30px"> ilastik
 
-[ilastik](https://www.ilastik.org/) is a tool for interactive image classification, {term}`segmentation` and analysis. It leverages machine-learning algorithms to perform pixel and object-level classification. Using it requires no experience in {term}`image processing`.
+[ilastik](https://www.ilastik.org/){cite}`Berg2019-no` is a tool for interactive image classification, {term}`segmentation` and analysis. It leverages machine-learning algorithms to perform pixel and object-level classification. Using it requires no experience in {term}`image processing`.
 
 
 ```{dropdown} What type of image analysis problem is it best at?
