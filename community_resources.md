@@ -27,7 +27,7 @@ Below are globally and locally available community resources
 
 ```{list-table}
 :header-rows: 1
-:name: global-resource-table
+:name: local-resource-table
 
 * - **Resource Name**
   - **Link**
