@@ -59,5 +59,5 @@ flowchart LR
 ```{dropdown} 📚🤷‍♀️ Where can I learn more?
 
 * 🔢 [Theoretical background on colocalization](https://svi.nl/ColocalizationTheory)
-* 📄 [Co-occurrence versus correlation and their use in bioimage analysis](https://journals.biologists.com/jcs/article/131/3/jcs211847/77151/Image-co-localization-co-occurrence-versus)
+* 📄 [Co-occurrence versus correlation and their use in bioimage analysis](https://journals.biologists.com/jcs/article/131/3/jcs211847/77151/Image-co-localization-co-occurrence-versus){cite}``
 ```

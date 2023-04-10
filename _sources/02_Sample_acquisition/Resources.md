@@ -10,10 +10,10 @@
 * - Nikon MicroscopyU 
   - [link](https://www.microscopyu.com/microscopy-basics)
   - Fundamentals of microscopy explained for beginners with lots of images and plain language descriptions of terms used in microscopy
-* - Fluorescence microscopy - avoiding the pitfalls 
+* - Fluorescence microscopy - avoiding the pitfalls {cite}``
   - [link](https://journals.biologists.com/jcs/article/120/10/1703/29404/Fluorescence-microscopy-avoiding-the-pitfalls)
   - Short overview of some of the most common pitfalls for beginners to fluorescence microscopy
-* - Best practices and tools for reporting reproducible fluorescence microscopy methods 
+* - Best practices and tools for reporting reproducible fluorescence microscopy methods {cite}``
   - [link](https://www.nature.com/articles/s41592-021-01156-w)
   - Guidelines and resources for accurate reporting of the most common fluorescence light microscopy techniques, emphasizing the impact of accurate microscopy metadata on data interpretation.
 * - Advanced Imaging Center 
