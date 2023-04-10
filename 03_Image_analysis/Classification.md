@@ -27,7 +27,7 @@ In **unsupervised classification**, you group objects based on their measurement
 
 ```{figure} ../images/discrete_classes.png
 ---
-alt: drawing discrete boun
+alt: a continuous distribution of cell cycle states
 width: 100%
 align: center
 ---
