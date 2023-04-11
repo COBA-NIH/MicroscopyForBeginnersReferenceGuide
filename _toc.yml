@@ -1,6 +1,9 @@
 format: jb-book
 root: welcome
 parts:
+- caption: 
+  chapters:
+  - file: QuantitativeBioimaging
 - caption: Sample Preparation
   chapters:
   - file: 01_Sample_preparation/Introduction
