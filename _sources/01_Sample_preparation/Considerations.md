@@ -91,7 +91,7 @@ _Disadvantages_
 ```{dropdown} 📚🤷‍♀️ Where can I learn more?
 
 * 📄 [Organoids Primer](https://www.nature.com/articles/s43586-022-00174-y#:~:text=An%20organoid%20is%20a%20self,%2C9%2C10%2C11.) {cite}`Zhao2022-rm` 
-* 📄 [Tutorial: guidance for quantitative confocal microscopy](https://pubmed.ncbi.nlm.nih.gov/32235926/) {cite}`Jonkman2020-bo`
+* 📄 [Tutorial: guidance for quantitative confocal microscopy](https://doi.org/10.1038/s41596-020-0313-9) {cite}`Jonkman2020-bo`
 * 📄 [Hypothesis-driven quantitative fluorescence microscopy - the importance of reverse-thinking in experimental design](https://pubmed.ncbi.nlm.nih.gov/33154172/) {cite}`Wait2020-gq`
 
 ```
