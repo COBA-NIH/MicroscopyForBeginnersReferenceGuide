@@ -1,4 +1,4 @@
-# Object Tracking
+# Object tracking
 
 ## What is tracking?
 Tracking, or _object tracking_, refers to the ability to estimate the location of objects in motion from one frame of video to the next. Practically, object tracking in microscopy involves identifying your objects in each frame of your video, then relating objects from frame to frame to be able to identify the same cell as it moves in space.
