@@ -31,9 +31,9 @@ align: center
 * 🌐 [Zenodo](https://zenodo.org/) 
 * 🌐 [Figshare](https://figshare.com)
 * 🌐 [Dryad](https://datadryad.org)
-* 🌐 [Bioimage Archive](https://www.ebi.ac.uk/bioimage-archive/){cite}``
-* 🌐 [Image Data Resource (IDR)](https://idr.openmicroscopy.org/){cite}``
-* 🌐 [BBBC](https://bbbc.broadinstitute.org/){cite}``
+* 🌐 [Bioimage Archive](https://www.ebi.ac.uk/bioimage-archive/) {cite}`Hartley2022-mt`
+* 🌐 [Image Data Resource (IDR)](https://idr.openmicroscopy.org/) {cite}`Williams2017-yy`
+* 🌐 [BBBC](https://bbbc.broadinstitute.org/) {cite}`Ljosa2012-fr`
 * 🌐 [Cell Painting Gallery](https://registry.opendata.aws/cellpainting-gallery/)
 
 ```

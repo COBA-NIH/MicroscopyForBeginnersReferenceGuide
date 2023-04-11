@@ -27,8 +27,8 @@ See the [cheat-sheet below](image-cheat-sheet) for more information.
 Any adjustments that alter the conclusions are not permitted. 
 ```
 ```{dropdown} 📚🤷‍♀️ Where can I learn more?
-* 📄 [Reproducible image handling and analysis](https://doi.org/10.15252/embj.2020105889){cite}``
-* 📄 [Avoiding Twisted Pixels: Ethical Guidelines for the Appropriate Use and Manipulation of Scientific Digital Images](https://doi.org/10.1007%2Fs11948-010-9201-y){cite}``
+* 📄 [Reproducible image handling and analysis](https://doi.org/10.15252/embj.2020105889) {cite}`Miura2021-mb`
+* 📄 [Avoiding Twisted Pixels: Ethical Guidelines for the Appropriate Use and Manipulation of Scientific Digital Images](https://doi.org/10.1007%2Fs11948-010-9201-y) {cite}`Cromey2010-jr`
 ```
 ````
 
@@ -45,7 +45,7 @@ See the [cheat-sheet below](image-cheat-sheet) for more information.
 Any adjustments that result in the disappearance of image details are considered misleading  <!--(Cromey DW).-->. Note that many nonlinear transformations of brightness and contrast are available in image processing software, before using these users should ensure that they faithfully represent the data to avoid accidentally misleading audiences and disclose them as annotations.
 ```
 ```{dropdown} 📚🤷‍♀️ Where can I learn more?
-* 📄 [Avoiding Twisted Pixels: Ethical Guidelines for the Appropriate Use and Manipulation of Scientific Digital Images](https://doi.org/10.1007%2Fs11948-010-9201-y){cite}``
+* 📄 [Avoiding Twisted Pixels: Ethical Guidelines for the Appropriate Use and Manipulation of Scientific Digital Images](https://doi.org/10.1007%2Fs11948-010-9201-y) {cite}`Cromey2010-jr`
 ```
 ````
 
@@ -86,7 +86,7 @@ To unambiguously reference probes consider using terms from the ISAC Probe Tag D
 ```
 ```{dropdown} 📚🤷‍♀️ Where can I learn more?
 * 📄 [ISAC Probe Tag Dictionary: Standardized Nomenclature for Detection and Visualization Labels Used in Cytometry and Microscopy Imaging
-](https://doi.org/10.1002/cyto.a.24224){cite}``
+](https://doi.org/10.1002/cyto.a.24224) {cite}`Blenman2021-ki`
 ```
 ````
 
@@ -100,9 +100,9 @@ See the [cheat-sheet below](image-cheat-sheet) for more information.
 Missing explanations of image details/methods may result in non-reproducible data and limits the insights from the data. 
 ```
 ```{dropdown} 📚🤷‍♀️ Where can I learn more?
-* 📄 [Replication Study: Biomechanical remodeling of the microenvironment by stromal caveolin-1 favors tumor invasion and metastasis](https://doi.org/10.7554/eLife.45120){cite}``
-* 📄 [Imaging methods are vastly underreported in biomedical research](https://doi.org/10.7554/eLife.55133){cite}``
-* 📄 [Are figure legends sufficient? Evaluating the contribution of associated text to biomedical figure comprehension.](https://doi.org/10.1186/1747-5333-4-1){cite}``
+* 📄 [Replication Study: Biomechanical remodeling of the microenvironment by stromal caveolin-1 favors tumor invasion and metastasis](https://doi.org/10.7554/eLife.45120) {cite}`Sheen2019-bg`
+* 📄 [Imaging methods are vastly underreported in biomedical research](https://doi.org/10.7554/eLife.55133) {cite}`Marques2020-nx`
+* 📄 [Are figure legends sufficient? Evaluating the contribution of associated text to biomedical figure comprehension.](https://doi.org/10.1186/1747-5333-4-1) {cite}`Yu2009-ip`
 ```
 ````
 
