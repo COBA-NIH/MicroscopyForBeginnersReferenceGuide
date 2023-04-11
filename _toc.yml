@@ -5,11 +5,6 @@ parts:
   chapters:
   - file: 01_Sample_preparation/Introduction
   - file: 01_Sample_preparation/Considerations
-    title: Considerations for different sample types
-  - file: 01_Sample_preparation/Experimental_design
-    title: General experimental design
-  - file: 01_Sample_preparation/Reproducibility
-    title: Reproducibility
   - file: 01_Sample_preparation/Resources
 - caption: Sample Acquisition
   chapters:
@@ -18,26 +13,18 @@ parts:
 - caption: Image Analysis and Data Handling
   chapters:
   - file: 03_Image_analysis/Introduction
-    title: Introduction
   - file: 03_Image_analysis/Common_types_of_analysis.md
-    title: Common types of analysis
     sections:
       - file: 03_Image_analysis/Shape
-        title: Size and Shape measurements
       - file: 03_Image_analysis/Intensity
-        title: Intensity measurements
       - file: 03_Image_analysis/Colocalization
-        title: Colocalization
       - file: 03_Image_analysis/Tracking
-        title: Object tracking
       - file: 03_Image_analysis/Classification
-        title: Object classification
   - file: 03_Image_analysis/Software
     sections:
       - file: 03_Image_analysis/GeneralUseSoftware
       - file: 03_Image_analysis/SpecificUseSoftware
   - file: 03_Image_analysis/Data_management
-    title: Data management and sharing
   - file: 03_Image_analysis/Resources
 - caption: Data Interpretation
   chapters:
@@ -50,6 +37,5 @@ parts:
   - file: community_resources
   - file: contributors
   - file: Glossary
-    title: Glossary
   - file: bibliography
   - file: genindex

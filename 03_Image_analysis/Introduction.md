@@ -1,6 +1,4 @@
-# Image Analysis
-
-## Introduction
+# Introduction
 
 Microscopy images are inherently quantitative, which makes them a very powerful data source. As a biologist, image analysis allows you to translate these numbers into insights that answer biological questions. For our purposes, **image analysis** is the process of measuring aspects of biological phenomena captured in microscopy images. Microscopy images are already _inherently quantitative_ in that they are matrices (i.e., grids) of numbers. However, image analysis is the process of turning these raw numbers into biologically interpretable measurements. Image analysis typically involves a series of steps that can be collected into a pipeline or analysis workflow. A simple example workflow is shown below:
 
