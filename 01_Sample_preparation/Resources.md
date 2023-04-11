@@ -19,6 +19,9 @@
 * - Designing a rigorous microscopy experiment: Validating methods and avoiding bias {cite}`Jost2019-nx`
   - [link](https://rupress.org/jcb/article/218/5/1452/120908/Designing-a-rigorous-microscopy-experiment)
   - Review of aspects of designing a rigorous light microscopy experiment, including validation of samples and imaging, identification and correction of errors, and strategies to avoid biases
+* - Tutorial: guidance for quantitative confocal microscopy {cite}`Jonkman2020-bo`
+  - [link](https://doi.org/10.1038/s41596-020-0313-9)
+  - Step-by-step guidance on practical considerations for sample preparation, acquisition, and image analysis; primarily though not exclusively aimed at users of confocal microscopy
 
 ```
 <!-- 
