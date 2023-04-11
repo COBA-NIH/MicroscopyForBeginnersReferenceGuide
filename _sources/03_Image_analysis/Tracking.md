@@ -7,7 +7,7 @@ Tracking, or _object tracking_, refers to the ability to estimate the location o
 
 ```{dropdown} 📏 How do I measure it?
 
-There are several options for tracking objects, like the [TrackMate](https://imagej.net/plugins/trackmate/){cite}`` plugin in Fiji, but tracking is somewhat more complex to setup than the previous analyses. In addition to just identifying objects in the movie/time series, tracking also allows you to identify splitting (e.g. mitosis) and merging events. There are many measurements that come out of tracking, including spatial measures like where the objects move to, speed measurements, distance traveled (length of track), and rate of splitting events (e.g., mitotic events) and merging events.
+There are several options for tracking objects, like the [TrackMate](https://imagej.net/plugins/trackmate/) {cite}`Tinevez2017-fb` plugin in Fiji, but tracking is somewhat more complex to setup than the previous analyses. In addition to just identifying objects in the movie/time series, tracking also allows you to identify splitting (e.g. mitosis) and merging events. There are many measurements that come out of tracking, including spatial measures like where the objects move to, speed measurements, distance traveled (length of track), and rate of splitting events (e.g., mitotic events) and merging events.
 
 ```
 

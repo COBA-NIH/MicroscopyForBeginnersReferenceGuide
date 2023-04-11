@@ -28,7 +28,7 @@ After segmenting an image to locate the pixels belonging to different objects, m
 
 ```{dropdown} 📚🤷‍♀️ Where can I learn more?
 
-* 📄 [Current Methods and Pipelines for Image-Based Quantitation of Nuclear Shape and Nuclear Envelope Abnormalities](https://www.mdpi.com/2073-4409/11/3/347/htm){cite}``
+* 📄 [Current Methods and Pipelines for Image-Based Quantitation of Nuclear Shape and Nuclear Envelope Abnormalities](https://www.mdpi.com/2073-4409/11/3/347/htm) {cite}`Janssen2022-bm`
 * 🌐 [Description of morphological measurements made by CellProfiler](https://cellprofiler-manual.s3.amazonaws.com/CellProfiler-4.2.4/modules/measurement.html#id20)
 * 🎓 [Plain language description of various morphological measures by Michael Wirth](http://www.cyto.purdue.edu/cdroms/micro2/content/education/wirth10.pdf)
 ```

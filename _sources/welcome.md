@@ -9,11 +9,11 @@ alt: BBBC image montage
 width: 80%
 align: center
 ---
-**Montage of fluorescence microscopy images from [BBBC](https://bbbc.broadinstitute.org/){cite}`` (Broad Institute).** Images shown are from experiments BBBC007, BBBC008, BBBC034, BBBC038, BBBC039, and BBBC020 from left to right, top to bottom.
+**Montage of fluorescence microscopy images from [BBBC](https://bbbc.broadinstitute.org/) {cite}`Ljosa2012-fr` (Broad Institute).** Images shown are from experiments BBBC007, BBBC008, BBBC034, BBBC038, BBBC039, and BBBC020 from left to right, top to bottom.
 ```
 ## What is this book?
 
-This book is a companion website to our paper "[**_A biologist’s guide to the field of quantitative bioimaging_**](https://doi.org/10.5281/zenodo.7439283)"{cite}``. Our goal is to provide recommendations and a curated set of resources for biologists looking to understand the factors that impact their fluorescence microscopy experiments.
+This book is a companion website to our paper "[**_A biologist’s guide to the field of quantitative bioimaging_**](https://doi.org/10.5281/zenodo.7439283)" {cite}`Senft2023-cb`. Our goal is to provide recommendations and a curated set of resources for biologists looking to understand the factors that impact their fluorescence microscopy experiments.
 
 This book is a collaborative effort from experts in biology, imaging, image analysis, and data management, interpretation, and presentation. Our tips and recommendations come from real experiences training and working with biologists who are beginners to bioimaging and bioimage analysis. When starting out in a new field, you often don't know what you don't know. Here we provide context, tips for avoiding common beginner errors, and a focused list of high-quality, open source resources (full list available [here](bibliography)). We use icons to indicate the type of resource:
 
@@ -39,7 +39,7 @@ This book is a collaborative effort from experts in biology, imaging, image anal
 
 ## What **isn't** this book?
 
-* This book is **not** meant to be an exhaustive list of all resources. Many others have curated excellent such resources(see [here](https://febs.onlinelibrary.wiley.com/doi/10.1002/1873-3468.14451){cite}`Haase2022-ad` and [here](https://www.bioimagingnorthamerica.org/training-education-resources/) and [here](https://biii.eu/){cite}`Paul-Gilloteaux2021-vw`). Our goal is to create a more streamlined, beginner-accessible guide.
+* This book is **not** meant to be an exhaustive list of all resources. Many others have curated excellent such resources(see [here](https://febs.onlinelibrary.wiley.com/doi/10.1002/1873-3468.14451) {cite}`Haase2022-ad` and [here](https://www.bioimagingnorthamerica.org/training-education-resources/) and [here](https://biii.eu/) {cite}`Paul-Gilloteaux2021-vw`). Our goal is to create a more streamlined, beginner-accessible guide.
 * This book is **not** a protocol or step by step guide, though certain resources we link to might be. Each subsection from sample prep to data interpretation are massive topics that we can't exhaustively cover in a guide for beginners.
 
 

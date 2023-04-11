@@ -19,7 +19,7 @@ Below are globally and locally available community resources
   - Discussion forum for bioimaging sample preparation and acquisition
 * - Scientific Community Image Forum (Image . sc) 
   - [link](https://forum.image.sc/)
-  - Discussion forum for bioimage analysis software{cite}``
+  - Discussion forum for bioimage analysis software {cite}`Rueden2019-qp`
 
 ```
 

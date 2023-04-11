@@ -27,7 +27,7 @@ Think about linking out to the Datasaurus Dozen https://www.google.com/url?q=htt
 ```
 
 ```{dropdown} 📚🤷‍♀️ Where can I learn more?
-* 📖 [Dimension Reduction: A Guided Tour](https://www.researchgate.net/publication/220416606_Dimension_Reduction_A_Guided_Tour) {cite}``
+* 📖 [Dimension Reduction: A Guided Tour](https://www.researchgate.net/publication/220416606_Dimension_Reduction_A_Guided_Tour) {cite}`Burges2010-fi`
 * 💻 [UMAP introduction and Python implementation](https://umap-learn.readthedocs.io/en/latest/index.html) 
 * 💻 [t-SNE Python implementation](https://scikit-learn.org/stable/modules/generated/sklearn.manifold.TSNE.html)
 
@@ -49,9 +49,9 @@ One major thing that would be nice to clarify in this particular case - how do y
 -->
 ```
 ```{dropdown} 📚🤷‍♀️ Where can I learn more?
-* 📄 [Why Batch Effects Matter in Omics Data, and How to Avoid Them](https://doi.org/10.1016/j.tibtech.2017.02.012) {cite}``
+* 📄 [Why Batch Effects Matter in Omics Data, and How to Avoid Them](https://doi.org/10.1016/j.tibtech.2017.02.012) {cite}`Goh2017-kd`
 * 💻 [pyComBat (ComBat Python implementation)](https://epigenelabs.github.io/pyComBat/)
-* 📄 [The sva package for removing batch effects and other unwanted variation in high-throughput experiments](https://doi.org/10.1093/bioinformatics/bts034) {cite}``
+* 📄 [The sva package for removing batch effects and other unwanted variation in high-throughput experiments](https://doi.org/10.1093/bioinformatics/bts034) {cite}`Leek2012-rv`
 
 ```
 
@@ -68,7 +68,7 @@ A p-values smaller than a pre-defined significance threshold (usually 0.05) indi
 Although lots of the “standard” statistical methods have been designed with a normnality assumption, alternative approaches exist for non-normally-ditributed data. Many biological processes result in multimodal “states” (for instance differentiation) that are inherently not Gaussian. Normality testing should therefore not be mistaken for a quality assessment of the data: it merely informs on the types of tools that are appropriate to use when analyzing them.
 ```
 ```{dropdown} 📚🤷‍♀️ Where can I learn more?
-* 📖 [Modern statistics for modern biology](https://www.huber.embl.de/msmb/) {cite}``
+* 📖 [Modern statistics for modern biology](https://www.huber.embl.de/msmb/) {cite}`Holmes2019-no`
 * 💻 [To get started with statistical analysis: R](https://www.r-project.org/)
 * 💻 [To do statistics in Python: scipy.stats](https://docs.scipy.org/doc/scipy/reference/stats.html)
 
