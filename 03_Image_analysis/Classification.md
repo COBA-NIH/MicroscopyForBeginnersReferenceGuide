@@ -30,6 +30,7 @@ In **unsupervised classification**, you group objects based on their measurement
 alt: a continuous distribution of cell cycle states
 width: 100%
 align: center
+name: cell-cycle-class-dist
 ---
 **Strict division into supervised classes can be tricky for continuous biological processes**. Adapted from Eulenberg, P., Köhler, N., Blasi, T. _et al_. Reconstructing cell cycle and disease progression using deep learning. _Nat Commun_ **8**, 463 (2017) {cite}`Eulenberg2017-ax`
 ```

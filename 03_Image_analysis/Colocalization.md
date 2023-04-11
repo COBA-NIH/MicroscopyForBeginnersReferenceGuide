@@ -15,6 +15,7 @@ As an example, it is possible for two people to work in the same building an nev
 alt: degrees of colocalization
 width: 100%
 align: center
+name: colocalization-fig
 ---
 **Colocalization is about intensity and spatial overlap of labels**
 ```
