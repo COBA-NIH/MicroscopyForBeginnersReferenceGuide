@@ -99,4 +99,18 @@ _Disadvantages_
 <!-- 
 Commented out text not shown on the page
 Images of the specimen types would be cool!
+
+Tissue sectioning
+Light penetration and fluorescence imaging is negatively impacted by light scattering within a thick specimen. This scattering is due to the different refractive indexes present within a tissue. To facilitate imaging of tissues, researchers often cut thick tissues into slices of different thicknesses. This process is called tissue sectioning. In most cases the samples are fixed and embedded in paraffin or frozen in tissue freezing medium and later cut into thin slices by a machine like a cryostat, microtome, or vibratome and sections collected into a tube or onto a slide.
+
+Tissue clearing
+Fluorescence imaging of the whole thickness of a piece of tissue is very challenging due to light absorption and scattering induced by the inhomogeneities in refractive indexes within the tissue itself, resulting in poor light penetration. Additionally, light coming from different parts of the sample contribute to fluorescence blur, drastically reducing contrast and resolution in any given plane. As a result, researchers tend to use tissue sectioning techniques to extract information about cellular components and their spatial distribution or relationships from a thin two-dimensional volume. However, most components in any complex biological system such as an organ are not contained within this two-dimensional volume, and therefore, this approach compromises the understanding of the spatial relationships among cellular components. Tissue clearing focused on reducing the inhomogeneities in the tissue by equilibrating the refractive index throughout the sample. This allows light to pass through the tissue and therefore enables high resolution, volumetric imaging of whole organs and tissues using conventional microscopy techniques such as confocal microscopy without the need to physically section the sample.
+
+
+Ex-Vivo techniques
+Refers to imaging performed on live animal tissue in an external controllable environment (e.g., tissue explant on a petri dish). It enables high-resolution imaging of live tissue that may be otherwise inaccessible within the animal. The tissue is maintained alive on the imaging system through perfusion of oxygenated (95% oxygen and 5% CO2), temperature-controlled media using peristaltic pumps and microfluidics.    
+
+Intravital imaging
+It refers to the imaging of cellular structures or biological processes inside a live animal in real time, without extracting the organs or fixing the sample. In general, it requires specific instrumentation or modalities with improved light penetration, such as multiphoton microscopy and is limited to the ability to access the specific organ, often through optical windows. Intravital imaging is overseen by bioethical committees and needs to be approved by IACUC and/or other institutional committees. 
+
  -->
