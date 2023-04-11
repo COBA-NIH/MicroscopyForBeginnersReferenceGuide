@@ -9,6 +9,7 @@ Choosing the right microscope for your experiment will be a factor both of what 
 alt: BBBC image montage
 width: 100%
 align: center
+name: microscope-selection-flowchart
 ---
 **Flow chart to help choose which type of microscope to use.** Figure by Jeremy Sanderson. [Source](https://www.researchgate.net/figure/Flow-chart-to-help-choose-which-type-of-microscope-to-use_fig5_341918746) {cite}`Sanderson2020-qz`
 ```

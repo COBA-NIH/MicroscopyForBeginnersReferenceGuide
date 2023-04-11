@@ -9,6 +9,7 @@ Microscopy images are often shown in scientific papers to illustrate a particula
 alt: 10 tips for image presentation
 width: 100%
 align: center
+name: image-presentation-tips
 ---
 **A brief visual summary of image presentation tips.** Figure by Helena Jambor. [Source](https://doi.org/10.5281/zenodo.7750259)
 ```

@@ -168,7 +168,10 @@ const thebe_selector_output = ".output, .cell_output"
                 </a>
             </li>
         </ul>
-        <p aria-level="2" class="caption" role="heading"><span class="caption-text">Sample Preparation</span></p>
+        <ul class="nav bd-sidenav">
+<li class="toctree-l1"><a class="reference internal" href="../QuantitativeBioimaging.html">Quantitative Bioimaging</a></li>
+</ul>
+<p aria-level="2" class="caption" role="heading"><span class="caption-text">Sample Preparation</span></p>
 <ul class="nav bd-sidenav">
 <li class="toctree-l1"><a class="reference internal" href="../01_Sample_preparation/Introduction.html">Introduction</a></li>
 <li class="toctree-l1"><a class="reference internal" href="../01_Sample_preparation/Considerations.html">Considerations for different sample types</a></li>
@@ -208,7 +211,7 @@ const thebe_selector_output = ".output, .cell_output"
 <p aria-level="2" class="caption" role="heading"><span class="caption-text">Additional Resources</span></p>
 <ul class="nav bd-sidenav">
 <li class="toctree-l1"><a class="reference internal" href="../community_resources.html">Community resources</a></li>
-<li class="toctree-l1"><a class="reference internal" href="../contributors.html">Contributing to this resource</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../contributors.html">Contributing to this guide</a></li>
 <li class="toctree-l1"><a class="reference internal" href="../Glossary.html">Glossary</a></li>
 <li class="toctree-l1"><a class="reference internal" href="../bibliography.html">Bibliography</a></li>
 <li class="toctree-l1"><a class="reference internal" href="../genindex.html">Index</a></li>
@@ -447,10 +450,10 @@ document.write(`
 <svg version="1.1" width="1.5em" height="1.5em" class="sd-octicon sd-octicon-chevron-up" viewBox="0 0 24 24" aria-hidden="true"><path fill-rule="evenodd" d="M18.78 15.28a.75.75 0 000-1.06l-6.25-6.25a.75.75 0 00-1.06 0l-6.25 6.25a.75.75 0 101.06 1.06L12 9.56l5.72 5.72a.75.75 0 001.06 0z"></path></svg></div>
 </summary><div class="sd-summary-content sd-card-body docutils">
 <p class="sd-card-text">There are many options for storing image data in online repositories. These services make it easy to share and reuse data. The best option will depend on the size of the dataset, the budget for storage, whether there is related non-image data, and how much metadata is available for the dataset. Some options are summarized below:</p>
-<figure class="align-center" id="id4">
-<a class="reference internal image-reference" href="../_images/data_management.png"><img alt="BBBC image montage" src="../_images/data_management.png" style="width: 100%;" /></a>
+<figure class="align-center" id="data-repository-chart">
+<a class="reference internal image-reference" href="../_images/data_management.png"><img alt="Comparison of various data respositories" src="../_images/data_management.png" style="width: 100%;" /></a>
 <figcaption>
-<p><span class="caption-number">Fig. 5 </span><span class="caption-text"><strong>Options for storing bioimaging data</strong> Figure by Beth Cimini (2023) <a class="reference external" href="https://doi.org/10.5281/zenodo.7628604">Source</a></span><a class="headerlink" href="#id4" title="Permalink to this image">#</a></p>
+<p><span class="caption-number">Fig. 6 </span><span class="caption-text"><strong>Options for storing bioimaging data</strong> Figure by Beth Cimini (2023) <a class="reference external" href="https://doi.org/10.5281/zenodo.7628604">Source</a></span><a class="headerlink" href="#data-repository-chart" title="Permalink to this image">#</a></p>
 </figcaption>
 </figure>
 </div>
@@ -477,9 +480,9 @@ document.write(`
 <li><p class="sd-card-text">🌐 <a class="reference external" href="https://zenodo.org/">Zenodo</a></p></li>
 <li><p class="sd-card-text">🌐 <a class="reference external" href="https://figshare.com">Figshare</a></p></li>
 <li><p class="sd-card-text">🌐 <a class="reference external" href="https://datadryad.org">Dryad</a></p></li>
-<li><p class="sd-card-text">🌐 <a class="reference external" href="https://www.ebi.ac.uk/bioimage-archive/">Bioimage Archive</a> <span id="id1">[<a class="reference internal" href="../bibliography.html#id10" title="Matthew Hartley, Gerard J Kleywegt, Ardan Patwardhan, Ugis Sarkans, Jason R Swedlow, and Alvis Brazma. The BioImage archive - building a home for Life-Sciences microscopy data. J. Mol. Biol., 434(11):167505, June 2022.">Hartley <em>et al.</em>, 2022</a>]</span></p></li>
-<li><p class="sd-card-text">🌐 <a class="reference external" href="https://idr.openmicroscopy.org/">Image Data Resource (IDR)</a> <span id="id2">[<a class="reference internal" href="../bibliography.html#id60" title="Eleanor Williams, Josh Moore, Simon W Li, Gabriella Rustici, Aleksandra Tarkowska, Anatole Chessel, Simone Leo, Bálint Antal, Richard K Ferguson, Ugis Sarkans, Alvis Brazma, Rafael E Carazo Salas, and Jason R Swedlow. The image data resource: a bioimage data integration and publication platform. Nat. Methods, 14(8):775–781, August 2017.">Williams <em>et al.</em>, 2017</a>]</span></p></li>
-<li><p class="sd-card-text">🌐 <a class="reference external" href="https://bbbc.broadinstitute.org/">BBBC</a> <span id="id3">[<a class="reference internal" href="../bibliography.html#id77" title="Vebjorn Ljosa, Katherine L Sokolnicki, and Anne E Carpenter. Annotated high-throughput microscopy image sets for validation. Nat. Methods, 9(7):637, June 2012.">Ljosa <em>et al.</em>, 2012</a>]</span></p></li>
+<li><p class="sd-card-text">🌐 <a class="reference external" href="https://www.ebi.ac.uk/bioimage-archive/">Bioimage Archive</a> <span id="id1"><sup><a class="reference internal" href="../bibliography.html#id10" title="Matthew Hartley, Gerard J Kleywegt, Ardan Patwardhan, Ugis Sarkans, Jason R Swedlow, and Alvis Brazma. The BioImage archive - building a home for Life-Sciences microscopy data. J. Mol. Biol., 434(11):167505, June 2022.">31</a></sup></span></p></li>
+<li><p class="sd-card-text">🌐 <a class="reference external" href="https://idr.openmicroscopy.org/">Image Data Resource (IDR)</a> <span id="id2"><sup><a class="reference internal" href="../bibliography.html#id60" title="Eleanor Williams, Josh Moore, Simon W Li, Gabriella Rustici, Aleksandra Tarkowska, Anatole Chessel, Simone Leo, Bálint Antal, Richard K Ferguson, Ugis Sarkans, Alvis Brazma, Rafael E Carazo Salas, and Jason R Swedlow. The image data resource: a bioimage data integration and publication platform. Nat. Methods, 14(8):775–781, August 2017.">32</a></sup></span></p></li>
+<li><p class="sd-card-text">🌐 <a class="reference external" href="https://bbbc.broadinstitute.org/">BBBC</a> <span id="id3"><sup><a class="reference internal" href="../bibliography.html#id77" title="Vebjorn Ljosa, Katherine L Sokolnicki, and Anne E Carpenter. Annotated high-throughput microscopy image sets for validation. Nat. Methods, 9(7):637, June 2012.">1</a></sup></span></p></li>
 <li><p class="sd-card-text">🌐 <a class="reference external" href="https://registry.opendata.aws/cellpainting-gallery/">Cell Painting Gallery</a></p></li>
 </ul>
 </div>

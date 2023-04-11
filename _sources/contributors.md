@@ -1,4 +1,4 @@
-# Contributing to this resource
+# Contributing to this guide
 
 ## Contributors
 

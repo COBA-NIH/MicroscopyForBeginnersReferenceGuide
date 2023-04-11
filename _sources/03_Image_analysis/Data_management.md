@@ -10,9 +10,10 @@ There are many options for storing image data in online repositories. These serv
 
 ```{figure} ../images/data_management.png
 ---
-alt: BBBC image montage
+alt: Comparison of various data respositories
 width: 100%
 align: center
+name: data-repository-chart
 ---
 **Options for storing bioimaging data** Figure by Beth Cimini (2023) [Source](https://doi.org/10.5281/zenodo.7628604)
 ```

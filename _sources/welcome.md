@@ -8,6 +8,7 @@ Welcome to the world of bioimaging and bioimage analysis! 🎉
 alt: BBBC image montage
 width: 80%
 align: center
+name: BBBC-montage
 ---
 **Montage of fluorescence microscopy images from [BBBC](https://bbbc.broadinstitute.org/) {cite}`Ljosa2012-fr` (Broad Institute).** Images shown are from experiments BBBC007, BBBC008, BBBC034, BBBC038, BBBC039, and BBBC020 from left to right, top to bottom.
 ```
