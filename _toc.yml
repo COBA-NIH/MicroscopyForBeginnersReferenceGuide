@@ -11,6 +11,7 @@ parts:
   - file: 01_Sample_preparation/Resources
 - caption: Sample Acquisition
   chapters:
+  - file: 02_Sample_acquisition/Introduction
   - file: 02_Sample_acquisition/Picking
   - file: 02_Sample_acquisition/Resources
 - caption: Image Analysis and Data Handling
