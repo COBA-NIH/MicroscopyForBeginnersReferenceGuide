@@ -1,7 +1,7 @@
 # Choosing the right microscopy modality
 
 ## Introduction
-
+(content/microscope_selection)=
 Choosing the right microscope for your experiment will be a factor both of what the experiment dictates and what the researcher can access. The image below (from [Fundamentals of Microscopy by Jermey Sanderson](http://dx.doi.org/10.1002/cpmo.76) {cite}`Sanderson2020-qz`) gives a sense of the sorts of decisions one should consider when choosing a microscope; a more thorough description of the pros and cons of various kinds of microscopes can be found in [this tutorial](https://doi.org/10.1038/s41596-020-0313-9){cite}`Jonkman2020-bo`.
 
 ```{figure} ../images/Flow-chart-to-help-choose-which-type-of-microscope-to-use.png
