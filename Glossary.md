@@ -38,7 +38,7 @@ Object detection
 Oxygen scavengers
   Oxygen tends to induce photobleaching of organic dyes and other fluorophores. Addition of oxygen scavengers to the imaging media such as glucose oxidase or pyranose 2-oxidase can significantly reduce photobleaching of the fluorophores present in the sample. It is important to understand that the use of oxygen scavengers may affect live cell imaging, as these scavengers can affect the ATP and oxygen levels within the sample, compromising its health and therefore biological function.    
 
-Permeabilization 
+Permeabilization
   In order for the antibodies used during immunostaining or other fluorophores to penetrate and bind to their antigen within a cell or tissue, the membrane integrity (holes) needs to be challenged with a mild detergent. The permeabilization step needs to be carefully optimized depending on the antigen of interest, as it can result in a loss of cytoplasm or a degradation of the signal. 
 
 Refractive index
