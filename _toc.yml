@@ -7,11 +7,15 @@ parts:
 - caption: Sample Preparation
   chapters:
   - file: 01_Sample_preparation/Introduction
+  - file: 01_Sample_preparation/Experimental_design 
   - file: 01_Sample_preparation/Considerations
+  - file: 01_Sample_preparation/Reproducibility
   - file: 01_Sample_preparation/Resources
 - caption: Sample Acquisition
   chapters:
+  - file: 02_Sample_acquisition/Introduction
   - file: 02_Sample_acquisition/Picking
+  - file: 02_Sample_acquisition/Practical_considerations
   - file: 02_Sample_acquisition/Resources
 - caption: Image Analysis and Data Handling
   chapters:
