@@ -21,13 +21,16 @@ Image processing
   Is an operation that can be performed on an image, the result benign another image. There are simple image processing operations, like resizing or rotating an image. And other more advanced like enhancing particular features of an image like circles or lines.
 
 Immersion media
- The immersion media is the medium that fills the gap between your objective lens and the glass coverslip or sample. It ultimately determines the numerical aperture of the objective lens {math}`NA=RI * sin(Theta)`, thus impacting lateral and axial resolution. It is critical to match the RI of the immersion media with that of the mounting media to minimize aberrations and improve image quality. Immersion media can be air, water, silicone oil, glycerol or oil. 
+ The immersion media is the medium that fills the gap between your objective lens and the glass coverslip or sample. It impacts the numerical aperture of the objective lens {math}`NA=RI * sin(θ)`, thus impacting lateral and axial resolution. It is critical to match the RI of the immersion media with that of the mounting media to minimize aberrations and improve image quality. Immersion media can be air, water, silicone oil, glycerol or oil. 
 
 Immunolabeling
   Immunolabeling is one of the most common labeling techniques for fixed samples. You can use fluorescently conjugated primary antibodies to detect the protein of interest or a two-step labeling with a primary antibody and a fluorescently conjugated secondary antibody. Primary-secondary labeling tends to result in signal amplification. The main issue with immunolabeling is the size of the antibodies, which require extensive permeabilization. Another good option is to use nano-bodies, which only have the heavy-chain and are significantly smaller than regular antibodies. 
 
 Intravital imaging
   It refers to the imaging of cellular structures or biological processes inside a live animal in real time, without extracting the organs or fixing the sample. In general, it requires specific instrumentation or modalities with improved light penetration, such as multiphoton microscopy and is limited to the ability to access the specific organ, often through optical windows. Intravital imaging is overseen by bioethical committees and needs to be approved by IACUC and/or other institutional committees. 
+
+Mounting media
+ Is the solution in which your specimen is placed in (mounted). Its purpose is to preserve the sample, including the fluorophores in it,  and enhance the imaging quality during acquisition, by buffering the pH, matching the refractive index throughout the sample (ideally matching it to that of glass) and minimizing photobleaching (depending on the medium) . Mounting media prevents the sample from drying out allowing long-term storage.
 
 Object detection
   Is the image processing technique to detect objects within an image. It would not give you a mask of the objects but it could give you a bounding box, or and x,y position.
@@ -39,7 +42,7 @@ Permeabilization
   In order for the antibodies used during immunostaining or other fluorophores to penetrate and bind to their antigen within a cell or tissue, the membrane integrity (holes) needs to be challenged with a mild detergent. The permeabilization step needs to be carefully optimized depending on the antigen of interest, as it can result in a loss of cytoplasm or a degradation of the signal. 
 
 Refractive index
-  It's a measure of how light travels through a specific medium. It is an important value when calculating the numerical aperture of an objective, Ideally, a mismatch in refractive index between the sample (mounting medium), the coverslip and immersion media should be minimized in order to enhance the image quality. 
+  It's a measure of how light travels through a specific medium. It is an important value when calculating the numerical aperture of an objective, Ideally, a mismatch in refractive index between the sample (mounting medium), the coverslip and immersion media should be minimized in order to enhance the image quality. [See an interactive demo of refactive index at MicroscopyU](https://www.microscopyu.com/microscopy-basics/refractive-index-index-of-refraction)
 
 ROIs
   Regions Of Interest. Pixels in your image that you care about (e.g., a region in tissue, a cell, a tumor, etc.) 
