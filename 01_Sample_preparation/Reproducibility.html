@@ -9,7 +9,7 @@
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" /><meta name="generator" content="Docutils 0.18.1: http://docutils.sourceforge.net/" />
 
-    <title>General experimental design &#8212; Microscopy for Beginners reference guide</title>
+    <title>Reproducibility &#8212; Microscopy for Beginners reference guide</title>
   
   
   
@@ -72,10 +72,12 @@ const thebe_selector_output = ".output, .cell_output"
     <script async="async" src="../_static/sphinx-thebe.js"></script>
     <script src="https://cdn.jsdelivr.net/npm/mermaid/dist/mermaid.min.js"></script>
     <script>mermaid.initialize({startOnLoad:true});</script>
-    <script>DOCUMENTATION_OPTIONS.pagename = '01_Sample_preparation/_notinyet_Experimental_design';</script>
+    <script>DOCUMENTATION_OPTIONS.pagename = '01_Sample_preparation/Reproducibility';</script>
     <link rel="shortcut icon" href="../_static/favicon.png"/>
     <link rel="index" title="Index" href="../genindex.html" />
     <link rel="search" title="Search" href="../search.html" />
+    <link rel="next" title="Resources for learning more" href="Resources.html" />
+    <link rel="prev" title="Considerations for different sample types" href="Considerations.html" />
   <meta name="viewport" content="width=device-width, initial-scale=1"/>
   <meta name="docsearch:language" content="en"/>
   </head>
@@ -170,14 +172,18 @@ const thebe_selector_output = ".output, .cell_output"
 <li class="toctree-l1"><a class="reference internal" href="../QuantitativeBioimaging.html">Quantitative Bioimaging</a></li>
 </ul>
 <p aria-level="2" class="caption" role="heading"><span class="caption-text">Sample Preparation</span></p>
-<ul class="nav bd-sidenav">
+<ul class="current nav bd-sidenav">
 <li class="toctree-l1"><a class="reference internal" href="Introduction.html">Introduction</a></li>
+<li class="toctree-l1"><a class="reference internal" href="Experimental_design.html">Experimental design decisions</a></li>
 <li class="toctree-l1"><a class="reference internal" href="Considerations.html">Considerations for different sample types</a></li>
+<li class="toctree-l1 current active"><a class="current reference internal" href="#">Reproducibility</a></li>
 <li class="toctree-l1"><a class="reference internal" href="Resources.html">Resources for learning more</a></li>
 </ul>
 <p aria-level="2" class="caption" role="heading"><span class="caption-text">Sample Acquisition</span></p>
 <ul class="nav bd-sidenav">
+<li class="toctree-l1"><a class="reference internal" href="../02_Sample_acquisition/Introduction.html">Introduction</a></li>
 <li class="toctree-l1"><a class="reference internal" href="../02_Sample_acquisition/Picking.html">Choosing the right microscopy modality</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../02_Sample_acquisition/Practical_considerations.html">Practical considerations</a></li>
 <li class="toctree-l1"><a class="reference internal" href="../02_Sample_acquisition/Resources.html">Resources for learning more</a></li>
 </ul>
 <p aria-level="2" class="caption" role="heading"><span class="caption-text">Image Analysis and Data Handling</span></p>
@@ -284,7 +290,7 @@ const thebe_selector_output = ".output, .cell_output"
       
       
       
-      <li><a href="https://github.com/broadinstitute/MicroscopyForBeginnersReferenceGuide/edit/main/01_Sample_preparation/_notinyet_Experimental_design.md" target="_blank"
+      <li><a href="https://github.com/broadinstitute/MicroscopyForBeginnersReferenceGuide/edit/main/01_Sample_preparation/Reproducibility.md" target="_blank"
    class="btn btn-sm btn-source-edit-button dropdown-item"
    title="Suggest edit"
    data-bs-placement="left" data-bs-toggle="tooltip"
@@ -301,7 +307,7 @@ const thebe_selector_output = ".output, .cell_output"
       
       
       
-      <li><a href="https://github.com/broadinstitute/MicroscopyForBeginnersReferenceGuide/issues/new?title=Issue%20on%20page%20%2F01_Sample_preparation/_notinyet_Experimental_design.html&body=Your%20issue%20content%20here." target="_blank"
+      <li><a href="https://github.com/broadinstitute/MicroscopyForBeginnersReferenceGuide/issues/new?title=Issue%20on%20page%20%2F01_Sample_preparation/Reproducibility.html&body=Your%20issue%20content%20here." target="_blank"
    class="btn btn-sm btn-source-issues-button dropdown-item"
    title="Open an issue"
    data-bs-placement="left" data-bs-toggle="tooltip"
@@ -331,7 +337,7 @@ const thebe_selector_output = ".output, .cell_output"
       
       
       
-      <li><a href="../_sources/01_Sample_preparation/_notinyet_Experimental_design.md" target="_blank"
+      <li><a href="../_sources/01_Sample_preparation/Reproducibility.md" target="_blank"
    class="btn btn-sm btn-download-source-button dropdown-item"
    title="Download source file"
    data-bs-placement="left" data-bs-toggle="tooltip"
@@ -413,7 +419,7 @@ document.write(`
               
 
 <div id="jb-print-docs-body" class="onlyprint">
-    <h1>General experimental design</h1>
+    <h1>Reproducibility</h1>
     <!-- Table of contents -->
     <div id="print-main-content">
         <div id="jb-print-toc">
@@ -423,7 +429,9 @@ document.write(`
             </div>
             <nav aria-label="Page">
                 <ul class="visible nav section-nav flex-column">
-<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#introduction">Introduction</a></li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#antibody-validation">Antibody validation</a></li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#fluorescent-protein-localization-validation">Fluorescent protein localization validation</a></li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#bleedthrough">Bleedthrough</a></li>
 </ul>
             </nav>
         </div>
@@ -435,14 +443,22 @@ document.write(`
 <div id="searchbox"></div>
                 <article class="bd-article" role="main">
                   
-  <section class="tex2jax_ignore mathjax_ignore" id="general-experimental-design">
-<h1>General experimental design<a class="headerlink" href="#general-experimental-design" title="Permalink to this heading">#</a></h1>
-<section id="introduction">
-<h2>Introduction<a class="headerlink" href="#introduction" title="Permalink to this heading">#</a></h2>
-<!-- 
-Commented out text not shown on the page
-
- --></section>
+  <section class="tex2jax_ignore mathjax_ignore" id="reproducibility">
+<h1>Reproducibility<a class="headerlink" href="#reproducibility" title="Permalink to this heading">#</a></h1>
+<p id="content-reproducibility">A number of factors are critical in designing a reproducible microscopy experiment. A few critical factors are laid out here; see other works such as <span id="id1"><sup><a class="reference internal" href="../bibliography.html#id72" title="Anna Payne-Tobin Jost and Jennifer C Waters. Designing a rigorous microscopy experiment: validating methods and avoiding bias. J. Cell Biol., 218(5):1452–1466, May 2019.">9</a></sup></span></p>
+<section id="antibody-validation">
+<h2>Antibody validation<a class="headerlink" href="#antibody-validation" title="Permalink to this heading">#</a></h2>
+<p>While in a perfect world, antibodies would always be specific to a particular target, unfortunately, this cannot always be relied upon when performing <a class="reference internal" href="../Glossary.html#term-Immunolabeling"><span class="xref std std-term">immunolabeling</span></a>. <span id="id2"><sup><a class="reference internal" href="../bibliography.html#id30" title="Mathias Uhlen, Anita Bandrowski, Steven Carr, Aled Edwards, Jan Ellenberg, Emma Lundberg, David L Rimm, Henry Rodriguez, Tara Hiltke, Michael Snyder, and Tadashi Yamamoto. A proposal for validation of antibodies. Nat. Methods, 13(10):823–827, October 2016.">10</a></sup></span> When possible, one should perform knockout and/or knockdown controls to confirm antibody specificity; where not, look for availability of another antibody to a different part of the target molecule (sometimes called the <em>epitope</em>) and confirm you get consistent localization.</p>
+<p>Optimizing your <a class="reference internal" href="../Glossary.html#term-Blocking"><span class="xref std std-term">blocking</span></a> and <a class="reference internal" href="../Glossary.html#term-Permeabilization"><span class="xref std std-term">permeabilization</span></a> conditions for the particular antibody and protocol can reduce non-specific background. No-primary-antibody controls should always be performed as well, as they are essential for validating signal specificity.</p>
+</section>
+<section id="fluorescent-protein-localization-validation">
+<h2>Fluorescent protein localization validation<a class="headerlink" href="#fluorescent-protein-localization-validation" title="Permalink to this heading">#</a></h2>
+<p>Expression of fluorescently-tagged proteins can make localization of a molecule or structure possible, especially when no good antibody exist for immunolabeling and/or it will be helpful to observe the molecule’s behavior in live cells. While a study comparing overlap between the same molecular targets with fluorescent proteins vs antibodies found 80% overlap, they also found that some considerations (such as whether the C- or N- terminus of a protein is tagged) may cause changes in localization. <span id="id3"><sup><a class="reference internal" href="../bibliography.html#id102" title="Charlotte Stadler, Elton Rexhepaj, Vasanth R. Singan, Robert F. Murphy, Rainer Pepperkok, Mathias Uhlén, Jeremy C. Simpson, and Emma Lundberg. Immunofluorescence and fluorescent-protein tagging show high correlation for protein localization in mammalian cells. Nature Methods, 10(4):315-323, Apr 2013. URL: https://doi.org/10.1038/nmeth.2377, doi:10.1038/nmeth.2377.">11</a></sup></span>. A recent paper <span id="id4"><sup><a class="reference internal" href="../bibliography.html#id104" title="Méghane Sittewelle, Nuria Ferrandiz, Mary Fesenko, and Stephen J. Royle. Genetically encoded imaging tools for investigating cell dynamics at a glance. Journal of Cell Science, 04 2023. jcs260783. URL: https://doi.org/10.1242/jcs.260783, doi:10.1242/jcs.260783.">12</a></sup></span> surveys considerations for genetic tagging of molecules for live microscopy.</p>
+</section>
+<section id="bleedthrough">
+<span id="content-bleedthrough"></span><h2>Bleedthrough<a class="headerlink" href="#bleedthrough" title="Permalink to this heading">#</a></h2>
+<p>When performing multicolor fluorescence microscopy, it is critical to choose fluorophores with sufficiently distinct excitation and emission spectra; online tools such as FPbase <span id="id5"><sup><a class="reference internal" href="../bibliography.html#id36" title="Talley J Lambert. FPbase: a community-editable fluorescent protein database. Nat. Methods, 16(4):277–278, April 2019.">13</a></sup></span> can help with such selections, especially if you know the various optical components of the microscope on which you will be imaging your samples (these configurations can be saved and shared on FPbase; ask the maintainer of the microscope you plan to use if such a configuration file is already online). Even if you believe your fluorophores are sufficiently separated, it is critical to check single-color fluorescent controls using the same imaging conditions (and preferably on the same day) as your multicolor controls to be certain no bleedthrough is occurring; it is <em>mandatory</em> to do this if you are planning to measure <a class="reference internal" href="../03_Image_analysis/Colocalization.html#content-colocalization"><span class="std std-ref">colocalization</span></a>.</p>
+</section>
 </section>
 
     <script type="text/x-thebe-config">
@@ -476,6 +492,24 @@ Commented out text not shown on the page
   
     <div class="footer-article-item"><!-- Previous / next buttons -->
 <div class="prev-next-area">
+    <a class="left-prev"
+       href="Considerations.html"
+       title="previous page">
+      <i class="fa-solid fa-angle-left"></i>
+      <div class="prev-next-info">
+        <p class="prev-next-subtitle">previous</p>
+        <p class="prev-next-title">Considerations for different sample types</p>
+      </div>
+    </a>
+    <a class="right-next"
+       href="Resources.html"
+       title="next page">
+      <div class="prev-next-info">
+        <p class="prev-next-subtitle">next</p>
+        <p class="prev-next-title">Resources for learning more</p>
+      </div>
+      <i class="fa-solid fa-angle-right"></i>
+    </a>
 </div></div>
   
 </div>
@@ -494,7 +528,9 @@ Commented out text not shown on the page
   </div>
   <nav class="bd-toc-nav page-toc">
     <ul class="visible nav section-nav flex-column">
-<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#introduction">Introduction</a></li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#antibody-validation">Antibody validation</a></li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#fluorescent-protein-localization-validation">Fluorescent protein localization validation</a></li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#bleedthrough">Bleedthrough</a></li>
 </ul>
   </nav></div>
 

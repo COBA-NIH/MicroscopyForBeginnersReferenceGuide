@@ -76,8 +76,8 @@ const thebe_selector_output = ".output, .cell_output"
     <link rel="shortcut icon" href="../_static/favicon.png"/>
     <link rel="index" title="Index" href="../genindex.html" />
     <link rel="search" title="Search" href="../search.html" />
-    <link rel="next" title="Resources for learning more" href="Resources.html" />
-    <link rel="prev" title="Resources for learning more" href="../01_Sample_preparation/Resources.html" />
+    <link rel="next" title="Practical considerations" href="Practical_considerations.html" />
+    <link rel="prev" title="Introduction" href="Introduction.html" />
   <meta name="viewport" content="width=device-width, initial-scale=1"/>
   <meta name="docsearch:language" content="en"/>
   </head>
@@ -174,12 +174,16 @@ const thebe_selector_output = ".output, .cell_output"
 <p aria-level="2" class="caption" role="heading"><span class="caption-text">Sample Preparation</span></p>
 <ul class="nav bd-sidenav">
 <li class="toctree-l1"><a class="reference internal" href="../01_Sample_preparation/Introduction.html">Introduction</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../01_Sample_preparation/Experimental_design.html">Experimental design decisions</a></li>
 <li class="toctree-l1"><a class="reference internal" href="../01_Sample_preparation/Considerations.html">Considerations for different sample types</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../01_Sample_preparation/Reproducibility.html">Reproducibility</a></li>
 <li class="toctree-l1"><a class="reference internal" href="../01_Sample_preparation/Resources.html">Resources for learning more</a></li>
 </ul>
 <p aria-level="2" class="caption" role="heading"><span class="caption-text">Sample Acquisition</span></p>
 <ul class="current nav bd-sidenav">
+<li class="toctree-l1"><a class="reference internal" href="Introduction.html">Introduction</a></li>
 <li class="toctree-l1 current active"><a class="current reference internal" href="#">Choosing the right microscopy modality</a></li>
+<li class="toctree-l1"><a class="reference internal" href="Practical_considerations.html">Practical considerations</a></li>
 <li class="toctree-l1"><a class="reference internal" href="Resources.html">Resources for learning more</a></li>
 </ul>
 <p aria-level="2" class="caption" role="heading"><span class="caption-text">Image Analysis and Data Handling</span></p>
@@ -442,11 +446,11 @@ document.write(`
 <h1>Choosing the right microscopy modality<a class="headerlink" href="#choosing-the-right-microscopy-modality" title="Permalink to this heading">#</a></h1>
 <section id="introduction">
 <h2>Introduction<a class="headerlink" href="#introduction" title="Permalink to this heading">#</a></h2>
-<p>Choosing the right microscope for your experiment will be a factor both of what the experiment dictates and what the researcher can access. The image below (from <a class="reference external" href="http://dx.doi.org/10.1002/cpmo.76">Fundamentals of Microscopy by Jermey Sanderson</a> <span id="id1"><sup><a class="reference internal" href="../bibliography.html#id83" title="Jeremy Sanderson. Fundamentals of microscopy. Curr. Protoc. Mouse Biol., 10(2):e76, June 2020.">10</a></sup></span>) gives a sense of the sorts of decisions one should consider when choosing a microscope.</p>
+<p id="content-microscope-selection">Choosing the right microscope for your experiment will be a factor both of what the experiment dictates and what the researcher can access. The image below (from <a class="reference external" href="http://dx.doi.org/10.1002/cpmo.76">Fundamentals of Microscopy by Jermey Sanderson</a> <span id="id1"><sup><a class="reference internal" href="../bibliography.html#id83" title="Jeremy Sanderson. Fundamentals of microscopy. Curr. Protoc. Mouse Biol., 10(2):e76, June 2020.">14</a></sup></span>) gives a sense of the sorts of decisions one should consider when choosing a microscope; a more thorough description of the pros and cons of various kinds of microscopes can be found in <a class="reference external" href="https://doi.org/10.1038/s41596-020-0313-9">this tutorial</a><span id="id2"><sup><a class="reference internal" href="../bibliography.html#id81" title="James Jonkman, Claire M Brown, Graham D Wright, Kurt I Anderson, and Alison J North. Tutorial: guidance for quantitative confocal microscopy. Nat. Protoc., 15(5):1585–1611, May 2020.">5</a></sup></span>.</p>
 <figure class="align-center" id="microscope-selection-flowchart">
 <a class="reference internal image-reference" href="../_images/Flow-chart-to-help-choose-which-type-of-microscope-to-use.png"><img alt="BBBC image montage" src="../_images/Flow-chart-to-help-choose-which-type-of-microscope-to-use.png" style="width: 100%;" /></a>
 <figcaption>
-<p><span class="caption-number">Fig. 3 </span><span class="caption-text"><strong>Flow chart to help choose which type of microscope to use.</strong> Figure by Jeremy Sanderson. <a class="reference external" href="https://www.researchgate.net/figure/Flow-chart-to-help-choose-which-type-of-microscope-to-use_fig5_341918746">Source</a> <span id="id2"><sup><a class="reference internal" href="../bibliography.html#id83" title="Jeremy Sanderson. Fundamentals of microscopy. Curr. Protoc. Mouse Biol., 10(2):e76, June 2020.">10</a></sup></span></span><a class="headerlink" href="#microscope-selection-flowchart" title="Permalink to this image">#</a></p>
+<p><span class="caption-number">Fig. 4 </span><span class="caption-text"><strong>Flow chart to help choose which type of microscope to use.</strong> Figure by Jeremy Sanderson. <a class="reference external" href="https://www.researchgate.net/figure/Flow-chart-to-help-choose-which-type-of-microscope-to-use_fig5_341918746">Source</a> <span id="id3"><sup><a class="reference internal" href="../bibliography.html#id83" title="Jeremy Sanderson. Fundamentals of microscopy. Curr. Protoc. Mouse Biol., 10(2):e76, June 2020.">14</a></sup></span></span><a class="headerlink" href="#microscope-selection-flowchart" title="Permalink to this image">#</a></p>
 </figcaption>
 </figure>
 </section>
@@ -494,20 +498,20 @@ Commented out text not shown on the page
     <div class="footer-article-item"><!-- Previous / next buttons -->
 <div class="prev-next-area">
     <a class="left-prev"
-       href="../01_Sample_preparation/Resources.html"
+       href="Introduction.html"
        title="previous page">
       <i class="fa-solid fa-angle-left"></i>
       <div class="prev-next-info">
         <p class="prev-next-subtitle">previous</p>
-        <p class="prev-next-title">Resources for learning more</p>
+        <p class="prev-next-title">Introduction</p>
       </div>
     </a>
     <a class="right-next"
-       href="Resources.html"
+       href="Practical_considerations.html"
        title="next page">
       <div class="prev-next-info">
         <p class="prev-next-subtitle">next</p>
-        <p class="prev-next-title">Resources for learning more</p>
+        <p class="prev-next-title">Practical considerations</p>
       </div>
       <i class="fa-solid fa-angle-right"></i>
     </a>

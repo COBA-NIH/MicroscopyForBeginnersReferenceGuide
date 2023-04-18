@@ -9,7 +9,7 @@
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" /><meta name="generator" content="Docutils 0.18.1: http://docutils.sourceforge.net/" />
 
-    <title>Sample Acquisition &#8212; Microscopy for Beginners reference guide</title>
+    <title>Experimental design decisions &#8212; Microscopy for Beginners reference guide</title>
   
   
   
@@ -72,10 +72,12 @@ const thebe_selector_output = ".output, .cell_output"
     <script async="async" src="../_static/sphinx-thebe.js"></script>
     <script src="https://cdn.jsdelivr.net/npm/mermaid/dist/mermaid.min.js"></script>
     <script>mermaid.initialize({startOnLoad:true});</script>
-    <script>DOCUMENTATION_OPTIONS.pagename = '02_Sample_acquisition/_notinyet_Introduction';</script>
+    <script>DOCUMENTATION_OPTIONS.pagename = '01_Sample_preparation/Experimental_design';</script>
     <link rel="shortcut icon" href="../_static/favicon.png"/>
     <link rel="index" title="Index" href="../genindex.html" />
     <link rel="search" title="Search" href="../search.html" />
+    <link rel="next" title="Considerations for different sample types" href="Considerations.html" />
+    <link rel="prev" title="Introduction" href="Introduction.html" />
   <meta name="viewport" content="width=device-width, initial-scale=1"/>
   <meta name="docsearch:language" content="en"/>
   </head>
@@ -170,15 +172,19 @@ const thebe_selector_output = ".output, .cell_output"
 <li class="toctree-l1"><a class="reference internal" href="../QuantitativeBioimaging.html">Quantitative Bioimaging</a></li>
 </ul>
 <p aria-level="2" class="caption" role="heading"><span class="caption-text">Sample Preparation</span></p>
-<ul class="nav bd-sidenav">
-<li class="toctree-l1"><a class="reference internal" href="../01_Sample_preparation/Introduction.html">Introduction</a></li>
-<li class="toctree-l1"><a class="reference internal" href="../01_Sample_preparation/Considerations.html">Considerations for different sample types</a></li>
-<li class="toctree-l1"><a class="reference internal" href="../01_Sample_preparation/Resources.html">Resources for learning more</a></li>
+<ul class="current nav bd-sidenav">
+<li class="toctree-l1"><a class="reference internal" href="Introduction.html">Introduction</a></li>
+<li class="toctree-l1 current active"><a class="current reference internal" href="#">Experimental design decisions</a></li>
+<li class="toctree-l1"><a class="reference internal" href="Considerations.html">Considerations for different sample types</a></li>
+<li class="toctree-l1"><a class="reference internal" href="Reproducibility.html">Reproducibility</a></li>
+<li class="toctree-l1"><a class="reference internal" href="Resources.html">Resources for learning more</a></li>
 </ul>
 <p aria-level="2" class="caption" role="heading"><span class="caption-text">Sample Acquisition</span></p>
 <ul class="nav bd-sidenav">
-<li class="toctree-l1"><a class="reference internal" href="Picking.html">Choosing the right microscopy modality</a></li>
-<li class="toctree-l1"><a class="reference internal" href="Resources.html">Resources for learning more</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../02_Sample_acquisition/Introduction.html">Introduction</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../02_Sample_acquisition/Picking.html">Choosing the right microscopy modality</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../02_Sample_acquisition/Practical_considerations.html">Practical considerations</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../02_Sample_acquisition/Resources.html">Resources for learning more</a></li>
 </ul>
 <p aria-level="2" class="caption" role="heading"><span class="caption-text">Image Analysis and Data Handling</span></p>
 <ul class="nav bd-sidenav">
@@ -284,7 +290,7 @@ const thebe_selector_output = ".output, .cell_output"
       
       
       
-      <li><a href="https://github.com/broadinstitute/MicroscopyForBeginnersReferenceGuide/edit/main/02_Sample_acquisition/_notinyet_Introduction.md" target="_blank"
+      <li><a href="https://github.com/broadinstitute/MicroscopyForBeginnersReferenceGuide/edit/main/01_Sample_preparation/Experimental_design.md" target="_blank"
    class="btn btn-sm btn-source-edit-button dropdown-item"
    title="Suggest edit"
    data-bs-placement="left" data-bs-toggle="tooltip"
@@ -301,7 +307,7 @@ const thebe_selector_output = ".output, .cell_output"
       
       
       
-      <li><a href="https://github.com/broadinstitute/MicroscopyForBeginnersReferenceGuide/issues/new?title=Issue%20on%20page%20%2F02_Sample_acquisition/_notinyet_Introduction.html&body=Your%20issue%20content%20here." target="_blank"
+      <li><a href="https://github.com/broadinstitute/MicroscopyForBeginnersReferenceGuide/issues/new?title=Issue%20on%20page%20%2F01_Sample_preparation/Experimental_design.html&body=Your%20issue%20content%20here." target="_blank"
    class="btn btn-sm btn-source-issues-button dropdown-item"
    title="Open an issue"
    data-bs-placement="left" data-bs-toggle="tooltip"
@@ -331,7 +337,7 @@ const thebe_selector_output = ".output, .cell_output"
       
       
       
-      <li><a href="../_sources/02_Sample_acquisition/_notinyet_Introduction.md" target="_blank"
+      <li><a href="../_sources/01_Sample_preparation/Experimental_design.md" target="_blank"
    class="btn btn-sm btn-download-source-button dropdown-item"
    title="Download source file"
    data-bs-placement="left" data-bs-toggle="tooltip"
@@ -413,7 +419,7 @@ document.write(`
               
 
 <div id="jb-print-docs-body" class="onlyprint">
-    <h1>Sample Acquisition</h1>
+    <h1>Experimental design decisions</h1>
     <!-- Table of contents -->
     <div id="print-main-content">
         <div id="jb-print-toc">
@@ -423,7 +429,8 @@ document.write(`
             </div>
             <nav aria-label="Page">
                 <ul class="visible nav section-nav flex-column">
-<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#introduction">Introduction</a></li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#mounting">Mounting</a></li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#fluorophore-selection">Fluorophore selection</a></li>
 </ul>
             </nav>
         </div>
@@ -435,10 +442,38 @@ document.write(`
 <div id="searchbox"></div>
                 <article class="bd-article" role="main">
                   
-  <section class="tex2jax_ignore mathjax_ignore" id="sample-acquisition">
-<span id="content-acquisition"></span><h1>Sample Acquisition<a class="headerlink" href="#sample-acquisition" title="Permalink to this heading">#</a></h1>
-<section id="introduction">
-<h2>Introduction<a class="headerlink" href="#introduction" title="Permalink to this heading">#</a></h2>
+  <section class="tex2jax_ignore mathjax_ignore" id="experimental-design-decisions">
+<h1>Experimental design decisions<a class="headerlink" href="#experimental-design-decisions" title="Permalink to this heading">#</a></h1>
+<p>A number of critical decisions must be made when designing a quantitative bioimaging experiment. Many of these decisions will be deeply dependent on what is possible given the biology you wish to study, for example:</p>
+<ul class="simple">
+<li><p>You will always prefer live imaging to fixed imaging if it is important to assess the dynamics of a given process</p></li>
+<li><p>You may need to perform special processes such as tissue clearing if it is important to image deep into a relatively opaque specimen</p></li>
+<li><p>You cannot rely on genetic tagging with fluorescent proteins if your model system is not genetically tractable to such manipulations</p></li>
+<li><p>You have to image at a particularly high resolution to confidently assess interactions between two molecules imaged in the same system</p></li>
+</ul>
+<p>It is therefore <em><strong>extremely</strong></em> important to think through all of the aspects of your biological question before ever picking up a pipette or a slide. Many sample preparation decisions are deeply entwined with the availability and suitability of particular microscopes; see <a class="reference internal" href="../02_Sample_acquisition/Picking.html#content-microscope-selection"><span class="std std-ref">that section</span></a> for more information.</p>
+<section id="mounting">
+<h2>Mounting<a class="headerlink" href="#mounting" title="Permalink to this heading">#</a></h2>
+<p>Many imaging applications involve mounting on glass coverslips, either directly or using a coverslip mounted into a dish. While there are a wide range of coverslip sizes and shapes, the most important specification to take into account is the coverslip thickness (0.17 mm) or grade (#1.5 grade) and tolerance (how precise the thickness measurement is. For example, the thickness of a #1.5 coverslip can vary between 0.17-0.19mm, whereas a #1.5H has a standard deviation of 0.005 mm). These factors are important because most microscope manufacturers assume a specific coverslip thickness in the design of objective lenses to minimize common occurring aberrations. These aberrations tend to affect the brightness and axial resolution, reducing signal to noise ratio, sharpness and resolution . The tolerance of the coverslip (to minimize the variability in thickness) is essential for super-resolution techniques or intensity measurements in images collected with high numerical aperture objectives. Other applications do not require the mounting of samples onto glass or plastic, but instead have the sample and the objective lens immersed in the same medium.</p>
+<p>The <a class="reference internal" href="../Glossary.html#term-Refractive-index"><span class="xref std std-term">refractive index</span></a> the sample is placed in, as well as the refractive index of the glass and the medium between the objective and the sample are all critical to determining the overall resolution that can be achieved. The <a class="reference internal" href="../Glossary.html#term-Mounting-media"><span class="xref std std-term">mounting media</span></a> can have other important optical and/or experimental properties; it is important to use the correct mounting media for experiment planned.</p>
+<figure class="align-center" id="mounting-media-dependence">
+<a class="reference internal image-reference" href="../_images/mounting_media.png"><img alt="effects of mounting media" src="../_images/mounting_media.png" style="width: 75%;" /></a>
+<figcaption>
+<p><span class="caption-number">Fig. 3 </span><span class="caption-text"><strong>Effects of mounting media on staining with various fluorophores</strong>. Adapted from Jonkman J., Brown C.M., Wright G.D <em>et al</em>. Tutorial: guidance for quantitative confocal microscopy. <em>Nat Prot</em> <strong>15</strong>, (2020) <span id="id1"><sup><a class="reference internal" href="../bibliography.html#id81" title="James Jonkman, Claire M Brown, Graham D Wright, Kurt I Anderson, and Alison J North. Tutorial: guidance for quantitative confocal microscopy. Nat. Protoc., 15(5):1585–1611, May 2020.">5</a></sup></span></span><a class="headerlink" href="#mounting-media-dependence" title="Permalink to this image">#</a></p>
+</figcaption>
+</figure>
+</section>
+<section id="fluorophore-selection">
+<h2>Fluorophore selection<a class="headerlink" href="#fluorophore-selection" title="Permalink to this heading">#</a></h2>
+<p>Fluorophores are molecules that are able to emit light upon absorption of a photon, typically of shorter wavelength. The fluorophores relevant to biomedical research can be small molecules organic dyes (FITC, Alexa Fluor 488) that bind specific cell structure (e.g., DAPI, BODIPY, mitotrackers), fluorescent analogues of small molecules (e.g., phalloidin, fluorescent amino acids) or fluorescent proteins. Some of the important properties to consider when choosing fluorophores are listed below:</p>
+<ul class="simple">
+<li><p>Excitation/emission spectra of each fluorophore</p></li>
+<li><p>Brightness (dyes tend to be brighter than proteins)</p></li>
+<li><p>Photostability</p></li>
+<li><p>Propensity to oligomerize (in the case of fluorescent proteins)</p></li>
+<li><p>Phototoxicity (when imaging in live samples)</p></li>
+</ul>
+<p>Understanding what fluorophores are available, their properties and the specifications of the hardware to image the sample (light source, excitation/emission filter cube, detector) are key in selecting the appropriate fluorophore(s) to address a scientific question. See the section on <a class="reference internal" href="Reproducibility.html#content-reproducibility"><span class="std std-ref">reproducibility</span></a> for more information.</p>
 <!-- 
 Commented out text not shown on the page
 
@@ -458,7 +493,7 @@ Commented out text not shown on the page
         },
         kernelOptions: {
             name: "python3",
-            path: "./02_Sample_acquisition"
+            path: "./01_Sample_preparation"
         },
         predefinedOutput: true
     }
@@ -476,6 +511,24 @@ Commented out text not shown on the page
   
     <div class="footer-article-item"><!-- Previous / next buttons -->
 <div class="prev-next-area">
+    <a class="left-prev"
+       href="Introduction.html"
+       title="previous page">
+      <i class="fa-solid fa-angle-left"></i>
+      <div class="prev-next-info">
+        <p class="prev-next-subtitle">previous</p>
+        <p class="prev-next-title">Introduction</p>
+      </div>
+    </a>
+    <a class="right-next"
+       href="Considerations.html"
+       title="next page">
+      <div class="prev-next-info">
+        <p class="prev-next-subtitle">next</p>
+        <p class="prev-next-title">Considerations for different sample types</p>
+      </div>
+      <i class="fa-solid fa-angle-right"></i>
+    </a>
 </div></div>
   
 </div>
@@ -494,7 +547,8 @@ Commented out text not shown on the page
   </div>
   <nav class="bd-toc-nav page-toc">
     <ul class="visible nav section-nav flex-column">
-<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#introduction">Introduction</a></li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#mounting">Mounting</a></li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#fluorophore-selection">Fluorophore selection</a></li>
 </ul>
   </nav></div>
 

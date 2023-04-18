@@ -174,12 +174,16 @@ const thebe_selector_output = ".output, .cell_output"
 <p aria-level="2" class="caption" role="heading"><span class="caption-text">Sample Preparation</span></p>
 <ul class="nav bd-sidenav">
 <li class="toctree-l1"><a class="reference internal" href="01_Sample_preparation/Introduction.html">Introduction</a></li>
+<li class="toctree-l1"><a class="reference internal" href="01_Sample_preparation/Experimental_design.html">Experimental design decisions</a></li>
 <li class="toctree-l1"><a class="reference internal" href="01_Sample_preparation/Considerations.html">Considerations for different sample types</a></li>
+<li class="toctree-l1"><a class="reference internal" href="01_Sample_preparation/Reproducibility.html">Reproducibility</a></li>
 <li class="toctree-l1"><a class="reference internal" href="01_Sample_preparation/Resources.html">Resources for learning more</a></li>
 </ul>
 <p aria-level="2" class="caption" role="heading"><span class="caption-text">Sample Acquisition</span></p>
 <ul class="nav bd-sidenav">
+<li class="toctree-l1"><a class="reference internal" href="02_Sample_acquisition/Introduction.html">Introduction</a></li>
 <li class="toctree-l1"><a class="reference internal" href="02_Sample_acquisition/Picking.html">Choosing the right microscopy modality</a></li>
+<li class="toctree-l1"><a class="reference internal" href="02_Sample_acquisition/Practical_considerations.html">Practical considerations</a></li>
 <li class="toctree-l1"><a class="reference internal" href="02_Sample_acquisition/Resources.html">Resources for learning more</a></li>
 </ul>
 <p aria-level="2" class="caption" role="heading"><span class="caption-text">Image Analysis and Data Handling</span></p>
@@ -446,180 +450,196 @@ document.write(`
 <span class="label"><span class="fn-bracket">[</span>4<span class="fn-bracket">]</span></span>
 <p>Perrine Paul-Gilloteaux, Sébastien Tosi, Jean-Karim Hériché, Alban Gaignard, Hervé Ménager, Raphaël Marée, Volker Baecker, Anna Klemm, Matúš Kalaš, Chong Zhang, Kota Miura, and Julien Colombelli. Bioimage analysis workflows: community resources to navigate through a complex ecosystem. <em>F1000Res.</em>, 10:320, April 2021.</p>
 </div>
-<div class="citation" id="id80" role="doc-biblioentry">
-<span class="label"><span class="fn-bracket">[</span>5<span class="fn-bracket">]</span></span>
-<p>Zixuan Zhao, Xinyi Chen, Anna M Dowbaj, Aleksandra Sljukic, Kaitlin Bratlie, Luda Lin, Eliza Li Shan Fong, Gowri Manohari Balachander, Zhaowei Chen, Alice Soragni, Meritxell Huch, Yi Arial Zeng, Qun Wang, and Hanry Yu. Organoids. <em>Nature Reviews Methods Primers</em>, 2(1):1–21, December 2022.</p>
-</div>
 <div class="citation" id="id81" role="doc-biblioentry">
-<span class="label"><span class="fn-bracket">[</span>6<span class="fn-bracket">]</span></span>
+<span class="label"><span class="fn-bracket">[</span>5<span class="fn-bracket">]</span></span>
 <p>James Jonkman, Claire M Brown, Graham D Wright, Kurt I Anderson, and Alison J North. Tutorial: guidance for quantitative confocal microscopy. <em>Nat. Protoc.</em>, 15(5):1585–1611, May 2020.</p>
 </div>
-<div class="citation" id="id82" role="doc-biblioentry">
-<span class="label"><span class="fn-bracket">[</span>7<span class="fn-bracket">]</span></span>
-<p>Eric C Wait, Michael A Reiche, and Teng-Leong Chew. Hypothesis-driven quantitative fluorescence microscopy - the importance of reverse-thinking in experimental design. <em>J. Cell Sci.</em>, November 2020.</p>
+<div class="citation" id="id103" role="doc-biblioentry">
+<span class="label"><span class="fn-bracket">[</span>6<span class="fn-bracket">]</span></span>
+<p>John H. Stockley, Kimberley Evans, Moritz Matthey, Katrin Volbracht, Sylvia Agathou, Jana Mukanowa, Juan Burrone, and Ragnhildur T. Káradóttir. Surpassing light-induced cell damage in vitro with novel cell culture media. <em>Scientific Reports</em>, 7(1):849, Apr 2017. URL: <a class="reference external" href="https://doi.org/10.1038/s41598-017-00829-x">https://doi.org/10.1038/s41598-017-00829-x</a>, <a class="reference external" href="https://doi.org/10.1038/s41598-017-00829-x">doi:10.1038/s41598-017-00829-x</a>.</p>
 </div>
-<div class="citation" id="id36" role="doc-biblioentry">
+<div class="citation" id="id80" role="doc-biblioentry">
+<span class="label"><span class="fn-bracket">[</span>7<span class="fn-bracket">]</span></span>
+<p>Zixuan Zhao, Xinyi Chen, Anna M Dowbaj, Aleksandra Sljukic, Kaitlin Bratlie, Luda Lin, Eliza Li Shan Fong, Gowri Manohari Balachander, Zhaowei Chen, Alice Soragni, Meritxell Huch, Yi Arial Zeng, Qun Wang, and Hanry Yu. Organoids. <em>Nature Reviews Methods Primers</em>, 2(1):1–21, December 2022.</p>
+</div>
+<div class="citation" id="id82" role="doc-biblioentry">
 <span class="label"><span class="fn-bracket">[</span>8<span class="fn-bracket">]</span></span>
-<p>Talley J Lambert. FPbase: a community-editable fluorescent protein database. <em>Nat. Methods</em>, 16(4):277–278, April 2019.</p>
+<p>Eric C Wait, Michael A Reiche, and Teng-Leong Chew. Hypothesis-driven quantitative fluorescence microscopy - the importance of reverse-thinking in experimental design. <em>J. Cell Sci.</em>, November 2020.</p>
 </div>
 <div class="citation" id="id72" role="doc-biblioentry">
 <span class="label"><span class="fn-bracket">[</span>9<span class="fn-bracket">]</span></span>
 <p>Anna Payne-Tobin Jost and Jennifer C Waters. Designing a rigorous microscopy experiment: validating methods and avoiding bias. <em>J. Cell Biol.</em>, 218(5):1452–1466, May 2019.</p>
 </div>
-<div class="citation" id="id83" role="doc-biblioentry">
+<div class="citation" id="id30" role="doc-biblioentry">
 <span class="label"><span class="fn-bracket">[</span>10<span class="fn-bracket">]</span></span>
+<p>Mathias Uhlen, Anita Bandrowski, Steven Carr, Aled Edwards, Jan Ellenberg, Emma Lundberg, David L Rimm, Henry Rodriguez, Tara Hiltke, Michael Snyder, and Tadashi Yamamoto. A proposal for validation of antibodies. <em>Nat. Methods</em>, 13(10):823–827, October 2016.</p>
+</div>
+<div class="citation" id="id102" role="doc-biblioentry">
+<span class="label"><span class="fn-bracket">[</span>11<span class="fn-bracket">]</span></span>
+<p>Charlotte Stadler, Elton Rexhepaj, Vasanth R. Singan, Robert F. Murphy, Rainer Pepperkok, Mathias Uhlén, Jeremy C. Simpson, and Emma Lundberg. Immunofluorescence and fluorescent-protein tagging show high correlation for protein localization in mammalian cells. <em>Nature Methods</em>, 10(4):315–323, Apr 2013. URL: <a class="reference external" href="https://doi.org/10.1038/nmeth.2377">https://doi.org/10.1038/nmeth.2377</a>, <a class="reference external" href="https://doi.org/10.1038/nmeth.2377">doi:10.1038/nmeth.2377</a>.</p>
+</div>
+<div class="citation" id="id104" role="doc-biblioentry">
+<span class="label"><span class="fn-bracket">[</span>12<span class="fn-bracket">]</span></span>
+<p>Méghane Sittewelle, Nuria Ferrandiz, Mary Fesenko, and Stephen J. Royle. Genetically encoded imaging tools for investigating cell dynamics at a glance. <em>Journal of Cell Science</em>, 04 2023. jcs260783. URL: <a class="reference external" href="https://doi.org/10.1242/jcs.260783">https://doi.org/10.1242/jcs.260783</a>, <a class="reference external" href="https://doi.org/10.1242/jcs.260783">doi:10.1242/jcs.260783</a>.</p>
+</div>
+<div class="citation" id="id36" role="doc-biblioentry">
+<span class="label"><span class="fn-bracket">[</span>13<span class="fn-bracket">]</span></span>
+<p>Talley J Lambert. FPbase: a community-editable fluorescent protein database. <em>Nat. Methods</em>, 16(4):277–278, April 2019.</p>
+</div>
+<div class="citation" id="id83" role="doc-biblioentry">
+<span class="label"><span class="fn-bracket">[</span>14<span class="fn-bracket">]</span></span>
 <p>Jeremy Sanderson. Fundamentals of microscopy. <em>Curr. Protoc. Mouse Biol.</em>, 10(2):e76, June 2020.</p>
 </div>
 <div class="citation" id="id101" role="doc-biblioentry">
-<span class="label"><span class="fn-bracket">[</span>11<span class="fn-bracket">]</span></span>
-<p>Alison J. North. Seeing is believing? A beginners' guide to practical pitfalls in image acquisition . <em>Journal of Cell Biology</em>, 172(1):9–18, 01 2006. URL: <a class="reference external" href="https://doi.org/10.1083/jcb.200507103">https://doi.org/10.1083/jcb.200507103</a>, <a class="reference external" href="https://arxiv.org/abs/https://rupress.org/jcb/article-pdf/172/1/9/1322699/jcb17219.pdf">arXiv:https://rupress.org/jcb/article-pdf/172/1/9/1322699/jcb17219.pdf</a>, <a class="reference external" href="https://doi.org/10.1083/jcb.200507103">doi:10.1083/jcb.200507103</a>.</p>
+<span class="label"><span class="fn-bracket">[</span>15<span class="fn-bracket">]</span></span>
+<p>Alison J. North. Seeing is believing? A beginners' guide to practical pitfalls in image acquisition . <em>Journal of Cell Biology</em>, 172(1):9–18, 01 2006. URL: <a class="reference external" href="https://doi.org/10.1083/jcb.200507103">https://doi.org/10.1083/jcb.200507103</a>, <a class="reference external" href="https://doi.org/10.1083/jcb.200507103">doi:10.1083/jcb.200507103</a>.</p>
 </div>
 <div class="citation" id="id4" role="doc-biblioentry">
-<span class="label"><span class="fn-bracket">[</span>12<span class="fn-bracket">]</span></span>
+<span class="label"><span class="fn-bracket">[</span>16<span class="fn-bracket">]</span></span>
 <p>Claire M Brown. Fluorescence microscopy–avoiding the pitfalls. <em>J. Cell Sci.</em>, 120(Pt 10):1703–1705, May 2007.</p>
 </div>
 <div class="citation" id="id73" role="doc-biblioentry">
-<span class="label"><span class="fn-bracket">[</span>13<span class="fn-bracket">]</span></span>
+<span class="label"><span class="fn-bracket">[</span>17<span class="fn-bracket">]</span></span>
 <p>Paula Montero Llopis, Rebecca A Senft, Tim J Ross-Elliott, Ryan Stephansky, Daniel P Keeley, Preman Koshar, Guillermo Marqués, Ya-Sheng Gao, Benjamin R Carlson, Thomas Pengo, Mark A Sanders, Lisa A Cameron, and Michelle S Itano. Best practices and tools for reporting reproducible fluorescence microscopy methods. <em>Nat. Methods</em>, 18(12):1463–1476, December 2021.</p>
 </div>
 <div class="citation" id="id91" role="doc-biblioentry">
-<span class="label"><span class="fn-bracket">[</span>14<span class="fn-bracket">]</span></span>
+<span class="label"><span class="fn-bracket">[</span>18<span class="fn-bracket">]</span></span>
 <p>Anne F J Janssen, Sophia Y Breusegem, and Delphine Larrieu. Current methods and pipelines for Image-Based quantitation of nuclear shape and nuclear envelope abnormalities. <em>Cells</em>, January 2022.</p>
 </div>
 <div class="citation" id="id89" role="doc-biblioentry">
-<span class="label"><span class="fn-bracket">[</span>15<span class="fn-bracket">]</span></span>
+<span class="label"><span class="fn-bracket">[</span>19<span class="fn-bracket">]</span></span>
 <p>Jesse S Aaron, Aaron B Taylor, and Teng-Leong Chew. Image co-localization - co-occurrence versus correlation. <em>J. Cell Sci.</em>, February 2018.</p>
 </div>
 <div class="citation" id="id95" role="doc-biblioentry">
-<span class="label"><span class="fn-bracket">[</span>16<span class="fn-bracket">]</span></span>
+<span class="label"><span class="fn-bracket">[</span>20<span class="fn-bracket">]</span></span>
 <p>Jean-Yves Tinevez, Nick Perry, Johannes Schindelin, Genevieve M Hoopes, Gregory D Reynolds, Emmanuel Laplantine, Sebastian Y Bednarek, Spencer L Shorte, and Kevin W Eliceiri. TrackMate: an open and extensible platform for single-particle tracking. <em>Methods</em>, 115:80–90, February 2017.</p>
 </div>
 <div class="citation" id="id84" role="doc-biblioentry">
-<span class="label"><span class="fn-bracket">[</span>17<span class="fn-bracket">]</span></span>
+<span class="label"><span class="fn-bracket">[</span>21<span class="fn-bracket">]</span></span>
 <p>Akhila Narla, Brett Kuprel, Kavita Sarin, Roberto Novoa, and Justin Ko. Automated classification of skin lesions: from pixels to practice. <em>J. Invest. Dermatol.</em>, 138(10):2108–2110, October 2018.</p>
 </div>
 <div class="citation" id="id86" role="doc-biblioentry">
-<span class="label"><span class="fn-bracket">[</span>18<span class="fn-bracket">]</span></span>
+<span class="label"><span class="fn-bracket">[</span>22<span class="fn-bracket">]</span></span>
 <p>David R Stirling, Anne E Carpenter, and Beth A Cimini. CellProfiler analyst 3.0: accessible data exploration and machine learning for image analysis. <em>Bioinformatics</em>, 37(21):3992–3994, September 2021.</p>
 </div>
 <div class="citation" id="id87" role="doc-biblioentry">
-<span class="label"><span class="fn-bracket">[</span>19<span class="fn-bracket">]</span></span>
+<span class="label"><span class="fn-bracket">[</span>23<span class="fn-bracket">]</span></span>
 <p>Philipp Eulenberg, Niklas Köhler, Thomas Blasi, Andrew Filby, Anne E Carpenter, Paul Rees, Fabian J Theis, and F Alexander Wolf. Reconstructing cell cycle and disease progression using deep learning. <em>Nat. Commun.</em>, 8(1):463, September 2017.</p>
 </div>
 <div class="citation" id="id33" role="doc-biblioentry">
-<span class="label"><span class="fn-bracket">[</span>20<span class="fn-bracket">]</span></span>
+<span class="label"><span class="fn-bracket">[</span>24<span class="fn-bracket">]</span></span>
 <p>Juan C Caicedo, Sam Cooper, Florian Heigwer, Scott Warchal, Peng Qiu, Csaba Molnar, Aliaksei S Vasilevich, Joseph D Barry, Harmanjit Singh Bansal, Oren Kraus, Mathias Wawer, Lassi Paavolainen, Markus D Herrmann, Mohammad Rohban, Jane Hung, Holger Hennig, John Concannon, Ian Smith, Paul A Clemons, Shantanu Singh, Paul Rees, Peter Horvath, Roger G Linington, and Anne E Carpenter. Data-analysis strategies for image-based cell profiling. <em>Nat. Methods</em>, 14(9):849–863, August 2017.</p>
 </div>
 <div class="citation" id="id88" role="doc-biblioentry">
-<span class="label"><span class="fn-bracket">[</span>21<span class="fn-bracket">]</span></span>
+<span class="label"><span class="fn-bracket">[</span>25<span class="fn-bracket">]</span></span>
 <p>Thouis R Jones, Anne E Carpenter, Michael R Lamprecht, Jason Moffat, Serena J Silver, Jennifer K Grenier, Adam B Castoreno, Ulrike S Eggert, David E Root, Polina Golland, and David M Sabatini. Scoring diverse cellular morphologies in image-based screens with iterative feedback and machine learning. <em>Proc. Natl. Acad. Sci. U. S. A.</em>, 106(6):1826–1831, February 2009.</p>
 </div>
 <div class="citation" id="id24" role="doc-biblioentry">
-<span class="label"><span class="fn-bracket">[</span>22<span class="fn-bracket">]</span></span>
+<span class="label"><span class="fn-bracket">[</span>26<span class="fn-bracket">]</span></span>
 <p>Caroline A Schneider, Wayne S Rasband, and Kevin W Eliceiri. NIH image to ImageJ: 25 years of image analysis. <em>Nat. Methods</em>, 9(7):671–675, July 2012.</p>
 </div>
 <div class="citation" id="id13" role="doc-biblioentry">
-<span class="label"><span class="fn-bracket">[</span>23<span class="fn-bracket">]</span></span>
+<span class="label"><span class="fn-bracket">[</span>27<span class="fn-bracket">]</span></span>
 <p>Johannes Schindelin, Ignacio Arganda-Carreras, Erwin Frise, Verena Kaynig, Mark Longair, Tobias Pietzsch, Stephan Preibisch, Curtis Rueden, Stephan Saalfeld, Benjamin Schmid, Jean-Yves Tinevez, Daniel James White, Volker Hartenstein, Kevin Eliceiri, Pavel Tomancak, and Albert Cardona. Fiji: an open-source platform for biological-image analysis. <em>Nat. Methods</em>, 9(7):676–682, June 2012.</p>
 </div>
 <div class="citation" id="id32" role="doc-biblioentry">
-<span class="label"><span class="fn-bracket">[</span>24<span class="fn-bracket">]</span></span>
+<span class="label"><span class="fn-bracket">[</span>28<span class="fn-bracket">]</span></span>
 <p>Curtis T Rueden, Johannes Schindelin, Mark C Hiner, Barry E DeZonia, Alison E Walter, Ellen T Arena, and Kevin W Eliceiri. ImageJ2: ImageJ for the next generation of scientific image data. <em>BMC Bioinformatics</em>, 18(1):529, November 2017.</p>
 </div>
 <div class="citation" id="id15" role="doc-biblioentry">
-<span class="label"><span class="fn-bracket">[</span>25<span class="fn-bracket">]</span></span>
+<span class="label"><span class="fn-bracket">[</span>29<span class="fn-bracket">]</span></span>
 <p>David R Stirling, Madison J Swain-Bowden, Alice M Lucas, Anne E Carpenter, Beth A Cimini, and Allen Goodman. CellProfiler 4: improvements in speed, utility and usability. <em>BMC Bioinformatics</em>, 22(1):433, September 2021.</p>
 </div>
 <div class="citation" id="id67" role="doc-biblioentry">
-<span class="label"><span class="fn-bracket">[</span>26<span class="fn-bracket">]</span></span>
+<span class="label"><span class="fn-bracket">[</span>30<span class="fn-bracket">]</span></span>
 <p>Peter Bankhead, Maurice B Loughrey, José A Fernández, Yvonne Dombrowski, Darragh G McArt, Philip D Dunne, Stephen McQuaid, Ronan T Gray, Liam J Murray, Helen G Coleman, Jacqueline A James, Manuel Salto-Tellez, and Peter W Hamilton. QuPath: open source software for digital pathology image analysis. <em>Sci. Rep.</em>, 7(1):16878, December 2017.</p>
 </div>
 <div class="citation" id="id47" role="doc-biblioentry">
-<span class="label"><span class="fn-bracket">[</span>27<span class="fn-bracket">]</span></span>
+<span class="label"><span class="fn-bracket">[</span>31<span class="fn-bracket">]</span></span>
 <p>Fabrice de Chaumont, Stéphane Dallongeville, Nicolas Chenouard, Nicolas Hervé, Sorin Pop, Thomas Provoost, Vannary Meas-Yedid, Praveen Pankajakshan, Timothée Lecomte, Yoann Le Montagner, Thibault Lagache, Alexandre Dufour, and Jean-Christophe Olivo-Marin. Icy: an open bioimage informatics platform for extended reproducible research. <em>Nat. Methods</em>, 9(7):690–696, June 2012.</p>
 </div>
 <div class="citation" id="id92" role="doc-biblioentry">
-<span class="label"><span class="fn-bracket">[</span>28<span class="fn-bracket">]</span></span>
+<span class="label"><span class="fn-bracket">[</span>32<span class="fn-bracket">]</span></span>
 <p>Ilya Belevich, Merja Joensuu, Darshan Kumar, Helena Vihinen, and Eija Jokitalo. Microscopy image browser: a platform for segmentation and analysis of multidimensional datasets. <em>PLoS Biol.</em>, 14(1):e1002340, January 2016.</p>
 </div>
 <div class="citation" id="id41" role="doc-biblioentry">
-<span class="label"><span class="fn-bracket">[</span>29<span class="fn-bracket">]</span></span>
+<span class="label"><span class="fn-bracket">[</span>33<span class="fn-bracket">]</span></span>
 <p>Nicholas Sofroniew, Talley Lambert, Kira Evans, Juan Nunez-Iglesias, Grzegorz Bokota, Philip Winston, Gonzalo Peña-Castellanos, Kevin Yamauchi, Matthias Bussonnier, Draga Doncila Pop, Ahmet Can Solak, Ziyang Liu, Pam Wadhwa, Alister Burt, Genevieve Buckley, Andrew Sweet, Lukasz Migas, Volker Hilsenstein, Lorenzo Gaifas, Jordão Bragantini, Jaime Rodríguez-Guerra, Hector Muñoz, Jeremy Freeman, Peter Boone, Alan Lowe, Christoph Gohlke, Loic Royer, Andrea Pierré, Hagai Har-Gil, and Abigail McGovern. Napari: a multi-dimensional image viewer for python. November 2022.</p>
 </div>
 <div class="citation" id="id93" role="doc-biblioentry">
-<span class="label"><span class="fn-bracket">[</span>30<span class="fn-bracket">]</span></span>
+<span class="label"><span class="fn-bracket">[</span>34<span class="fn-bracket">]</span></span>
 <p>Carsen Stringer, Tim Wang, Michalis Michaelos, and Marius Pachitariu. Cellpose: a generalist algorithm for cellular segmentation. <em>Nat. Methods</em>, 18(1):100–106, January 2021.</p>
 </div>
 <div class="citation" id="id58" role="doc-biblioentry">
-<span class="label"><span class="fn-bracket">[</span>31<span class="fn-bracket">]</span></span>
+<span class="label"><span class="fn-bracket">[</span>35<span class="fn-bracket">]</span></span>
 <p>Stuart Berg, Dominik Kutra, Thorben Kroeger, Christoph N Straehle, Bernhard X Kausler, Carsten Haubold, Martin Schiegg, Janez Ales, Thorsten Beier, Markus Rudy, Kemal Eren, Jaime I Cervantes, Buote Xu, Fynn Beuttenmueller, Adrian Wolny, Chong Zhang, Ullrich Koethe, Fred A Hamprecht, and Anna Kreshuk. Ilastik: interactive machine learning for (bio)image analysis. <em>Nat. Methods</em>, 16(12):1226–1232, December 2019.</p>
 </div>
 <div class="citation" id="id10" role="doc-biblioentry">
-<span class="label"><span class="fn-bracket">[</span>32<span class="fn-bracket">]</span></span>
+<span class="label"><span class="fn-bracket">[</span>36<span class="fn-bracket">]</span></span>
 <p>Matthew Hartley, Gerard J Kleywegt, Ardan Patwardhan, Ugis Sarkans, Jason R Swedlow, and Alvis Brazma. The BioImage archive - building a home for Life-Sciences microscopy data. <em>J. Mol. Biol.</em>, 434(11):167505, June 2022.</p>
 </div>
 <div class="citation" id="id60" role="doc-biblioentry">
-<span class="label"><span class="fn-bracket">[</span>33<span class="fn-bracket">]</span></span>
+<span class="label"><span class="fn-bracket">[</span>37<span class="fn-bracket">]</span></span>
 <p>Eleanor Williams, Josh Moore, Simon W Li, Gabriella Rustici, Aleksandra Tarkowska, Anatole Chessel, Simone Leo, Bálint Antal, Richard K Ferguson, Ugis Sarkans, Alvis Brazma, Rafael E Carazo Salas, and Jason R Swedlow. The image data resource: a bioimage data integration and publication platform. <em>Nat. Methods</em>, 14(8):775–781, August 2017.</p>
 </div>
 <div class="citation" id="id50" role="doc-biblioentry">
-<span class="label"><span class="fn-bracket">[</span>34<span class="fn-bracket">]</span></span>
+<span class="label"><span class="fn-bracket">[</span>38<span class="fn-bracket">]</span></span>
 <p>Curtis T Rueden, Jeanelle Ackerman, Ellen T Arena, Jan Eglinger, Beth A Cimini, Allen Goodman, Anne E Carpenter, and Kevin W Eliceiri. Scientific community image forum: a discussion forum for scientific image software. <em>PLoS Biol.</em>, 17(6):e3000340, June 2019.</p>
 </div>
 <div class="citation" id="id90" role="doc-biblioentry">
-<span class="label"><span class="fn-bracket">[</span>35<span class="fn-bracket">]</span></span>
+<span class="label"><span class="fn-bracket">[</span>39<span class="fn-bracket">]</span></span>
 <p>Kota Miura, editor. <em>Bioimage Data Analysis</em>. Wiley-VCH, 2016.</p>
 </div>
 <div class="citation" id="id46" role="doc-biblioentry">
-<span class="label"><span class="fn-bracket">[</span>36<span class="fn-bracket">]</span></span>
+<span class="label"><span class="fn-bracket">[</span>40<span class="fn-bracket">]</span></span>
 <p>Kota Miura and Simon F Nørrelykke. Reproducible image handling and analysis. <em>EMBO J.</em>, 40(3):e105889, February 2021.</p>
 </div>
 <div class="citation" id="id6" role="doc-biblioentry">
-<span class="label"><span class="fn-bracket">[</span>37<span class="fn-bracket">]</span></span>
+<span class="label"><span class="fn-bracket">[</span>41<span class="fn-bracket">]</span></span>
 <p>Siân Culley, Alicia Cuber Caballero, Jemima J Burden, and Virginie Uhlmann. Made to measure: an introduction to quantification in microscopy data. <em>arxiv</em>, February 2023. <a class="reference external" href="https://arxiv.org/abs/2302.01657">arXiv:2302.01657</a>.</p>
 </div>
 <div class="citation" id="id54" role="doc-biblioentry">
-<span class="label"><span class="fn-bracket">[</span>38<span class="fn-bracket">]</span></span>
+<span class="label"><span class="fn-bracket">[</span>42<span class="fn-bracket">]</span></span>
 <p>Douglas W Cromey. Avoiding twisted pixels: ethical guidelines for the appropriate use and manipulation of scientific digital images. <em>Sci. Eng. Ethics</em>, 16(4):639–667, December 2010.</p>
 </div>
 <div class="citation" id="id43" role="doc-biblioentry">
-<span class="label"><span class="fn-bracket">[</span>39<span class="fn-bracket">]</span></span>
+<span class="label"><span class="fn-bracket">[</span>43<span class="fn-bracket">]</span></span>
 <p>Helena Jambor, Alberto Antonietti, Bradly Alicea, Tracy L Audisio, Susann Auer, Vivek Bhardwaj, Steven J Burgess, Iuliia Ferling, Małgorzata Anna Gazda, Luke H Hoeppner, Vinodh Ilangovan, Hung Lo, Mischa Olson, Salem Yousef Mohamed, Sarvenaz Sarabipour, Aalok Varma, Kaivalya Walavalkar, Erin M Wissink, and Tracey L Weissgerber. Creating clear and informative image-based figures for scientific publications. <em>PLoS Biol.</em>, 19(3):e3001161, March 2021.</p>
 </div>
 <div class="citation" id="id96" role="doc-biblioentry">
-<span class="label"><span class="fn-bracket">[</span>40<span class="fn-bracket">]</span></span>
+<span class="label"><span class="fn-bracket">[</span>44<span class="fn-bracket">]</span></span>
 <p>Kim R M Blenman, Josef Spidlen, David R Parks, Wayne Moore, Adam Treister, Robert Leif, Chris Bray, Michael Goldberg, ISAC Data Standards Task Force, and Ryan Brinkman. ISAC probe tag dictionary: standardized nomenclature for detection and visualization labels used in cytometry and microscopy imaging. <em>Cytometry A</em>, 99(1):103–106, January 2021.</p>
 </div>
 <div class="citation" id="id97" role="doc-biblioentry">
-<span class="label"><span class="fn-bracket">[</span>41<span class="fn-bracket">]</span></span>
+<span class="label"><span class="fn-bracket">[</span>45<span class="fn-bracket">]</span></span>
 <p>Mee Rie Sheen, Jennifer L Fields, Brian Northan, Judith Lacoste, Lay-Hong Ang, Steven Fiering, and Reproducibility Project: Cancer Biology. Replication study: biomechanical remodeling of the microenvironment by stromal caveolin-1 favors tumor invasion and metastasis. <em>Elife</em>, December 2019.</p>
 </div>
 <div class="citation" id="id62" role="doc-biblioentry">
-<span class="label"><span class="fn-bracket">[</span>42<span class="fn-bracket">]</span></span>
+<span class="label"><span class="fn-bracket">[</span>46<span class="fn-bracket">]</span></span>
 <p>Guillermo Marqués, Thomas Pengo, and Mark A Sanders. Imaging methods are vastly underreported in biomedical research. <em>Elife</em>, August 2020.</p>
 </div>
 <div class="citation" id="id85" role="doc-biblioentry">
-<span class="label"><span class="fn-bracket">[</span>43<span class="fn-bracket">]</span></span>
+<span class="label"><span class="fn-bracket">[</span>47<span class="fn-bracket">]</span></span>
 <p>Hong Yu, Shashank Agarwal, Mark Johnston, and Aaron Cohen. Are figure legends sufficient? evaluating the contribution of associated text to biomedical figure comprehension. <em>J. Biomed. Discov. Collab.</em>, 4:1, January 2009.</p>
 </div>
 <div class="citation" id="id98" role="doc-biblioentry">
-<span class="label"><span class="fn-bracket">[</span>44<span class="fn-bracket">]</span></span>
+<span class="label"><span class="fn-bracket">[</span>48<span class="fn-bracket">]</span></span>
 <p>Christopher J C Burges. Dimension reduction: a guided tour. <em>Foundations and Trends® in Machine Learning</em>, January 2010.</p>
 </div>
 <div class="citation" id="id99" role="doc-biblioentry">
-<span class="label"><span class="fn-bracket">[</span>45<span class="fn-bracket">]</span></span>
+<span class="label"><span class="fn-bracket">[</span>49<span class="fn-bracket">]</span></span>
 <p>Wilson Wen Bin Goh, Wei Wang, and Limsoon Wong. Why batch effects matter in omics data, and how to avoid them. <em>Trends Biotechnol.</em>, 35(6):498–507, June 2017.</p>
 </div>
 <div class="citation" id="id100" role="doc-biblioentry">
-<span class="label"><span class="fn-bracket">[</span>46<span class="fn-bracket">]</span></span>
+<span class="label"><span class="fn-bracket">[</span>50<span class="fn-bracket">]</span></span>
 <p>Jeffrey T Leek, W Evan Johnson, Hilary S Parker, Andrew E Jaffe, and John D Storey. The sva package for removing batch effects and other unwanted variation in high-throughput experiments. <em>Bioinformatics</em>, 28(6):882–883, March 2012.</p>
 </div>
 <div class="citation" id="id65" role="doc-biblioentry">
-<span class="label"><span class="fn-bracket">[</span>47<span class="fn-bracket">]</span></span>
+<span class="label"><span class="fn-bracket">[</span>51<span class="fn-bracket">]</span></span>
 <p>Susan Holmes and Wolfgang Huber. Modern statistics for modern biology. <a class="reference external" href="https://www.huber.embl.de/msmb/">https://www.huber.embl.de/msmb/</a>, February 2019. Accessed: NA-NA-NA.</p>
 </div>
 <div class="citation" id="id55" role="doc-biblioentry">
-<span class="label"><span class="fn-bracket">[</span>48<span class="fn-bracket">]</span></span>
+<span class="label"><span class="fn-bracket">[</span>52<span class="fn-bracket">]</span></span>
 <p>Christopher Schmied, Michael Nelson, Sergiy Avilov, Gert-Jan Bakker, Cristina Bertocchi, Johanna Bischof, Ulrike Boehm, Jan Brocher, Mariana Carvalho, Catalin Chiritescu, Jana Christopher, Beth Cimini, Eduardo Conde-Sousa, Michael Ebner, Rupert Ecker, Kevin Eliceiri, Julia Fernandez-Rodriguez, Nathalie Gaudreault, Laurent Gelman, David Grunwald, Tingting Gu, Nadia Halidi, Mathias Hammer, Matthew Hartley, Marie Held, Florian Jug, Varun Kapoor, Ayse Aslihan Koksoy, Judith Lacoste, Sylvia Le Dévédec, Sylvie Le Guyader, Penghuan Liu, Gabriel Martins, Aastha Mathur, Kota Miura, Paula Montero Llopis, Roland Nitschke, Alison North, Adam Parslow, Alex Payne-Dwyer, Laure Plantard, Ali Rizwan, Britta Schroth-Diez, Lucas Schütz, Ryan T Scott, Arne Seitz, Olaf Selchow, Ved Sharma, Martin Spitaler, Sathya Srinivasan, Caterina Strambio De Castillia, Douglas Taatjes, Christian Tischer, and Helena Klara Jambor. Community-developed checklists for publishing images and image analysis. <em>arxiv</em>, February 2023. <a class="reference external" href="https://arxiv.org/abs/2302.07005">arXiv:2302.07005</a>.</p>
 </div>
 </div>

@@ -174,12 +174,16 @@ const thebe_selector_output = ".output, .cell_output"
 <p aria-level="2" class="caption" role="heading"><span class="caption-text">Sample Preparation</span></p>
 <ul class="nav bd-sidenav">
 <li class="toctree-l1"><a class="reference internal" href="../01_Sample_preparation/Introduction.html">Introduction</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../01_Sample_preparation/Experimental_design.html">Experimental design decisions</a></li>
 <li class="toctree-l1"><a class="reference internal" href="../01_Sample_preparation/Considerations.html">Considerations for different sample types</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../01_Sample_preparation/Reproducibility.html">Reproducibility</a></li>
 <li class="toctree-l1"><a class="reference internal" href="../01_Sample_preparation/Resources.html">Resources for learning more</a></li>
 </ul>
 <p aria-level="2" class="caption" role="heading"><span class="caption-text">Sample Acquisition</span></p>
 <ul class="nav bd-sidenav">
+<li class="toctree-l1"><a class="reference internal" href="../02_Sample_acquisition/Introduction.html">Introduction</a></li>
 <li class="toctree-l1"><a class="reference internal" href="../02_Sample_acquisition/Picking.html">Choosing the right microscopy modality</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../02_Sample_acquisition/Practical_considerations.html">Practical considerations</a></li>
 <li class="toctree-l1"><a class="reference internal" href="../02_Sample_acquisition/Resources.html">Resources for learning more</a></li>
 </ul>
 <p aria-level="2" class="caption" role="heading"><span class="caption-text">Image Analysis and Data Handling</span></p>
@@ -437,15 +441,15 @@ document.write(`
 </tr>
 </thead>
 <tbody>
-<tr class="row-even"><td><p>Creating clear and informative image-based figures for scientific publications <span id="id1"><sup><a class="reference internal" href="../bibliography.html#id43" title="Helena Jambor, Alberto Antonietti, Bradly Alicea, Tracy L Audisio, Susann Auer, Vivek Bhardwaj, Steven J Burgess, Iuliia Ferling, Małgorzata Anna Gazda, Luke H Hoeppner, Vinodh Ilangovan, Hung Lo, Mischa Olson, Salem Yousef Mohamed, Sarvenaz Sarabipour, Aalok Varma, Kaivalya Walavalkar, Erin M Wissink, and Tracey L Weissgerber. Creating clear and informative image-based figures for scientific publications. PLoS Biol., 19(3):e3001161, March 2021.">39</a></sup></span></p></td>
+<tr class="row-even"><td><p>Creating clear and informative image-based figures for scientific publications <span id="id1"><sup><a class="reference internal" href="../bibliography.html#id43" title="Helena Jambor, Alberto Antonietti, Bradly Alicea, Tracy L Audisio, Susann Auer, Vivek Bhardwaj, Steven J Burgess, Iuliia Ferling, Małgorzata Anna Gazda, Luke H Hoeppner, Vinodh Ilangovan, Hung Lo, Mischa Olson, Salem Yousef Mohamed, Sarvenaz Sarabipour, Aalok Varma, Kaivalya Walavalkar, Erin M Wissink, and Tracey L Weissgerber. Creating clear and informative image-based figures for scientific publications. PLoS Biol., 19(3):e3001161, March 2021.">43</a></sup></span></p></td>
 <td><p><a class="reference external" href="https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3001161">link</a></p></td>
 <td><p>Review article on how to create accessible, fair scientific figures, including guidelines for microscopy images</p></td>
 </tr>
-<tr class="row-odd"><td><p>Community-developed checklists for publishing images and image analysis <span id="id2"><sup><a class="reference internal" href="../bibliography.html#id55" title="Christopher Schmied, Michael Nelson, Sergiy Avilov, Gert-Jan Bakker, Cristina Bertocchi, Johanna Bischof, Ulrike Boehm, Jan Brocher, Mariana Carvalho, Catalin Chiritescu, Jana Christopher, Beth Cimini, Eduardo Conde-Sousa, Michael Ebner, Rupert Ecker, Kevin Eliceiri, Julia Fernandez-Rodriguez, Nathalie Gaudreault, Laurent Gelman, David Grunwald, Tingting Gu, Nadia Halidi, Mathias Hammer, Matthew Hartley, Marie Held, Florian Jug, Varun Kapoor, Ayse Aslihan Koksoy, Judith Lacoste, Sylvia Le Dévédec, Sylvie Le Guyader, Penghuan Liu, Gabriel Martins, Aastha Mathur, Kota Miura, Paula Montero Llopis, Roland Nitschke, Alison North, Adam Parslow, Alex Payne-Dwyer, Laure Plantard, Ali Rizwan, Britta Schroth-Diez, Lucas Schütz, Ryan T Scott, Arne Seitz, Olaf Selchow, Ved Sharma, Martin Spitaler, Sathya Srinivasan, Caterina Strambio De Castillia, Douglas Taatjes, Christian Tischer, and Helena Klara Jambor. Community-developed checklists for publishing images and image analysis. arxiv, February 2023. arXiv:2302.07005.">48</a></sup></span></p></td>
+<tr class="row-odd"><td><p>Community-developed checklists for publishing images and image analysis <span id="id2"><sup><a class="reference internal" href="../bibliography.html#id55" title="Christopher Schmied, Michael Nelson, Sergiy Avilov, Gert-Jan Bakker, Cristina Bertocchi, Johanna Bischof, Ulrike Boehm, Jan Brocher, Mariana Carvalho, Catalin Chiritescu, Jana Christopher, Beth Cimini, Eduardo Conde-Sousa, Michael Ebner, Rupert Ecker, Kevin Eliceiri, Julia Fernandez-Rodriguez, Nathalie Gaudreault, Laurent Gelman, David Grunwald, Tingting Gu, Nadia Halidi, Mathias Hammer, Matthew Hartley, Marie Held, Florian Jug, Varun Kapoor, Ayse Aslihan Koksoy, Judith Lacoste, Sylvia Le Dévédec, Sylvie Le Guyader, Penghuan Liu, Gabriel Martins, Aastha Mathur, Kota Miura, Paula Montero Llopis, Roland Nitschke, Alison North, Adam Parslow, Alex Payne-Dwyer, Laure Plantard, Ali Rizwan, Britta Schroth-Diez, Lucas Schütz, Ryan T Scott, Arne Seitz, Olaf Selchow, Ved Sharma, Martin Spitaler, Sathya Srinivasan, Caterina Strambio De Castillia, Douglas Taatjes, Christian Tischer, and Helena Klara Jambor. Community-developed checklists for publishing images and image analysis. arxiv, February 2023. arXiv:2302.07005.">52</a></sup></span></p></td>
 <td><p><a class="reference external" href="https://arxiv.org/abs/2302.07005">link</a></p></td>
 <td><p>A paper recommending checklists and best practices for publishing image data</p></td>
 </tr>
-<tr class="row-even"><td><p>Modern Statistics for Modern Biology <span id="id3"><sup><a class="reference internal" href="../bibliography.html#id65" title="Susan Holmes and Wolfgang Huber. Modern statistics for modern biology. https://www.huber.embl.de/msmb/, February 2019. Accessed: NA-NA-NA.">47</a></sup></span></p></td>
+<tr class="row-even"><td><p>Modern Statistics for Modern Biology <span id="id3"><sup><a class="reference internal" href="../bibliography.html#id65" title="Susan Holmes and Wolfgang Huber. Modern statistics for modern biology. https://www.huber.embl.de/msmb/, February 2019. Accessed: NA-NA-NA.">51</a></sup></span></p></td>
 <td><p><a class="reference external" href="https://www.huber.embl.de/msmb/">link</a></p></td>
 <td><p>Online statistics for biologists textbook with code examples (in R)</p></td>
 </tr>
