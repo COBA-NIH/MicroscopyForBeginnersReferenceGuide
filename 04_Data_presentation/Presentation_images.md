@@ -43,7 +43,7 @@ Images often do not have regular spaced intensity values. To still display the d
 See the [cheat-sheet below](image-cheat-sheet) for more information. 
 ```
 ```{dropdown} <span style="color: red">⚠️</span> Where can things go wrong?
-Any adjustments that result in the disappearance of image details are considered misleading  <!--(Cromey DW).-->. Note that many nonlinear transformations of brightness and contrast are available in image processing software, before using these users should ensure that they faithfully represent the data to avoid accidentally misleading audiences and disclose them as annotations.
+Any adjustments that result in the disappearance of image details are considered misleading {cite}`Cromey2010-jr`. Note that many nonlinear transformations of brightness and contrast are available in image processing software, before using these users should ensure that they faithfully represent the data to avoid accidentally misleading audiences and disclose them as annotations.
 ```
 ```{dropdown} 📚🤷‍♀️ Where can I learn more?
 * 📄 [Avoiding Twisted Pixels: Ethical Guidelines for the Appropriate Use and Manipulation of Scientific Digital Images](https://doi.org/10.1007%2Fs11948-010-9201-y) {cite}`Cromey2010-jr`
