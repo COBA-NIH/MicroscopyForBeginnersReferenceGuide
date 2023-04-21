@@ -20,6 +20,9 @@ Below are globally and locally available community resources
 * - Scientific Community Image Forum (Image . sc) 
   - [link](https://forum.image.sc/)
   - Discussion forum for bioimage analysis software {cite}`Rueden2019-qp`
+* - HMS Nikon Imaging Center "Favorite References"
+  - [link](https://nic.med.harvard.edu/fav_references/)
+  - A curated list of references related to many aspects of microscopy and image analysis
 
 ```
 
