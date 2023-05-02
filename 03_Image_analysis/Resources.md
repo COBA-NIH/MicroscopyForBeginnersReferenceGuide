@@ -37,7 +37,7 @@
 * - 🌐 Galaxy Imaging Node 
   - [link](https://imaging.usegalaxy.eu/)
   - A Galaxy node prepopulated with a number of open-source image analysis tools and workflows, making it easy to create and share reproducible FAIR workflows
-* - Image Analysis Training Resources
+* - 🌐 Image Analysis Training Resources
   - [link](https://neubias.github.io/training-resources/index.html)
   - Image analysis traning resources collected by NEUBIAS, styled based on The Carpentries
 * - 🌐 Bioimage Analysis AwesomeList
