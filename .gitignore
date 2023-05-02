@@ -1,2 +1,5 @@
 **.DS_Store
-_build/**
+_build/html**
+_build/gettext/.**
+_build/gettext/_**
+

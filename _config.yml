@@ -46,3 +46,5 @@ sphinx:
     - sphinxcontrib.mermaid
   config:
     bibtex_reference_style: super
+    locale_dirs: ["locale/"]
+    gettext_compact: true
