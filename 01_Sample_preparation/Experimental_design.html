@@ -429,7 +429,11 @@ document.write(`
             </div>
             <nav aria-label="Page">
                 <ul class="visible nav section-nav flex-column">
-<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#mounting">Mounting</a></li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#mounting">Mounting</a><ul class="nav section-nav flex-column">
+<li class="toc-h3 nav-item toc-entry"><a class="reference internal nav-link" href="#glass-coverslips">Glass coverslips</a></li>
+<li class="toc-h3 nav-item toc-entry"><a class="reference internal nav-link" href="#mounting-media">Mounting media</a></li>
+</ul>
+</li>
 <li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#fluorophore-selection">Fluorophore selection</a></li>
 </ul>
             </nav>
@@ -454,8 +458,32 @@ document.write(`
 <p>It is therefore <em><strong>extremely</strong></em> important to think through all of the aspects of your biological question before ever picking up a pipette or a slide. Many sample preparation decisions are deeply entwined with the availability and suitability of particular microscopes; see <a class="reference internal" href="../02_Sample_acquisition/Picking.html#content-microscope-selection"><span class="std std-ref">that section</span></a> for more information.</p>
 <section id="mounting">
 <h2>Mounting<a class="headerlink" href="#mounting" title="Permalink to this heading">#</a></h2>
-<p>Many imaging applications involve mounting on glass coverslips, either directly or using a coverslip mounted into a dish. While there are a wide range of coverslip sizes and shapes, the most important specification to take into account is the coverslip thickness (0.17 mm) or grade (#1.5 grade) and tolerance (how precise the thickness measurement is. For example, the thickness of a #1.5 coverslip can vary between 0.17-0.19mm, whereas a #1.5H has a standard deviation of 0.005 mm). These factors are important because most microscope manufacturers assume a specific coverslip thickness in the design of objective lenses to minimize common occurring aberrations. These aberrations tend to affect the brightness and axial resolution, reducing signal to noise ratio, sharpness and resolution . The tolerance of the coverslip (to minimize the variability in thickness) is essential for super-resolution techniques or intensity measurements in images collected with high numerical aperture objectives. Other applications do not require the mounting of samples onto glass or plastic, but instead have the sample and the objective lens immersed in the same medium.</p>
-<p>The <a class="reference internal" href="../Glossary.html#term-Refractive-index"><span class="xref std std-term">refractive index</span></a> the sample is placed in, as well as the refractive index of the glass and the medium between the objective and the sample are all critical to determining the overall resolution that can be achieved. The <a class="reference internal" href="../Glossary.html#term-Mounting-media"><span class="xref std std-term">mounting media</span></a> can have other important optical and/or experimental properties; it is important to use the correct mounting media for experiment planned.</p>
+<section id="glass-coverslips">
+<h3>Glass coverslips<a class="headerlink" href="#glass-coverslips" title="Permalink to this heading">#</a></h3>
+<p>Many imaging applications involve mounting on glass coverslips, either directly or using a coverslip mounted into a dish. While there is a wide range of coverslip sizes and shapes, the most important attribute is the coverslip thickness. Coverslip grade dictates the expected thickness and tolerance. These factors are important because most microscope manufacturers assume a specific coverslip thickness (0.17mm) in the design of objective lenses to minimize aberrations. These aberrations tend to affect the brightness and axial resolution, reducing signal to noise ratio, sharpness, and resolution. The tolerance of the coverslip (to minimize the variability in thickness) is essential for super-resolution techniques or intensity measurements in images collected with high numerical aperture objectives. Other applications do not require the mounting of samples onto glass or plastic but instead have the sample and the objective lens immersed in the same medium.</p>
+<table class="table" id="coverslip-grades">
+<caption><span class="caption-number">Table 1 </span><span class="caption-text">Comparison of coverslip grades</span><a class="headerlink" href="#coverslip-grades" title="Permalink to this table">#</a></caption>
+<thead>
+<tr class="row-odd"><th class="head"><p>Grade</p></th>
+<th class="head"><p>Nominal thickness [mm]</p></th>
+<th class="head"><p>Thickness range [mm]</p></th>
+</tr>
+</thead>
+<tbody>
+<tr class="row-even"><td><p>#1.5</p></td>
+<td><p>0.17</p></td>
+<td><p>0.16 - 0.19</p></td>
+</tr>
+<tr class="row-odd"><td><p>#1.5H</p></td>
+<td><p>0.17</p></td>
+<td><p>0.165 - 0.175</p></td>
+</tr>
+</tbody>
+</table>
+</section>
+<section id="mounting-media">
+<h3>Mounting media<a class="headerlink" href="#mounting-media" title="Permalink to this heading">#</a></h3>
+<p>The <a class="reference internal" href="../Glossary.html#term-Refractive-index"><span class="xref std std-term">refractive index</span></a> the sample is placed in, as well as the refractive index of the glass and the medium between the objective and the sample are all critical to determining the achievable resolution. The <a class="reference internal" href="../Glossary.html#term-Mounting-media"><span class="xref std std-term">mounting media</span></a> can have other important optical and/or experimental properties; it is important to use the correct mounting media for experiment planned.</p>
 <figure class="align-center" id="mounting-media-dependence">
 <a class="reference internal image-reference" href="../_images/mounting_media.png"><img alt="effects of mounting media" src="../_images/mounting_media.png" style="width: 75%;" /></a>
 <figcaption>
@@ -463,9 +491,10 @@ document.write(`
 </figcaption>
 </figure>
 </section>
+</section>
 <section id="fluorophore-selection">
 <h2>Fluorophore selection<a class="headerlink" href="#fluorophore-selection" title="Permalink to this heading">#</a></h2>
-<p>Fluorophores are molecules that are able to emit light upon absorption of a photon, typically of shorter wavelength. The fluorophores relevant to biomedical research can be small molecules organic dyes (FITC, Alexa Fluor 488) that bind specific cell structure (e.g., DAPI, BODIPY, mitotrackers), fluorescent analogues of small molecules (e.g., phalloidin, fluorescent amino acids) or fluorescent proteins. Some of the important properties to consider when choosing fluorophores are listed below:</p>
+<p>Fluorophores are molecules that are able to emit light upon absorption of a photon, typically of shorter wavelength. The fluorophores relevant to biomedical research can be small molecules organic dyes (FITC, Alexa Fluor 488) that bind specific cell structure (e.g., DAPI, MitoTracker), fluorescent analogues of small molecules (e.g., phalloidin, fluorescent amino acids) or fluorescent proteins. Some of the important properties to consider when choosing fluorophores are listed below:</p>
 <ul class="simple">
 <li><p>Excitation/emission spectra of each fluorophore</p></li>
 <li><p>Brightness (dyes tend to be brighter than proteins)</p></li>
@@ -473,11 +502,12 @@ document.write(`
 <li><p>Propensity to oligomerize (in the case of fluorescent proteins)</p></li>
 <li><p>Phototoxicity (when imaging in live samples)</p></li>
 </ul>
-<p>Understanding what fluorophores are available, their properties and the specifications of the hardware to image the sample (light source, excitation/emission filter cube, detector) are key in selecting the appropriate fluorophore(s) to address a scientific question. See the section on <a class="reference internal" href="Reproducibility.html#content-reproducibility"><span class="std std-ref">reproducibility</span></a> for more information.</p>
+<p>Understanding fluorophores, microscope specifications (light source, filters, detector), and analysis goals are key in selecting the appropriate fluorophore(s) to address a scientific question. See the section on <a class="reference internal" href="Reproducibility.html#content-reproducibility"><span class="std std-ref">reproducibility</span></a> for more information.</p>
 <!-- 
 Commented out text not shown on the page
 
- --></section>
+ -->
+</section>
 </section>
 
     <script type="text/x-thebe-config">
@@ -547,7 +577,11 @@ Commented out text not shown on the page
   </div>
   <nav class="bd-toc-nav page-toc">
     <ul class="visible nav section-nav flex-column">
-<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#mounting">Mounting</a></li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#mounting">Mounting</a><ul class="nav section-nav flex-column">
+<li class="toc-h3 nav-item toc-entry"><a class="reference internal nav-link" href="#glass-coverslips">Glass coverslips</a></li>
+<li class="toc-h3 nav-item toc-entry"><a class="reference internal nav-link" href="#mounting-media">Mounting media</a></li>
+</ul>
+</li>
 <li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#fluorophore-selection">Fluorophore selection</a></li>
 </ul>
   </nav></div>

@@ -10,9 +10,28 @@ A number of critical decisions must be made when designing a quantitative bioima
 
 ## Mounting
 
-Many imaging applications involve mounting on glass coverslips, either directly or using a coverslip mounted into a dish. While there are a wide range of coverslip sizes and shapes, the most important specification to take into account is the coverslip thickness (0.17 mm) or grade (#1.5 grade) and tolerance (how precise the thickness measurement is. For example, the thickness of a #1.5 coverslip can vary between 0.17-0.19mm, whereas a #1.5H has a standard deviation of 0.005 mm). These factors are important because most microscope manufacturers assume a specific coverslip thickness in the design of objective lenses to minimize common occurring aberrations. These aberrations tend to affect the brightness and axial resolution, reducing signal to noise ratio, sharpness and resolution . The tolerance of the coverslip (to minimize the variability in thickness) is essential for super-resolution techniques or intensity measurements in images collected with high numerical aperture objectives. Other applications do not require the mounting of samples onto glass or plastic, but instead have the sample and the objective lens immersed in the same medium.
+### Glass coverslips
 
-The {term}`refractive index` the sample is placed in, as well as the refractive index of the glass and the medium between the objective and the sample are all critical to determining the overall resolution that can be achieved. The {term}`mounting media` can have other important optical and/or experimental properties; it is important to use the correct mounting media for experiment planned. 
+Many imaging applications involve mounting on glass coverslips, either directly or using a coverslip mounted into a dish. While there is a wide range of coverslip sizes and shapes, the most important attribute is the coverslip thickness. Coverslip grade dictates the expected thickness and tolerance. These factors are important because most microscope manufacturers assume a specific coverslip thickness (0.17mm) in the design of objective lenses to minimize aberrations. These aberrations tend to affect the brightness and axial resolution, reducing signal to noise ratio, sharpness, and resolution. The tolerance of the coverslip (to minimize the variability in thickness) is essential for super-resolution techniques or intensity measurements in images collected with high numerical aperture objectives. Other applications do not require the mounting of samples onto glass or plastic but instead have the sample and the objective lens immersed in the same medium.
+
+```{list-table} Comparison of coverslip grades
+:header-rows: 1
+:name: coverslip-grades
+
+* - Grade
+  - Nominal thickness [mm]
+  - Thickness range [mm]
+* - #1.5
+  - 0.17
+  - 0.16 - 0.19
+* - #1.5H
+  - 0.17
+  - 0.165 - 0.175
+```
+
+### Mounting media 
+
+The {term}`refractive index` the sample is placed in, as well as the refractive index of the glass and the medium between the objective and the sample are all critical to determining the achievable resolution. The {term}`mounting media` can have other important optical and/or experimental properties; it is important to use the correct mounting media for experiment planned. 
 
 ```{figure} ../images/mounting_media.png
 ---
@@ -26,7 +45,7 @@ name: mounting-media-dependence
 
 ## Fluorophore selection
 
-Fluorophores are molecules that are able to emit light upon absorption of a photon, typically of shorter wavelength. The fluorophores relevant to biomedical research can be small molecules organic dyes (FITC, Alexa Fluor 488) that bind specific cell structure (e.g., DAPI, BODIPY, mitotrackers), fluorescent analogues of small molecules (e.g., phalloidin, fluorescent amino acids) or fluorescent proteins. Some of the important properties to consider when choosing fluorophores are listed below:
+Fluorophores are molecules that are able to emit light upon absorption of a photon, typically of shorter wavelength. The fluorophores relevant to biomedical research can be small molecules organic dyes (FITC, Alexa Fluor 488) that bind specific cell structure (e.g., DAPI, MitoTracker), fluorescent analogues of small molecules (e.g., phalloidin, fluorescent amino acids) or fluorescent proteins. Some of the important properties to consider when choosing fluorophores are listed below:
 
 - Excitation/emission spectra of each fluorophore 
 - Brightness (dyes tend to be brighter than proteins)
@@ -34,7 +53,7 @@ Fluorophores are molecules that are able to emit light upon absorption of a phot
 - Propensity to oligomerize (in the case of fluorescent proteins)
 - Phototoxicity (when imaging in live samples)
 
-Understanding what fluorophores are available, their properties and the specifications of the hardware to image the sample (light source, excitation/emission filter cube, detector) are key in selecting the appropriate fluorophore(s) to address a scientific question. See the section on [reproducibility](content/reproducibility) for more information.
+Understanding fluorophores, microscope specifications (light source, filters, detector), and analysis goals are key in selecting the appropriate fluorophore(s) to address a scientific question. See the section on [reproducibility](content/reproducibility) for more information.
 
 <!-- 
 Commented out text not shown on the page
