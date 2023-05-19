@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Python \n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2023-05-02 14:28-0400\n"
+"POT-Creation-Date: 2023-05-19 07:07-0400\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -179,6 +179,11 @@ msgid "📄 [Image co-localization - co-occurrence versus correlation](https://j
 msgstr ""
 
 #: ../../03_Image_analysis/Common_types_of_analysis.md:1
+#: ../../03_Image_analysis/Software.md:1
+msgid ""
+msgstr ""
+
+#: ../../03_Image_analysis/Common_types_of_analysis.md:1
 msgid "Common types of analysis"
 msgstr ""
 
@@ -267,13 +272,6 @@ msgid "[ImageJ](https://imagej.net/) {cite}`Schneider2012-gs,Schindelin2012-kk,R
 msgstr ""
 
 #: ../../03_Image_analysis/GeneralUseSoftware.md:0
-#: ../../03_Image_analysis/GeneralUseSoftware.md:0
-#: ../../03_Image_analysis/GeneralUseSoftware.md:0
-#: ../../03_Image_analysis/GeneralUseSoftware.md:0
-#: ../../03_Image_analysis/GeneralUseSoftware.md:0
-#: ../../03_Image_analysis/GeneralUseSoftware.md:0
-#: ../../03_Image_analysis/SpecificUseSoftware.md:0
-#: ../../03_Image_analysis/SpecificUseSoftware.md:0
 #: ../../03_Image_analysis/SpecificUseSoftware.md:0
 msgid "What are its disadvantages?"
 msgstr ""
@@ -287,13 +285,6 @@ msgid "But while it can open large images, there is a size limit to the size it 
 msgstr ""
 
 #: ../../03_Image_analysis/GeneralUseSoftware.md:0
-#: ../../03_Image_analysis/GeneralUseSoftware.md:0
-#: ../../03_Image_analysis/GeneralUseSoftware.md:0
-#: ../../03_Image_analysis/GeneralUseSoftware.md:0
-#: ../../03_Image_analysis/GeneralUseSoftware.md:0
-#: ../../03_Image_analysis/GeneralUseSoftware.md:0
-#: ../../03_Image_analysis/SpecificUseSoftware.md:0
-#: ../../03_Image_analysis/SpecificUseSoftware.md:0
 #: ../../03_Image_analysis/SpecificUseSoftware.md:0
 msgid "How to download/install and learn more?"
 msgstr ""
@@ -886,8 +877,6 @@ msgstr ""
 msgid "[Cellpose](https://www.cellpose.org/) {cite}`Stringer2021-uq` is a {term}`segmentation` algorithm, it provides a graphical user interface that allows users to use trained models or train their own using their images and annotations."
 msgstr ""
 
-#: ../../03_Image_analysis/SpecificUseSoftware.md:0
-#: ../../03_Image_analysis/SpecificUseSoftware.md:0
 #: ../../03_Image_analysis/SpecificUseSoftware.md:0
 msgid "What type of image analysis problem is it best at?"
 msgstr ""

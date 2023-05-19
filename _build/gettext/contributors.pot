@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Python \n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2023-05-02 14:28-0400\n"
+"POT-Creation-Date: 2023-05-19 07:07-0400\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -28,14 +28,22 @@ msgstr ""
 msgid "The original material for this book was created as part of the paper [A biologist’s guide to the field of quantitative bioimaging](https://doi.org/10.5281/zenodo.7439283) by Rebecca A. Senft*, Barbara Diaz-Rohrer*, Pina Colarusso, Lucy Swift, Nasim Jamali, Helena Jambor, Thomas Pengo, Craig Brideau, Paula Montero Llopis, Virginie Uhlmann, Jason Kirk, Kevin Andrew Gonzales, Peter Bankhead, Edward L. Evans III, Kevin W Eliceiri and Beth A. Cimini."
 msgstr ""
 
-#: ../../contributors.md:9
+#: ../../contributors.md:7
+msgid "Since this guide has become available, we gratefully acknowledge contributions from the following members of the microscopy and bioimage analysis community!"
+msgstr ""
+
+#: ../../contributors.md:8
+msgid "William Giang"
+msgstr ""
+
+#: ../../contributors.md:10
 msgid "How can I become a contributor?"
 msgstr ""
 
-#: ../../contributors.md:11
+#: ../../contributors.md:12
 msgid "Please feel free to open an [issue](https://github.com/broadinstitute/MicroscopyForBeginnersReferenceGuide/issues) or pull request to contribute! We hope for this to be a living document reflecting the best practices and resources available."
 msgstr ""
 
-#: ../../contributors.md:13
+#: ../../contributors.md:14
 msgid "We currently also offer a [Google Form](https://docs.google.com/forms/d/e/1FAIpQLScWQbemviI2OkvVkeTKUOozAzKNndcZpXIB_nE0qFMl72lqvQ/viewform) for contributions, though note these may be responded to more slowly than direct contributions to the GitHub repository."
 msgstr ""

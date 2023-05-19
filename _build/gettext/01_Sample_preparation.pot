@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Python \n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2023-05-02 14:28-0400\n"
+"POT-Creation-Date: 2023-05-19 07:07-0400\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -203,51 +203,96 @@ msgid "Mounting"
 msgstr ""
 
 #: ../../01_Sample_preparation/Experimental_design.md:13
-msgid "Many imaging applications involve mounting on glass coverslips, either directly or using a coverslip mounted into a dish. While there are a wide range of coverslip sizes and shapes, the most important specification to take into account is the coverslip thickness (0.17 mm) or grade (#1.5 grade) and tolerance (how precise the thickness measurement is. For example, the thickness of a #1.5 coverslip can vary between 0.17-0.19mm, whereas a #1.5H has a standard deviation of 0.005 mm). These factors are important because most microscope manufacturers assume a specific coverslip thickness in the design of objective lenses to minimize common occurring aberrations. These aberrations tend to affect the brightness and axial resolution, reducing signal to noise ratio, sharpness and resolution . The tolerance of the coverslip (to minimize the variability in thickness) is essential for super-resolution techniques or intensity measurements in images collected with high numerical aperture objectives. Other applications do not require the mounting of samples onto glass or plastic, but instead have the sample and the objective lens immersed in the same medium."
+msgid "Glass coverslips"
 msgstr ""
 
 #: ../../01_Sample_preparation/Experimental_design.md:15
-msgid "The {term}`refractive index` the sample is placed in, as well as the refractive index of the glass and the medium between the objective and the sample are all critical to determining the overall resolution that can be achieved. The {term}`mounting media` can have other important optical and/or experimental properties; it is important to use the correct mounting media for experiment planned."
+msgid "Many imaging applications involve mounting on glass coverslips, either directly or using a coverslip mounted into a dish. While there is a wide range of coverslip sizes and shapes, the most important attribute is the coverslip thickness. Coverslip grade dictates the expected thickness and tolerance. These factors are important because most microscope manufacturers assume a specific coverslip thickness (0.17mm) in the design of objective lenses to minimize aberrations. These aberrations tend to affect the brightness and axial resolution, reducing signal to noise ratio, sharpness, and resolution. The tolerance of the coverslip (to minimize the variability in thickness) is essential for super-resolution techniques or intensity measurements in images collected with high numerical aperture objectives. Other applications do not require the mounting of samples onto glass or plastic but instead have the sample and the objective lens immersed in the same medium."
+msgstr ""
+
+#: ../../01_Sample_preparation/Experimental_design.md:17
+msgid "Comparison of coverslip grades"
+msgstr ""
+
+#: ../../01_Sample_preparation/Experimental_design.md:21
+msgid "Grade"
+msgstr ""
+
+#: ../../01_Sample_preparation/Experimental_design.md:22
+msgid "Nominal thickness [mm]"
+msgstr ""
+
+#: ../../01_Sample_preparation/Experimental_design.md:23
+msgid "Thickness range [mm]"
 msgstr ""
 
 #: ../../01_Sample_preparation/Experimental_design.md:24
-msgid "effects of mounting media"
+msgid "#1.5"
 msgstr ""
 
-#: ../../01_Sample_preparation/Experimental_design.md:24
-msgid "**Effects of mounting media on staining with various fluorophores**. Adapted from Jonkman J., Brown C.M., Wright G.D _et al_. Tutorial: guidance for quantitative confocal microscopy. _Nat Prot_ **15**, (2020) {cite}`Jonkman2020-bo`"
+#: ../../01_Sample_preparation/Experimental_design.md:25
+#: ../../01_Sample_preparation/Experimental_design.md:28
+msgid "0.17"
+msgstr ""
+
+#: ../../01_Sample_preparation/Experimental_design.md:26
+msgid "0.16 - 0.19"
 msgstr ""
 
 #: ../../01_Sample_preparation/Experimental_design.md:27
-msgid "Fluorophore selection"
+msgid "#1.5H"
 msgstr ""
 
 #: ../../01_Sample_preparation/Experimental_design.md:29
-msgid "Fluorophores are molecules that are able to emit light upon absorption of a photon, typically of shorter wavelength. The fluorophores relevant to biomedical research can be small molecules organic dyes (FITC, Alexa Fluor 488) that bind specific cell structure (e.g., DAPI, BODIPY, mitotrackers), fluorescent analogues of small molecules (e.g., phalloidin, fluorescent amino acids) or fluorescent proteins. Some of the important properties to consider when choosing fluorophores are listed below:"
-msgstr ""
-
-#: ../../01_Sample_preparation/Experimental_design.md:31
-msgid "Excitation/emission spectra of each fluorophore"
+msgid "0.165 - 0.175"
 msgstr ""
 
 #: ../../01_Sample_preparation/Experimental_design.md:32
-msgid "Brightness (dyes tend to be brighter than proteins)"
-msgstr ""
-
-#: ../../01_Sample_preparation/Experimental_design.md:33
-msgid "Photostability"
+msgid "Mounting media"
 msgstr ""
 
 #: ../../01_Sample_preparation/Experimental_design.md:34
+msgid "The {term}`refractive index` the sample is placed in, as well as the refractive index of the glass and the medium between the objective and the sample are all critical to determining the achievable resolution. The {term}`mounting media` can have other important optical and/or experimental properties; it is important to use the correct mounting media for experiment planned."
+msgstr ""
+
+#: ../../01_Sample_preparation/Experimental_design.md:43
+msgid "effects of mounting media"
+msgstr ""
+
+#: ../../01_Sample_preparation/Experimental_design.md:43
+msgid "**Effects of mounting media on staining with various fluorophores**. Adapted from Jonkman J., Brown C.M., Wright G.D _et al_. Tutorial: guidance for quantitative confocal microscopy. _Nat Prot_ **15**, (2020) {cite}`Jonkman2020-bo`"
+msgstr ""
+
+#: ../../01_Sample_preparation/Experimental_design.md:46
+msgid "Fluorophore selection"
+msgstr ""
+
+#: ../../01_Sample_preparation/Experimental_design.md:48
+msgid "Fluorophores are molecules that are able to emit light upon absorption of a photon, typically of shorter wavelength. The fluorophores relevant to biomedical research can be small molecules organic dyes (FITC, Alexa Fluor 488) that bind specific cell structure (e.g., DAPI, MitoTracker), fluorescent analogues of small molecules (e.g., phalloidin, fluorescent amino acids) or fluorescent proteins. Some of the important properties to consider when choosing fluorophores are listed below:"
+msgstr ""
+
+#: ../../01_Sample_preparation/Experimental_design.md:50
+msgid "Excitation/emission spectra of each fluorophore"
+msgstr ""
+
+#: ../../01_Sample_preparation/Experimental_design.md:51
+msgid "Brightness (dyes tend to be brighter than proteins)"
+msgstr ""
+
+#: ../../01_Sample_preparation/Experimental_design.md:52
+msgid "Photostability"
+msgstr ""
+
+#: ../../01_Sample_preparation/Experimental_design.md:53
 msgid "Propensity to oligomerize (in the case of fluorescent proteins)"
 msgstr ""
 
-#: ../../01_Sample_preparation/Experimental_design.md:35
+#: ../../01_Sample_preparation/Experimental_design.md:54
 msgid "Phototoxicity (when imaging in live samples)"
 msgstr ""
 
-#: ../../01_Sample_preparation/Experimental_design.md:37
-msgid "Understanding what fluorophores are available, their properties and the specifications of the hardware to image the sample (light source, excitation/emission filter cube, detector) are key in selecting the appropriate fluorophore(s) to address a scientific question. See the section on [reproducibility](content/reproducibility) for more information."
+#: ../../01_Sample_preparation/Experimental_design.md:56
+msgid "Understanding fluorophores, microscope specifications (light source, filters, detector), and analysis goals are key in selecting the appropriate fluorophore(s) to address a scientific question. See the section on [reproducibility](content/reproducibility) for more information."
 msgstr ""
 
 #: ../../01_Sample_preparation/Introduction.md:1

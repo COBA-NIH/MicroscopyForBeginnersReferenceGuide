@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Python \n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2023-05-02 14:28-0400\n"
+"POT-Creation-Date: 2023-05-19 07:07-0400\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -62,10 +62,6 @@ msgid "rotation"
 msgstr ""
 
 #: ../../04_Data_presentation/Presentation_images.md:0
-#: ../../04_Data_presentation/Presentation_images.md:0
-#: ../../04_Data_presentation/Presentation_images.md:0
-#: ../../04_Data_presentation/Presentation_images.md:0
-#: ../../04_Data_presentation/Presentation_images.md:0
 msgid "🤔 How do I do it?"
 msgstr ""
 
@@ -78,12 +74,6 @@ msgid "See the [cheat-sheet below](image-cheat-sheet) for more information."
 msgstr ""
 
 #: ../../04_Data_presentation/Presentation_images.md:0
-#: ../../04_Data_presentation/Presentation_images.md:0
-#: ../../04_Data_presentation/Presentation_images.md:0
-#: ../../04_Data_presentation/Presentation_images.md:0
-#: ../../04_Data_presentation/Presentation_images.md:0
-#: ../../04_Data_presentation/Statistics.md:0
-#: ../../04_Data_presentation/Statistics.md:0
 #: ../../04_Data_presentation/Statistics.md:0
 msgid "<span style=\"color: red\">⚠️</span> Where can things go wrong?"
 msgstr ""
@@ -93,12 +83,6 @@ msgid "Any adjustments that alter the conclusions are not permitted."
 msgstr ""
 
 #: ../../04_Data_presentation/Presentation_images.md:0
-#: ../../04_Data_presentation/Presentation_images.md:0
-#: ../../04_Data_presentation/Presentation_images.md:0
-#: ../../04_Data_presentation/Presentation_images.md:0
-#: ../../04_Data_presentation/Presentation_images.md:0
-#: ../../04_Data_presentation/Statistics.md:0
-#: ../../04_Data_presentation/Statistics.md:0
 #: ../../04_Data_presentation/Statistics.md:0
 msgid "📚🤷‍♀️ Where can I learn more?"
 msgstr ""
@@ -288,8 +272,6 @@ msgstr ""
 msgid "Dimensionality reduction (also called dimension reduction) aims at mapping high-dimensional data onto a lower dimensional space in order to better reveal trends and patterns. Algorithms performing this task attempt to retain as much information as possible when reducing the dimensionality of the data: this is achieved by assigning importance scores to individual features, removing redundancies, and identifying uninformative (for instance constant) features. Dimensionality reduction is an important step in quantitative analysis as it makes data more manageable and easier to visualize. It is also an important preprocessing step in many downstream analysis algorithms, such as machine learning classifiers."
 msgstr ""
 
-#: ../../04_Data_presentation/Statistics.md:0
-#: ../../04_Data_presentation/Statistics.md:0
 #: ../../04_Data_presentation/Statistics.md:0
 msgid "📏 How do I do it?"
 msgstr ""

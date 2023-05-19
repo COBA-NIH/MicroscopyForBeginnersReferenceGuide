@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Python \n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2023-05-02 14:28-0400\n"
+"POT-Creation-Date: 2023-05-19 07:07-0400\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -65,7 +65,7 @@ msgid "Image processing"
 msgstr ""
 
 #: ../../Glossary.md:20
-msgid "Is an operation that can be performed on an image, the result benign another image. There are simple image processing operations, like resizing or rotating an image. And other more advanced like enhancing particular features of an image like circles or lines."
+msgid "Is an operation that can be performed on an image, resulting in another image. Image processing operations can be simple (e.g. resizing or rotating) or more advanced (e.g. enhancing particular features of an image like circles or lines)."
 msgstr ""
 
 #: ../../Glossary.md:18
@@ -97,7 +97,7 @@ msgid "Mounting media"
 msgstr ""
 
 #: ../../Glossary.md:32
-msgid "Is the solution in which your specimen is placed in (mounted). Its purpose is to preserve the sample, including the fluorophores in it,  and enhance the imaging quality during acquisition, by buffering the pH, matching the refractive index throughout the sample (ideally matching it to that of glass) and minimizing photobleaching (depending on the medium) . Mounting media prevents the sample from drying out allowing long-term storage."
+msgid "Is the solution in which your specimen is placed in (mounted). Its purpose is to preserve the sample, including the fluorophores in it,  and enhance the imaging quality during acquisition, by buffering the pH, matching the refractive index throughout the sample (ideally matching it to that of glass) and minimizing photobleaching (depending on the medium). Mounting media prevents the sample from drying out allowing long-term storage."
 msgstr ""
 
 #: ../../Glossary.md:30
@@ -149,7 +149,7 @@ msgid "Method of dividing an image into multiple parts or regions. There are thr
 msgstr ""
 
 #: ../../Glossary.md:51
-msgid "Semantic segmentation, were all parts of an image are part of a class, common in cell biology will be detecting cells and background on an image."
+msgid "Semantic segmentation, where all parts of an image are part of a class, common in cell biology will be detecting cells and background on an image."
 msgstr ""
 
 #: ../../Glossary.md:52
@@ -157,7 +157,7 @@ msgid "Instance segmentation, the segmentation is object based, not just detecti
 msgstr ""
 
 #: ../../Glossary.md:53
-msgid "Panoptic Segmentation,  it can be defined as a combination of the prior two, because it identifies the object but also cassifies them. An example in biology might be detecting all the cells on an image and classifying them as dividing vs not."
+msgid "Panoptic Segmentation, it can be defined as a combination of the prior two, because it identifies the object but also classifies them. An example in biology might be detecting all the cells on an image and classifying them as dividing vs not."
 msgstr ""
 
 #: ../../Glossary.md:51
@@ -165,7 +165,7 @@ msgid "Thresholding"
 msgstr ""
 
 #: ../../Glossary.md:56
-msgid "The easiest form of image segmentation, it divides the image into two part the background and the foreground (or signal). It creates a binary image were usually the background pixels would be change to a 0 value and the foreground pixels values would be 1."
+msgid "The easiest form of image segmentation, it divides the image into two part the background and the foreground (or signal). It creates a binary image where usually the background pixels would be change to a 0 value and the foreground pixels values would be 1."
 msgstr ""
 
 #: ../../Glossary.md:54
