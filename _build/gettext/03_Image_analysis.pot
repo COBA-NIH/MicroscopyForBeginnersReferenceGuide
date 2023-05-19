@@ -179,11 +179,6 @@ msgid "📄 [Image co-localization - co-occurrence versus correlation](https://j
 msgstr ""
 
 #: ../../03_Image_analysis/Common_types_of_analysis.md:1
-#: ../../03_Image_analysis/Software.md:1
-msgid ""
-msgstr ""
-
-#: ../../03_Image_analysis/Common_types_of_analysis.md:1
 msgid "Common types of analysis"
 msgstr ""
 

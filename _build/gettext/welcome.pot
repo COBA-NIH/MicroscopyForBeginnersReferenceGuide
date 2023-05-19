@@ -17,10 +17,6 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 
 #: ../../welcome.md:1
-msgid ""
-msgstr ""
-
-#: ../../welcome.md:1
 msgid "Sample Preparation"
 msgstr ""
 
