@@ -6,6 +6,7 @@ The original material for this book was created as part of the paper [A biologis
 	
 Since this guide has become available, we gratefully acknowledge contributions from the following members of the microscopy and bioimage analysis community! 
 - William Giang
+- Robert Haase
 
 ## How can I become a contributor?
 
