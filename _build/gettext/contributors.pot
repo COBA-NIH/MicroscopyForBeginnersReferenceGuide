@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Python \n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2023-05-19 07:07-0400\n"
+"POT-Creation-Date: 2023-06-15 11:57-0400\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -36,14 +36,18 @@ msgstr ""
 msgid "William Giang"
 msgstr ""
 
-#: ../../contributors.md:10
+#: ../../contributors.md:9
+msgid "Robert Haase"
+msgstr ""
+
+#: ../../contributors.md:11
 msgid "How can I become a contributor?"
 msgstr ""
 
-#: ../../contributors.md:12
+#: ../../contributors.md:13
 msgid "Please feel free to open an [issue](https://github.com/broadinstitute/MicroscopyForBeginnersReferenceGuide/issues) or pull request to contribute! We hope for this to be a living document reflecting the best practices and resources available."
 msgstr ""
 
-#: ../../contributors.md:14
+#: ../../contributors.md:15
 msgid "We currently also offer a [Google Form](https://docs.google.com/forms/d/e/1FAIpQLScWQbemviI2OkvVkeTKUOozAzKNndcZpXIB_nE0qFMl72lqvQ/viewform) for contributions, though note these may be responded to more slowly than direct contributions to the GitHub repository."
 msgstr ""
