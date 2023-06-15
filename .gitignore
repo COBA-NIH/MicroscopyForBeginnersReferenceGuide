@@ -3,3 +3,5 @@ _build/html**
 _build/gettext/.**
 _build/gettext/_**
 
+*/.ipynb_checkpoints/*
+.ipynb_checkpoints/*

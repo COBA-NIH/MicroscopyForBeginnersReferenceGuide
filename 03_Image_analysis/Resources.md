@@ -43,4 +43,7 @@
 * - 🌐 Bioimage Analysis AwesomeList
   - [link](https://github.com/hallvaaw/awesome-biological-image-analysis)
   - A curated [AwesomeList](https://github.com/sindresorhus/awesome) of resources related to bioimage analysis
+* - 🌐 Bioimage Analysis Notebooks
+  - [link](https://haesleinhuepf.github.io/BioImageAnalysisNotebooks/)
+  - A collection of Python Jupyter notebooks for BioImageAnalysis, GPU-accelerated image processing, bio-image data science and more
 ```
