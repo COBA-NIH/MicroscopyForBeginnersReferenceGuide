@@ -175,5 +175,7 @@ For documentation examples and  tutorials.
 
 * 🌐 [New to napari guide ](https://napari.org/stable/tutorials/fundamentals/getting_started.html) 
 * 🌐 [Tutorials](https://napari.org/stable/tutorials/index.html)
+* 🌐 [Bioimage Analysis with Napari - A FocalPlane blog series](https://focalplane.biologists.com/category/blog-series/bio-image-analysis-with-napari/)
+
 ```
 

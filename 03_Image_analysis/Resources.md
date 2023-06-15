@@ -46,7 +46,4 @@
 * - 🌐 Bioimage Analysis Notebooks
   - [link](https://haesleinhuepf.github.io/BioImageAnalysisNotebooks/)
   - A collection of Python Jupyter notebooks for BioImageAnalysis, GPU-accelerated image processing, bio-image data science and more
-* - 🌐 Bioimage Analysis with Napari  
-  - [link](https://focalplane.biologists.com/category/blog-series/bio-image-analysis-with-napari/)
-  - A [FocalPlane](https://focalplane.biologists.com/) blog series about bioimage analysis with napari
 ```
