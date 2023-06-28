@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Python \n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2023-05-19 07:07-0400\n"
+"POT-Creation-Date: 2023-06-15 11:57-0400\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -722,6 +722,13 @@ msgstr ""
 msgid "🌐 [Tutorials](https://napari.org/stable/tutorials/index.html)"
 msgstr ""
 
+#: ../../03_Image_analysis/GeneralUseSoftware.md:178
+msgid ""
+"🌐 [Bioimage Analysis with Napari - A FocalPlane blog "
+"series](https://focalplane.biologists.com/category/blog-series/bio-image-"
+"analysis-with-napari/)"
+msgstr ""
+
 #: ../../03_Image_analysis/Intensity.md:1
 msgid "Intensity measurements"
 msgstr ""
@@ -1044,6 +1051,20 @@ msgstr ""
 msgid ""
 "A curated [AwesomeList](https://github.com/sindresorhus/awesome) of "
 "resources related to bioimage analysis"
+msgstr ""
+
+#: ../../03_Image_analysis/Resources.md:46
+msgid "🌐 Bioimage Analysis Notebooks"
+msgstr ""
+
+#: ../../03_Image_analysis/Resources.md:47
+msgid "[link](https://haesleinhuepf.github.io/BioImageAnalysisNotebooks/)"
+msgstr ""
+
+#: ../../03_Image_analysis/Resources.md:48
+msgid ""
+"A collection of Python Jupyter notebooks for BioImageAnalysis, GPU-"
+"accelerated image processing, bio-image data science and more"
 msgstr ""
 
 #: ../../03_Image_analysis/Shape.md:1
