@@ -40,6 +40,10 @@ html:
   google_analytics_id: G-LDZ3MLCB50
   comments:
     hypothesis: true
+  extra_footer: |
+    <p>
+    <a href="www.bioimagingguide.org">English</a> <a href="cz.bioimagingguide.org">česky</a> 
+    </p>
 
 sphinx:
   extra_extensions:
