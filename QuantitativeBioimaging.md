@@ -22,5 +22,5 @@ width: 80%
 align: center
 name: qb-decision-cycle
 ---
-**The decision cycle of quantitative bioimaging {cite}`Senft2023-cb`** Reproduced from Senft and Diaz-Rohrer et al, [**_A biologist’s guide to the field of quantitative bioimaging_**](https://doi.org/10.5281/zenodo.7439283).
+**The decision cycle of quantitative bioimaging {cite}`Senft2023-zy`** Reproduced from Senft and Diaz-Rohrer et al, [**_A biologist’s guide to planning and performing quantitative bioimaging experiments_**](https://doi.org/10.1371/journal.pbio.3002167).
 ```
