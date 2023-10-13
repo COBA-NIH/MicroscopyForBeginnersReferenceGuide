@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Python \n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2023-06-30 07:32-0400\n"
+"POT-Creation-Date: 2023-10-13 18:15-0400\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language: fi\n"
@@ -81,10 +81,35 @@ msgstr ""
 
 #: ../../contributors.md:20
 msgid ""
+"This guide is available in [English](www.bioimagingguide.org) as well as "
+"Czech(cz.bioimagingguide.org)."
+msgstr ""
+
+#: ../../contributors.md:22
+msgid ""
 "Work is underway to translate this guide into other languages - "
 "translation is planned or has begun in French, Spanish, Portuguese, "
-"Czech, and Polish. To help translate into one of these languages, or "
-"another language not listed here, please contact bcimini AT "
-"broadinstitute DOT org."
+"German, Finnish, and Polish. To help translate into one of these "
+"languages, or another language not listed here, please contact bcimini AT"
+" broadinstitute DOT org."
 msgstr ""
+
+#: ../../contributors.md:24
+msgid "Translations are gratefully acknowledged from:"
+msgstr ""
+
+#: ../../contributors.md:26
+msgid "Czech : Martin Schätz"
+msgstr ""
+
+#~ msgid ""
+#~ "Work is underway to translate this "
+#~ "guide into other languages - translation"
+#~ " is planned or has begun in "
+#~ "French, Spanish, Portuguese, Czech, and "
+#~ "Polish. To help translate into one "
+#~ "of these languages, or another language"
+#~ " not listed here, please contact "
+#~ "bcimini AT broadinstitute DOT org."
+#~ msgstr ""
 
