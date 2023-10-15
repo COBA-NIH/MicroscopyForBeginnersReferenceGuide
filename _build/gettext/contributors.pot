@@ -57,7 +57,7 @@ msgid "Translation"
 msgstr ""
 
 #: ../../contributors.md:20
-msgid "This guide is available in [English](https://www.bioimagingguide.org) as well as [Czech](https://cz.bioimagingguide.org)."
+msgid "This guide is available in [English](https://www.bioimagingguide.org) as well as [Czech](https://cs.bioimagingguide.org)."
 msgstr ""
 
 #: ../../contributors.md:22

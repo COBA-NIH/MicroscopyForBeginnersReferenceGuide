@@ -17,7 +17,7 @@ We currently also offer a [Google Form](https://docs.google.com/forms/d/e/1FAIpQ
 
 ## Translation
 
-This guide is available in [English](https://www.bioimagingguide.org) as well as [Czech](https://cz.bioimagingguide.org). 
+This guide is available in [English](https://www.bioimagingguide.org) as well as [Czech](https://cs.bioimagingguide.org). 
 
 Work is underway to translate this guide into other languages - translation is planned or has begun in French, Spanish, Portuguese, German, Finnish, and Polish. To help translate into one of these languages, or another language not listed here, please contact bcimini AT broadinstitute DOT org.
 
