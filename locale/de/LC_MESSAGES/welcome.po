@@ -1,105 +1,135 @@
 # SOME DESCRIPTIVE TITLE.
 # Copyright (C) 2023
 # This file is distributed under the same license as the Python package.
-# FIRST AUTHOR <EMAIL@ADDRESS>, 2023.
-#
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+# 
+# Translators:
+# Beth Cimini, 2023
+# 
 #, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: Python \n"
+"Project-Id-Version: Python\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2023-06-28 07:29-0400\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language: de\n"
-"Language-Team: de <LL@li.org>\n"
-"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"PO-Revision-Date: 2023-05-02 18:49+0000\n"
+"Last-Translator: Beth Cimini, 2023\n"
+"Language-Team: German (https://app.transifex.com/center-for-open-bioimage-analysis/teams/169123/de/)\n"
 "MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=utf-8\n"
+"Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Generated-By: Babel 2.12.1\n"
+"Language: de\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
 
 #: ../../welcome.md:1
 msgid "Sample Preparation"
-msgstr ""
+msgstr "Vorbereitung der Probe"
 
 #: ../../welcome.md:1
 msgid "Sample Acquisition"
-msgstr ""
+msgstr "Akquisition von Proben"
 
 #: ../../welcome.md:1
 msgid "Image Analysis and Data Handling"
-msgstr ""
+msgstr "Bildanalyse und Datenverarbeitung"
 
 #: ../../welcome.md:1
 msgid "Data Interpretation"
-msgstr ""
+msgstr "Auswertung der Daten"
 
 #: ../../welcome.md:1
 msgid "Additional Resources"
-msgstr ""
+msgstr "Zusätzliche Ressourcen"
 
 #: ../../welcome.md:1
 msgid "Welcome"
-msgstr ""
+msgstr "Willkommen"
 
 #: ../../welcome.md:3
 msgid "Welcome to the world of bioimaging and bioimage analysis! 🎉"
-msgstr ""
+msgstr "Willkommen in der Welt des Bioimaging und der Bioimage-Analyse! 🎉"
 
 #: ../../welcome.md:11
 msgid "BBBC image montage"
-msgstr ""
+msgstr "BBBC-Bildmontage"
 
 #: ../../welcome.md:11
 msgid ""
 "**Montage of fluorescence microscopy images from "
 "[BBBC](https://bbbc.broadinstitute.org/) {cite}`Ljosa2012-fr` (Broad "
-"Institute).** Images shown are from experiments BBBC007, BBBC008, "
-"BBBC034, BBBC038, BBBC039, and BBBC020 from left to right, top to bottom."
+"Institute).** Images shown are from experiments BBBC007, BBBC008, BBBC034, "
+"BBBC038, BBBC039, and BBBC020 from left to right, top to bottom."
 msgstr ""
+"**Montage von Fluoreszenzmikroskopie-Bildern aus "
+"[BBBC](https://bbbc.broadinstitute.org/) {cite}`Ljosa2012-fr` (Broad "
+"Institute).** Die Bilder stammen aus den Experimenten BBBC007, BBBC008, "
+"BBBC034, BBBC038, BBBC039 und BBBC020 von links nach rechts, von oben nach "
+"unten."
 
 #: ../../welcome.md:13
 msgid "What is this book?"
-msgstr ""
+msgstr "Was ist das für ein Buch?"
 
 #: ../../welcome.md:15
 msgid ""
-"This book is a companion website to our paper \"[**_A biologist’s guide "
-"to planning and performing quantitative bioimaging "
+"This book is a companion website to our paper \"[**_A biologist’s guide to "
+"planning and performing quantitative bioimaging "
 "experiments_**](https://doi.org/10.1371/journal.pbio.3002167)\" "
-"{cite}`Senft2023-zy`. Our goal is to provide recommendations and a "
-"curated set of resources for biologists looking to understand the factors"
-" that impact their fluorescence microscopy experiments."
+"{cite}`Senft2023-zy`. Our goal is to provide recommendations and a curated "
+"set of resources for biologists looking to understand the factors that "
+"impact their fluorescence microscopy experiments."
 msgstr ""
+"Dieses Buch ist eine begleitende Website zu unserem Papier \"[**_A "
+"biologist's guide to planning and performing quantitative bioimaging "
+"experiments_**](https://doi.org/10.1371/journal.pbio.3002167)\" "
+"{cite}`Senft2023-zy`. Unser Ziel ist es, Empfehlungen und eine Reihe von "
+"Ressourcen für Biologen bereitzustellen, die die Faktoren verstehen wollen, "
+"die ihre Fluoreszenzmikroskopie-Experimente beeinflussen."
 
 #: ../../welcome.md:17
 msgid ""
-"This book is a collaborative effort from experts in biology, imaging, "
-"image analysis, and data management, interpretation, and presentation. "
-"Our tips and recommendations come from real experiences training and "
-"working with biologists who are beginners to bioimaging and bioimage "
-"analysis. When starting out in a new field, you often don't know what you"
-" don't know. Here we provide context, tips for avoiding common beginner "
-"errors, and a focused list of high-quality, open source resources (full "
-"list available [here](bibliography)). We use icons to indicate the type "
-"of resource:"
+"This book is a collaborative effort from experts in biology, imaging, image "
+"analysis, and data management, interpretation, and presentation. Our tips "
+"and recommendations come from real experiences training and working with "
+"biologists who are beginners to bioimaging and bioimage analysis. When "
+"starting out in a new field, you often don't know what you don't know. Here "
+"we provide context, tips for avoiding common beginner errors, and a focused "
+"list of high-quality, open source resources (full list available "
+"[here](bibliography)). We use icons to indicate the type of resource:"
 msgstr ""
+"Dieses Buch ist ein Gemeinschaftswerk von Experten aus den Bereichen "
+"Biologie, Bildgebung, Bildanalyse, Datenmanagement, Interpretation und "
+"Präsentation. Unsere Tipps und Empfehlungen beruhen auf realen Erfahrungen "
+"bei der Schulung von und der Arbeit mit Biologen, die Anfänger im Bereich "
+"Bioimaging und Biobildanalyse sind. Wenn man in einem neuen Bereich anfängt,"
+" weiß man oft nicht, was man nicht weiß. Hier bieten wir Kontext, Tipps zur "
+"Vermeidung von häufigen Anfängerfehlern und eine gezielte Liste hochwertiger"
+" Open-Source-Ressourcen (die vollständige Liste finden Sie [hier] "
+"(Bibliographie)). Wir verwenden Icons, um die Art der Ressource zu "
+"kennzeichnen:"
 
 #: ../../welcome.md:39
 msgid "What **isn't** this book?"
-msgstr ""
+msgstr "Was **ist** dieses Buch nicht?"
 
 #: ../../welcome.md:41
 msgid ""
-"This book is **not** meant to be an exhaustive list of all resources. "
-"Many others have curated excellent such resources(see "
+"This book is **not** meant to be an exhaustive list of all resources. Many "
+"others have curated excellent such resources(see "
 "[here](https://febs.onlinelibrary.wiley.com/doi/10.1002/1873-3468.14451) "
-"{cite}`Haase2022-ad` and [here](https://www.bioimagingnorthamerica.org"
-"/training-education-resources/) and [here](https://biii.eu/) {cite}`Paul-"
-"Gilloteaux2021-vw`). Our goal is to create a more streamlined, beginner-"
-"accessible guide."
+"{cite}`Haase2022-ad` and "
+"[here](https://www.bioimagingnorthamerica.org/training-education-resources/)"
+" and [here](https://biii.eu/) {cite}`Paul-Gilloteaux2021-vw`). Our goal is "
+"to create a more streamlined, beginner-accessible guide."
 msgstr ""
+"Dieses Buch erhebt **nicht** den Anspruch, eine erschöpfende Liste aller "
+"Ressourcen zu sein. Viele andere haben ausgezeichnete Ressourcen "
+"zusammengestellt (siehe "
+"[hier](https://febs.onlinelibrary.wiley.com/doi/10.1002/1873-3468.14451) "
+"{cite}`Haase2022-ad` und "
+"[hier](https://www.bioimagingnorthamerica.org/training-education-resources/)"
+" und [hier](https://biii.eu/) {cite}`Paul-Gilloteaux2021-vw`). Unser Ziel "
+"ist es, einen schlankeren, für Anfänger zugänglichen Leitfaden zu erstellen."
 
 #: ../../welcome.md:42
 msgid ""
@@ -108,10 +138,15 @@ msgid ""
 "interpretation are massive topics that we can't exhaustively cover in a "
 "guide for beginners."
 msgstr ""
+"Dieses Buch ist **kein** Protokoll oder eine Schritt-für-Schritt-Anleitung, "
+"obwohl bestimmte Ressourcen, auf die wir verlinken, dies sein könnten. Jedes"
+" Unterkapitel von der Probenvorbereitung bis zur Dateninterpretation ist ein"
+" umfangreiches Thema, das wir in einem Leitfaden für Anfänger nicht "
+"erschöpfend behandeln können."
 
 #: ../../welcome.md:45
 msgid "How to use this book:"
-msgstr ""
+msgstr "Wie man dieses Buch benutzt:"
 
 #: ../../welcome.md:46
 msgid ""
@@ -119,43 +154,52 @@ msgid ""
 "started or begin with sample preparation by clicking the \"Next\" button "
 "below ↘️."
 msgstr ""
+"Bitte wählen Sie einen Abschnitt aus der Navigationsleiste auf der linken "
+"Seite aus, um zu beginnen, oder beginnen Sie mit der Probenvorbereitung, "
+"indem Sie auf die Schaltfläche \"Weiter\" unter ↘️ klicken."
 
 #: ../../welcome.md:48
 msgid ""
-"Most sections will guide you through individual subtopics using some or "
-"all of the following list of questions:"
+"Most sections will guide you through individual subtopics using some or all "
+"of the following list of questions:"
 msgstr ""
+"Die meisten Abschnitte führen Sie durch die einzelnen Unterthemen, indem sie"
+" einige oder alle der folgenden Fragen auflisten:"
 
 #: ../../welcome.md:49
 msgid "What is it?"
-msgstr ""
+msgstr "Was ist das?"
 
 #: ../../welcome.md:50
 msgid "What are my options?"
-msgstr ""
+msgstr "Welche Möglichkeiten habe ich?"
 
 #: ../../welcome.md:51
 msgid "How do I do it?"
-msgstr ""
+msgstr "Wie kann ich das tun?"
 
 #: ../../welcome.md:52
 msgid "Where can things go wrong?"
-msgstr ""
+msgstr "Wo kann etwas schief gehen?"
 
 #: ../../welcome.md:53
 msgid "Where can I learn more? (links to resources)"
-msgstr ""
+msgstr "Wo kann ich mehr erfahren? (Links zu Ressourcen)"
 
 #: ../../welcome.md:55
 msgid ""
-"Which questions are used and the exact phrasing may vary by section, but "
-"we hope this structure helps guide users to a deeper understanding of "
-"each subtopic."
+"Which questions are used and the exact phrasing may vary by section, but we "
+"hope this structure helps guide users to a deeper understanding of each "
+"subtopic."
 msgstr ""
+"Welche Fragen verwendet werden und wie sie genau formuliert sind, kann von "
+"Abschnitt zu Abschnitt variieren, aber wir hoffen, dass diese Struktur den "
+"Nutzern hilft, ein tieferes Verständnis der einzelnen Unterthemen zu "
+"erlangen."
 
 #: ../../welcome.md:57
 msgid "What if my resource/topic is not included?"
-msgstr ""
+msgstr "Was ist, wenn meine Ressource/mein Thema nicht enthalten ist?"
 
 #: ../../welcome.md:58
 msgid ""
@@ -164,4 +208,8 @@ msgid ""
 " or pull request to contribute! We hope for this to be a living document "
 "reflecting the best practices and resources available."
 msgstr ""
-
+"Bitte öffnen Sie ein [issue] "
+"(https://github.com/broadinstitute/MicroscopyForBeginnersReferenceGuide/issues)"
+" oder einen Pull Request, um einen Beitrag zu leisten! Wir hoffen, dass dies"
+" ein lebendiges Dokument ist, das die besten Praktiken und verfügbaren "
+"Ressourcen widerspiegelt."
