@@ -4,17 +4,17 @@
 # FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
 # 
 # Translators:
-# Beth Cimini, 2023
 # Martin Schätz, 2023
+# Beth Cimini, 2023
 # 
 #, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: Python\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2023-06-30 07:32-0400\n"
+"POT-Creation-Date: 2023-10-13 18:46-0400\n"
 "PO-Revision-Date: 2023-05-02 18:49+0000\n"
-"Last-Translator: Martin Schätz, 2023\n"
+"Last-Translator: Beth Cimini, 2023\n"
 "Language-Team: Czech (https://app.transifex.com/center-for-open-bioimage-analysis/teams/169123/cs/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -102,14 +102,30 @@ msgstr "Překlad"
 
 #: ../../contributors.md:20
 msgid ""
-"Work is underway to translate this guide into other languages - translation "
-"is planned or has begun in French, Spanish, Portuguese, Czech, and Polish. "
-"To help translate into one of these languages, or another language not "
-"listed here, please contact bcimini AT broadinstitute DOT org."
+"This guide is available in [English](https://www.bioimagingguide.org) as "
+"well as [Czech](https://cs.bioimagingguide.org)."
 msgstr ""
-"Probíhají překlady této příručky do dalších jazyků - plánuje se nebo byl "
-"zahájen překlad do francouzštiny, španělštiny, portugalštiny, češtiny a "
-"polštiny. Chcete-li pomoci s překladem do některého z těchto jazyků nebo do "
-"jiného jazyka, který zde není uveden, kontaktujte prosím bcimini AT "
-"broadinstitute DOT org."
+"Tento průvodce je k dispozici v "
+"[angličtině](https://www.bioimagingguide.org) i "
+"[češtině](https://cs.bioimagingguide.org)."
 
+#: ../../contributors.md:22
+msgid ""
+"Work is underway to translate this guide into other languages - translation "
+"is planned or has begun in French, Spanish, Portuguese, German, Finnish, and"
+" Polish. To help translate into one of these languages, or another language "
+"not listed here, please contact bcimini AT broadinstitute DOT org."
+msgstr ""
+"Probíhají práce na překladu této příručky do dalších jazyků: plánuje se nebo"
+" byl zahájen překlad do francouzštiny, španělštiny, portugalštiny, němčiny, "
+"finštiny a polštiny. Chcete-li pomoci s překladem do některého z těchto "
+"jazyků nebo do jiného jazyka, který zde není uveden, kontaktujte prosím "
+"bcimini AT broadinstitute DOT org."
+
+#: ../../contributors.md:24
+msgid "Translations are gratefully acknowledged from:"
+msgstr "Za překlady děkujeme:"
+
+#: ../../contributors.md:26
+msgid "Czech : Martin Schätz"
+msgstr "Čeština : [Martin Schätz](https://orcid.org/0000-0003-0931-4017)"
