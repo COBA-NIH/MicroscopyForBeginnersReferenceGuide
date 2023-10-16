@@ -1,122 +1,195 @@
-
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2023
+# This file is distributed under the same license as the Python package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+# 
+# Translators:
+# Beth Cimini, 2023
+# 
+#, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: Python \n"
+"Project-Id-Version: Python\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2023-06-15 11:57-0400\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
+"PO-Revision-Date: 2023-05-02 18:49+0000\n"
+"Last-Translator: Beth Cimini, 2023\n"
+"Language-Team: French (https://app.transifex.com/center-for-open-bioimage-analysis/teams/169123/fr/)\n"
 "MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=utf-8\n"
+"Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Generated-By: Babel 2.10.3\n"
+"Language: fr\n"
+"Plural-Forms: nplurals=3; plural=(n == 0 || n == 1) ? 0 : n != 0 && n % 1000000 == 0 ? 1 : 2;\n"
 
 #: ../../03_Image_analysis/Classification.md:1
 msgid "Object classification"
-msgstr ""
+msgstr "Classement des objets"
 
 #: ../../03_Image_analysis/Classification.md:3
 msgid "What is classification?"
-msgstr ""
+msgstr "Qu'est-ce que le classement ?"
 
 #: ../../03_Image_analysis/Classification.md:4
 msgid ""
 "Simply put, phenotypic classification is about categorizing objects into "
 "different groups based on their features (aka measurements)."
 msgstr ""
+"En termes simples, la classification phénotypique consiste à classer les "
+"objets en différents groupes en fonction de leurs caractéristiques (ou "
+"mesures)."
 
-#: ../../03_Image_analysis/Classification.md
-#: ../../03_Image_analysis/Colocalization.md
-#: ../../03_Image_analysis/Intensity.md ../../03_Image_analysis/Shape.md
-#: ../../03_Image_analysis/Tracking.md
+#: ../../03_Image_analysis/Classification.md:0
+#: ../../03_Image_analysis/Colocalization.md:0
+#: ../../03_Image_analysis/Intensity.md:0 ../../03_Image_analysis/Shape.md:0
+#: ../../03_Image_analysis/Tracking.md:0
 msgid "📏 How do I measure it?"
-msgstr ""
+msgstr "📏 Comment le mesurer ?"
 
 #: ../../03_Image_analysis/Classification.md:10
 msgid ""
-"Phenotypic classification can be performed a few different ways. One way "
-"to break this down is by unsupervised vs. supervised classification."
+"Phenotypic classification can be performed a few different ways. One way to "
+"break this down is by unsupervised vs. supervised classification."
 msgstr ""
+"La classification phénotypique peut être effectuée de différentes manières. "
+"Une façon de décomposer cela consiste à utiliser une classification non "
+"supervisée ou supervisée."
 
 #: ../../03_Image_analysis/Classification.md:12
 msgid ""
-"In **supervised classification**, a human also provides information on "
-"what the different groups of objects should look like by providing "
-"representative examples of each group in a training dataset. The computer"
-" then learns how to assign objects to groups based on their measurements "
-"by testing models against the ground truth training dataset."
+"In **supervised classification**, a human also provides information on what "
+"the different groups of objects should look like by providing representative"
+" examples of each group in a training dataset. The computer then learns how "
+"to assign objects to groups based on their measurements by testing models "
+"against the ground truth training dataset."
 msgstr ""
+"Dans la **classification supervisée**, un humain fournit également des "
+"informations sur ce à quoi les différents groupes d'objets devraient "
+"ressembler en fournissant des exemples représentatifs de chaque groupe dans "
+"un ensemble de données d'entraînement. L'ordinateur apprend ensuite à "
+"affecter des objets à des groupes en fonction de leurs mesures en testant "
+"des modèles par rapport à l'ensemble de données de formation de vérité "
+"terrain."
 
 #: ../../03_Image_analysis/Classification.md:14
 msgid ""
-"For example, you could classify cells based on a visual phenotype and "
-"train a machine learning classifier to derive which measurement ranges "
-"are associated with different classes. This is supervised classification "
-"because a person is providing instruction of how many classes there "
-"should be and examples of what each class should look like for the "
-"computer to learn from. An example of this could be annotating a subset "
-"of cells that are in different stages of mitosis and training a "
-"classifier to use your labels to find other cells in those stages."
+"For example, you could classify cells based on a visual phenotype and train "
+"a machine learning classifier to derive which measurement ranges are "
+"associated with different classes. This is supervised classification because"
+" a person is providing instruction of how many classes there should be and "
+"examples of what each class should look like for the computer to learn from."
+" An example of this could be annotating a subset of cells that are in "
+"different stages of mitosis and training a classifier to use your labels to "
+"find other cells in those stages."
 msgstr ""
+"Par exemple, vous pouvez classer les cellules en fonction d'un phénotype "
+"visuel et former un classificateur d'apprentissage automatique pour "
+"déterminer les plages de mesure associées aux différentes classes. Il s'agit"
+" d'une classification supervisée, car une personne fournit des instructions "
+"sur le nombre de classes qu'il devrait y avoir et des exemples de ce à quoi "
+"chaque classe devrait ressembler pour que l'ordinateur puisse apprendre. Un "
+"exemple de ceci pourrait être l'annotation d'un sous-ensemble de cellules "
+"qui sont à différents stades de la mitose et la formation d'un "
+"classificateur à utiliser vos étiquettes pour trouver d'autres cellules à "
+"ces stades."
 
 #: ../../03_Image_analysis/Classification.md:16
 msgid ""
 "In **unsupervised classification**, you group objects based on their "
-"measurements, but without any top-down human-defined guidance into how "
-"many groups there are or what the groups should look like."
+"measurements, but without any top-down human-defined guidance into how many "
+"groups there are or what the groups should look like."
 msgstr ""
+"Dans la **classification non supervisée**, vous regroupez des objets en "
+"fonction de leurs mesures, mais sans aucune indication humaine descendante "
+"sur le nombre de groupes ou à quoi les groupes devraient ressembler."
 
 #: ../../03_Image_analysis/Classification.md:18
 msgid ""
-"For example, you could measure hundreds or thousands of features of cells"
-" from many treatments, as is typical in large-scale cell profiling "
+"For example, you could measure hundreds or thousands of features of cells "
+"from many treatments, as is typical in large-scale cell profiling "
 "experiments. Next you could let the computer cluster the cells into some "
-"number of different groups based on having similar measurements. This is "
-"a form of unsupervised clustering, where you observe what groups emerge "
-"from a computer considering their measurements only, and not class labels"
-" we impose as researchers. These sorts of clustering experiments can "
-"provide novel results but may also be harder to interpret; see this "
+"number of different groups based on having similar measurements. This is a "
+"form of unsupervised clustering, where you observe what groups emerge from a"
+" computer considering their measurements only, and not class labels we "
+"impose as researchers. These sorts of clustering experiments can provide "
+"novel results but may also be harder to interpret; see this "
 "protocol{cite}`GarciaFossaCruz2023` for more information."
 msgstr ""
+"Par exemple, vous pouvez mesurer des centaines ou des milliers de "
+"caractéristiques de cellules à partir de nombreux traitements, comme c'est "
+"généralement le cas dans les expériences de profilage cellulaire à grande "
+"échelle. Ensuite, vous pouvez laisser l'ordinateur regrouper les cellules en"
+" un certain nombre de groupes différents en fonction de mesures similaires. "
+"Il s'agit d'une forme de regroupement non supervisé, où vous observez quels "
+"groupes émergent d'un ordinateur en tenant compte uniquement de leurs "
+"mesures, et non des étiquettes de classe que nous imposons en tant que "
+"chercheurs. Ces types d'expériences de regroupement peuvent fournir de "
+"nouveaux résultats, mais peuvent également être plus difficiles à "
+"interpréter ; voir ce protocole{cite}`GarciaFossaCruz2023` pour plus "
+"d'informations."
 
-#: ../../03_Image_analysis/Classification.md
-#: ../../03_Image_analysis/Colocalization.md
-#: ../../03_Image_analysis/Data_management.md
-#: ../../03_Image_analysis/Intensity.md ../../03_Image_analysis/Shape.md
-#: ../../03_Image_analysis/Tracking.md
+#: ../../03_Image_analysis/Classification.md:0
+#: ../../03_Image_analysis/Colocalization.md:0
+#: ../../03_Image_analysis/Data_management.md:0
+#: ../../03_Image_analysis/Intensity.md:0 ../../03_Image_analysis/Shape.md:0
+#: ../../03_Image_analysis/Tracking.md:0
 msgid "<span style=\"color: red\">⚠️</span> Where can things go wrong?"
 msgstr ""
+" <span style=\"color: red\"> ⚠️ </span> Où les choses peuvent-elles mal "
+"tourner ?"
 
 #: ../../03_Image_analysis/Classification.md:23
 msgid ""
-"**Valid measurements are still important** Classification can be simple "
-"or complex, but results always depend on the validity of your "
-"measurements. For this reason, all the caveats of earlier measurement "
-"sections also apply here."
+"**Valid measurements are still important** Classification can be simple or "
+"complex, but results always depend on the validity of your measurements. For"
+" this reason, all the caveats of earlier measurement sections also apply "
+"here."
 msgstr ""
+"**Les mesures valides sont toujours importantes** La classification peut "
+"être simple ou complexe, mais les résultats dépendent toujours de la "
+"validité de vos mesures. Pour cette raison, toutes les mises en garde des "
+"sections de mesure précédentes s'appliquent également ici."
 
 #: ../../03_Image_analysis/Classification.md:24
 msgid ""
-"**Machines are lazy** Machine learning classifiers aren’t necessarily "
-"going to learn the biologically relevant features that distinguish "
-"objects from distinct groups. Confounding features, or features that vary"
-" with your phenotype but are not biologically related to it, can limit "
-"the usefulness of your classifier and lead to incorrect conclusions. For "
-"instance, if clinicians often put rulers next to malignant looking moles "
-"and not next to benign moles and try to train a machine learning "
-"classifier to distinguish malignant vs. benign, the model might learn to "
-"classify images with rulers as malignant without tapping into any of the "
-"relevant features of the moles. This is a [real "
-"example](https://pubmed.ncbi.nlm.nih.gov/30244720/) {cite}`Narla2018-qh`."
-" If possible, examining which features your model is relying on to "
-"classify objects can be a way to check for this. It’s also important to "
-"standardize how you capture images of your different classes of objects "
-"and include a large enough training set with images with lots of "
-"variation. You wouldn’t want all your positive cells to come from samples"
-" you imaged in March and all your negative cells from samples you imaged "
-"in January, for example."
+"**Machines are lazy** Machine learning classifiers aren’t necessarily going "
+"to learn the biologically relevant features that distinguish objects from "
+"distinct groups. Confounding features, or features that vary with your "
+"phenotype but are not biologically related to it, can limit the usefulness "
+"of your classifier and lead to incorrect conclusions. For instance, if "
+"clinicians often put rulers next to malignant looking moles and not next to "
+"benign moles and try to train a machine learning classifier to distinguish "
+"malignant vs. benign, the model might learn to classify images with rulers "
+"as malignant without tapping into any of the relevant features of the moles."
+" This is a [real example](https://pubmed.ncbi.nlm.nih.gov/30244720/) "
+"{cite}`Narla2018-qh`. If possible, examining which features your model is "
+"relying on to classify objects can be a way to check for this. It’s also "
+"important to standardize how you capture images of your different classes of"
+" objects and include a large enough training set with images with lots of "
+"variation. You wouldn’t want all your positive cells to come from samples "
+"you imaged in March and all your negative cells from samples you imaged in "
+"January, for example."
 msgstr ""
+"**Les machines sont paresseuses** Les classificateurs d'apprentissage "
+"automatique ne vont pas nécessairement apprendre les caractéristiques "
+"biologiquement pertinentes qui distinguent les objets de groupes distincts. "
+"Des caractéristiques confusionnelles, ou des caractéristiques qui varient "
+"avec votre phénotype mais qui ne sont pas biologiquement liées à celui-ci, "
+"peuvent limiter l'utilité de votre classificateur et conduire à des "
+"conclusions incorrectes. Par exemple, si les cliniciens placent souvent des "
+"règles à côté de taupes d'apparence maligne et non à côté de taupes bénignes"
+" et essaient de former un classificateur d'apprentissage automatique pour "
+"distinguer les malins des bénins, le modèle pourrait apprendre à classer les"
+" images avec des règles comme malignes sans puiser dans aucun des les "
+"caractéristiques pertinentes des grains de beauté. Ceci est un [exemple "
+"réel](https://pubmed.ncbi.nlm.nih.gov/30244720/) {cite}`Narla2018-qh`. Si "
+"possible, l'examen des fonctionnalités sur lesquelles votre modèle s'appuie "
+"pour classer les objets peut être un moyen de vérifier cela. Il est "
+"également important de normaliser la façon dont vous capturez des images de "
+"vos différentes classes d'objets et d'inclure un ensemble d'entraînement "
+"suffisamment grand avec des images avec beaucoup de variation. Vous ne "
+"voudriez pas que toutes vos cellules positives proviennent d'échantillons "
+"que vous avez imagés en mars et toutes vos cellules négatives d'échantillons"
+" que vous avez imagés en janvier, par exemple."
 
 #: ../../03_Image_analysis/Classification.md:25
 msgid ""
@@ -128,39 +201,61 @@ msgid ""
 " {cite}`Stirling2021-ov` and [Piximi](https://www.piximi.app/) that make "
 "training a classifier easier, especially if you don’t know how to code."
 msgstr ""
+"**Non-respect des hypothèses du modèle** Si vous utilisez un classificateur "
+"d'apprentissage automatique, différents modèles sont livrés avec différentes"
+" hypothèses intégrées. Si vous débutez, il peut être difficile de savoir "
+"lequel choisir. Il existe des outils interactifs tels que [CellProfiler "
+"Analyst](https://academic.oup.com/bioinformatics/article/32/20/3210/2196630)"
+" {cite}`Stirling2021-ov` et [Piximi](https://www. piximi.app/) qui "
+"facilitent la formation d'un classificateur, surtout si vous ne savez pas "
+"coder."
 
 #: ../../03_Image_analysis/Classification.md:26
 msgid ""
-"**Messy boundaries** Most methods of supervised classification, where the"
-" user assigns objects to a score or to a bin, ultimately treat each bin "
-"as a totally separate entity; biology is rarely so neat. For example, a "
-"supervised classifier for cell cycle phase must assign a cell to one "
-"phase, but in fact progression through the cell cycle is not a perfectly "
-"switch-like process, as can be visualized by measurements of individual "
-"cells (colored by their class given by a human observer). More "
-"sophisticated methods may be needed to classify more continuous "
-"phenotypes"
+"**Messy boundaries** Most methods of supervised classification, where the "
+"user assigns objects to a score or to a bin, ultimately treat each bin as a "
+"totally separate entity; biology is rarely so neat. For example, a "
+"supervised classifier for cell cycle phase must assign a cell to one phase, "
+"but in fact progression through the cell cycle is not a perfectly switch-"
+"like process, as can be visualized by measurements of individual cells "
+"(colored by their class given by a human observer). More sophisticated "
+"methods may be needed to classify more continuous phenotypes"
 msgstr ""
+"** Limites désordonnées ** La plupart des méthodes de classification "
+"supervisée, où l'utilisateur attribue des objets à un score ou à un bac, "
+"traitent finalement chaque bac comme une entité totalement distincte ; la "
+"biologie est rarement aussi soignée. Par exemple, un classificateur "
+"supervisé pour la phase du cycle cellulaire doit attribuer une cellule à une"
+" phase, mais en fait la progression dans le cycle cellulaire n'est pas un "
+"processus parfaitement semblable à un interrupteur, comme on peut le "
+"visualiser par des mesures de cellules individuelles (colorées par leur "
+"classe donnée par un observateur humain). Des méthodes plus sophistiquées "
+"peuvent être nécessaires pour classer des phénotypes plus continus"
 
-#: ../../03_Image_analysis/Classification.md
+#: ../../03_Image_analysis/Classification.md:0
 msgid "a continuous distribution of cell cycle states"
-msgstr ""
+msgstr "une distribution continue des états du cycle cellulaire"
 
 #: ../../03_Image_analysis/Classification.md:35
 msgid ""
 "**Strict division into supervised classes can be tricky for continuous "
-"biological processes**. Adapted from Eulenberg, P., Köhler, N., Blasi, T."
-" _et al_. Reconstructing cell cycle and disease progression using deep "
+"biological processes**. Adapted from Eulenberg, P., Köhler, N., Blasi, T. "
+"_et al_. Reconstructing cell cycle and disease progression using deep "
 "learning. _Nat Commun_ **8**, 463 (2017) {cite}`Eulenberg2017-ax`"
 msgstr ""
+"**La division stricte en classes supervisées peut être délicate pour les "
+"processus biologiques continus**. Adapté de Eulenberg, P., Köhler, N., "
+"Blasi, T. _et al_. Reconstruire le cycle cellulaire et la progression de la "
+"maladie à l'aide de l'apprentissage en profondeur. _Nat Commun_ **8**, 463 "
+"(2017) {cite}`Eulenberg2017-ax`"
 
-#: ../../03_Image_analysis/Classification.md
-#: ../../03_Image_analysis/Colocalization.md
-#: ../../03_Image_analysis/Data_management.md
-#: ../../03_Image_analysis/Intensity.md ../../03_Image_analysis/Shape.md
-#: ../../03_Image_analysis/Tracking.md
+#: ../../03_Image_analysis/Classification.md:0
+#: ../../03_Image_analysis/Colocalization.md:0
+#: ../../03_Image_analysis/Data_management.md:0
+#: ../../03_Image_analysis/Intensity.md:0 ../../03_Image_analysis/Shape.md:0
+#: ../../03_Image_analysis/Tracking.md:0
 msgid "📚🤷‍♀️ Where can I learn more?"
-msgstr ""
+msgstr "📚🤷‍♀️ Où puis-je en savoir plus ?"
 
 #: ../../03_Image_analysis/Classification.md:41
 msgid ""
@@ -168,6 +263,8 @@ msgid ""
 "profiling](https://www.nature.com/articles/nmeth.4397) "
 "{cite}`Caicedo2017-ks`"
 msgstr ""
+"📄 [Stratégies d'analyse de données pour le profilage cellulaire basé sur "
+"l'image] (https://www.nature.com/articles/nmeth.4397) {cite}`Caicedo2017-ks`"
 
 #: ../../03_Image_analysis/Classification.md:42
 msgid ""
@@ -176,279 +273,398 @@ msgid ""
 "learning](https://www.pnas.org/doi/10.1073/pnas.0808843106) "
 "{cite}`Jones2009-zz`"
 msgstr ""
+"📄 [Score de diverses morphologies cellulaires sur des écrans basés sur des "
+"images avec rétroaction itérative et apprentissage "
+"automatique](https://www.pnas.org/doi/10.1073/pnas.0808843106) "
+"{cite}`Jones2009-zz`"
 
 #: ../../03_Image_analysis/Classification.md:43
 msgid ""
 "🎥 [iBiology video series: Measurement and Phenotype "
 "Classification](https://www.youtube.com/watch?v=Odi9pIerT7I)"
 msgstr ""
+"🎥 [Série de vidéos iBiology : Mesure et classification des "
+"phénotypes](https://www.youtube.com/watch?v=Odi9pIerT7I)"
 
 #: ../../03_Image_analysis/Classification.md:44
 msgid ""
-"📄 [Interpreting Image-based Profiles using Similarity Clustering and "
-"Single-Cell Visualization](https://doi.org/10.1002/cpz1.713) "
+"📄 [Interpreting Image-based Profiles using Similarity Clustering and Single-"
+"Cell Visualization](https://doi.org/10.1002/cpz1.713) "
 "{cite}`GarciaFossaCruz2023`"
 msgstr ""
+"📄 [Interprétation des profils basés sur des images à l'aide du clustering de"
+" similarité et de la visualisation à cellule unique] "
+"(https://doi.org/10.1002/cpz1.713) {cite}`GarciaFossaCruz2023`"
 
 #: ../../03_Image_analysis/Colocalization.md:1
 msgid "Colocalization"
-msgstr ""
+msgstr "Colocalisation"
 
 #: ../../03_Image_analysis/Colocalization.md:4
 msgid "What is colocalization?"
-msgstr ""
+msgstr "Qu'est-ce que la colocalisation ?"
 
 #: ../../03_Image_analysis/Colocalization.md:6
 msgid ""
-"Colocalization is when two or more different labels (e.g., eGFP and "
-"mCherry) spatially overlap in your image (also called co-occurrence). "
-"Another component of colocalization is that the fluorescent labels often "
-"correlate in intensity (i.e., pixels with brighter eGFP also have "
-"brighter mCherry). It is very important to measure colocalization "
-"quantitatively–**do not just trust your eyes!**"
+"Colocalization is when two or more different labels (e.g., eGFP and mCherry)"
+" spatially overlap in your image (also called co-occurrence). Another "
+"component of colocalization is that the fluorescent labels often correlate "
+"in intensity (i.e., pixels with brighter eGFP also have brighter mCherry). "
+"It is very important to measure colocalization quantitatively–**do not just "
+"trust your eyes!**"
 msgstr ""
+"La colocalisation se produit lorsque deux ou plusieurs étiquettes "
+"différentes (par exemple, eGFP et mCherry) se chevauchent spatialement dans "
+"votre image (également appelée co-occurrence). Une autre composante de la "
+"colocalisation est que les étiquettes fluorescentes sont souvent corrélées "
+"en intensité (c'est-à-dire que les pixels avec un eGFP plus lumineux ont "
+"également un mCherry plus lumineux). Il est très important de mesurer "
+"quantitativement la colocalisation - ** ne vous fiez pas seulement à vos "
+"yeux ! **"
 
 #: ../../03_Image_analysis/Colocalization.md:8
 msgid ""
-"It is also important to recognize that co-ocurrence does not "
-"_necessarily_ imply interaction."
+"It is also important to recognize that co-ocurrence does not _necessarily_ "
+"imply interaction."
 msgstr ""
+"Il est également important de reconnaître que la cooccurrence n'implique pas"
+" _nécessairement_ une interaction."
 
 #: ../../03_Image_analysis/Colocalization.md:11
 msgid ""
-"As an example, it is possible for two people to work in the same building"
-" an never interact."
+"As an example, it is possible for two people to work in the same building an"
+" never interact."
 msgstr ""
+"Par exemple, il est possible que deux personnes travaillent dans le même "
+"bâtiment sans jamais interagir."
 
 #: ../../03_Image_analysis/Colocalization.md:21
 msgid "degrees of colocalization"
-msgstr ""
+msgstr "degrés de colocalisation"
 
 #: ../../03_Image_analysis/Colocalization.md:21
 msgid "**Colocalization is about intensity and spatial overlap of labels**"
 msgstr ""
+"**La colocalisation concerne l'intensité et le chevauchement spatial des "
+"étiquettes**"
 
 #: ../../03_Image_analysis/Colocalization.md:28
 msgid ""
-"There are two main branches for how to look at colocalization: Object-"
-"based and correlation-based."
+"There are two main branches for how to look at colocalization: Object-based "
+"and correlation-based."
 msgstr ""
+"Il existe deux branches principales pour examiner la colocalisation : basée "
+"sur les objets et basée sur la corrélation."
 
 #: ../../03_Image_analysis/Colocalization.md:30
-#, python-format
 msgid ""
-"**Object-based colocalization** is appropriate when you want to be able "
-"to say something about a fraction of objects being positive for multiple "
-"labels (e.g., 99% of eGFP+ cells were also mCherry+). Here’s a sample "
-"workflow:"
+"**Object-based colocalization** is appropriate when you want to be able to "
+"say something about a fraction of objects being positive for multiple labels"
+" (e.g., 99% of eGFP+ cells were also mCherry+). Here’s a sample workflow:"
 msgstr ""
+"La **colocalisation basée sur des objets** est appropriée lorsque vous "
+"souhaitez pouvoir dire quelque chose sur une fraction d'objets positifs pour"
+" plusieurs étiquettes (par exemple, 99 % des cellules eGFP+ étaient "
+"également mCherry+). Voici un exemple de flux de travail :"
 
 #: ../../03_Image_analysis/Colocalization.md:51
 msgid ""
 "**Correlation-based colocalization** is more appropriate when the labels "
-"you’re measuring are not found in discrete objects or when you predict "
-"that the signal in the labels should correlate. Correlation-based "
-"colocalization is simpler to measure as it does not require any "
-"{term}`segmentation` of objects. Pearson correlation coefficients are "
-"readily measurable in most image analysis softwares (e.g., FIJI, "
-"CellProfiler, etc.)."
+"you’re measuring are not found in discrete objects or when you predict that "
+"the signal in the labels should correlate. Correlation-based colocalization "
+"is simpler to measure as it does not require any {term}`segmentation` of "
+"objects. Pearson correlation coefficients are readily measurable in most "
+"image analysis softwares (e.g., FIJI, CellProfiler, etc.)."
 msgstr ""
+"La **colocalisation basée sur la corrélation** est plus appropriée lorsque "
+"les étiquettes que vous mesurez ne se trouvent pas dans des objets discrets "
+"ou lorsque vous prédisez que le signal dans les étiquettes doit être "
+"corrélé. La colocalisation basée sur la corrélation est plus simple à "
+"mesurer car elle ne nécessite aucune {term}`segmentation` des objets. Les "
+"coefficients de corrélation de Pearson sont facilement mesurables dans la "
+"plupart des logiciels d'analyse d'images (par exemple, FIJI, CellProfiler, "
+"etc.)."
 
 #: ../../03_Image_analysis/Colocalization.md:55
 msgid ""
-"**Not having adequate controls** (e.g., single label controls where only "
-"one fluorescent label is present). Noise, uneven illumination, and other "
+"**Not having adequate controls** (e.g., single label controls where only one"
+" fluorescent label is present). Noise, uneven illumination, and other "
 "technical artifacts can cause correlation between two channels"
 msgstr ""
+"**N'ayant pas de contrôles adéquats** (par exemple, des contrôles à "
+"étiquette unique où une seule étiquette fluorescente est présente). Le "
+"bruit, l'éclairage inégal et d'autres artefacts techniques peuvent provoquer"
+" une corrélation entre deux canaux"
 
 #: ../../03_Image_analysis/Colocalization.md:56
 msgid ""
 "**Not correcting for shift between channels** It’s common to have some "
 "degree of shift between different imaging channels due to differences in "
-"optics (e.g., different filter cubes). Not correcting for this shift "
-"(e.g., by measuring it and applying the corresponding correction to the "
-"channels) can limit your ability to detect colocalization."
+"optics (e.g., different filter cubes). Not correcting for this shift (e.g., "
+"by measuring it and applying the corresponding correction to the channels) "
+"can limit your ability to detect colocalization."
 msgstr ""
+"**Pas de correction du décalage entre les canaux** Il est courant d'avoir un"
+" certain degré de décalage entre les différents canaux d'imagerie en raison "
+"des différences d'optique (par exemple, différents cubes de filtres). Ne pas"
+" corriger ce décalage (par exemple, en le mesurant et en appliquant la "
+"correction correspondante aux canaux) peut limiter votre capacité à détecter"
+" la colocalisation."
 
 #: ../../03_Image_analysis/Colocalization.md:57
 msgid ""
-"**Bleedthrough** Sometimes signal from one fluorescent channel bleeds "
-"into another, which can falsely increase your detected colocalization. "
-"This happens most commonly with fluorophores that are similar in spectra "
-"(e.g., GFP and YFP). This is caused by fluorophore in one channel being "
-"weakly excited by light used to excite a different fluorophore and the "
-"resulting emitted fluorescence makes it through the emission filter "
-"(e.g., your green objects show up in the yellow channel as well). Assess "
-"this with single label controls."
+"**Bleedthrough** Sometimes signal from one fluorescent channel bleeds into "
+"another, which can falsely increase your detected colocalization. This "
+"happens most commonly with fluorophores that are similar in spectra (e.g., "
+"GFP and YFP). This is caused by fluorophore in one channel being weakly "
+"excited by light used to excite a different fluorophore and the resulting "
+"emitted fluorescence makes it through the emission filter (e.g., your green "
+"objects show up in the yellow channel as well). Assess this with single "
+"label controls."
 msgstr ""
+"**Bleedthrough** Parfois, le signal d'un canal fluorescent se répand dans un"
+" autre, ce qui peut faussement augmenter votre colocalisation détectée. Cela"
+" se produit le plus souvent avec des fluorophores dont les spectres sont "
+"similaires (par exemple, GFP et YFP). Cela est dû au fait que le fluorophore"
+" dans un canal est faiblement excité par la lumière utilisée pour exciter un"
+" fluorophore différent et la fluorescence émise qui en résulte passe à "
+"travers le filtre d'émission (par exemple, vos objets verts apparaissent "
+"également dans le canal jaune). Évaluez cela avec des contrôles à étiquette "
+"unique."
 
 #: ../../03_Image_analysis/Colocalization.md:58
 msgid ""
-"**Improper interpretation of your colocalization metric** The details of "
-"the metric chosen here are very important - they vary widely in terms of "
-"their inclusion of background pixels, their sensitivity to signal-to-"
-"noise, etc. Consultation with an expert and the inclusion of proper "
-"controls can help you be assured that your measurement is truly what you "
-"think it is."
+"**Improper interpretation of your colocalization metric** The details of the"
+" metric chosen here are very important - they vary widely in terms of their "
+"inclusion of background pixels, their sensitivity to signal-to-noise, etc. "
+"Consultation with an expert and the inclusion of proper controls can help "
+"you be assured that your measurement is truly what you think it is."
 msgstr ""
+"**Mauvaise interprétation de votre métrique de colocalisation** Les détails "
+"de la métrique choisie ici sont très importants - ils varient "
+"considérablement en termes d'inclusion de pixels d'arrière-plan, de "
+"sensibilité au signal sur bruit, etc. Consultation avec un expert et le "
+"l'inclusion de contrôles appropriés peut vous aider à être assuré que votre "
+"mesure est vraiment ce que vous pensez qu'elle est."
 
 #: ../../03_Image_analysis/Colocalization.md:63
 msgid ""
 "🔢 [Theoretical background on "
 "colocalization](https://svi.nl/ColocalizationTheory)"
 msgstr ""
+"🔢 [Contexte théorique sur la "
+"colocalisation](https://svi.nl/ColocalizationTheory)"
 
 #: ../../03_Image_analysis/Colocalization.md:64
 msgid ""
 "📄 [Image co-localization - co-occurrence versus "
-"correlation](https://journals.biologists.com/jcs/article/131/3/jcs211847/77151"
-"/Image-co-localization-co-occurrence-versus) {cite}`Aaron2018-qi`"
+"correlation](https://journals.biologists.com/jcs/article/131/3/jcs211847/77151/Image-"
+"co-localization-co-occurrence-versus) {cite}`Aaron2018-qi`"
 msgstr ""
+"📄 [Co-localisation d'images - co-occurrence versus "
+"corrélation](https://journals.biologists.com/jcs/article/131/3/jcs211847/77151/Image-"
+"co-localization-co-occurrence-versus) {cite}` Aaron2018-qi`"
 
 #: ../../03_Image_analysis/Common_types_of_analysis.md:1
 msgid "Common types of analysis"
-msgstr ""
+msgstr "Types d'analyse courants"
 
 #: ../../03_Image_analysis/Common_types_of_analysis.md:3
 msgid ""
 "In this section,  we detail information and tips about some common, very "
 "useful types of image analysis. We first describe two aspects of "
-"morphological analysis. **Morphology** is the study of the appearance, "
-"form, and structure of an object and morphological measurements include "
-"those based on object **shape** (e.g. cell area) as well as **intensity**"
-" (e.g. mean brightness of GFP). After describing shape-based and "
-"intensity-based analyses, we also present tips for measuring "
-"**colocalization**, **tracking objects**, and **classifying objects**."
+"morphological analysis. **Morphology** is the study of the appearance, form,"
+" and structure of an object and morphological measurements include those "
+"based on object **shape** (e.g. cell area) as well as **intensity** (e.g. "
+"mean brightness of GFP). After describing shape-based and intensity-based "
+"analyses, we also present tips for measuring **colocalization**, **tracking "
+"objects**, and **classifying objects**."
 msgstr ""
+"Dans cette section, nous détaillons des informations et des conseils sur "
+"certains types d'analyse d'image courants et très utiles. Nous décrivons "
+"d'abord deux aspects de l'analyse morphologique. La **morphologie** est "
+"l'étude de l'apparence, de la forme et de la structure d'un objet. Les "
+"mesures morphologiques incluent celles basées sur la **forme** de l'objet "
+"(par exemple, la zone cellulaire) ainsi que sur l'**intensité** (par "
+"exemple, la luminosité moyenne de GFP). Après avoir décrit les analyses "
+"basées sur la forme et sur l'intensité, nous présentons également des "
+"conseils pour mesurer la **colocalisation**, le **suivi d'objets** et la "
+"**classification d'objets**."
 
 #: ../../03_Image_analysis/Data_management.md:1
 msgid "Data management and sharing"
-msgstr ""
+msgstr "Gestion et partage des données"
 
 #: ../../03_Image_analysis/Data_management.md:3
 msgid "What is it?"
-msgstr ""
+msgstr "Qu'est-ce que c'est?"
 
 #: ../../03_Image_analysis/Data_management.md:5
 msgid ""
 "Both journals and scientific funders have placed more emphasis in recent "
-"years on the fact that it is critical to save both the raw data generated"
-" during the course of scientific discovery as well as the workflows used "
-"to process such data. While mandates to publicly deposit raw image data "
-"have recently gone into place in several countries, it can be difficult "
-"for researchers to know where to store images, code, and metadata "
-"associated with their bioimaging experiments."
+"years on the fact that it is critical to save both the raw data generated "
+"during the course of scientific discovery as well as the workflows used to "
+"process such data. While mandates to publicly deposit raw image data have "
+"recently gone into place in several countries, it can be difficult for "
+"researchers to know where to store images, code, and metadata associated "
+"with their bioimaging experiments."
 msgstr ""
+"Les revues et les bailleurs de fonds scientifiques ont mis davantage "
+"l'accent ces dernières années sur le fait qu'il est essentiel de sauvegarder"
+" à la fois les données brutes générées au cours de la découverte "
+"scientifique ainsi que les flux de travail utilisés pour traiter ces "
+"données. Bien que des mandats de dépôt public de données d'images brutes "
+"aient récemment été mis en place dans plusieurs pays, il peut être difficile"
+" pour les chercheurs de savoir où stocker les images, le code et les "
+"métadonnées associées à leurs expériences de bioimagerie."
 
-#: ../../03_Image_analysis/Data_management.md
+#: ../../03_Image_analysis/Data_management.md:0
 msgid "🤔 What are my options?"
-msgstr ""
+msgstr "🤔 Quelles sont mes options ?"
 
 #: ../../03_Image_analysis/Data_management.md:9
 msgid ""
-"There are many options for storing image data in online repositories. "
-"These services make it easy to share and reuse data. The best option will"
-" depend on the size of the dataset, the budget for storage, whether there"
-" is related non-image data, and how much metadata is available for the "
-"dataset. Some options are summarized below:"
+"There are many options for storing image data in online repositories. These "
+"services make it easy to share and reuse data. The best option will depend "
+"on the size of the dataset, the budget for storage, whether there is related"
+" non-image data, and how much metadata is available for the dataset. Some "
+"options are summarized below:"
 msgstr ""
+"Il existe de nombreuses options pour stocker des données d'image dans des "
+"référentiels en ligne. Ces services facilitent le partage et la "
+"réutilisation des données. La meilleure option dépendra de la taille de "
+"l'ensemble de données, du budget de stockage, de l'existence ou non de "
+"données liées à des images et de la quantité de métadonnées disponibles pour"
+" l'ensemble de données. Certaines options sont résumées ci-dessous :"
 
-#: ../../03_Image_analysis/Data_management.md
+#: ../../03_Image_analysis/Data_management.md:0
 msgid "Comparison of various data respositories"
-msgstr ""
+msgstr "Comparaison de différents référentiels de données"
 
 #: ../../03_Image_analysis/Data_management.md:18
 msgid ""
 "**Options for storing bioimaging data** Figure by Beth Cimini (2023) "
 "[Source](https://doi.org/10.5281/zenodo.7628604)"
 msgstr ""
+"**Options de stockage des données de bioimagerie** Figure de Beth Cimini "
+"(2023) [Source](https://doi.org/10.5281/zenodo.7628604)"
 
 #: ../../03_Image_analysis/Data_management.md:24
 msgid ""
 "**Not storing original versions of images**. It is critical that the raw "
-"image data be saved and stored. It is very important that these files are"
-" not compressed formats (e.g., '.jpeg') or modified from the original "
-"files on which analysis was performed. If files are modified, "
-"measurements will change and the analysis pipeline will not be "
-"reproducible to anyone else."
+"image data be saved and stored. It is very important that these files are "
+"not compressed formats (e.g., '.jpeg') or modified from the original files "
+"on which analysis was performed. If files are modified, measurements will "
+"change and the analysis pipeline will not be reproducible to anyone else."
 msgstr ""
+"**Ne stocke pas les versions originales des images**. Il est essentiel que "
+"les données d'image brutes soient enregistrées et stockées. Il est très "
+"important que ces fichiers ne soient pas des formats compressés (par "
+"exemple, '.jpeg') ou modifiés à partir des fichiers originaux sur lesquels "
+"l'analyse a été effectuée. Si les fichiers sont modifiés, les mesures "
+"changeront et le pipeline d'analyse ne pourra être reproduit par personne "
+"d'autre."
 
 #: ../../03_Image_analysis/Data_management.md:26
 msgid ""
 "**Necessary imaging metadata is unavailable**. In order to properly "
-"calibrate measurement data, it's critical that information like pixel "
-"size (e.g., in microns), the microscope manufacturer and model, and "
-"acquisition settings are included alongside the data. If this isn't "
-"included, it will be very difficult to reproduce results or use the "
-"combine the data with other datasets."
+"calibrate measurement data, it's critical that information like pixel size "
+"(e.g., in microns), the microscope manufacturer and model, and acquisition "
+"settings are included alongside the data. If this isn't included, it will be"
+" very difficult to reproduce results or use the combine the data with other "
+"datasets."
 msgstr ""
+"**Les métadonnées d'imagerie nécessaires ne sont pas disponibles**. Afin de "
+"calibrer correctement les données de mesure, il est essentiel que des "
+"informations telles que la taille des pixels (par exemple, en microns), le "
+"fabricant et le modèle du microscope et les paramètres d'acquisition soient "
+"incluses à côté des données. Si cela n'est pas inclus, il sera très "
+"difficile de reproduire les résultats ou d'utiliser la combinaison des "
+"données avec d'autres ensembles de données."
 
 #: ../../03_Image_analysis/Data_management.md:32
 msgid "🌐 [Zenodo](https://zenodo.org/)"
-msgstr ""
+msgstr "🌐 [Zenodo](https://zenodo.org/)"
 
 #: ../../03_Image_analysis/Data_management.md:33
 msgid "🌐 [Figshare](https://figshare.com)"
-msgstr ""
+msgstr "🌐 [Figshare](https://figshare.com)"
 
 #: ../../03_Image_analysis/Data_management.md:34
 msgid "🌐 [Dryad](https://datadryad.org)"
-msgstr ""
+msgstr "🌐 [Dryade](https://datadryad.org)"
 
 #: ../../03_Image_analysis/Data_management.md:35
 msgid ""
 "🌐 [Bioimage Archive](https://www.ebi.ac.uk/bioimage-archive/) "
 "{cite}`Hartley2022-mt`"
 msgstr ""
+"🌐 [Archive Bioimage](https://www.ebi.ac.uk/bioimage-archive/) "
+"{cite}`Hartley2022-mt`"
 
 #: ../../03_Image_analysis/Data_management.md:36
 msgid ""
 "🌐 [Image Data Resource (IDR)](https://idr.openmicroscopy.org/) "
 "{cite}`Williams2017-yy`"
 msgstr ""
+"🌐 [Ressource de données d'image (IDR)] (https://idr.openmicroscopy.org/) "
+"{cite}`Williams2017-yy`"
 
 #: ../../03_Image_analysis/Data_management.md:37
 msgid "🌐 [BBBC](https://bbbc.broadinstitute.org/) {cite}`Ljosa2012-fr`"
-msgstr ""
+msgstr "🌐 [BBBC](https://bbbc.broadinstitute.org/) {cite}`Ljosa2012-fr`"
 
 #: ../../03_Image_analysis/Data_management.md:38
 msgid ""
 "🌐 [Cell Painting Gallery](https://registry.opendata.aws/cellpainting-"
 "gallery/)"
 msgstr ""
+"🌐 [Galerie de peinture cellulaire] "
+"(https://registry.opendata.aws/cellpainting-gallery/)"
 
 #: ../../03_Image_analysis/GeneralUseSoftware.md:1
 msgid "General Use Software"
-msgstr ""
+msgstr "Logiciel à usage général"
 
 #: ../../03_Image_analysis/GeneralUseSoftware.md:3
 msgid ""
-"Tools on this page tend to be relatively multipurpose across a lot of "
-"kinds of analyses and/or images. For tools that specialize in certain "
-"analysis steps, see the [Specific Use Software](./SpecificUseSoftware.md)"
-" page."
+"Tools on this page tend to be relatively multipurpose across a lot of kinds "
+"of analyses and/or images. For tools that specialize in certain analysis "
+"steps, see the [Specific Use Software](./SpecificUseSoftware.md) page."
 msgstr ""
+"Les outils de cette page ont tendance à être relativement polyvalents pour "
+"de nombreux types d'analyses et/ou d'images. Pour les outils spécialisés "
+"dans certaines étapes d'analyse, consultez la page [Logiciel à usage "
+"spécifique](./SpecificUseSoftware.md)."
 
 #: ../../03_Image_analysis/GeneralUseSoftware.md:6
 msgid ""
 "<img src=\"https://imagej.net/media/icons/imagej2.png\" alt=\"logo\" "
 "width=\"30px\"> ImageJ"
 msgstr ""
+" <img src=\"https://imagej.net/media/icons/imagej2.png\" alt=\"logo\" "
+"width=\"30px\"> ImageJ"
 
 #: ../../03_Image_analysis/GeneralUseSoftware.md:9
 msgid ""
 "[ImageJ](https://imagej.net/) "
 "{cite}`Schneider2012-gs,Schindelin2012-kk,Rueden2017-ku` is an imaging "
 "processing program that is capable of operating on a variety of images "
-"including multichannel, 3D and time series. It provides a variety of "
-"basic imaging processing operations, but it can be complemented with a "
-"variety of plugins for more complex tasks."
+"including multichannel, 3D and time series. It provides a variety of basic "
+"imaging processing operations, but it can be complemented with a variety of "
+"plugins for more complex tasks."
 msgstr ""
+"[ImageJ](https://imagej.net/) "
+"{cite}`Schneider2012-gs,Schindelin2012-kk,Rueden2017-ku` est un programme de"
+" traitement d'image capable de fonctionner sur une variété d'images, y "
+"compris multicanaux, 3D et séries chronologiques. Il fournit une variété "
+"d'opérations de traitement d'image de base, mais il peut être complété par "
+"une variété de plugins pour des tâches plus complexes."
 
-#: ../../03_Image_analysis/GeneralUseSoftware.md
-#: ../../03_Image_analysis/SpecificUseSoftware.md
+#: ../../03_Image_analysis/GeneralUseSoftware.md:0
+#: ../../03_Image_analysis/SpecificUseSoftware.md:0
 msgid "What are its disadvantages?"
-msgstr ""
+msgstr "Quels sont ses inconvénients ?"
 
 #: ../../03_Image_analysis/GeneralUseSoftware.md:14
 msgid ""
@@ -456,36 +672,46 @@ msgid ""
 "capability of batch processing and creating macros it does require some "
 "understanding of coding."
 msgstr ""
+"Les opérations de traitement d'image sont effectuées une à la fois, bien "
+"qu'il ait la capacité de traiter par lots et de créer des macros, il "
+"nécessite une certaine compréhension du codage."
 
 #: ../../03_Image_analysis/GeneralUseSoftware.md:15
 msgid ""
-"But while it can open large images, there is a size limit to the size it "
-"can handle based on the available memory. And even if it can open large "
-"images it can slow down performance."
+"But while it can open large images, there is a size limit to the size it can"
+" handle based on the available memory. And even if it can open large images "
+"it can slow down performance."
 msgstr ""
+"Mais bien qu'il puisse ouvrir de grandes images, il existe une limite de "
+"taille à la taille qu'il peut gérer en fonction de la mémoire disponible. Et"
+" même s'il peut ouvrir de grandes images, il peut ralentir les performances."
 
-#: ../../03_Image_analysis/GeneralUseSoftware.md
-#: ../../03_Image_analysis/SpecificUseSoftware.md
+#: ../../03_Image_analysis/GeneralUseSoftware.md:0
+#: ../../03_Image_analysis/SpecificUseSoftware.md:0
 msgid "How to download/install and learn more?"
-msgstr ""
+msgstr "Comment télécharger/installer et en savoir plus ?"
 
 #: ../../03_Image_analysis/GeneralUseSoftware.md:20
 msgid "To download ImageJ or its “batteries-included” distribution Fiji go to"
 msgstr ""
+"Pour télécharger ImageJ ou sa distribution \"piles incluses\" Fidji, rendez-"
+"vous sur"
 
 #: ../../03_Image_analysis/GeneralUseSoftware.md:24
 msgid "🌐 [ImageJ download](https://imagej.net/downloads)"
-msgstr ""
+msgstr "🌐 [Téléchargement ImageJ](https://imagej.net/downloads)"
 
 #: ../../03_Image_analysis/GeneralUseSoftware.md:26
 msgid ""
-"For documentation and tutorials on how to use ImageJ as well as a list of"
-" available plugins"
+"For documentation and tutorials on how to use ImageJ as well as a list of "
+"available plugins"
 msgstr ""
+"Pour de la documentation et des tutoriels sur l'utilisation d'ImageJ ainsi "
+"qu'une liste des plugins disponibles"
 
 #: ../../03_Image_analysis/GeneralUseSoftware.md:30
 msgid "🌐 [ImageJ basics](https://imagej.net/learn/)"
-msgstr ""
+msgstr "🌐 [Les bases d'ImageJ](https://imagej.net/learn/)"
 
 #: ../../03_Image_analysis/GeneralUseSoftware.md:34
 msgid ""
@@ -493,42 +719,63 @@ msgid ""
 "cdn.com/business4/uploads/imagej/original/2X/b/bcdcd5ba157e07e74dd1964ec81765e708455ed9.png\""
 " alt=\"logo\" width=\"30px\"> CellProfiler"
 msgstr ""
+" <img src=\"https://global.discourse-"
+"cdn.com/business4/uploads/imagej/original/2X/b/bcdcd5ba157e07e74dd1964ec81765e708455ed9.png\""
+" alt=\"logo\" width=\"30px\"> CellProfiler"
 
 #: ../../03_Image_analysis/GeneralUseSoftware.md:36
 msgid ""
 "[CellProfiler](https://cellprofiler.org/) {cite}`Stirling2021-sg` is a "
-"software designed for biologists by biologists; it creates a bridge "
-"between image analysis and scientist with no need of computational "
-"expertise. It was designed with the idea of an image analysis pipeline in"
-" mind: it allows you to take a series of interoperable modules to design "
-"your own custom analysis pipeline that can be applied to one or thousands"
-" of images, making it suitable for high throughput image analysis."
+"software designed for biologists by biologists; it creates a bridge between "
+"image analysis and scientist with no need of computational expertise. It was"
+" designed with the idea of an image analysis pipeline in mind: it allows you"
+" to take a series of interoperable modules to design your own custom "
+"analysis pipeline that can be applied to one or thousands of images, making "
+"it suitable for high throughput image analysis."
 msgstr ""
+"[CellProfiler](https://cellprofiler.org/) {cite}`Stirling2021-sg` est un "
+"logiciel conçu pour les biologistes par des biologistes ; il crée un pont "
+"entre l'analyse d'images et le scientifique sans avoir besoin d'expertise "
+"informatique. Il a été conçu avec l'idée d'un pipeline d'analyse d'images à "
+"l'esprit : il vous permet de prendre une série de modules interopérables "
+"pour concevoir votre propre pipeline d'analyse personnalisé qui peut être "
+"appliqué à une ou des milliers d'images, ce qui le rend adapté à l'analyse "
+"d'images à haut débit. ."
 
 #: ../../03_Image_analysis/GeneralUseSoftware.md:42
 msgid ""
 "CellProfiler can’t handle large images, like whole tissue sections from "
-"histology experiments. The image size is currently limited by the "
-"available memory on your computer."
+"histology experiments. The image size is currently limited by the available "
+"memory on your computer."
 msgstr ""
+"CellProfiler ne peut pas gérer de grandes images, comme des sections de "
+"tissus entiers provenant d'expériences d'histologie. La taille de l'image "
+"est actuellement limitée par la mémoire disponible sur votre ordinateur."
 
 #: ../../03_Image_analysis/GeneralUseSoftware.md:43
 msgid ""
-"While CellProfiler can perform analysis on 3D images the visualization is"
-" limited to a one z-plane at a time via a slider on the viewing window."
+"While CellProfiler can perform analysis on 3D images the visualization is "
+"limited to a one z-plane at a time via a slider on the viewing window."
 msgstr ""
+"Alors que CellProfiler peut effectuer une analyse sur des images 3D, la "
+"visualisation est limitée à un plan z à la fois via un curseur sur la "
+"fenêtre de visualisation."
 
 #: ../../03_Image_analysis/GeneralUseSoftware.md:44
-msgid "Also several features of CellProfiler are only available for 2D images."
+msgid ""
+"Also several features of CellProfiler are only available for 2D images."
 msgstr ""
+"De plus, plusieurs fonctionnalités de CellProfiler ne sont disponibles que "
+"pour les images 2D."
 
 #: ../../03_Image_analysis/GeneralUseSoftware.md:49
 msgid "To download CellProfiler"
-msgstr ""
+msgstr "Pour télécharger Cell Profiler"
 
 #: ../../03_Image_analysis/GeneralUseSoftware.md:53
 msgid "🌐 [CellProfiler download](https://cellprofiler.org/releases)"
 msgstr ""
+"🌐 [téléchargement de CellProfiler] (https://cellprofiler.org/releases)"
 
 #: ../../03_Image_analysis/GeneralUseSoftware.md:55
 #: ../../03_Image_analysis/GeneralUseSoftware.md:84
@@ -537,27 +784,31 @@ msgstr ""
 #: ../../03_Image_analysis/GeneralUseSoftware.md:172
 #: ../../03_Image_analysis/SpecificUseSoftware.md:59
 msgid "For documentation examples and  tutorials."
-msgstr ""
+msgstr "Pour des exemples de documentation et des tutoriels."
 
 #: ../../03_Image_analysis/GeneralUseSoftware.md:59
 msgid ""
 "🌐 [CellProfiler user manual](https://cellprofiler-"
 "manual.s3.amazonaws.com/CellProfiler-4.2.4/index.html)"
 msgstr ""
+"🌐 [Manuel d'utilisation de CellProfiler](https://cellprofiler-"
+"manual.s3.amazonaws.com/CellProfiler-4.2.4/index.html)"
 
 #: ../../03_Image_analysis/GeneralUseSoftware.md:60
 msgid "🌐 [Examples](https://cellprofiler.org/examples)"
-msgstr ""
+msgstr "🌐 [Exemples](https://cellprofiler.org/examples)"
 
 #: ../../03_Image_analysis/GeneralUseSoftware.md:61
 msgid "🌐 [Tutorials](https://tutorials.cellprofiler.org/)"
-msgstr ""
+msgstr "🌐 [Tutoriels](https://tutorials.cellprofiler.org/)"
 
 #: ../../03_Image_analysis/GeneralUseSoftware.md:62
 msgid ""
 "🎥 [Video tutorials and "
 "workshops](https://www.youtube.com/playlist?list=PLXSm9cHbSZBBy7JkChB32_e3lURUcT3RL)"
 msgstr ""
+"🎥 [Tutoriels vidéo et "
+"ateliers](https://www.youtube.com/playlist?list=PLXSm9cHbSZBBy7JkChB32_e3lURUcT3RL)"
 
 #: ../../03_Image_analysis/GeneralUseSoftware.md:66
 msgid ""
@@ -565,39 +816,52 @@ msgid ""
 "cdn.com/business4/uploads/imagej/optimized/3X/6/0/6039b2daa4b6b1c32943f63f464cf3c477898bfe_2_750x750.png\""
 " alt=\"logo\" width=\"30px\"> QuPath"
 msgstr ""
+" <img src=\"https://global.discourse-"
+"cdn.com/business4/uploads/imagej/optimized/3X/6/0/6039b2daa4b6b1c32943f63f464cf3c477898bfe_2_750x750.png\""
+" alt=\"logo\" width=\"30px\"> QuPath"
 
 #: ../../03_Image_analysis/GeneralUseSoftware.md:68
 msgid ""
-"[QuPath](https://qupath.github.io/) {cite}`Bankhead2017-kz` offers a wide"
-" set of image analysis tools that can be applied to whole slide images. "
-"For that reason it is widely utilized with pathology images, but it can "
-"be used with other images as well. QuPath also contains pixel "
-"classification tools and can integrate with ImageJ (e.g., for sending "
-"{term}`ROIs` between the programs, or for accessing ImageJ plugins)."
+"[QuPath](https://qupath.github.io/) {cite}`Bankhead2017-kz` offers a wide "
+"set of image analysis tools that can be applied to whole slide images. For "
+"that reason it is widely utilized with pathology images, but it can be used "
+"with other images as well. QuPath also contains pixel classification tools "
+"and can integrate with ImageJ (e.g., for sending {term}`ROIs` between the "
+"programs, or for accessing ImageJ plugins)."
 msgstr ""
+"[QuPath](https://qupath.github.io/) {cite}`Bankhead2017-kz` propose un large"
+" éventail d'outils d'analyse d'image pouvant être appliqués à des images de "
+"diapositives entières. Pour cette raison, il est largement utilisé avec des "
+"images de pathologie, mais il peut également être utilisé avec d'autres "
+"images. QuPath contient également des outils de classification de pixels et "
+"peut s'intégrer à ImageJ (par exemple, pour envoyer des {term}`ROIs` entre "
+"les programmes ou pour accéder aux plugins ImageJ)."
 
 #: ../../03_Image_analysis/GeneralUseSoftware.md:73
 msgid ""
-"To get the most out of QuPath (especially when analyzing many images), "
-"some scripting and knowledge of coding (or adapting other’s code) is "
-"necessary"
+"To get the most out of QuPath (especially when analyzing many images), some "
+"scripting and knowledge of coding (or adapting other’s code) is necessary"
 msgstr ""
+"Pour tirer le meilleur parti de QuPath (en particulier lors de l'analyse de "
+"nombreuses images), des scripts et une connaissance du codage (ou de "
+"l'adaptation du code d'un autre) sont nécessaires"
 
 #: ../../03_Image_analysis/GeneralUseSoftware.md:78
 msgid "To download QuPath"
-msgstr ""
+msgstr "Pour télécharger QuPath"
 
 #: ../../03_Image_analysis/GeneralUseSoftware.md:82
 msgid "🌐 [QuPath download](https://qupath.github.io/)"
-msgstr ""
+msgstr "🌐 [Téléchargement QuPath] (https://qupath.github.io/)"
 
 #: ../../03_Image_analysis/GeneralUseSoftware.md:88
 msgid "🌐 [QuPath user manual](https://qupath.readthedocs.io/en/stable/)"
 msgstr ""
+"🌐 [Manuel d'utilisation de QuPath](https://qupath.readthedocs.io/en/stable/)"
 
 #: ../../03_Image_analysis/GeneralUseSoftware.md:89
 msgid "🎥 [Video tutorials and workshops](https://www.youtube.com/c/qupath)"
-msgstr ""
+msgstr "🎥 [Tutoriels vidéo et ateliers](https://www.youtube.com/c/qupath)"
 
 #: ../../03_Image_analysis/GeneralUseSoftware.md:93
 msgid ""
@@ -605,35 +869,45 @@ msgid ""
 "content/uploads/2018/07/logo_full_notext600px.png\" alt=\"logo\" "
 "width=\"30px\"> Icy"
 msgstr ""
+" <img src=\"https://icy.bioimageanalysis.org/wp-"
+"content/uploads/2018/07/logo_full_notext600px.png\" alt=\"logo\" "
+"width=\"30px\"> Glacé"
 
 #: ../../03_Image_analysis/GeneralUseSoftware.md:95
 msgid ""
-"[Icy](https://icy.bioimageanalysis.org/) {cite}`De_Chaumont2012-pe` is an"
-" out of the box image analysis tools, it utilizes plugins to create "
-"visual image analysis protocols that can be shared with other users."
+"[Icy](https://icy.bioimageanalysis.org/) {cite}`De_Chaumont2012-pe` is an "
+"out of the box image analysis tools, it utilizes plugins to create visual "
+"image analysis protocols that can be shared with other users."
 msgstr ""
+"[Icy](https://icy.bioimageanalysis.org/) {cite}`De_Chaumont2012-pe` est un "
+"outil d'analyse d'image prêt à l'emploi, il utilise des plugins pour créer "
+"des protocoles d'analyse d'image visuelle qui peuvent être partagés avec "
+"d'autres utilisateurs."
 
 #: ../../03_Image_analysis/GeneralUseSoftware.md:102
 msgid "Icy interoperability with other softwares is limited to ImageJ"
-msgstr ""
+msgstr "L'interopérabilité d'Icy avec d'autres logiciels est limitée à ImageJ"
 
 #: ../../03_Image_analysis/GeneralUseSoftware.md:107
 msgid "To download Icy"
-msgstr ""
+msgstr "Pour télécharger Glacé"
 
 #: ../../03_Image_analysis/GeneralUseSoftware.md:111
 msgid "🌐 [Icy download](https://icy.bioimageanalysis.org/download/)"
-msgstr ""
+msgstr "🌐 [Téléchargement glacé](https://icy.bioimageanalysis.org/download/)"
 
 #: ../../03_Image_analysis/GeneralUseSoftware.md:117
-msgid "🌐 [Icy course and tutorial](https://icy.bioimageanalysis.org/trainings/)"
+msgid ""
+"🌐 [Icy course and tutorial](https://icy.bioimageanalysis.org/trainings/)"
 msgstr ""
+"🌐 [Cours et tutoriel Icy](https://icy.bioimageanalysis.org/trainings/)"
 
 #: ../../03_Image_analysis/GeneralUseSoftware.md:118
 msgid ""
-"🎥 [Bioimage analysis with Icy "
-"](https://www.youtube.com/watch?v=myal9BD6J-k)"
+"🎥 [Bioimage analysis with Icy ](https://www.youtube.com/watch?v=myal9BD6J-k)"
 msgstr ""
+"🎥 [Analyse de bioimages avec Icy "
+"](https://www.youtube.com/watch?v=myal9BD6J-k)"
 
 #: ../../03_Image_analysis/GeneralUseSoftware.md:122
 msgid ""
@@ -641,44 +915,58 @@ msgid ""
 "cdn.com/business4/uploads/imagej/optimized/3X/7/4/74273a1f9a663b52053d44c9767ed49193f2170f_2_787x750.png\""
 " alt=\"logo\" width=\"30px\"> MIB (Microscopy Image Browser)"
 msgstr ""
+" <img src=\"https://global.discourse-"
+"cdn.com/business4/uploads/imagej/optimized/3X/7/4/74273a1f9a663b52053d44c9767ed49193f2170f_2_787x750.png\""
+" alt=\"logo\" width=\"30px\"> MIB (Navigateur d'images de microscopie)"
 
 #: ../../03_Image_analysis/GeneralUseSoftware.md:124
 msgid ""
-"[MIB](http://mib.helsinki.fi/index.html) {cite}`Belevich2016-vi` is a "
-"user-friendly software for image analysis of multidimensional datasets "
-"for both light and electron microscopy. It allows you to use the whole "
-"acquired data for its analysis and extraction of morphological features."
+"[MIB](http://mib.helsinki.fi/index.html) {cite}`Belevich2016-vi` is a user-"
+"friendly software for image analysis of multidimensional datasets for both "
+"light and electron microscopy. It allows you to use the whole acquired data "
+"for its analysis and extraction of morphological features."
 msgstr ""
+"[MIB](http://mib.helsinki.fi/index.html) {cite}`Belevich2016-vi` est un "
+"logiciel convivial pour l'analyse d'images d'ensembles de données "
+"multidimensionnelles pour la microscopie optique et électronique. Il vous "
+"permet d'utiliser l'ensemble des données acquises pour son analyse et "
+"l'extraction de caractéristiques morphologiques."
 
 #: ../../03_Image_analysis/GeneralUseSoftware.md:131
 msgid ""
-"It was created using MATLAB, a standalone packaged version exist, but "
-"they do not use the most up-to-date MATLAB releases"
+"It was created using MATLAB, a standalone packaged version exist, but they "
+"do not use the most up-to-date MATLAB releases"
 msgstr ""
+"Il a été créé à l'aide de MATLAB, une version packagée autonome existe, mais"
+" ils n'utilisent pas les versions MATLAB les plus récentes"
 
 #: ../../03_Image_analysis/GeneralUseSoftware.md:136
 msgid "To download MIB"
-msgstr ""
+msgstr "Pour télécharger MIB"
 
 #: ../../03_Image_analysis/GeneralUseSoftware.md:140
 msgid "🌐 [MIB download](http://mib.helsinki.fi/downloads.html)"
-msgstr ""
+msgstr "🌐 [Téléchargement MIB] (http://mib.helsinki.fi/downloads.html)"
 
 #: ../../03_Image_analysis/GeneralUseSoftware.md:146
 msgid ""
 "🌐 [MIB user "
 "guide](http://mib.helsinki.fi/help/main2/im_browser_user_guide.html)"
 msgstr ""
+"🌐 [Guide de l'utilisateur MIB] "
+"(http://mib.helsinki.fi/help/main2/im_browser_user_guide.html)"
 
 #: ../../03_Image_analysis/GeneralUseSoftware.md:147
 msgid "🌐 [Tutorials](http://mib.helsinki.fi/tutorials.html)"
-msgstr ""
+msgstr "🌐 [Tutoriels](http://mib.helsinki.fi/tutorials.html)"
 
 #: ../../03_Image_analysis/GeneralUseSoftware.md:148
 msgid ""
 "🎥 [Video "
 "tutorials](https://www.youtube.com/playlist?list=PLGkFvW985wz8cj8CWmXOFkXpvoX_HwXzj)"
 msgstr ""
+"🎥 [Tutoriels vidéo] "
+"(https://www.youtube.com/playlist?list=PLGkFvW985wz8cj8CWmXOFkXpvoX_HwXzj)"
 
 #: ../../03_Image_analysis/GeneralUseSoftware.md:152
 msgid ""
@@ -686,41 +974,56 @@ msgid ""
 "cdn.com/business4/uploads/imagej/optimized/3X/7/7/775e83f70639e1cb7cb299d8681d272e18718089_2_750x750.png\""
 " alt=\"logo\" width=\"30px\"> napari"
 msgstr ""
+" <img src=\"https://global.discourse-"
+"cdn.com/business4/uploads/imagej/optimized/3X/7/7/775e83f70639e1cb7cb299d8681d272e18718089_2_750x750.png\""
+" alt=\"logo\" width=\"30px\"> napari"
 
 #: ../../03_Image_analysis/GeneralUseSoftware.md:154
 msgid ""
-"[napari](https://napari.org/) {cite}`Sofroniew2022-nd` is being developed"
-" as a multi-dimensional image viewer that can be expanded via a variety "
-"of plugins to perform basic and complex image analysis tasks."
+"[napari](https://napari.org/) {cite}`Sofroniew2022-nd` is being developed as"
+" a multi-dimensional image viewer that can be expanded via a variety of "
+"plugins to perform basic and complex image analysis tasks."
 msgstr ""
+"[napari](https://napari.org/) {cite}`Sofroniew2022-nd` est en cours de "
+"développement en tant que visionneuse d'images multidimensionnelle qui peut "
+"être étendue via une variété de plug-ins pour effectuer des tâches d'analyse"
+" d'images de base et complexes."
 
 #: ../../03_Image_analysis/GeneralUseSoftware.md:161
 msgid ""
-"napari is still in the development stages, but it is a very popular "
-"platform and already has a variety of plugins and use cases with "
-"tutorials available."
+"napari is still in the development stages, but it is a very popular platform"
+" and already has a variety of plugins and use cases with tutorials "
+"available."
 msgstr ""
+"napari est encore en phase de développement, mais c'est une plate-forme très"
+" populaire et dispose déjà d'une variété de plugins et de cas d'utilisation "
+"avec des tutoriels disponibles."
 
 #: ../../03_Image_analysis/GeneralUseSoftware.md:166
 msgid "To download napari"
-msgstr ""
+msgstr "Pour télécharger napari"
 
 #: ../../03_Image_analysis/GeneralUseSoftware.md:170
 msgid ""
 "🌐 [napari bundled app download "
-"](https://napari.org/stable/tutorials/fundamentals/installation.html"
-"#install-as-a-bundled-app)"
+"](https://napari.org/stable/tutorials/fundamentals/installation.html#install-"
+"as-a-bundled-app)"
 msgstr ""
+"🌐 [téléchargement de l'application groupée napari] "
+"(https://napari.org/stable/tutorials/fundamentals/installation.html#install-"
+"as-a-bundled-app)"
 
 #: ../../03_Image_analysis/GeneralUseSoftware.md:176
 msgid ""
 "🌐 [New to napari guide "
 "](https://napari.org/stable/tutorials/fundamentals/getting_started.html)"
 msgstr ""
+"🌐 [Nouveau dans le guide napari] "
+"(https://napari.org/stable/tutorials/fundamentals/getting_started.html)"
 
 #: ../../03_Image_analysis/GeneralUseSoftware.md:177
 msgid "🌐 [Tutorials](https://napari.org/stable/tutorials/index.html)"
-msgstr ""
+msgstr "🌐 [Tutoriels](https://napari.org/stable/tutorials/index.html)"
 
 #: ../../03_Image_analysis/GeneralUseSoftware.md:178
 msgid ""
@@ -728,100 +1031,156 @@ msgid ""
 "series](https://focalplane.biologists.com/category/blog-series/bio-image-"
 "analysis-with-napari/)"
 msgstr ""
+"🌐 [Analyse de bioimage avec Napari - Une série de blogs "
+"FocalPlane](https://focalplane.biologists.com/category/blog-series/bio-"
+"image-analysis-with-napari/)"
 
 #: ../../03_Image_analysis/Intensity.md:1
 msgid "Intensity measurements"
-msgstr ""
+msgstr "Mesures d'intensité"
 
 #: ../../03_Image_analysis/Intensity.md:3
 msgid "What are intensity measurements?"
-msgstr ""
+msgstr "Que sont les mesures d'intensité ?"
 
 #: ../../03_Image_analysis/Intensity.md:4
 msgid ""
-"Intensity refers to the brightness of signal for a fluorescent label. "
-"Using intensity measurements, we can infer a relative amount of "
-"fluorophore or stain. So for instance, if you have a protein tagged with "
-"a fluorophore, you can measure the intensity of that fluorophore to get a"
-" relative measure of how much protein is present in your sample. "
-"Intensity measurements include the following (non-exhaustive) and can be "
-"measured within an image, in a object like a cell, in subregions of an "
-"object:"
+"Intensity refers to the brightness of signal for a fluorescent label. Using "
+"intensity measurements, we can infer a relative amount of fluorophore or "
+"stain. So for instance, if you have a protein tagged with a fluorophore, you"
+" can measure the intensity of that fluorophore to get a relative measure of "
+"how much protein is present in your sample. Intensity measurements include "
+"the following (non-exhaustive) and can be measured within an image, in a "
+"object like a cell, in subregions of an object:"
 msgstr ""
+"L'intensité fait référence à la luminosité du signal pour un marqueur "
+"fluorescent. En utilisant des mesures d'intensité, nous pouvons déduire une "
+"quantité relative de fluorophore ou de tache. Ainsi, par exemple, si vous "
+"avez une protéine marquée avec un fluorophore, vous pouvez mesurer "
+"l'intensité de ce fluorophore pour obtenir une mesure relative de la "
+"quantité de protéine présente dans votre échantillon. Les mesures "
+"d'intensité comprennent les éléments suivants (non exhaustifs) et peuvent "
+"être mesurées dans une image, dans un objet comme une cellule, dans des "
+"sous-régions d'un objet :"
 
 #: ../../03_Image_analysis/Intensity.md:5
 msgid "**Mean intensity**: the average intensity across all pixels"
-msgstr ""
+msgstr "**Intensité moyenne** : intensité moyenne sur tous les pixels"
 
 #: ../../03_Image_analysis/Intensity.md:6
 msgid ""
 "**Integrated intensity**: the sum of pixel intensities, a proxy for the "
 "total amount of that marker in an object"
 msgstr ""
+"**Intensité intégrée** : la somme des intensités de pixels, un indicateur de"
+" la quantité totale de ce marqueur dans un objet"
 
 #: ../../03_Image_analysis/Intensity.md:7
 msgid "**Texture measurements**: the smoothness of the intensities"
-msgstr ""
+msgstr "**Mesures de texture** : la finesse des intensités"
 
 #: ../../03_Image_analysis/Intensity.md:13
 msgid ""
-"Intensity is relatively straightforward to measure, but can be quite "
-"tricky to do _correctly_ (see below). We strongly suggest you contact an "
-"image analysis expert before proceeding with this type of analysis "
-"because there are so many places things can go wrong. In general, you "
-"want to measure on either raw images, or illumination-corrected images, "
-"but in general with minimal {term}`image processing`. Illumination-"
-"correction is a form of {term}`image processing` to compensate for the "
-"uneven pattern of illumination produced by most light sources where the "
-"middle of the field of illumination is brighter than the edges. Then "
-"intensity measurements can be made in any standard image analysis "
-"software, either across the whole image or in identified objects. See "
-"below for an example workflow:"
+"Intensity is relatively straightforward to measure, but can be quite tricky "
+"to do _correctly_ (see below). We strongly suggest you contact an image "
+"analysis expert before proceeding with this type of analysis because there "
+"are so many places things can go wrong. In general, you want to measure on "
+"either raw images, or illumination-corrected images, but in general with "
+"minimal {term}`image processing`. Illumination-correction is a form of "
+"{term}`image processing` to compensate for the uneven pattern of "
+"illumination produced by most light sources where the middle of the field of"
+" illumination is brighter than the edges. Then intensity measurements can be"
+" made in any standard image analysis software, either across the whole image"
+" or in identified objects. See below for an example workflow:"
 msgstr ""
+"L'intensité est relativement simple à mesurer, mais peut être assez "
+"difficile à faire _correctement_ (voir ci-dessous). Nous vous suggérons "
+"fortement de contacter un expert en analyse d'images avant de procéder à ce "
+"type d'analyse car il y a tellement d'endroits où les choses peuvent mal "
+"tourner. En général, vous souhaitez mesurer soit sur des images brutes, soit"
+" sur des images corrigées par l'éclairage, mais en général avec un "
+"{term}`traitement d'image` minimal. La correction d'éclairage est une forme "
+"de \"traitement d'image\" pour compenser le motif d'éclairage irrégulier "
+"produit par la plupart des sources lumineuses où le milieu du champ "
+"d'éclairage est plus lumineux que les bords. Ensuite, des mesures "
+"d'intensité peuvent être effectuées dans n'importe quel logiciel d'analyse "
+"d'image standard, soit sur l'ensemble de l'image, soit sur des objets "
+"identifiés. Voir ci-dessous pour un exemple de flux de travail :"
 
 #: ../../03_Image_analysis/Intensity.md:35
 msgid ""
 "To understand saturation another way, imagine you’re trying to measure "
-"average male height with a 2 meter tape measure. If our sample contains "
-"men that are taller than 2 meters, we can’t tell _how much taller_ than 6"
-" feet they are; they’re like saturated pixels that exceed the intensity "
-"we can detect. This saturation of our measurement tool means we can’t "
-"accurately report average height."
+"average male height with a 2 meter tape measure. If our sample contains men "
+"that are taller than 2 meters, we can’t tell _how much taller_ than 6 feet "
+"they are; they’re like saturated pixels that exceed the intensity we can "
+"detect. This saturation of our measurement tool means we can’t accurately "
+"report average height."
 msgstr ""
+"Pour comprendre la saturation d'une autre manière, imaginez que vous essayez"
+" de mesurer la taille moyenne d'un homme avec un ruban à mesurer de 2 "
+"mètres. Si notre échantillon contient des hommes qui mesurent plus de 2 "
+"mètres, nous ne pouvons pas dire combien ils mesurent plus de 6 pieds ; ils "
+"sont comme des pixels saturés qui dépassent l'intensité que nous pouvons "
+"détecter. Cette saturation de notre outil de mesure signifie que nous ne "
+"pouvons pas rapporter avec précision la taille moyenne."
 
 #: ../../03_Image_analysis/Intensity.md:38
 msgid ""
-"**Saturation** Saturated pixels are so bright their intensity values max "
-"out our detector (camera). If you have saturated pixels in the cells "
-"you’re trying to measure, you really can’t do most intensity "
-"measurements. This is because for saturated pixels, you don’t know how "
-"bright they really are, just that they’re brighter than you can detect. "
-"There are some intensity measurements that are robust to some saturation."
-" For example, the median intensity of an image won’t be affected by "
-"saturation unless you have >½ the image saturated. But measurements like "
-"mean intensity will be affected by saturation."
+"**Saturation** Saturated pixels are so bright their intensity values max out"
+" our detector (camera). If you have saturated pixels in the cells you’re "
+"trying to measure, you really can’t do most intensity measurements. This is "
+"because for saturated pixels, you don’t know how bright they really are, "
+"just that they’re brighter than you can detect. There are some intensity "
+"measurements that are robust to some saturation. For example, the median "
+"intensity of an image won’t be affected by saturation unless you have >½ the"
+" image saturated. But measurements like mean intensity will be affected by "
+"saturation."
 msgstr ""
+"**Saturation** Les pixels saturés sont si brillants que leurs valeurs "
+"d'intensité maximisent notre détecteur (caméra). Si vous avez des pixels "
+"saturés dans les cellules que vous essayez de mesurer, vous ne pouvez "
+"vraiment pas faire la plupart des mesures d'intensité. En effet, pour les "
+"pixels saturés, vous ne savez pas à quel point ils sont réellement lumineux,"
+" mais simplement qu'ils sont plus lumineux que vous ne pouvez le détecter. "
+"Certaines mesures d'intensité sont robustes à une certaine saturation. Par "
+"exemple, l'intensité médiane d'une image ne sera pas affectée par la "
+"saturation à moins que vous ayez> ½ l'image saturée. Mais des mesures comme "
+"l'intensité moyenne seront affectées par la saturation."
 
 #: ../../03_Image_analysis/Intensity.md:40
 msgid ""
-"**Inadequate controls** In most cases, the exact intensity measures you "
-"get don’t mean anything biologically in isolation. It’s only by "
-"comparison of conditions that we can generate some biological insight. A "
-"control condition is therefore **very** important to compare to your "
-"experimental condition."
+"**Inadequate controls** In most cases, the exact intensity measures you get "
+"don’t mean anything biologically in isolation. It’s only by comparison of "
+"conditions that we can generate some biological insight. A control condition"
+" is therefore **very** important to compare to your experimental condition."
 msgstr ""
+"** Contrôles inadéquats ** Dans la plupart des cas, les mesures d'intensité "
+"exactes que vous obtenez ne signifient rien biologiquement isolément. Ce "
+"n'est qu'en comparant les conditions que nous pouvons générer des "
+"informations biologiques. Une condition de contrôle est donc **très** "
+"importante à comparer à votre condition expérimentale."
 
 #: ../../03_Image_analysis/Intensity.md:42
 msgid ""
-"**Not matching imaging conditions across experimental conditions** "
-"Because intensity measures are affected by exposure time, light source "
-"intensity, and other factors, it’s very important to match imaging "
-"settings across your samples. Relatedly, you should make sure you don’t "
-"separate imaging your experimental and control conditions to different "
-"days if this can be in any way avoided. Fluorophores can become dimmer "
-"over time in samples, which complicates interpretation if different "
-"sample types were imaged on different days."
+"**Not matching imaging conditions across experimental conditions** Because "
+"intensity measures are affected by exposure time, light source intensity, "
+"and other factors, it’s very important to match imaging settings across your"
+" samples. Relatedly, you should make sure you don’t separate imaging your "
+"experimental and control conditions to different days if this can be in any "
+"way avoided. Fluorophores can become dimmer over time in samples, which "
+"complicates interpretation if different sample types were imaged on "
+"different days."
 msgstr ""
+"**Ne correspond pas aux conditions d'imagerie dans les conditions "
+"expérimentales** Étant donné que les mesures d'intensité sont affectées par "
+"le temps d'exposition, l'intensité de la source lumineuse et d'autres "
+"facteurs, il est très important de faire correspondre les paramètres "
+"d'imagerie de vos échantillons. De même, vous devez vous assurer de ne pas "
+"séparer l'imagerie de vos conditions expérimentales et de contrôle à des "
+"jours différents si cela peut être évité de quelque manière que ce soit. Les"
+" fluorophores peuvent devenir plus sombres au fil du temps dans les "
+"échantillons, ce qui complique l'interprétation si différents types "
+"d'échantillons ont été imagés à des jours différents."
 
 #: ../../03_Image_analysis/Intensity.md:48
 msgid ""
@@ -829,78 +1188,103 @@ msgid ""
 "measures](https://neubias.github.io/training-"
 "resources/measure_intensities/index.html)"
 msgstr ""
+"🎓 [Ressource de formation Neubias sur les mesures "
+"d'intensité](https://neubias.github.io/training-"
+"resources/measure_intensities/index.html)"
 
 #: ../../03_Image_analysis/Introduction.md:1
 #: ../../03_Image_analysis/Software.md:3
 #: ../../03_Image_analysis/_notinyet_Image_processing.md:3
 #: ../../03_Image_analysis/_notinyet_Image_segmentation.md:3
 msgid "Introduction"
-msgstr ""
+msgstr "Introduction"
 
 #: ../../03_Image_analysis/Introduction.md:3
 msgid ""
 "Microscopy images are inherently quantitative, which makes them a very "
-"powerful data source. As a biologist, image analysis allows you to "
-"translate these numbers into insights that answer biological questions. "
-"For our purposes, **image analysis** is the process of measuring aspects "
-"of biological phenomena captured in microscopy images. Microscopy images "
-"are already _inherently quantitative_ in that they are matrices (i.e., "
-"grids) of numbers. However, image analysis is the process of turning "
-"these raw numbers into biologically interpretable measurements. Image "
-"analysis typically involves a series of steps that can be collected into "
-"a pipeline or analysis workflow. A simple example workflow is shown "
-"below:"
+"powerful data source. As a biologist, image analysis allows you to translate"
+" these numbers into insights that answer biological questions. For our "
+"purposes, **image analysis** is the process of measuring aspects of "
+"biological phenomena captured in microscopy images. Microscopy images are "
+"already _inherently quantitative_ in that they are matrices (i.e., grids) of"
+" numbers. However, image analysis is the process of turning these raw "
+"numbers into biologically interpretable measurements. Image analysis "
+"typically involves a series of steps that can be collected into a pipeline "
+"or analysis workflow. A simple example workflow is shown below:"
 msgstr ""
+"Les images de microscopie sont intrinsèquement quantitatives, ce qui en fait"
+" une source de données très puissante. En tant que biologiste, l'analyse "
+"d'images vous permet de traduire ces chiffres en informations qui répondent "
+"à des questions biologiques. Pour nos besoins, l'**analyse d'image** est le "
+"processus de mesure des aspects des phénomènes biologiques capturés dans les"
+" images de microscopie. Les images de microscopie sont déjà _intrinsèquement"
+" quantitatives_ en ce qu'elles sont des matrices (c'est-à-dire des grilles) "
+"de nombres. Cependant, l'analyse d'image est le processus de transformation "
+"de ces nombres bruts en mesures biologiquement interprétables. L'analyse "
+"d'images implique généralement une série d'étapes qui peuvent être "
+"rassemblées dans un pipeline ou un workflow d'analyse. Un exemple de flux de"
+" travail simple est illustré ci-dessous :"
 
 #: ../../03_Image_analysis/Introduction.md:26
 msgid ""
-"The specifics of your workflow depend on your biological question. Below "
-"we present a few common types of analysis for fluorescence microscopy "
+"The specifics of your workflow depend on your biological question. Below we "
+"present a few common types of analysis for fluorescence microscopy "
 "experiments. For each, we’ll explain key ideas to understand before you "
-"begin, common pitfalls, and links to a few key resources to learn more. "
-"We encourage you to think about your analysis strategy even before "
-"beginning sample preparation. While not always possible, speaking with an"
-" image analysis expert in your local core facility or asking a question "
-"on the [image.sc](https://image.sc) forum _before you begin_ can save you"
-" a ton of time and headache when it comes to designing an image analysis "
-"strategy."
+"begin, common pitfalls, and links to a few key resources to learn more. We "
+"encourage you to think about your analysis strategy even before beginning "
+"sample preparation. While not always possible, speaking with an image "
+"analysis expert in your local core facility or asking a question on the "
+"[image.sc](https://image.sc) forum _before you begin_ can save you a ton of "
+"time and headache when it comes to designing an image analysis strategy."
 msgstr ""
+"Les spécificités de votre flux de travail dépendent de votre question "
+"biologique. Ci-dessous, nous présentons quelques types courants d'analyse "
+"pour les expériences de microscopie à fluorescence. Pour chacun, nous "
+"expliquerons les idées clés à comprendre avant de commencer, les pièges "
+"courants et des liens vers quelques ressources clés pour en savoir plus. "
+"Nous vous encourageons à réfléchir à votre stratégie d'analyse avant même de"
+" commencer la préparation des échantillons. Bien que cela ne soit pas "
+"toujours possible, parler à un expert en analyse d'images de votre "
+"plateforme locale ou poser une question sur le forum "
+"[image.sc](https://image.sc) _avant de commencer_ peut vous faire gagner "
+"beaucoup de temps et vous éviter des maux de tête lorsque il s'agit de "
+"concevoir une stratégie d'analyse d'images."
 
 #: ../../03_Image_analysis/Resources.md:1
 msgid "Resources for learning more"
-msgstr ""
+msgstr "Des ressources pour en savoir plus"
 
 #: ../../03_Image_analysis/Resources.md:7
 msgid "**Resource Name**"
-msgstr ""
+msgstr "**Nom de la ressource**"
 
 #: ../../03_Image_analysis/Resources.md:8
 msgid "**Link**"
-msgstr ""
+msgstr "**Lien**"
 
 #: ../../03_Image_analysis/Resources.md:9
 msgid "**Brief description**"
-msgstr ""
+msgstr "**Brève description**"
 
 #: ../../03_Image_analysis/Resources.md:10
 msgid "🌐 Image.sc {cite}`Rueden2019-qp`"
-msgstr ""
+msgstr "🌐 Image.sc {cite}`Rueden2019-qp`"
 
 #: ../../03_Image_analysis/Resources.md:11
 msgid "[link](https://forum.image.sc/)"
-msgstr ""
+msgstr "[lien](https://forum.image.sc/)"
 
 #: ../../03_Image_analysis/Resources.md:12
 msgid "Discussion forum for bioimage analysis software"
-msgstr ""
+msgstr "Forum de discussion sur les logiciels d'analyse de bioimages"
 
 #: ../../03_Image_analysis/Resources.md:13
 msgid "🌐 Peter Bankhead’s Intro to Bioimage Analysis"
-msgstr ""
+msgstr "🌐 Introduction de Peter Bankhead à l'analyse de bioimage"
 
 #: ../../03_Image_analysis/Resources.md:14
 msgid "[link](https://bioimagebook.github.io/)"
-msgstr ""
+msgstr "[lien](https://bioimagebook.github.io/)"
 
 #: ../../03_Image_analysis/Resources.md:15
 msgid ""
@@ -908,86 +1292,110 @@ msgid ""
 "questions/answers, exercises with Python and ImageJ, and videos to check "
 "understanding"
 msgstr ""
+"Guide pour les débutants absolus en analyse d'images, comprenant des "
+"questions/réponses intégrées, des exercices avec Python et ImageJ, et des "
+"vidéos pour vérifier la compréhension"
 
 #: ../../03_Image_analysis/Resources.md:16
 msgid "📖 Bioimage Data Analysis {cite}`Miura2016-wq`"
-msgstr ""
+msgstr "📖 Analyse des données Bioimage {cite}`Miura2016-wq`"
 
 #: ../../03_Image_analysis/Resources.md:17
-msgid "[link](https://analyticalscience.wiley.com/do/10.1002/was.00050003/full/bioimagedataanalysis.pdf)"
+msgid ""
+"[link](https://analyticalscience.wiley.com/do/10.1002/was.00050003/full/bioimagedataanalysis.pdf)"
 msgstr ""
+"[lien](https://analyticalscience.wiley.com/do/10.1002/was.00050003/full/bioimagedataanalysis.pdf)"
 
 #: ../../03_Image_analysis/Resources.md:18
 msgid ""
 "A free online textbook introducing various topics by Bioimage Analysis "
 "experts, edited by Kota Miura"
 msgstr ""
+"Un manuel en ligne gratuit présentant divers sujets par des experts en "
+"analyse de bioimage, édité par Kota Miura"
 
 #: ../../03_Image_analysis/Resources.md:19
 msgid "📄 Reproducible image handling and analysis {cite}`Miura2021-mb`"
-msgstr ""
+msgstr "📄 Traitement et analyse d'images reproductibles {cite}`Miura2021-mb`"
 
 #: ../../03_Image_analysis/Resources.md:20
 msgid "[link](https://www.embopress.org/doi/full/10.15252/embj.2020105889)"
-msgstr ""
+msgstr "[lien](https://www.embopress.org/doi/full/10.15252/embj.2020105889)"
 
 #: ../../03_Image_analysis/Resources.md:21
 msgid ""
-"An article reviewing major pitfalls in image handling and how to avoid "
-"them and create reproducible analysis workflows"
+"An article reviewing major pitfalls in image handling and how to avoid them "
+"and create reproducible analysis workflows"
 msgstr ""
+"Un article passant en revue les principaux pièges de la gestion des images "
+"et comment les éviter et créer des workflows d'analyse reproductibles"
 
 #: ../../03_Image_analysis/Resources.md:22
-msgid "📄 Made to measure: an introduction to quantification in microscopy data"
+msgid ""
+"📄 Made to measure: an introduction to quantification in microscopy data"
 msgstr ""
+"📄 Sur mesure : une introduction à la quantification dans les données de "
+"microscopie"
 
 #: ../../03_Image_analysis/Resources.md:23
 msgid "[link](https://arxiv.org/abs/2302.01657#) {cite}`Culley2023-dj`"
-msgstr ""
+msgstr "[lien](https://arxiv.org/abs/2302.01657#) {cite}`Culley2023-dj`"
 
 #: ../../03_Image_analysis/Resources.md:24
 msgid ""
 "An article describing several common classes of measurements made in "
 "microscopy data, as well as technical factors that may affect the results"
 msgstr ""
+"Un article décrivant plusieurs classes courantes de mesures effectuées dans "
+"les données de microscopie, ainsi que les facteurs techniques pouvant "
+"affecter les résultats"
 
 #: ../../03_Image_analysis/Resources.md:25
 msgid ""
 "📄 A Hitchhiker's guide through the bio-image analysis software universe "
 "{cite}`Haase2022-ad`"
 msgstr ""
+"📄 Un guide de l'auto-stoppeur à travers l'univers du logiciel d'analyse "
+"d'images bio {cite}`Haase2022-ad`"
 
 #: ../../03_Image_analysis/Resources.md:26
-msgid "[link](https://febs.onlinelibrary.wiley.com/doi/full/10.1002/1873-3468.14451)"
+msgid ""
+"[link](https://febs.onlinelibrary.wiley.com/doi/full/10.1002/1873-3468.14451)"
 msgstr ""
+"[lien](https://febs.onlinelibrary.wiley.com/doi/full/10.1002/1873-3468.14451)"
 
 #: ../../03_Image_analysis/Resources.md:27
 msgid ""
-"An article that gives guidance and a glossary of available image analysis"
-" software and packages"
+"An article that gives guidance and a glossary of available image analysis "
+"software and packages"
 msgstr ""
+"Un article qui donne des conseils et un glossaire des logiciels et packages "
+"d'analyse d'images disponibles"
 
 #: ../../03_Image_analysis/Resources.md:28
 msgid "🌐 BioImage Informatics Index"
-msgstr ""
+msgstr "🌐 Index informatique BioImage"
 
 #: ../../03_Image_analysis/Resources.md:29
 msgid "[link](https://biii.eu/)"
-msgstr ""
+msgstr "[lien](https://biii.eu/)"
 
 #: ../../03_Image_analysis/Resources.md:30
 msgid ""
 "Repository platform for searching bioimage analysis tools and workflows "
 "based on the problem, method or software of choice"
 msgstr ""
+"Plateforme de référentiel pour la recherche d'outils d'analyse d'images "
+"biographiques et de flux de travail en fonction du problème, de la méthode "
+"ou du logiciel de choix"
 
 #: ../../03_Image_analysis/Resources.md:31
 msgid "🎥 iBiology Bioimage Analysis video series"
-msgstr ""
+msgstr "🎥 Série de vidéos iBiology Bioimage Analysis"
 
 #: ../../03_Image_analysis/Resources.md:32
 msgid "[link](https://youtu.be/1xo4vi6Ub4I)"
-msgstr ""
+msgstr "[lien](https://youtu.be/1xo4vi6Ub4I)"
 
 #: ../../03_Image_analysis/Resources.md:33
 msgid ""
@@ -995,148 +1403,189 @@ msgid ""
 "{term}`image processing`, {term}`segmentation`, tracking, making and "
 "interpreting measurements, tips and pitfalls"
 msgstr ""
+"Série de vidéos présentant l'analyse Bioimage, y compris des aperçus du "
+"traitement d'images {term}, de la segmentation {term}, du suivi, de la "
+"réalisation et de l'interprétation des mesures, des conseils et des pièges"
 
 #: ../../03_Image_analysis/Resources.md:34
 msgid "🌐 Bioimage ANalysis Desktop (BAND)"
-msgstr ""
+msgstr "🌐 Bureau d'Analyse Bioimage (BAND)"
 
 #: ../../03_Image_analysis/Resources.md:35
 msgid "[link](https://band.embl.de)"
-msgstr ""
+msgstr "[lien](https://band.embl.de)"
 
 #: ../../03_Image_analysis/Resources.md:36
 msgid ""
 "Access to virtual desktops allowing access to bioimage analysis software "
 "from a browser"
 msgstr ""
+"Accès à des bureaux virtuels permettant d'accéder à un logiciel d'analyse de"
+" bioimages à partir d'un navigateur"
 
 #: ../../03_Image_analysis/Resources.md:37
 msgid "🌐 Galaxy Imaging Node"
-msgstr ""
+msgstr "🌐 Nœud d'imagerie Galaxy"
 
 #: ../../03_Image_analysis/Resources.md:38
 msgid "[link](https://imaging.usegalaxy.eu/)"
-msgstr ""
+msgstr "[lien](https://imaging.usegalaxy.eu/)"
 
 #: ../../03_Image_analysis/Resources.md:39
 msgid ""
-"A Galaxy node prepopulated with a number of open-source image analysis "
-"tools and workflows, making it easy to create and share reproducible FAIR"
-" workflows"
+"A Galaxy node prepopulated with a number of open-source image analysis tools"
+" and workflows, making it easy to create and share reproducible FAIR "
+"workflows"
 msgstr ""
+"Un nœud Galaxy prérempli avec un certain nombre d'outils d'analyse d'images "
+"et de flux de travail open source, ce qui facilite la création et le partage"
+" de flux de travail FAIR reproductibles"
 
 #: ../../03_Image_analysis/Resources.md:40
 msgid "🌐 Image Analysis Training Resources"
-msgstr ""
+msgstr "🌐 Ressources de formation à l'analyse d'images"
 
 #: ../../03_Image_analysis/Resources.md:41
 msgid "[link](https://neubias.github.io/training-resources/index.html)"
-msgstr ""
+msgstr "[lien](https://neubias.github.io/training-resources/index.html)"
 
 #: ../../03_Image_analysis/Resources.md:42
 msgid ""
-"Image analysis traning resources collected by NEUBIAS, styled based on "
-"The Carpentries"
+"Image analysis traning resources collected by NEUBIAS, styled based on The "
+"Carpentries"
 msgstr ""
+"Ressources de formation à l'analyse d'images collectées par NEUBIAS, "
+"stylisées d'après The Carpentries"
 
 #: ../../03_Image_analysis/Resources.md:43
 msgid "🌐 Bioimage Analysis AwesomeList"
-msgstr ""
+msgstr "🌐 Analyse Bioimage AwesomeList"
 
 #: ../../03_Image_analysis/Resources.md:44
 msgid "[link](https://github.com/hallvaaw/awesome-biological-image-analysis)"
-msgstr ""
+msgstr "[lien](https://github.com/hallvaaw/awesome-biological-image-analysis)"
 
 #: ../../03_Image_analysis/Resources.md:45
 msgid ""
 "A curated [AwesomeList](https://github.com/sindresorhus/awesome) of "
 "resources related to bioimage analysis"
 msgstr ""
+"Une [AwesomeList](https://github.com/sindresorhus/awesome) organisée de "
+"ressources liées à l'analyse de bioimages"
 
 #: ../../03_Image_analysis/Resources.md:46
 msgid "🌐 Bioimage Analysis Notebooks"
-msgstr ""
+msgstr "🌐 Cahiers d'analyse Bioimage"
 
 #: ../../03_Image_analysis/Resources.md:47
 msgid "[link](https://haesleinhuepf.github.io/BioImageAnalysisNotebooks/)"
-msgstr ""
+msgstr "[lien](https://haesleinhuepf.github.io/BioImageAnalysisNotebooks/)"
 
 #: ../../03_Image_analysis/Resources.md:48
 msgid ""
 "A collection of Python Jupyter notebooks for BioImageAnalysis, GPU-"
 "accelerated image processing, bio-image data science and more"
 msgstr ""
+"Une collection de blocs-notes Python Jupyter pour BioImageAnalysis, le "
+"traitement d'images accéléré par GPU, la science des données bio-image et "
+"plus encore"
 
 #: ../../03_Image_analysis/Shape.md:1
 msgid "Size and Shape measurements"
-msgstr ""
+msgstr "Mesures de taille et de forme"
 
 #: ../../03_Image_analysis/Shape.md:3
 msgid "What are size measurements?"
-msgstr ""
+msgstr "Quelles sont les mesures de taille?"
 
 #: ../../03_Image_analysis/Shape.md:4
 msgid ""
-"Size measurements describe the dimensions of objects in your image. "
-"Common size measurements include:"
+"Size measurements describe the dimensions of objects in your image. Common "
+"size measurements include:"
 msgstr ""
+"Les mesures de taille décrivent les dimensions des objets dans votre image. "
+"Les mesures de taille courantes incluent :"
 
 #: ../../03_Image_analysis/Shape.md:6
 msgid ""
 "**Area**: the 2D space an object takes up in the image or the 3D surface "
 "area of an object"
 msgstr ""
+"**Zone** : l'espace 2D occupé par un objet dans l'image ou la surface 3D "
+"d'un objet"
 
 #: ../../03_Image_analysis/Shape.md:7
 msgid "**Volume**: the 3D space an object takes up in a 3D image"
-msgstr ""
+msgstr "**Volume** : l'espace 3D occupé par un objet dans une image 3D"
 
 #: ../../03_Image_analysis/Shape.md:8
 msgid "**Perimeter**: the distance around the edge of an object"
-msgstr ""
+msgstr "**Périmètre** : la distance autour du bord d'un objet"
 
 #: ../../03_Image_analysis/Shape.md:10
 msgid "What are shape measurements?"
-msgstr ""
+msgstr "Que sont les mesures de forme ?"
 
 #: ../../03_Image_analysis/Shape.md:11
 msgid ""
 "Shape measurements describe the 2D or 3D form of objects in our sample. "
 "Common shape measurements include:"
 msgstr ""
+"Les mesures de forme décrivent la forme 2D ou 3D des objets de notre "
+"échantillon. Les mesures de forme courantes incluent :"
 
 #: ../../03_Image_analysis/Shape.md:13
 msgid ""
-"**Circularity**: How round vs. elongated an object is. Formally defined "
-"as $circularity = 4pi*{area}/{perimeter}^2$ where 1 is a perfect circle "
-"and circularity <1 is a more elongated polygon."
+"**Circularity**: How round vs. elongated an object is. Formally defined as "
+"$circularity = 4pi*{area}/{perimeter}^2$ where 1 is a perfect circle and "
+"circularity <1 is a more elongated polygon."
 msgstr ""
+"**Circularité** : mesure dans laquelle un objet est rond ou allongé. "
+"Formellement défini comme $circularity = 4pi*{area}/{perimeter}^2$ où 1 est "
+"un cercle parfait et circularity <1 est un polygone plus allongé."
 
 #: ../../03_Image_analysis/Shape.md:14
 msgid ""
-"**Solidity**: how dense vs. wispy/holey an object is. Formally defined as"
-" $solidity = area/convex area$ where _convex area_ is akin to the area "
-"inside a shape formed by stretching a rubber band around the object."
+"**Solidity**: how dense vs. wispy/holey an object is. Formally defined as "
+"$solidity = area/convex area$ where _convex area_ is akin to the area inside"
+" a shape formed by stretching a rubber band around the object."
 msgstr ""
+"**Solidité** : la densité d'un objet par rapport à sa forme "
+"vaporeuse/trouée. Formellement défini comme $solidité = aire/aire convexe$ "
+"où _aire convexe_ s'apparente à l'aire à l'intérieur d'une forme formée en "
+"étirant un élastique autour de l'objet."
 
 #: ../../03_Image_analysis/Shape.md:20
 msgid ""
 "After segmenting an image to locate the pixels belonging to different "
 "objects, morphology can be measured readily in many image analysis "
-"softwares, like FIJI and CellProfiler. For example, in {term}`Fiji`, "
-"after identifying your objects as {term}`ROIs`, be sure to **Analyze > "
-"Set Measurements…** and select “Shape Descriptors” then simply measure "
-"your {term}`ROIs` with **Analyze > Measure**. In CellProfiler, this is "
+"softwares, like FIJI and CellProfiler. For example, in {term}`Fiji`, after "
+"identifying your objects as {term}`ROIs`, be sure to **Analyze > Set "
+"Measurements…** and select “Shape Descriptors” then simply measure your "
+"{term}`ROIs` with **Analyze > Measure**. In CellProfiler, this is "
 "accomplished using the module MeasureObjectSizeShape."
 msgstr ""
+"Après avoir segmenté une image pour localiser les pixels appartenant à "
+"différents objets, la morphologie peut être mesurée facilement dans de "
+"nombreux logiciels d'analyse d'images, comme FIJI et CellProfiler. Par "
+"exemple, dans {term}`Fiji`, après avoir identifié vos objets comme "
+"{term}`ROIs`, assurez-vous de **Analyser> Définir les mesures…** et "
+"sélectionnez «Descripteurs de forme», puis mesurez simplement vos "
+"{term}`ROIs` avec **Analyser> Mesure**. Dans CellProfiler, cela s'effectue à"
+" l'aide du module MeasureObjectSizeShape."
 
 #: ../../03_Image_analysis/Shape.md:25
 msgid ""
 "**Not understanding the limitations of your images**. All biological "
-"structures are 3D, but we often analyze 2D images. Often this is still "
-"very useful! But the larger and more complex your objects (e.g., neurons "
-"in a tissue section), the more limited a 2D view becomes."
+"structures are 3D, but we often analyze 2D images. Often this is still very "
+"useful! But the larger and more complex your objects (e.g., neurons in a "
+"tissue section), the more limited a 2D view becomes."
 msgstr ""
+"**Ne pas comprendre les limites de vos images**. Toutes les structures "
+"biologiques sont en 3D, mais nous analysons souvent des images en 2D. Cela "
+"reste souvent très utile ! Mais plus vos objets sont grands et complexes "
+"(par exemple, des neurones dans une section de tissu), plus une vue 2D "
+"devient limitée."
 
 #: ../../03_Image_analysis/Shape.md:26
 msgid ""
@@ -1145,6 +1594,11 @@ msgid ""
 "measuring 3D images, be sure to take into account the z-step, which is "
 "likely larger than the xy pixel size."
 msgstr ""
+"** À défaut d'utiliser des unités calibrées **. Assurez-vous de calibrer "
+"correctement vos images et de présenter les mesures finales en microns (ou "
+"unités similaires). Si vous mesurez des images 3D, assurez-vous de prendre "
+"en compte le pas z, qui est probablement plus grand que la taille de pixel "
+"xy."
 
 #: ../../03_Image_analysis/Shape.md:31
 msgid ""
@@ -1153,56 +1607,87 @@ msgid ""
 "Abnormalities](https://www.mdpi.com/2073-4409/11/3/347/htm) "
 "{cite}`Janssen2022-bm`"
 msgstr ""
+"📄 [Méthodes et pipelines actuels pour la quantification basée sur l'image de"
+" la forme nucléaire et des anomalies de l'enveloppe nucléaire] "
+"(https://www.mdpi.com/2073-4409/11/3/347/htm) {cite}`Janssen2022-bm`"
 
 #: ../../03_Image_analysis/Shape.md:32
 msgid ""
-"🌐 [Description of morphological measurements made by CellProfiler](https"
-"://cellprofiler-"
+"🌐 [Description of morphological measurements made by "
+"CellProfiler](https://cellprofiler-"
 "manual.s3.amazonaws.com/CellProfiler-4.2.4/modules/measurement.html#id20)"
 msgstr ""
+"🌐 [Description des mesures morphologiques réalisées par "
+"CellProfiler](https://cellprofiler-"
+"manual.s3.amazonaws.com/CellProfiler-4.2.4/modules/measurement.html#id20)"
 
 #: ../../03_Image_analysis/Shape.md:33
 msgid ""
-"🎓 [Plain language description of various morphological measures by "
-"Michael "
+"🎓 [Plain language description of various morphological measures by Michael "
 "Wirth](http://www.cyto.purdue.edu/cdroms/micro2/content/education/wirth10.pdf)"
 msgstr ""
+"🎓 [Description en langage clair de diverses mesures morphologiques par "
+"Michael "
+"Wirth](http://www.cyto.purdue.edu/cdroms/micro2/content/education/wirth10.pdf)"
 
 #: ../../03_Image_analysis/Software.md:1
 msgid "Open source software"
-msgstr ""
+msgstr "Logiciels open source"
 
 #: ../../03_Image_analysis/Software.md:5
 msgid ""
 "When it comes time to select a software program for your image analysis, "
-"there are many options, some more general and others highly specialized "
-"to specific image modalities or types of experiments. In general, a good "
-"place to start exploring is by examining papers in your field and seeing "
-"what others have used to analyze similar experiments to your own. It’s "
-"important to note that there isn’t one correct answer to \"Which program "
-"should I use?\" Depending on your biological question, your images, and "
-"your own comfort with coding, there are many options available."
+"there are many options, some more general and others highly specialized to "
+"specific image modalities or types of experiments. In general, a good place "
+"to start exploring is by examining papers in your field and seeing what "
+"others have used to analyze similar experiments to your own. It’s important "
+"to note that there isn’t one correct answer to \"Which program should I "
+"use?\" Depending on your biological question, your images, and your own "
+"comfort with coding, there are many options available."
 msgstr ""
+"Lorsque vient le temps de sélectionner un logiciel pour votre analyse "
+"d'image, il existe de nombreuses options, certaines plus générales et "
+"d'autres hautement spécialisées pour des modalités d'image ou des types "
+"d'expériences spécifiques. En général, un bon endroit pour commencer à "
+"explorer est d'examiner des articles dans votre domaine et de voir ce que "
+"d'autres ont utilisé pour analyser des expériences similaires aux vôtres. Il"
+" est important de noter qu'il n'y a pas une seule réponse correcte à \"Quel "
+"programme dois-je utiliser ?\" En fonction de votre question biologique, de "
+"vos images et de votre propre confort avec le codage, de nombreuses options "
+"sont disponibles."
 
 #: ../../03_Image_analysis/Software.md:7
 msgid ""
 "Below, we summarize the use-cases and limitations of some of the most "
-"common, free and open-source software for image analysis, this is a small"
-" list and more extensive ones exist like the [A Hitchhiker's guide "
-"through the bio-image analysis software "
+"common, free and open-source software for image analysis, this is a small "
+"list and more extensive ones exist like the [A Hitchhiker's guide through "
+"the bio-image analysis software "
 "universe](https://febs.onlinelibrary.wiley.com/doi/full/10.1002/1873-3468.14451)"
-" {cite}`Haase2022-ad` and the [BioImage Informatics "
-"Index](https://biii.eu) {cite}`Paul-Gilloteaux2021-vw`."
+" {cite}`Haase2022-ad` and the [BioImage Informatics Index](https://biii.eu) "
+"{cite}`Paul-Gilloteaux2021-vw`."
 msgstr ""
+"Ci-dessous, nous résumons les cas d'utilisation et les limites de certains "
+"des logiciels les plus courants, gratuits et open-source pour l'analyse "
+"d'images, il s'agit d'une petite liste et des plus complètes existent comme "
+"le [A Hitchhiker's guide through the bio-image analysis software universel] "
+"(https://febs.onlinelibrary.wiley.com/doi/full/10.1002/1873-3468.14451) "
+"{cite}`Haase2022-ad` et [l'index informatique BioImage](https://biii.eu) "
+"{cite}`Paul -Gilloteaux2021-vw`."
 
 #: ../../03_Image_analysis/Software.md:9
 msgid ""
-"Whatever software you choose, be sure to include a detailed description "
-"of your analysis in your methods, with pipeline or workflow files if "
-"possible, so others can reproduce your work. Also be sure to cite the "
-"analysis software you use! This helps developers of the software get "
-"grant funding and helps others find useful tools."
+"Whatever software you choose, be sure to include a detailed description of "
+"your analysis in your methods, with pipeline or workflow files if possible, "
+"so others can reproduce your work. Also be sure to cite the analysis "
+"software you use! This helps developers of the software get grant funding "
+"and helps others find useful tools."
 msgstr ""
+"Quel que soit le logiciel que vous choisissez, assurez-vous d'inclure une "
+"description détaillée de votre analyse dans vos méthodes, avec des fichiers "
+"de pipeline ou de flux de travail si possible, afin que d'autres puissent "
+"reproduire votre travail. Veillez également à citer le logiciel d'analyse "
+"que vous utilisez ! Cela aide les développeurs du logiciel à obtenir des "
+"subventions et aide les autres à trouver des outils utiles."
 
 #: ../../03_Image_analysis/Software.md:17
 #: ../../03_Image_analysis/Software.md:26
@@ -1214,110 +1699,149 @@ msgstr ""
 #: ../../03_Image_analysis/Software.md:80
 #: ../../03_Image_analysis/Software.md:89
 msgid "card-img-top"
-msgstr ""
+msgstr "carte-img-top"
 
-#: ../../03_Image_analysis/Software.md
+#: ../../03_Image_analysis/Software.md:0
 msgid "ImageJ"
-msgstr ""
+msgstr "ImageJ"
 
 #: ../../03_Image_analysis/Software.md:21
 msgid ""
 "[ImageJ](https://imagej.net/) is an imaging processing program that is "
-"capable of operating on a variety of images including multichannel, 3D "
-"and time series. It provides basic imaging processing operations and has "
-"a variety of plugins for more complex tasks. [Read "
-"more...](content/imagej)"
+"capable of operating on a variety of images including multichannel, 3D and "
+"time series. It provides basic imaging processing operations and has a "
+"variety of plugins for more complex tasks. [Read more...](content/imagej)"
 msgstr ""
+"[ImageJ](https://imagej.net/) est un programme de traitement d'images "
+"capable de fonctionner sur une variété d'images, y compris multicanaux, 3D "
+"et séries chronologiques. Il fournit des opérations de traitement d'image de"
+" base et dispose d'une variété de plug-ins pour des tâches plus complexes. "
+"[Lire la suite...](contenu/imagej)"
 
-#: ../../03_Image_analysis/Software.md
+#: ../../03_Image_analysis/Software.md:0
 msgid "CellProfiler"
-msgstr ""
+msgstr "Cell Profiler"
 
 #: ../../03_Image_analysis/Software.md:30
 msgid ""
-"[CellProfiler](https://cellprofiler.org/) was designed with the idea of "
-"an image analysis pipeline in mind; it allows you to take a series of "
-"interoperable modules to design your own custom analysis pipeline that "
-"can be applied to one or thousands of images, making it suitable for high"
-" throughput image analysis. [Read more...](content/cellprofiler)"
+"[CellProfiler](https://cellprofiler.org/) was designed with the idea of an "
+"image analysis pipeline in mind; it allows you to take a series of "
+"interoperable modules to design your own custom analysis pipeline that can "
+"be applied to one or thousands of images, making it suitable for high "
+"throughput image analysis. [Read more...](content/cellprofiler)"
 msgstr ""
+"[CellProfiler](https://cellprofiler.org/) a été conçu avec l'idée d'un "
+"pipeline d'analyse d'images à l'esprit ; il vous permet de prendre une série"
+" de modules interopérables pour concevoir votre propre pipeline d'analyse "
+"personnalisé qui peut être appliqué à une ou des milliers d'images, ce qui "
+"le rend adapté à l'analyse d'images à haut débit. [Lire la "
+"suite...](content/cellprofiler)"
 
-#: ../../03_Image_analysis/Software.md
+#: ../../03_Image_analysis/Software.md:0
 msgid "QuPath"
-msgstr ""
+msgstr "QuPath"
 
 #: ../../03_Image_analysis/Software.md:39
 msgid ""
 "[QuPath](https://qupath.github.io/) offers a wide set of image analysis "
-"tools that can be applied to whole slide images like pathology images, "
-"but it can be used with other images as well. QuPath also contains pixel "
+"tools that can be applied to whole slide images like pathology images, but "
+"it can be used with other images as well. QuPath also contains pixel "
 "classification tools and can integrate with ImageJ. [Read "
 "more...](content/qupath)"
 msgstr ""
+"[QuPath](https://qupath.github.io/) offre un large éventail d'outils "
+"d'analyse d'images qui peuvent être appliqués à des images de diapositives "
+"entières comme des images de pathologie, mais il peut également être utilisé"
+" avec d'autres images. QuPath contient également des outils de "
+"classification de pixels et peut s'intégrer à ImageJ. [Lire la "
+"suite...](contenu/qupath)"
 
-#: ../../03_Image_analysis/Software.md
+#: ../../03_Image_analysis/Software.md:0
 msgid "Icy"
-msgstr ""
+msgstr "Glacé"
 
 #: ../../03_Image_analysis/Software.md:48
 msgid ""
-"[Icy](https://icy.bioimageanalysis.org/) is an out of the box image "
-"analysis tools, it utilizes plugins to create visual image analysis "
-"protocols that can be shared with other users. [Read "
-"more...](content/icy)"
+"[Icy](https://icy.bioimageanalysis.org/) is an out of the box image analysis"
+" tools, it utilizes plugins to create visual image analysis protocols that "
+"can be shared with other users. [Read more...](content/icy)"
 msgstr ""
+"[Icy](https://icy.bioimageanalysis.org/) est un outil d'analyse d'images "
+"prêt à l'emploi, il utilise des plugins pour créer des protocoles d'analyse "
+"d'images visuelles qui peuvent être partagés avec d'autres utilisateurs. "
+"[Lire la suite...](contenu/glacé)"
 
-#: ../../03_Image_analysis/Software.md
+#: ../../03_Image_analysis/Software.md:0
 msgid "MIB"
-msgstr ""
+msgstr "MIB"
 
 #: ../../03_Image_analysis/Software.md:57
 msgid ""
 "[MIB](http://mib.helsinki.fi/index.html) is a user-friendly software for "
 "image analysis of multidimensional datasets for both light and electron "
-"microscopy. It allows you to use the whole acquired data for its analysis"
-" and extraction of morphological features. [Read more...](content/mib)"
+"microscopy. It allows you to use the whole acquired data for its analysis "
+"and extraction of morphological features. [Read more...](content/mib)"
 msgstr ""
+"[MIB](http://mib.helsinki.fi/index.html) est un logiciel convivial pour "
+"l'analyse d'images d'ensembles de données multidimensionnelles pour la "
+"microscopie optique et électronique. Il vous permet d'utiliser l'ensemble "
+"des données acquises pour son analyse et l'extraction de caractéristiques "
+"morphologiques. [Lire la suite...](contenu/mib)"
 
-#: ../../03_Image_analysis/Software.md
+#: ../../03_Image_analysis/Software.md:0
 msgid "napari"
-msgstr ""
+msgstr "napari"
 
 #: ../../03_Image_analysis/Software.md:66
 msgid ""
 "[napari](https://napari.org/) is being developed as a multi-dimensional "
-"image viewer that can be expanded via a variety of plugins to perform "
-"basic and complex image analysis tasks. [Read more...](content/napari)"
+"image viewer that can be expanded via a variety of plugins to perform basic "
+"and complex image analysis tasks. [Read more...](content/napari)"
 msgstr ""
+"[napari](https://napari.org/) est en cours de développement en tant que "
+"visualiseur d'images multidimensionnel qui peut être étendu via une variété "
+"de plug-ins pour effectuer des tâches d'analyse d'images de base et "
+"complexes. [Lire la suite...](contenu/napari)"
 
-#: ../../03_Image_analysis/Software.md
+#: ../../03_Image_analysis/Software.md:0
 msgid "Cellpose"
-msgstr ""
+msgstr "pose de cellule"
 
 #: ../../03_Image_analysis/Software.md:75
 msgid ""
-"[Cellpose](https://www.cellpose.org/) is a {term}`segmentation` "
-"algorithm, it provides a graphical user interface that allows users to "
-"use trained models or train their own using their images and annotations."
-" [Read more...](content/cellpose)"
+"[Cellpose](https://www.cellpose.org/) is a {term}`segmentation` algorithm, "
+"it provides a graphical user interface that allows users to use trained "
+"models or train their own using their images and annotations. [Read "
+"more...](content/cellpose)"
 msgstr ""
+"[Cellpose](https://www.cellpose.org/) est un algorithme de \"segmentation\" "
+"{term}, il fournit une interface utilisateur graphique qui permet aux "
+"utilisateurs d'utiliser des modèles formés ou de former les leurs en "
+"utilisant leurs images et leurs annotations. [Lire la "
+"suite...](content/cellpose)"
 
-#: ../../03_Image_analysis/Software.md
+#: ../../03_Image_analysis/Software.md:0
 msgid "ilastik"
-msgstr ""
+msgstr "ilastik"
 
 #: ../../03_Image_analysis/Software.md:84
 msgid ""
 "[ilastik](https://www.ilastik.org/) is a tool for interactive image "
 "classification, {term}`segmentation` and analysis. It leverages machine-"
-"learning algorithms to perform pixel and object-level classification. "
-"Using it requires no experience in {term}`image processing`. [Read "
+"learning algorithms to perform pixel and object-level classification. Using "
+"it requires no experience in {term}`image processing`. [Read "
 "more...](content/ilastik)"
 msgstr ""
+"[ilastik](https://www.ilastik.org/) est un outil interactif de "
+"classification, de segmentation et d'analyse d'images. Il exploite des "
+"algorithmes d'apprentissage automatique pour effectuer une classification au"
+" niveau des pixels et des objets. Son utilisation ne nécessite aucune "
+"expérience en {term}`traitement d'image`. [Lire la "
+"suite...](contenu/ilastik)"
 
-#: ../../03_Image_analysis/Software.md
+#: ../../03_Image_analysis/Software.md:0
 msgid "Piximi"
-msgstr ""
+msgstr "Piximi"
 
 #: ../../03_Image_analysis/Software.md:93
 msgid ""
@@ -1325,64 +1849,86 @@ msgid ""
 "classification that runs entirely from your browser and requires no "
 "installation and minimal setup.  [Read more...](content/piximi)"
 msgstr ""
+"[Piximi](https://www.piximi.app/) est une application d'annotation et de "
+"classification qui s'exécute entièrement depuis votre navigateur et ne "
+"nécessite aucune installation ni configuration minimale. [Lire la "
+"suite...](content/piximi)"
 
 #: ../../03_Image_analysis/SpecificUseSoftware.md:1
 msgid "Specific Use Software"
-msgstr ""
+msgstr "Logiciel à usage spécifique"
 
 #: ../../03_Image_analysis/SpecificUseSoftware.md:3
 msgid ""
-"Tools on this page tend to be extremely good at certain tasks, but are "
-"less intended for a wide range of use cases. For tools with broader areas"
-" of focus, see the [General Use Software](./GeneralUseSoftware.md) page."
+"Tools on this page tend to be extremely good at certain tasks, but are less "
+"intended for a wide range of use cases. For tools with broader areas of "
+"focus, see the [General Use Software](./GeneralUseSoftware.md) page."
 msgstr ""
+"Les outils de cette page ont tendance à être extrêmement bons pour certaines"
+" tâches, mais sont moins destinés à un large éventail de cas d'utilisation. "
+"Pour les outils avec des domaines d'intérêt plus larges, consultez la page "
+"[Logiciels à usage général](./GeneralUseSoftware.md)."
 
 #: ../../03_Image_analysis/SpecificUseSoftware.md:6
 msgid ""
-"<img "
-"src=\"https://www.cellpose.org/static/images/cellpose_transparent.png\" "
-"alt=\"logo\" width=\"30px\"> Cellpose"
+"<img src=\"https://www.cellpose.org/static/images/cellpose_transparent.png\""
+" alt=\"logo\" width=\"30px\"> Cellpose"
 msgstr ""
+" <img "
+"src=\"https://www.cellpose.org/static/images/cellpose_transparent.png\" "
+"alt=\"logo\" width=\"30px\"> Pose de cellule"
 
 #: ../../03_Image_analysis/SpecificUseSoftware.md:8
 msgid ""
 "[Cellpose](https://www.cellpose.org/) {cite}`Stringer2021-uq` is a "
-"{term}`segmentation` algorithm, it provides a graphical user interface "
-"that allows users to use trained models or train their own using their "
-"images and annotations."
+"{term}`segmentation` algorithm, it provides a graphical user interface that "
+"allows users to use trained models or train their own using their images and"
+" annotations."
 msgstr ""
+"[Cellpose](https://www.cellpose.org/) {cite}`Stringer2021-uq` est un "
+"algorithme de segmentation {term}, il fournit une interface utilisateur "
+"graphique qui permet aux utilisateurs d'utiliser des modèles formés ou de "
+"former les leurs en utilisant leur images et annotations."
 
-#: ../../03_Image_analysis/SpecificUseSoftware.md
+#: ../../03_Image_analysis/SpecificUseSoftware.md:0
 msgid "What type of image analysis problem is it best at?"
-msgstr ""
+msgstr "À quel type de problème d'analyse d'image convient-il le mieux ?"
 
 #: ../../03_Image_analysis/SpecificUseSoftware.md:13
 msgid ""
 "Object {term}`segmentation`, most trained models are for cell "
-"{term}`segmentation` but could be applied to segment other similar "
-"objects"
+"{term}`segmentation` but could be applied to segment other similar objects"
 msgstr ""
+"Objet {term}`segmentation`, la plupart des modèles formés sont pour la "
+"cellule {term}`segmentation` mais pourraient être appliqués pour segmenter "
+"d'autres objets similaires"
 
 #: ../../03_Image_analysis/SpecificUseSoftware.md:20
 msgid "Its use requires some computational knowledge."
-msgstr ""
+msgstr "Son utilisation nécessite des connaissances informatiques."
 
 #: ../../03_Image_analysis/SpecificUseSoftware.md:21
 msgid ""
-"Training a new model requires manual annotation correction that can be "
-"time consuming, but is likely less time consuming than other methods of "
-"training models."
+"Training a new model requires manual annotation correction that can be time "
+"consuming, but is likely less time consuming than other methods of training "
+"models."
 msgstr ""
+"La formation d'un nouveau modèle nécessite une correction manuelle des "
+"annotations qui peut prendre du temps, mais qui prend probablement moins de "
+"temps que d'autres méthodes de formation de modèles."
 
 #: ../../03_Image_analysis/SpecificUseSoftware.md:28
 msgid ""
 "🌐 [Installation "
 "instructions](https://cellpose.readthedocs.io/en/latest/installation.html)"
 msgstr ""
+"🌐 [Instructions d'installation] "
+"(https://cellpose.readthedocs.io/en/latest/installation.html)"
 
 #: ../../03_Image_analysis/SpecificUseSoftware.md:29
 msgid "🎥 [How to use tutorial](https://www.youtube.com/watch?v=5qANHWoubZU)"
 msgstr ""
+"🎥 [Tutoriel d'utilisation] (https://www.youtube.com/watch?v=5qANHWoubZU)"
 
 #: ../../03_Image_analysis/SpecificUseSoftware.md:33
 msgid ""
@@ -1390,15 +1936,22 @@ msgid ""
 "cdn.com/business4/uploads/imagej/original/3X/9/f/9f5be5e138c63bc6a50be0bb0027b8eef0194935.png\""
 " alt=\"logo\" width=\"30px\"> ilastik"
 msgstr ""
+" <img src=\"https://global.discourse-"
+"cdn.com/business4/uploads/imagej/original/3X/9/f/9f5be5e138c63bc6a50be0bb0027b8eef0194935.png\""
+" alt=\"logo\" width=\"30px\"> ilastik"
 
 #: ../../03_Image_analysis/SpecificUseSoftware.md:35
 msgid ""
 "[ilastik](https://www.ilastik.org/) {cite}`Berg2019-no` is a tool for "
 "interactive image classification, {term}`segmentation` and analysis. It "
 "leverages machine-learning algorithms to perform pixel and object-level "
-"classification. Using it requires no experience in {term}`image "
-"processing`."
+"classification. Using it requires no experience in {term}`image processing`."
 msgstr ""
+"[ilastik](https://www.ilastik.org/) {cite}`Berg2019-no` est un outil de "
+"classification interactive d'images, {term}`segmentation` et d'analyse. Il "
+"exploite des algorithmes d'apprentissage automatique pour effectuer une "
+"classification au niveau des pixels et des objets. Son utilisation ne "
+"nécessite aucune expérience en {term}`traitement d'image`."
 
 #: ../../03_Image_analysis/SpecificUseSoftware.md:40
 msgid ""
@@ -1407,32 +1960,44 @@ msgid ""
 "tracking, though with somewhat fewer tunable parameters than some other "
 "tools offer."
 msgstr ""
+"Il peut être utilisé à la fois pour l'instance {term}`segmentation` et pour "
+"la sémantique {term}`segmentation`. Il effectue également une "
+"\"segmentation\" et un suivi, mais avec un peu moins de paramètres réglables"
+" que certains autres outils."
 
 #: ../../03_Image_analysis/SpecificUseSoftware.md:47
 msgid ""
-"Sometimes loading or exporting images can require a bit of "
-"troubleshooting to get the dimensions correct."
+"Sometimes loading or exporting images can require a bit of troubleshooting "
+"to get the dimensions correct."
 msgstr ""
+"Parfois, le chargement ou l'exportation d'images peut nécessiter un peu de "
+"dépannage pour obtenir les dimensions correctes."
 
 #: ../../03_Image_analysis/SpecificUseSoftware.md:48
 msgid ""
-"ilastik is limited by your computer’s RAM so training a model with lots "
-"of features or working with very large images is likely to slow you down."
+"ilastik is limited by your computer’s RAM so training a model with lots of "
+"features or working with very large images is likely to slow you down."
 msgstr ""
+"ilastik est limité par la RAM de votre ordinateur, donc l'entraînement d'un "
+"modèle avec de nombreuses fonctionnalités ou le travail avec de très grandes"
+" images risque de vous ralentir."
 
 #: ../../03_Image_analysis/SpecificUseSoftware.md:53
 msgid "To download ilastik:"
-msgstr ""
+msgstr "Pour télécharger ilastik :"
 
 #: ../../03_Image_analysis/SpecificUseSoftware.md:57
 msgid "🌐 [ilastik download ](https://www.ilastik.org/download.html)"
-msgstr ""
+msgstr "🌐 [téléchargement ilastik](https://www.ilastik.org/download.html)"
 
 #: ../../03_Image_analysis/SpecificUseSoftware.md:63
 msgid ""
 "🌐 [User guide](https://www.ilastik.org/documentation/index.html#user-"
 "documentation)"
 msgstr ""
+"🌐 [Guide "
+"d'utilisation](https://www.ilastik.org/documentation/index.html#user-"
+"documentation)"
 
 #: ../../03_Image_analysis/SpecificUseSoftware.md:67
 msgid ""
@@ -1440,6 +2005,9 @@ msgid ""
 "cdn.com/business4/uploads/imagej/original/3X/3/f/3fe4d974194caabdb61a5574e24402db8484ab9b.png\""
 " alt=\"logo\" width=\"30px\"> Piximi"
 msgstr ""
+" <img src=\"https://global.discourse-"
+"cdn.com/business4/uploads/imagej/original/3X/3/f/3fe4d974194caabdb61a5574e24402db8484ab9b.png\""
+" alt=\"logo\" width=\"30px\"> Piximi"
 
 #: ../../03_Image_analysis/SpecificUseSoftware.md:70
 msgid ""
@@ -1447,134 +2015,192 @@ msgid ""
 "classification that runs entirely from your browser and requires no "
 "installation and minimal setup."
 msgstr ""
+"[Piximi](https://www.piximi.app/) est une application d'annotation et de "
+"classification qui s'exécute entièrement depuis votre navigateur et ne "
+"nécessite aucune installation ni configuration minimale."
 
 #: ../../03_Image_analysis/SpecificUseSoftware.md:75
 msgid "Piximi can do image classification using machine learning"
 msgstr ""
+"Piximi peut effectuer une classification d'images à l'aide de "
+"l'apprentissage automatique"
 
 #: ../../03_Image_analysis/SpecificUseSoftware.md:82
 msgid ""
-"It is still in the developing phases and some of its proposed features "
-"are not available yet"
+"It is still in the developing phases and some of its proposed features are "
+"not available yet"
 msgstr ""
+"Il est encore en phase de développement et certaines de ses fonctionnalités "
+"proposées ne sont pas encore disponibles"
 
 #: ../../03_Image_analysis/SpecificUseSoftware.md:89
 msgid "🌐 [Piximi website ](https://www.piximi.app/)"
-msgstr ""
+msgstr "🌐 [Site Piximi ](https://www.piximi.app/)"
 
 #: ../../03_Image_analysis/SpecificUseSoftware.md:90
 msgid "🌐 [Piximi user guide ](https://documentation.piximi.app/intro.html)"
 msgstr ""
+"🌐 [Guide d'utilisation Piximi](https://documentation.piximi.app/intro.html)"
 
 #: ../../03_Image_analysis/Tracking.md:1
 msgid "Object tracking"
-msgstr ""
+msgstr "Suivi d'objet"
 
 #: ../../03_Image_analysis/Tracking.md:3
 msgid "What is tracking?"
-msgstr ""
+msgstr "Qu'est-ce que le suivi ?"
 
 #: ../../03_Image_analysis/Tracking.md:4
 msgid ""
 "Tracking, or _object tracking_, refers to the ability to estimate the "
 "location of objects in motion from one frame of video to the next. "
-"Practically, object tracking in microscopy involves identifying your "
-"objects in each frame of your video, then relating objects from frame to "
-"frame to be able to identify the same cell as it moves in space."
+"Practically, object tracking in microscopy involves identifying your objects"
+" in each frame of your video, then relating objects from frame to frame to "
+"be able to identify the same cell as it moves in space."
 msgstr ""
+"Le suivi, ou _suivi d'objets_, fait référence à la capacité d'estimer "
+"l'emplacement d'objets en mouvement d'une image vidéo à la suivante. "
+"Pratiquement, le suivi d'objets en microscopie consiste à identifier vos "
+"objets dans chaque image de votre vidéo, puis à relier les objets d'une "
+"image à l'autre pour pouvoir identifier la même cellule lorsqu'elle se "
+"déplace dans l'espace."
 
 #: ../../03_Image_analysis/Tracking.md:10
 msgid ""
 "There are several options for tracking objects, like the "
-"[TrackMate](https://imagej.net/plugins/trackmate/) {cite}`Tinevez2017-fb`"
-" plugin in Fiji, but tracking is somewhat more complex to setup than the "
-"previous analyses. In addition to just identifying objects in the "
-"movie/time series, tracking also allows you to identify splitting (e.g. "
-"mitosis) and merging events. There are many measurements that come out of"
-" tracking, including spatial measures like where the objects move to, "
-"speed measurements, distance traveled (length of track), and rate of "
-"splitting events (e.g., mitotic events) and merging events."
+"[TrackMate](https://imagej.net/plugins/trackmate/) {cite}`Tinevez2017-fb` "
+"plugin in Fiji, but tracking is somewhat more complex to setup than the "
+"previous analyses. In addition to just identifying objects in the movie/time"
+" series, tracking also allows you to identify splitting (e.g. mitosis) and "
+"merging events. There are many measurements that come out of tracking, "
+"including spatial measures like where the objects move to, speed "
+"measurements, distance traveled (length of track), and rate of splitting "
+"events (e.g., mitotic events) and merging events."
 msgstr ""
+"Il existe plusieurs options pour le suivi des objets, comme le plug-in "
+"[TrackMate](https://imagej.net/plugins/trackmate/) {cite}`Tinevez2017-fb` "
+"aux Fidji, mais le suivi est un peu plus complexe à configurer que les "
+"analyses précédentes. En plus d'identifier simplement les objets dans le "
+"film/la série chronologique, le suivi vous permet également d'identifier les"
+" événements de fractionnement (par exemple, la mitose) et de fusion. De "
+"nombreuses mesures découlent du suivi, y compris des mesures spatiales "
+"telles que l'endroit où les objets se déplacent, les mesures de vitesse, la "
+"distance parcourue (longueur de la piste) et le taux d'événements de "
+"fractionnement (par exemple, les événements mitotiques) et les événements de"
+" fusion."
 
 #: ../../03_Image_analysis/Tracking.md:15
 msgid ""
 "**Poor {term}`segmentation`** If objects are dropping out from frame to "
 "frame, this makes it more difficult to track them over time. Accurate "
-"{term}`segmentation` is the foundation of good tracking results. This can"
-" become more difficult if your objects are also changing in shape or "
-"intensity (due to things such as bleaching) over the course of the video."
-" It’s important to find a {term}`segmentation` strategy that can work "
-"well across your frames."
+"{term}`segmentation` is the foundation of good tracking results. This can "
+"become more difficult if your objects are also changing in shape or "
+"intensity (due to things such as bleaching) over the course of the video. "
+"It’s important to find a {term}`segmentation` strategy that can work well "
+"across your frames."
 msgstr ""
+"**Mauvaise {term}`segmentation`** Si les objets tombent d'une image à "
+"l'autre, cela rend plus difficile leur suivi dans le temps. Une "
+"\"segmentation\" précise {term} est la base de bons résultats de suivi. Cela"
+" peut devenir plus difficile si vos objets changent également de forme ou "
+"d'intensité (en raison de facteurs tels que le blanchiment) au cours de la "
+"vidéo. Il est important de trouver une stratégie de \"segmentation\" {term} "
+"qui peut bien fonctionner sur toutes vos images."
 
 #: ../../03_Image_analysis/Tracking.md:16
 msgid ""
-"**Inadequate frame rate** If objects are highly dynamic but the images "
-"were not taken at a high frequency, tracking can be difficult because "
-"objects might have moved too much for the algorithm to relate them from "
-"one frame to the next. It is important to match the image acquisition "
-"frequency to how dynamic your cells or objects are."
+"**Inadequate frame rate** If objects are highly dynamic but the images were "
+"not taken at a high frequency, tracking can be difficult because objects "
+"might have moved too much for the algorithm to relate them from one frame to"
+" the next. It is important to match the image acquisition frequency to how "
+"dynamic your cells or objects are."
 msgstr ""
+"** Fréquence d'images inadéquate ** Si les objets sont très dynamiques mais "
+"que les images n'ont pas été prises à une fréquence élevée, le suivi peut "
+"être difficile car les objets peuvent avoir trop bougé pour que l'algorithme"
+" puisse les relier d'une image à l'autre. Il est important de faire "
+"correspondre la fréquence d'acquisition des images à la dynamique de vos "
+"cellules ou objets."
 
 #: ../../03_Image_analysis/Tracking.md:22
 msgid ""
 "📄 [Computerized Cell "
 "Tracking](https://www.sciencedirect.com/science/article/pii/S2468502X20300711)"
 msgstr ""
+"📄 [Suivi informatisé des "
+"cellules](https://www.sciencedirect.com/science/article/pii/S2468502X20300711)"
 
 #: ../../03_Image_analysis/Tracking.md:23
 msgid ""
-"🌐 [TrackMate Manual](https://imagej.net/media/plugins/trackmate"
-"/trackmate-manual.pdf)"
+"🌐 [TrackMate Manual](https://imagej.net/media/plugins/trackmate/trackmate-"
+"manual.pdf)"
 msgstr ""
+"🌐 [Manuel TrackMate](https://imagej.net/media/plugins/trackmate/trackmate-"
+"manual.pdf)"
 
 #: ../../03_Image_analysis/_notinyet_Common_pitfalls.md:1
 msgid "Common pitfalls"
-msgstr ""
+msgstr "Pièges courants"
 
 #: ../../03_Image_analysis/_notinyet_Common_pitfalls.md:3
 msgid ""
-"In addition to the mistakes we summarize for common image analysis tasks,"
-" here we present a general list of common mistakes for beginners to image"
-" analysis. For each, we explain why this is a problem and make "
-"suggestions for how to avoid these issues."
+"In addition to the mistakes we summarize for common image analysis tasks, "
+"here we present a general list of common mistakes for beginners to image "
+"analysis. For each, we explain why this is a problem and make suggestions "
+"for how to avoid these issues."
 msgstr ""
+"En plus des erreurs que nous résumons pour les tâches courantes d'analyse "
+"d'images, nous présentons ici une liste générale des erreurs courantes pour "
+"les débutants en analyse d'images. Pour chacun, nous expliquons pourquoi il "
+"s'agit d'un problème et faisons des suggestions pour éviter ces problèmes."
 
 #: ../../03_Image_analysis/_notinyet_Common_pitfalls.md:5
 msgid "Changing your image bit depth"
-msgstr ""
+msgstr "Modification de la profondeur de bit de votre image"
 
 #: ../../03_Image_analysis/_notinyet_Common_pitfalls.md:7
 msgid ""
-"Let's say you've opened your image in {term}`Fiji` and you want to "
-"process it in some way (e.g., maximum intensity projection, splitting "
-"channels, etc.) before saving it out to measure somewhere else. You go to"
-" `Image` > `Type` > `RGB (Color)` since you want a color image to import "
-"into your next analysis software and then save the resulting image. "
-"What's the problem with this? By making this change, even if the image "
-"looks exactly the same to your eyes, you've actually inadvertently "
-"changed the intensity values quite a bit! Let's take a look at an "
-"example. In Fiji there are several built-in example images. Let's open "
-"neuron.tif (you can follow along by going to `File` > `Open Samples...` >"
-" `Neuron (5 channels)`."
+"Let's say you've opened your image in {term}`Fiji` and you want to process "
+"it in some way (e.g., maximum intensity projection, splitting channels, "
+"etc.) before saving it out to measure somewhere else. You go to `Image` > "
+"`Type` > `RGB (Color)` since you want a color image to import into your next"
+" analysis software and then save the resulting image. What's the problem "
+"with this? By making this change, even if the image looks exactly the same "
+"to your eyes, you've actually inadvertently changed the intensity values "
+"quite a bit! Let's take a look at an example. In Fiji there are several "
+"built-in example images. Let's open neuron.tif (you can follow along by "
+"going to `File` > `Open Samples...` > `Neuron (5 channels)`."
 msgstr ""
+"Supposons que vous avez ouvert votre image dans {term}`Fiji` et que vous "
+"souhaitez la traiter d'une manière ou d'une autre (par exemple, projection "
+"d'intensité maximale, séparation des canaux, etc.) avant de l'enregistrer "
+"pour la mesurer ailleurs. Vous allez dans `Image` > `Type` > `RGB (Couleur)`"
+" car vous souhaitez importer une image couleur dans votre prochain logiciel "
+"d'analyse, puis enregistrez l'image résultante. Quel est le problème avec ça"
+" ? En effectuant ce changement, même si l'image est exactement la même à vos"
+" yeux, vous avez en fait modifié un peu les valeurs d'intensité par "
+"inadvertance ! Prenons un exemple. Aux Fidji, il existe plusieurs exemples "
+"d'images intégrés. Ouvrons neuron.tif (vous pouvez suivre en allant dans "
+"`File` > `Open Samples...` > `Neuron (5 channels)`."
 
 #: ../../03_Image_analysis/_notinyet_Common_pitfalls.md:9
 msgid ""
-"Here's how the image opens. There are 5 channels, but let's just look at "
-"the first one: ![image](https://user-"
+"Here's how the image opens. There are 5 channels, but let's just look at the"
+" first one: ![image](https://user-"
 "images.githubusercontent.com/28116530/206793825-364998d4-6043-4b1d-8438-0a5b37b97232.png)"
 msgstr ""
+"Voici comment l'image s'ouvre. Il y a 5 chaînes, mais regardons juste la "
+"première : ![image](https://user-"
+"images.githubusercontent.com/28116530/206793825-364998d4-6043-4b1d-8438-0a5b37b97232.png)"
 
 #: ../../03_Image_analysis/_notinyet_Common_pitfalls.md:9
 msgid "image"
-msgstr ""
+msgstr "image"
 
 #: ../../03_Image_analysis/_notinyet_Image_processing.md:1
 msgid "Image Processing"
-msgstr ""
+msgstr "Traitement d'image"
 
 #: ../../03_Image_analysis/_notinyet_Image_segmentation.md:1
 msgid "Image Segmentation"
-msgstr ""
-
+msgstr "Segmentation des images"
