@@ -254,7 +254,7 @@ msgstr "Käytännön näkökohtia"
 
 #: ../../02_Sample_acquisition/Practical_considerations.md:3
 msgid "Objective selection"
-msgstr "Tavoitteen valinta"
+msgstr "Objektiivin valinta"
 
 #: ../../02_Sample_acquisition/Practical_considerations.md:5
 msgid ""
