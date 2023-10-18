@@ -310,7 +310,7 @@ msgstr ""
 
 #: ../../Glossary.md:45
 msgid "Segmentation"
-msgstr "Segmentointi"
+msgstr "Segmentaatio"
 
 #: ../../Glossary.md:50
 msgid ""
