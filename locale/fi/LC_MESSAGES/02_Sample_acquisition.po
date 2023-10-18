@@ -231,9 +231,9 @@ msgid ""
 "institution, others allow outside visitors or even sponsor visitors to "
 "travel to them."
 msgstr ""
-"Jotkin kuvantamislaitokset ovat avoinna vain yksittäisen laitoksen "
-"jäsenille, kun taas toiset sallivat ulkopuolisten vierailijoiden tai jopa "
-"sponsoroivat vierailijoiden matkustamista niihin."
+"Osa kuvantamisyksiköistä tarjoava palveluitaan vain oman instituutin "
+"jäsenille, kun taas toiset sallivat ulkopuolisten tutkijoiden vierailut "
+"joskus jopa sponsoroiden niitä."
 
 #: ../../02_Sample_acquisition/Picking.md:21
 msgid ""
