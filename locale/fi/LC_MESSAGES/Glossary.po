@@ -298,7 +298,7 @@ msgstr ""
 
 #: ../../Glossary.md:42
 msgid "ROIs"
-msgstr "ROI"
+msgstr "ROIt"
 
 #: ../../Glossary.md:47
 msgid ""
