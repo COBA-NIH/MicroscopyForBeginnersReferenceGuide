@@ -330,7 +330,7 @@ msgstr ""
 
 #: ../../02_Sample_acquisition/Practical_considerations.md:22
 msgid "Filter sets"
-msgstr "Suodatinsarjat"
+msgstr "Filtterit"
 
 #: ../../02_Sample_acquisition/Practical_considerations.md:24
 msgid ""
