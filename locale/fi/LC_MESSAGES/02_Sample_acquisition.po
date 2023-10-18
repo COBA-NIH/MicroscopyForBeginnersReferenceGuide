@@ -286,7 +286,7 @@ msgstr ""
 
 #: ../../02_Sample_acquisition/Practical_considerations.md:16
 msgid "microtubules imaged at 488nm and 647nm"
-msgstr "mikrotubulukset kuvattu 488 nm:n ja 647 nm:n säteellä"
+msgstr "mikrotubulukset kuvattu 488 nm:n ja 647 nm:n aallonpituudella"
 
 #: ../../02_Sample_acquisition/Practical_considerations.md:16
 msgid ""
