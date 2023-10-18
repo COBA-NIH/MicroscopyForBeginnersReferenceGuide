@@ -339,8 +339,8 @@ msgid ""
 "[section on bleedthrough](content/bleedthrough) for more information."
 msgstr ""
 "On tärkeää varmistaa, että mikroskoopissa, jolla haluat kuvata, on oikeat "
-"suodatinsarjat käytettäville fluorofyyreille. Katso lisätietoja [läpilyöntiä"
-" koskevasta osiosta](content/bleedthrough)."
+"suodatinsarjat käytettäville fluoroforeille. Katso lisätietoja [läpilyöntiä "
+"koskevasta osiosta](content/bleedthrough)."
 
 #: ../../02_Sample_acquisition/Practical_considerations.md:26
 msgid "Z sampling"
