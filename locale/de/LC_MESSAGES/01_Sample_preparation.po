@@ -89,8 +89,8 @@ msgid ""
 " multiple cell types."
 msgstr ""
 "Viele verschiedene Zelltypen können kultiviert oder in einer Schale "
-"gezüchtet werden. Die Zellen können in einer Monokultur mit nur einem "
-"Zelltyp oder in einer Co-Kultur mit mehreren Zelltypen gezüchtet werden."
+"gezüchtet werden. Zellen können in einer Monokultur mit nur einem Zelltyp "
+"oder in Co-Kultur mit mehreren Zelltypen gezüchtet werden."
 
 #: ../../01_Sample_preparation/Considerations.md:15
 #: ../../01_Sample_preparation/Considerations.md:31
