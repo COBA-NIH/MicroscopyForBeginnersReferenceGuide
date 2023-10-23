@@ -74,9 +74,9 @@ msgstr ""
 "Im Folgenden stellen wir einige Hauptkategorien für Probentypen vor. "
 "Beachten Sie, dass es keine festen Grenzen zwischen diesen verschiedenen "
 "Kategorien gibt (z. B. können sowohl Zellen als auch Organoide in 3D "
-"kultiviert werden, viele dieser Proben können live oder nach "
-"{term}\"fixiert\" werden), aber einige allgemeine Vor- und Nachteile werden "
-"im Folgenden zusammengefasst."
+"kultiviert werden, viele dieser Proben können lebend oder \"fixiert\" "
+"aufgenommen werden). Einige allgemeine Vor- und Nachteile werden im "
+"Folgenden zusammengefasst."
 
 #: ../../01_Sample_preparation/Considerations.md:11
 msgid "**Cultured cells**"
