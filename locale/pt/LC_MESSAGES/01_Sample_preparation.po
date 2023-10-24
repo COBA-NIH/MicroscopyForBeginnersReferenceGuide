@@ -821,7 +821,7 @@ msgstr ""
 " algumas considerações (como se o terminal C ou N de uma proteína está "
 "marcado) podem causar alterações na localização. {cite}`Stadler2013`. Um "
 "artigo recente {cite}`Sittewelle2023` examina considerações para marcação "
-"genética de moléculas para microscopia ao vivo."
+"genética de moléculas para microscopia de amostras vivas."
 
 #: ../../01_Sample_preparation/Reproducibility.md:18
 msgid "Bleedthrough"
