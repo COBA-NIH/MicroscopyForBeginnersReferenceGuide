@@ -153,7 +153,7 @@ msgstr ""
 
 #: ../../Glossary.md:21
 msgid "Immunolabeling"
-msgstr "imunomarcação"
+msgstr "Imunomarcação"
 
 #: ../../Glossary.md:26
 msgid ""
