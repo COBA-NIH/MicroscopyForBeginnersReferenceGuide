@@ -103,7 +103,7 @@ msgid ""
 "A curated list of references related to many aspects of microscopy and image"
 " analysis"
 msgstr ""
-"Uma lista com curadoria de referências relacionadas a muitos aspectos da "
+"Uma lista curada de referências relacionadas a muitos aspectos da "
 "microscopia e análise de imagens"
 
 #: ../../community_resources.md:29
