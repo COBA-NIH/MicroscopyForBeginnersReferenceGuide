@@ -166,8 +166,8 @@ msgid ""
 "Most sections will guide you through individual subtopics using some or all "
 "of the following list of questions:"
 msgstr ""
-"La plupart des sections vous guideront à travers des sous-thèmes individuels"
-" en utilisant tout ou partie de la liste de questions suivante :"
+"La plupart des sections sont divisées en sous-thèmes. Vous serez guidés par "
+"la liste de questions suivante :"
 
 #: ../../welcome.md:49
 msgid "What is it?"
