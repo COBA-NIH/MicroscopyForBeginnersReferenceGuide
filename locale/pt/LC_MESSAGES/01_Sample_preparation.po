@@ -633,9 +633,9 @@ msgid ""
 msgstr ""
 "O {term}`índice de refração` em que a amostra é colocada, bem como o índice "
 "de refração do vidro e o meio entre a objetiva e a amostra são todos "
-"críticos para determinar a resolução alcançável. A mídia de montagem {term} "
+"críticos para determinar a resolução alcançável. O meio de montagem {term} "
 "pode ter outras propriedades ópticas e/ou experimentais importantes; é "
-"importante usar a mídia de montagem correta para o experimento planejado."
+"importante usar o meio de montagem correto para o experimento planejado."
 
 #: ../../01_Sample_preparation/Experimental_design.md:43
 msgid "effects of mounting media"
