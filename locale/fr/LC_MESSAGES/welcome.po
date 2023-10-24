@@ -171,7 +171,7 @@ msgstr ""
 
 #: ../../welcome.md:49
 msgid "What is it?"
-msgstr "Qu'est-ce que c'est?"
+msgstr "De quoi s'agit-il ?"
 
 #: ../../welcome.md:50
 msgid "What are my options?"
