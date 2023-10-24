@@ -73,8 +73,8 @@ msgstr ""
 "Aqui apresentamos algumas categorias principais de tipos de amostra. Observe"
 " que não há limites rígidos entre essas diferentes categorias (por exemplo, "
 "células e organoides podem ser cultivados em 3D, muitos desses espécimes "
-"podem ser visualizados ao vivo ou após fixação, mas algumas vantagens e "
-"desvantagens gerais estão resumidas abaixo."
+"podem ser visualizados ao vivo ou após {term}`fixação`), mas algumas "
+"vantagens e desvantagens gerais estão resumidas abaixo."
 
 #: ../../01_Sample_preparation/Considerations.md:11
 msgid "**Cultured cells**"
