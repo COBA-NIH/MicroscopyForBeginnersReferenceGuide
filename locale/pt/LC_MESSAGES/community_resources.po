@@ -78,7 +78,7 @@ msgstr ""
 
 #: ../../community_resources.md:21
 msgid "Scientific Community Image Forum (Image . sc)"
-msgstr "Fórum de Imagem da Comunidade Científica (Imagem . sc)"
+msgstr "Scientific Community Image Forum (Imagem . sc)"
 
 #: ../../community_resources.md:22
 msgid "[link](https://forum.image.sc/)"
