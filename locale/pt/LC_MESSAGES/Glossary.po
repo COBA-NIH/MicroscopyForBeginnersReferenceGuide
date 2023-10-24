@@ -369,7 +369,7 @@ msgstr ""
 
 #: ../../Glossary.md:54
 msgid "Tissue clearing"
-msgstr "Limpeza de tecido"
+msgstr "Clareamento de tecido"
 
 #: ../../Glossary.md:59
 msgid ""
