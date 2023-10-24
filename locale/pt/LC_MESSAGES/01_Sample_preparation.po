@@ -249,8 +249,9 @@ msgid ""
 "Tissues have more intact cell-cell interactions that are generally more "
 "representative of what happens _in vivo_ than in cell culture."
 msgstr ""
-"Os tecidos têm mais interações célula-célula intactas que geralmente são "
-"mais representativas do que acontece _in vivo_ do que na cultura celular."
+"Os tecidos têm interações célula-célula que são geralmente mais "
+"representativas do que acontece _in vivo_ do que na monocamada de cultura "
+"celular."
 
 #: ../../01_Sample_preparation/Considerations.md:53
 msgid ""
