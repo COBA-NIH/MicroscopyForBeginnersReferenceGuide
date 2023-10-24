@@ -428,7 +428,7 @@ msgstr "**Link**"
 
 #: ../../04_Data_presentation/Resources.md:10
 msgid "**Brief description**"
-msgstr "**Descrição breve**"
+msgstr "**Breve descrição**"
 
 #: ../../04_Data_presentation/Resources.md:11
 msgid ""
