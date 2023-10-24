@@ -196,7 +196,7 @@ msgstr ""
 " de luz, como a microscopia multifotônica e é limitada à capacidade de "
 "acessar o órgão específico, muitas vezes através de janelas ópticas. A "
 "imagem intravital é supervisionada por comitês de bioética e precisa ser "
-"aprovada pelo IACUC e/ou outros comitês institucionais."
+"aprovada por comitês institucionais."
 
 #: ../../Glossary.md:27
 msgid "Mounting media"
