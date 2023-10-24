@@ -397,8 +397,8 @@ msgid ""
 "A cheat sheet on how to do basic image preparation with open source "
 "software:"
 msgstr ""
-"Uma folha de dicas sobre como fazer a preparação básica de imagens com "
-"software de código aberto:"
+"Um conjunto de dicas sobre preparo básico de imagens com software de código "
+"aberto:"
 
 #: ../../04_Data_presentation/Presentation_images.md:124
 msgid "Instructions for common image processing operations in Fiji"
