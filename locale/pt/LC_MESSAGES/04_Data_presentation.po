@@ -169,7 +169,7 @@ msgid ""
 "contrast are usually necessary."
 msgstr ""
 "Muitas vezes, as imagens não têm valores de intensidade com espaçamento "
-"regular. Para ainda exibir os dados visíveis em uma tela/em uma figura, "
+"regular. Para exibir os dados de forma visíveis em uma tela/em uma figura, "
 "geralmente são necessários ajustes de brilho e contraste."
 
 #: ../../04_Data_presentation/Presentation_images.md:36
