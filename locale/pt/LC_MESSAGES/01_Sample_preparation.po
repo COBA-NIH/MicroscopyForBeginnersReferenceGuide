@@ -639,7 +639,7 @@ msgstr ""
 
 #: ../../01_Sample_preparation/Experimental_design.md:43
 msgid "effects of mounting media"
-msgstr "efeitos da mídia de montagem"
+msgstr "efeitos do meio de montagem"
 
 #: ../../01_Sample_preparation/Experimental_design.md:43
 msgid ""
