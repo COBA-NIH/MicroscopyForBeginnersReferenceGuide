@@ -480,7 +480,7 @@ msgstr ""
 
 #: ../../01_Sample_preparation/Experimental_design.md:1
 msgid "Experimental design decisions"
-msgstr "Decisões de design experimental"
+msgstr "Decisões do design experimental"
 
 #: ../../01_Sample_preparation/Experimental_design.md:3
 msgid ""
