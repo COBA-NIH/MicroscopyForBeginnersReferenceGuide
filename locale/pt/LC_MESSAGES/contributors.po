@@ -4,8 +4,8 @@
 # FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
 # 
 # Translators:
-# Mario Costa Cruz, 2023
 # Beth Cimini, 2023
+# Mario Costa Cruz, 2023
 # 
 #, fuzzy
 msgid ""
@@ -14,7 +14,7 @@ msgstr ""
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2023-10-13 18:46-0400\n"
 "PO-Revision-Date: 2023-05-02 18:49+0000\n"
-"Last-Translator: Beth Cimini, 2023\n"
+"Last-Translator: Mario Costa Cruz, 2023\n"
 "Language-Team: Portuguese (https://app.transifex.com/center-for-open-bioimage-analysis/teams/169123/pt/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -28,7 +28,7 @@ msgstr "Contribuindo para este guia"
 
 #: ../../contributors.md:3
 msgid "Contributors"
-msgstr "Contribuintes"
+msgstr "Contribuidores"
 
 #: ../../contributors.md:5
 msgid ""
