@@ -260,7 +260,7 @@ msgstr ""
 
 #: ../../04_Data_presentation/Presentation_images.md:0
 msgid "Annotate key image features"
-msgstr "Anote os principais recursos da imagem"
+msgstr "Anote as principais características da imagem"
 
 #: ../../04_Data_presentation/Presentation_images.md:74
 msgid ""
