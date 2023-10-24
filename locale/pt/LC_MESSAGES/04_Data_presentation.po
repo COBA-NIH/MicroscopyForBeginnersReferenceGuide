@@ -334,9 +334,10 @@ msgstr ""
 "de métodos em artigos científicos ou o título das figuras em pôsteres e "
 "slides. Considere o uso de um vocabulário controlado para reduzir a "
 "ambigüidade e aumentar a legibilidade das descrições de espécimes, tecidos, "
-"linhagens celulares e proteínas, etc. org/resources), que fornece índices "
-"para reagentes e recursos biológicos comumente usados, por exemplo, "
-"plasmídeos, linhagens de células e anticorpos."
+"linhagens celulares e proteínas, etc. Um recurso util é o  [RRID (Reseach "
+"Resource Identifying Data)index](https://scicrunch.org/resources), que "
+"fornece índices para reagentes e recursos biológicos comumente usados, por "
+"exemplo, plasmídeos, linhagens de células e anticorpos."
 
 #: ../../04_Data_presentation/Presentation_images.md:101
 msgid ""
