@@ -234,7 +234,7 @@ msgstr ""
 
 #: ../../Glossary.md:33
 msgid "Oxygen scavengers"
-msgstr "necrófagos de oxigênio"
+msgstr "Sequestradores de oxigênio"
 
 #: ../../Glossary.md:38
 msgid ""
