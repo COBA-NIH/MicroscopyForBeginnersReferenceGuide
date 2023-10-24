@@ -68,7 +68,7 @@ msgstr "Robert Haase"
 
 #: ../../contributors.md:11
 msgid "How can I become a contributor?"
-msgstr "Comment devenir contributeur ?"
+msgstr "Comment devenir collaborateur?"
 
 #: ../../contributors.md:13
 msgid ""
