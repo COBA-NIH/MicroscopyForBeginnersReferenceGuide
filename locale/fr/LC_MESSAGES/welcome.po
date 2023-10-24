@@ -28,7 +28,7 @@ msgstr "Préparation des échantillons"
 
 #: ../../welcome.md:1
 msgid "Sample Acquisition"
-msgstr "Acquisition d'échantillons"
+msgstr "Acquisition d'images"
 
 #: ../../welcome.md:1
 msgid "Image Analysis and Data Handling"
