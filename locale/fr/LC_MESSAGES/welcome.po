@@ -44,7 +44,7 @@ msgstr "Ressources additionnelles"
 
 #: ../../welcome.md:1
 msgid "Welcome"
-msgstr "Accueillir"
+msgstr "Accueil"
 
 #: ../../welcome.md:3
 msgid "Welcome to the world of bioimaging and bioimage analysis! 🎉"
