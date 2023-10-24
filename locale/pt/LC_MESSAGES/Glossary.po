@@ -133,7 +133,7 @@ msgstr ""
 
 #: ../../Glossary.md:18
 msgid "Immersion media"
-msgstr "mídia de imersão"
+msgstr "Meio de imersão"
 
 #: ../../Glossary.md:23
 msgid ""
