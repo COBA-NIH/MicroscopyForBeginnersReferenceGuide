@@ -155,9 +155,8 @@ msgid ""
 "Images](https://doi.org/10.1007%2Fs11948-010-9201-y) {cite}`Cromey2010-jr`"
 msgstr ""
 "📄 [Evitando pixels torcidos: diretrizes éticas para o uso e manipulação "
-"apropriados de imagens digitais "
-"científicas](https://doi.org/10.1007%2Fs11948-010-9201-y) "
-"{cite}`Cromey2010-jr`"
+"apropriadas de imagens científicas "
+"digitais](https://doi.org/10.1007%2Fs11948-010-9201-y) {cite}`Cromey2010-jr`"
 
 #: ../../04_Data_presentation/Presentation_images.md:0
 msgid "Enhance visibility of image content"
