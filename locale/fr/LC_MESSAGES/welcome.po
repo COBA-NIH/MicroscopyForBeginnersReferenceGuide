@@ -113,7 +113,7 @@ msgstr ""
 
 #: ../../welcome.md:39
 msgid "What **isn't** this book?"
-msgstr "Qu'est-ce **n'est pas** ce livre ?"
+msgstr "Qu'est-ce que ce livre **n'est pas** ?"
 
 #: ../../welcome.md:41
 msgid ""
