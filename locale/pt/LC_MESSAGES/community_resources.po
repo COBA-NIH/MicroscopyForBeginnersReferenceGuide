@@ -136,7 +136,7 @@ msgstr "[link](https://www.africanbioimaging.org/)"
 
 #: ../../community_resources.md:43
 msgid "South Africa BioImaging"
-msgstr "África do Sul Bioimagem"
+msgstr "South Africa BioImaging"
 
 #: ../../community_resources.md:44
 msgid "[link](https://www.sabioimaging.org/)"
