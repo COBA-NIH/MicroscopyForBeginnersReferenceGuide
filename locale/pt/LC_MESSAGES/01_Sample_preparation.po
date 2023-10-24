@@ -498,7 +498,7 @@ msgid ""
 "You will always prefer live imaging to fixed imaging if it is important to "
 "assess the dynamics of a given process"
 msgstr ""
-"Você sempre preferirá imagens ao vivo a imagens fixas se for importante "
+"Você sempre preferirá imagens ao vivo à imagens fixas se for importante "
 "avaliar a dinâmica de um determinado processo"
 
 #: ../../01_Sample_preparation/Experimental_design.md:5
