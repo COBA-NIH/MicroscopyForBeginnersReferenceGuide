@@ -459,8 +459,8 @@ msgid ""
 "📄 Community-developed checklists for publishing images and image analysis "
 "{cite}`Schmied2023-ad`"
 msgstr ""
-"📄 Listas de verificação desenvolvidas pela comunidade para publicação de "
-"imagens e análise de imagens {cite}`Schmied2023-ad`"
+"📄 Listas de checagem criadas pela comunidade para publicação e análise de "
+"imagens {cite}`Schmied2023-ad`"
 
 #: ../../04_Data_presentation/Resources.md:15
 msgid "[link](https://arxiv.org/abs/2302.07005)"
