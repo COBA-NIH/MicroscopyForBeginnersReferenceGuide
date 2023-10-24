@@ -49,7 +49,7 @@ msgstr "**Breve descrição**"
 
 #: ../../community_resources.md:15
 msgid "Global BioImaging"
-msgstr "Bioimagem global"
+msgstr "Global Bioimaging"
 
 #: ../../community_resources.md:16
 msgid "[link](https://globalbioimaging.org/)"
