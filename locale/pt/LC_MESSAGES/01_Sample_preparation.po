@@ -825,7 +825,7 @@ msgstr ""
 
 #: ../../01_Sample_preparation/Reproducibility.md:18
 msgid "Bleedthrough"
-msgstr "Sangrar através"
+msgstr "Vazamento de sinal/contaminação de sinal"
 
 #: ../../01_Sample_preparation/Reproducibility.md:20
 msgid ""
