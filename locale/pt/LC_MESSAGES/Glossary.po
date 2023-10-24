@@ -327,8 +327,8 @@ msgid ""
 "common in cell biology will be detecting cells and background on an image."
 msgstr ""
 "A segmentação semântica, onde todas as partes de uma imagem fazem parte de "
-"uma classe, comum em biologia celular será detectar células e fundo em uma "
-"imagem."
+"uma classe, comum em biologia celular onde separamos as células do fundo de "
+"uma imagem."
 
 #: ../../Glossary.md:52
 msgid ""
