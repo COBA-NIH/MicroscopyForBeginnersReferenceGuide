@@ -777,7 +777,7 @@ msgstr ""
 
 #: ../../04_Data_presentation/Statistics.md:55
 msgid "Normality testing"
-msgstr "teste de normalidade"
+msgstr "Teste de normalidade"
 
 #: ../../04_Data_presentation/Statistics.md:58
 msgid ""
