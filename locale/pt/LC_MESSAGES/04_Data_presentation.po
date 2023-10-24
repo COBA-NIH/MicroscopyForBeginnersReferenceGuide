@@ -254,7 +254,7 @@ msgid ""
 "publications](https://doi.org/10.1371/journal.pbio.3001161) "
 "{cite}`Jambor2021-qe`"
 msgstr ""
-"📄 [Criando figuras claras e informativas baseadas em imagens para "
+"📄 [Criando figuras baseadas em imagens de forma clara e informativa para "
 "publicações científicas](https://doi.org/10.1371/journal.pbio.3001161) "
 "{cite}`Jambor2021-qe`"
 
