@@ -215,7 +215,7 @@ msgstr ""
 "preservar a amostra, incluindo os fluoróforos nela contidos, e melhorar a "
 "qualidade da imagem durante a aquisição, tamponando o pH, igualando o índice"
 " de refração em toda a amostra (idealmente igualando-o ao do vidro) e "
-"minimizando o fotobranqueamento (dependendo do médio). A mídia de montagem "
+"minimizando o fotobranqueamento (dependendo do meio). O meio de montagem "
 "evita que a amostra seque, permitindo o armazenamento a longo prazo."
 
 #: ../../Glossary.md:30
