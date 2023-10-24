@@ -587,7 +587,7 @@ msgstr "Comparação de tipos de lamínulas"
 
 #: ../../01_Sample_preparation/Experimental_design.md:21
 msgid "Grade"
-msgstr "Nota"
+msgstr "Número"
 
 #: ../../01_Sample_preparation/Experimental_design.md:22
 msgid "Nominal thickness [mm]"
