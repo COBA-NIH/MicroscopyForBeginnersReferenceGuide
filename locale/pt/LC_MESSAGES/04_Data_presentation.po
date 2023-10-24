@@ -282,9 +282,9 @@ msgid ""
 msgstr ""
 "Além disso, os autores devem se lembrar de anotar as cores usadas, quaisquer"
 " símbolos e setas usadas para guiar os leitores e, se usados, a origem de "
-"qualquer zoom/inserção. Se imagens especializadas forem mostradas (lapso de "
-"tempo, volumes, reconstruções), os autores são encorajados a considerar a "
-"anotação de informações importantes nas figuras."
+"qualquer zoom/inserção. Se imagens especializadas forem mostradas "
+"(aquisições temporais, volumes, reconstruções), os autores são encorajados a"
+" considerar a descrição destas informações importantes nas figuras."
 
 #: ../../04_Data_presentation/Presentation_images.md:73
 msgid "speech bubbles"
