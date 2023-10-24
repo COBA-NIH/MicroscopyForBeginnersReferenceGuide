@@ -547,7 +547,7 @@ msgstr "Montagem"
 
 #: ../../01_Sample_preparation/Experimental_design.md:13
 msgid "Glass coverslips"
-msgstr "Lamelas de vidro"
+msgstr "Lamínulas de vidro"
 
 #: ../../01_Sample_preparation/Experimental_design.md:15
 msgid ""
