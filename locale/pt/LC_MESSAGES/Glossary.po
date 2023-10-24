@@ -76,9 +76,10 @@ msgstr ""
 "Refere-se à imagem realizada em tecido animal vivo em um ambiente externo "
 "controlável (por exemplo, explante de tecido em uma placa de Petri). Ele "
 "permite imagens de alta resolução de tecidos vivos que podem ser "
-"inacessíveis dentro do animal. O tecido é mantido vivo no sistema de imagem "
-"por meio de perfusão de meios oxigenados (95% de oxigênio e 5% de CO2) com "
-"temperatura controlada usando bombas peristálticas e microfluídica."
+"inacessíveis dentro do animal. O tecido é mantido vivo no sistema de "
+"imageamento por meio de perfusão de meios oxigenados (95% de oxigênio e 5% "
+"de CO2) com temperatura controlada usando bombas peristálticas e "
+"microfluídica."
 
 #: ../../Glossary.md:9
 msgid "Fiji"
