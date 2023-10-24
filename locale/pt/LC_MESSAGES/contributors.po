@@ -103,8 +103,9 @@ msgid ""
 "This guide is available in [English](https://www.bioimagingguide.org) as "
 "well as [Czech](https://cs.bioimagingguide.org)."
 msgstr ""
-"Este guia está disponível em [Inglês] (https://www.bioimagingguide.org) e "
-"[Checo] (https://cs.bioimagingguide.org)."
+"Este guia está disponível em [Inglês] (https://www.bioimagingguide.org),  "
+"[Checo] (https://cs.bioimagingguide.org) e [Português] "
+"(https://pt.bioimagingguide.org)"
 
 #: ../../contributors.md:22
 msgid ""
