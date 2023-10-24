@@ -798,7 +798,7 @@ msgstr ""
 
 #: ../../01_Sample_preparation/Reproducibility.md:13
 msgid "Fluorescent protein localization validation"
-msgstr "Validação de localização de proteína fluorescente"
+msgstr "Validação da localização da proteína fluorescente"
 
 #: ../../01_Sample_preparation/Reproducibility.md:15
 msgid ""
