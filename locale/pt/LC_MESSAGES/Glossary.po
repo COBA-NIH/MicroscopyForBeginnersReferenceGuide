@@ -365,7 +365,7 @@ msgstr ""
 "A forma mais fácil de segmentação de imagem, divide a imagem em duas partes "
 "o fundo e o primeiro plano (ou sinal). Ele cria uma imagem binária onde "
 "normalmente os pixels de fundo seriam alterados para um valor 0 e os valores"
-" dos pixels de primeiro plano seriam 1."
+" dos pixels de primeiro plano valeriam 1."
 
 #: ../../Glossary.md:54
 msgid "Tissue clearing"
