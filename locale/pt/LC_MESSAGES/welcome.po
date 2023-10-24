@@ -5,6 +5,7 @@
 # 
 # Translators:
 # Beth Cimini, 2023
+# Mario Costa Cruz, 2023
 # 
 #, fuzzy
 msgid ""
@@ -13,7 +14,7 @@ msgstr ""
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2023-06-28 07:29-0400\n"
 "PO-Revision-Date: 2023-05-02 18:49+0000\n"
-"Last-Translator: Beth Cimini, 2023\n"
+"Last-Translator: Mario Costa Cruz, 2023\n"
 "Language-Team: Portuguese (https://app.transifex.com/center-for-open-bioimage-analysis/teams/169123/pt/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -62,7 +63,7 @@ msgid ""
 msgstr ""
 "**Montagem de imagens de microscopia de fluorescência de "
 "[BBBC](https://bbbc.broadinstitute.org/) {cite}`Ljosa2012-fr` (Broad "
-"Institute).** As imagens mostradas são de experimentos BBBC007, BBBC008, "
+"Institute).** As imagens mostradas são dos experimentos BBBC007, BBBC008, "
 "BBBC034, BBBC038, BBBC039 , e BBBC020 da esquerda para a direita, de cima "
 "para baixo."
 
