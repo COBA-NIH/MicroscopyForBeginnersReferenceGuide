@@ -780,7 +780,7 @@ msgstr ""
 " alvo específico, infelizmente, isso nem sempre pode ser considerado ao "
 "realizar uma {termo}`imunomarcação`. {cite}`Uhlen2016-wy` Quando possível, "
 "deve-se realizar controles knockout e/ou knockdown para confirmar a "
-"especificidade do anticorpo; onde não, procure a disponibilidade de outro "
+"especificidade do anticorpo; quando não for possível, procure outro "
 "anticorpo para uma parte diferente da molécula alvo (às vezes chamada de "
 "_epítopo_) e confirme se obteve uma localização consistente."
 
