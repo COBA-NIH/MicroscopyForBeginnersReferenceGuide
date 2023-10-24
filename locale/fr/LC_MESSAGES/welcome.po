@@ -201,7 +201,7 @@ msgstr ""
 
 #: ../../welcome.md:57
 msgid "What if my resource/topic is not included?"
-msgstr "Que se passe-t-il si ma ressource/sujet n'est pas inclus ?"
+msgstr "Que faire si ma ressource/sujet n'est pas inclus ?"
 
 #: ../../welcome.md:58
 msgid ""
