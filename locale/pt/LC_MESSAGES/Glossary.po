@@ -257,7 +257,7 @@ msgstr ""
 
 #: ../../Glossary.md:36
 msgid "Permeabilization"
-msgstr "permeabilização"
+msgstr "Permeabilização"
 
 #: ../../Glossary.md:41
 msgid ""
