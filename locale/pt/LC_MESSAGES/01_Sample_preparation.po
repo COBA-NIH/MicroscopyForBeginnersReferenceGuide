@@ -220,8 +220,8 @@ msgid ""
 "microscopy."
 msgstr ""
 "Como os organoides são estruturas 3D, eles geralmente não são passíveis de "
-"imagem de campo amplo e podem exigir disco giratório ou microscopia confocal"
-" de varredura de ponto."
+"imagem de campo aberto e podem exigir microscopia confocal de varredura por "
+"ponto ou _spinning disk_."
 
 #: ../../01_Sample_preparation/Considerations.md:45
 msgid "**Tissue**"
