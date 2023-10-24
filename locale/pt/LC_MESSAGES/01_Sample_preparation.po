@@ -870,7 +870,7 @@ msgstr "**Link**"
 
 #: ../../01_Sample_preparation/Resources.md:10
 msgid "**Brief description**"
-msgstr "**Descrição breve**"
+msgstr "**Breve descrição**"
 
 #: ../../01_Sample_preparation/Resources.md:11
 msgid "🌐 Microforum"
