@@ -57,8 +57,8 @@ msgid ""
 msgstr ""
 "O processo de remover computacionalmente o desfoque das imagens de "
 "microscopia usando as propriedades ópticas conhecidas do caminho da luz para"
-" \"reatribuir\" a intensidade do pixel longe de onde ele atingiu a câmera e "
-"de volta para a estrutura que emitiu a luz."
+" \"reatribuir\" a intensidade do pixel adquirido pela câmera de volta para a"
+" estrutura que emitiu a luz."
 
 #: ../../Glossary.md:6
 msgid "Ex-Vivo imaging"
