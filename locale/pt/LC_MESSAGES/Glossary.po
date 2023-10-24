@@ -353,7 +353,7 @@ msgstr ""
 
 #: ../../Glossary.md:51
 msgid "Thresholding"
-msgstr "Limiar/Limite"
+msgstr "Limiar"
 
 #: ../../Glossary.md:56
 msgid ""
