@@ -194,7 +194,7 @@ msgstr ""
 
 #: ../../04_Data_presentation/Presentation_images.md:0
 msgid "Use accessible colors"
-msgstr "Use cores acessíveis"
+msgstr "Use cores inclusivas"
 
 #: ../../04_Data_presentation/Presentation_images.md:54
 msgid ""
