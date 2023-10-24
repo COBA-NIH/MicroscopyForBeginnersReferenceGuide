@@ -200,7 +200,7 @@ msgstr ""
 
 #: ../../Glossary.md:27
 msgid "Mounting media"
-msgstr "Mídia de montagem"
+msgstr "Meio de montagem"
 
 #: ../../Glossary.md:32
 msgid ""
