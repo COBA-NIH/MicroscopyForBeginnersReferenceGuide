@@ -59,7 +59,7 @@ msgstr ""
 "Processus de suppression informatique du flou des images de microscopie "
 "utilisant les propriétés optiques connues du trajet de la lumière. La "
 "déconvolution \"réaffecte\" l'intensité du pixel à la structure qui a émis "
-"la lumière, souvent loin de la région excitée de la caméra."
+"la lumière, souvent loin de la région détectée par la caméra."
 
 #: ../../Glossary.md:6
 msgid "Ex-Vivo imaging"
