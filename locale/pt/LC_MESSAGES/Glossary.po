@@ -111,9 +111,9 @@ msgstr ""
 "celulares/moleculares dentro da amostra enquanto, ao mesmo tempo, interrompe"
 " qualquer função biológica nessa amostra. O fixador usado (por exemplo, "
 "paraformaldeído, glutaraldeído, metanol), a concentração e as condições (por"
-" exemplo, tampão, temperatura) determinam a extensão da preservação das "
+" exemplo, tampão, temperatura) determinam a qualidade da preservação das "
 "estruturas celulares e/ou moleculares dentro de uma amostra e precisam ser "
-"otimizados dependendo da amostra ou estrutura que está sendo fotografada."
+"otimizados dependendo da amostra ou estrutura que está sendo imageada."
 
 #: ../../Glossary.md:15
 msgid "Image processing"
