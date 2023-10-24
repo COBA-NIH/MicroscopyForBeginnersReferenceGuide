@@ -157,9 +157,9 @@ msgid ""
 "started or begin with sample preparation by clicking the \"Next\" button "
 "below ↘️."
 msgstr ""
-"Veuillez sélectionner une section à l'aide du panneau de navigation sur la "
-"gauche pour commencer ou commencer la préparation de l'échantillon en "
-"cliquant sur le bouton \"Suivant\" ci-dessous ↘️."
+"Sélectionner une section à l'aide du panneau de navigation de gauche pour "
+"débuter ou lancez-vous dans la préparation d'échantillons en cliquant sur le"
+" bouton \"Suivant\" ci-dessous ↘️."
 
 #: ../../welcome.md:48
 msgid ""
