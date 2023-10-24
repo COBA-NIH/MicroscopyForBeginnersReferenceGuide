@@ -179,7 +179,7 @@ msgstr "Quelles sont mes options ?"
 
 #: ../../welcome.md:51
 msgid "How do I do it?"
-msgstr "Comment fait-on ça?"
+msgstr "Comment m'y prendre ?"
 
 #: ../../welcome.md:52
 msgid "Where can things go wrong?"
