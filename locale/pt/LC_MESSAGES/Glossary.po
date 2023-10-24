@@ -5,6 +5,7 @@
 # 
 # Translators:
 # Beth Cimini, 2023
+# Mario Costa Cruz, 2023
 # 
 #, fuzzy
 msgid ""
@@ -13,7 +14,7 @@ msgstr ""
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2023-05-19 07:07-0400\n"
 "PO-Revision-Date: 2023-05-02 18:49+0000\n"
-"Last-Translator: Beth Cimini, 2023\n"
+"Last-Translator: Mario Costa Cruz, 2023\n"
 "Language-Team: Portuguese (https://app.transifex.com/center-for-open-bioimage-analysis/teams/169123/pt/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -40,7 +41,7 @@ msgstr ""
 "Durante o procedimento de imunocoloração, é importante minimizar a ligação "
 "inespecífica dos anticorpos primários ou secundários. Na maioria dos casos, "
 "isso é obtido por bloqueio, que normalmente envolve a adição de substâncias "
-"como soro normal, gelatina ou albumina antes da imunocoloração para "
+"como soro normal, gelatina ou albumina antes da imunomarcação para "
 "\"ocupar\" todos os sítios de ligação não específicos na amostra."
 
 #: ../../Glossary.md:3
