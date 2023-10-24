@@ -128,7 +128,7 @@ msgstr "[link](https://www.latambioimaging.org/ )"
 
 #: ../../community_resources.md:41
 msgid "African BioImaging Consortium"
-msgstr "Consórcio Africano de Bioimagem"
+msgstr "African BioImaging Consortium"
 
 #: ../../community_resources.md:42
 msgid "[link](https://www.africanbioimaging.org/)"
