@@ -907,7 +907,7 @@ msgstr ""
 
 #: ../../01_Sample_preparation/Resources.md:17
 msgid "🌐 Bio-protocol"
-msgstr "🌐 Bioprotocolo"
+msgstr "🌐 Bio-protocol"
 
 #: ../../01_Sample_preparation/Resources.md:18
 msgid "[link](https://bio-protocol.org/en/about )"
