@@ -183,7 +183,7 @@ msgstr "Comment m'y prendre ?"
 
 #: ../../welcome.md:52
 msgid "Where can things go wrong?"
-msgstr "Où les choses peuvent-elles mal tourner ?"
+msgstr "Où les choses peuvent-elles mal tourner ?"
 
 #: ../../welcome.md:53
 msgid "Where can I learn more? (links to resources)"
