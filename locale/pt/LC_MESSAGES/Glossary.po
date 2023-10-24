@@ -90,8 +90,8 @@ msgid ""
 "[Fiji](https://imagej.net/software/fiji/) Is Just ImageJ. ImageJ2 plus a lot"
 " of common plugins."
 msgstr ""
-"[Fiji](https://imagej.net/software/fiji/) é apenas ImageJ. ImageJ2 mais "
-"muitos plugins comuns."
+"[Fiji](https://imagej.net/software/fiji/) é apenas o ImageJ. ImageJ2 com "
+"muitos plugins."
 
 #: ../../Glossary.md:12
 msgid "Fixation"
