@@ -229,8 +229,8 @@ msgid ""
 "box, or and x,y position."
 msgstr ""
 "É a técnica de processamento de imagem para detectar objetos dentro de uma "
-"imagem. Não forneceria uma máscara dos objetos, mas poderia fornecer uma "
-"caixa delimitadora ou a posição x,y."
+"imagem. Não te fornece uma máscara dos objetos, mas pode fornecer uma caixa "
+"delimitadora ou a posição x,y."
 
 #: ../../Glossary.md:33
 msgid "Oxygen scavengers"
