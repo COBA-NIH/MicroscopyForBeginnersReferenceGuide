@@ -317,8 +317,8 @@ msgid ""
 "Regions Of Interest. Pixels in your image that you care about (e.g., a "
 "region in tissue, a cell, a tumor, etc.)"
 msgstr ""
-"Régions d'intérêt. Les pixels de votre image qui vous intéressent (par "
-"exemple, une région d'un tissu, une cellule, une tumeur, etc.)"
+"Pixels de votre image qui vous intéressent spécifiquement (par exemple, une "
+"région d'un tissu, une cellule, une tumeur, etc.)"
 
 #: ../../Glossary.md:45
 msgid "Segmentation"
