@@ -188,9 +188,9 @@ msgstr ""
 "Quaisquer ajustes que resultem no desaparecimento dos detalhes da imagem são"
 " considerados enganosos {cite}`Cromey2010-jr`. Observe que muitas "
 "transformações não lineares de brilho e contraste estão disponíveis no "
-"software de processamento de imagem, antes de usar esses usuários devem "
-"garantir que eles representem fielmente os dados para evitar enganar "
-"acidentalmente o público e divulgá-los como anotações."
+"software de processamento de imagem, antes de usa-los, os usuários devem "
+"garantir que as transformações representem fielmente os dados para evitar "
+"enganar acidentalmente o público e divulgá-los como anotações."
 
 #: ../../04_Data_presentation/Presentation_images.md:0
 msgid "Use accessible colors"
