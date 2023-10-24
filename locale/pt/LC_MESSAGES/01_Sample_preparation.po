@@ -453,7 +453,10 @@ msgid ""
 "📄 [Organoids "
 "Primer](https://www.nature.com/articles/s43586-022-00174-y#:~:text=An%20organoid%20is%20a%20self,%2C9%2C10%2C11.)"
 " {cite}`Zhao2022-rm`"
-msgstr ". 9%2C10%2C11.) {cite}`Zhao2022-rm`"
+msgstr ""
+"[Organoids "
+"Primer](https://www.nature.com/articles/s43586-022-00174-y#:~:text=An%20organoid%20is%20a%20self,%2C9%2C10%2C11.)"
+" {cite}`Zhao2022-rm`"
 
 #: ../../01_Sample_preparation/Considerations.md:95
 msgid ""
