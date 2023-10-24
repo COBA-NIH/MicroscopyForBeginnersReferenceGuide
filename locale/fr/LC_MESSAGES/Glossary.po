@@ -135,7 +135,7 @@ msgstr ""
 
 #: ../../Glossary.md:18
 msgid "Immersion media"
-msgstr "Média d'immersion"
+msgstr "Millieux d'immersion"
 
 #: ../../Glossary.md:23
 msgid ""
