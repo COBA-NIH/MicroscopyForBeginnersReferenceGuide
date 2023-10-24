@@ -24,7 +24,7 @@ msgstr ""
 
 #: ../../community_resources.md:1
 msgid "Community resources"
-msgstr "Recursos comunitários"
+msgstr "Recursos da comunidade"
 
 #: ../../community_resources.md:3
 msgid "Below are globally and locally available community resources"
