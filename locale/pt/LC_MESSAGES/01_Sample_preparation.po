@@ -764,7 +764,7 @@ msgstr ""
 
 #: ../../01_Sample_preparation/Reproducibility.md:7
 msgid "Antibody validation"
-msgstr "validação de anticorpos"
+msgstr "Validação de anticorpos"
 
 #: ../../01_Sample_preparation/Reproducibility.md:9
 msgid ""
