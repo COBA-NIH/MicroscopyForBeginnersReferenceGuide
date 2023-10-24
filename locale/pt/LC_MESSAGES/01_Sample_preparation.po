@@ -583,7 +583,7 @@ msgstr ""
 
 #: ../../01_Sample_preparation/Experimental_design.md:17
 msgid "Comparison of coverslip grades"
-msgstr "Comparação de graus de lamela"
+msgstr "Comparação de tipos de lamínulas"
 
 #: ../../01_Sample_preparation/Experimental_design.md:21
 msgid "Grade"
