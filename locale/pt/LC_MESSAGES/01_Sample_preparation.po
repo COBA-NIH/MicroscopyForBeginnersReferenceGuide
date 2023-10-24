@@ -706,7 +706,7 @@ msgid ""
 msgstr ""
 "Compreender os fluoróforos, as especificações do microscópio (fonte de luz, "
 "filtros, detector) e os objetivos da análise são fundamentais para "
-"selecionar o(s) fluoróforo(s) apropriado(s) para abordar uma questão "
+"selecionar o(s) fluoróforo(s) apropriado(s) para responder uma questão "
 "científica. Consulte a seção sobre "
 "[reprodutibilidade](conteúdo/reprodutibilidade) para obter mais informações."
 
