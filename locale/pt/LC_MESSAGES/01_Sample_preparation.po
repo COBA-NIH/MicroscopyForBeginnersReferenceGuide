@@ -506,8 +506,9 @@ msgid ""
 "You may need to perform special processes such as tissue clearing if it is "
 "important to image deep into a relatively opaque specimen"
 msgstr ""
-"Pode ser necessário realizar processos especiais, como limpeza de tecido, se"
-" for importante obter imagens profundas em uma amostra relativamente opaca"
+"Pode ser necessário realizar processos especiais, como clareamento de "
+"tecido, se for importante obter imagens profundas em uma amostra "
+"relativamente opaca"
 
 #: ../../01_Sample_preparation/Experimental_design.md:6
 msgid ""
