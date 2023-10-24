@@ -319,9 +319,9 @@ msgid ""
 "the imaging media and reduce absorption and scattering of light."
 msgstr ""
 "A geração de imagens de espécimes mais espessos pode exigir processamento "
-"({term}`limpeza de tecido`) da amostra para fazer com que seu {term}`índice "
-"de refração` corresponda ao da mídia de imagem e reduza a absorção e a "
-"dispersão da luz."
+"({term}`clareamento de tecido`) da amostra para fazer com que seu "
+"{term}`índice de refração` corresponda ao meio de montagem e reduza a "
+"absorção e a dispersão da luz durante o imageamento."
 
 #: ../../01_Sample_preparation/Considerations.md:75
 msgid ""
@@ -330,8 +330,8 @@ msgid ""
 "other institutional committees."
 msgstr ""
 "A imagem intravital geralmente requer técnicas cirúrgicas específicas e é "
-"supervisionada por comitês de bioética e precisa ser aprovada pelo IACUC "
-"e/ou outros comitês institucionais."
+"supervisionada por comitês de bioética e precisa ser aprovada pelos comitês "
+"institucionais."
 
 #: ../../01_Sample_preparation/Considerations.md:0
 msgid "<span style=\"color: red\">⚠️</span> Where can things go wrong?"
