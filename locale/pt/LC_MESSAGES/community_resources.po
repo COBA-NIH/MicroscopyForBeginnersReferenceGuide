@@ -168,7 +168,7 @@ msgstr "[link](https://micro.org.au/)"
 
 #: ../../community_resources.md:51
 msgid "Canada BioImaging"
-msgstr "Canadá BioImagem"
+msgstr "Canada BioImaging"
 
 #: ../../community_resources.md:52
 msgid "[link](https://www.canadabioimaging.org/)"
