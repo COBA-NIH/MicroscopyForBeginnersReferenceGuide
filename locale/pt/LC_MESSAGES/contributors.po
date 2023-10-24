@@ -91,7 +91,7 @@ msgid ""
 msgstr ""
 "No momento, também oferecemos um [Formulário do "
 "Google](https://docs.google.com/forms/d/e/1FAIpQLScWQbemviI2OkvVkeTKUOozAzKNndcZpXIB_nE0qFMl72lqvQ/viewform)"
-" para contribuições, embora observe que elas podem ser respondidas mais "
+" para contribuições, embora, observe que elas podem ser respondidas mais "
 "lentamente do que as contribuições diretas ao repositório GitHub."
 
 #: ../../contributors.md:18
