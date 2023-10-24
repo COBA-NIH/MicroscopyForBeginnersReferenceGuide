@@ -55,9 +55,8 @@ msgid ""
 "contributions from the following members of the microscopy and bioimage "
 "analysis community!"
 msgstr ""
-"Depuis que ce guide est devenu disponible, nous remercions chaleureusement "
-"les contributions des membres suivants de la communauté de la microscopie et"
-" de l'analyse de bioimages !"
+"Nous remercions chaleureusement les contributions des membres de la "
+"communauté de microscopie et d'analyse de bioimages suivants!"
 
 #: ../../contributors.md:8
 msgid "William Giang"
