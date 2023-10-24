@@ -90,10 +90,10 @@ msgid ""
 " for contributions, though note these may be responded to more slowly than "
 "direct contributions to the GitHub repository."
 msgstr ""
-"Actuellement, nous proposons également un [formulaire "
+"Nous vous proposons également un [formulaire "
 "Google](https://docs.google.com/forms/d/e/1FAIpQLScWQbemviI2OkvVkeTKUOozAzKNndcZpXIB_nE0qFMl72lqvQ/viewform)"
-" pour les contributions, mais notez que celles-ci peuvent être traitées plus"
-" lentement que les contributions directes au référentiel GitHub."
+" pour y ajouter vos contributions. Notez que celles-ci peuvent être traitées"
+" plus lentement que les contributions directes au référentiel GitHub."
 
 #: ../../contributors.md:18
 msgid "Translation"
