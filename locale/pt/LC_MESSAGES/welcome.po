@@ -69,7 +69,7 @@ msgstr ""
 
 #: ../../welcome.md:13
 msgid "What is this book?"
-msgstr "O que é este livro?"
+msgstr "O que  este livro é?"
 
 #: ../../welcome.md:15
 msgid ""
