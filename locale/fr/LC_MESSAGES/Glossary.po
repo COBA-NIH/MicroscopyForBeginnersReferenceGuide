@@ -207,7 +207,7 @@ msgstr ""
 
 #: ../../Glossary.md:27
 msgid "Mounting media"
-msgstr "Support de montage"
+msgstr "Milieu de montage"
 
 #: ../../Glossary.md:32
 msgid ""
