@@ -224,7 +224,7 @@ msgstr ""
 
 #: ../../02_Sample_acquisition/Picking.md:17
 msgid "Opportunities for microscopy resource access"
-msgstr "Oportunidades para acesso a recursos de microscopia"
+msgstr "Oportunidades para acesso aos recursos de microscopia"
 
 #: ../../02_Sample_acquisition/Picking.md:19
 msgid ""
