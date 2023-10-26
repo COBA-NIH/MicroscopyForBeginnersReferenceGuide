@@ -154,8 +154,8 @@ msgstr ""
 "Microscópios de **folha de luz** que iluminam a amostra perpendicularmente "
 "ao eixo da imagem, geralmente por um segundo conjunto ortogonal de lentes "
 "objetivas. Isso permite o seccionamento óptico fino em grandes volumes, mas "
-"apresenta mais considerações sobre a montagem da amostra. Muitas variações "
-"em microscópios de folha de luz surgiram nos últimos anos."
+"apresenta mais aspectos sobre a montagem da amostra. Muitas variações em "
+"microscópios de folha de luz surgiram nos últimos anos."
 
 #: ../../02_Sample_acquisition/Introduction.md:17
 msgid ""
