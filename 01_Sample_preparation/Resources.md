@@ -16,7 +16,7 @@
 * - 🌐 Bio-protocol 
   - [link](https://bio-protocol.org/en/about )
   - Website to search for protocols across biological disciplines, including protocols associated with work published elsewhere. All protocols are available under an open access license (CC BY or CC BY-NC)
-* - 🌐 protocolos.io 
+* - 🌐 protocols.io 
   - [link](https://www.protocols.io/)
   - A secure platform for developing and sharing reproducible methods 
 * - 📄 Designing a rigorous microscopy experiment: Validating methods and avoiding bias {cite}`Jost2019-nx`

@@ -396,7 +396,7 @@ msgid "Website to search for protocols across biological disciplines, including 
 msgstr ""
 
 #: ../../01_Sample_preparation/Resources.md:20
-msgid "🌐 protocolos.io"
+msgid "🌐 protocols.io"
 msgstr ""
 
 #: ../../01_Sample_preparation/Resources.md:21

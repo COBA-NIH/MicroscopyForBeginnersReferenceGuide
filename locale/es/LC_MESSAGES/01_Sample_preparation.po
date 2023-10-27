@@ -966,14 +966,14 @@ msgid ""
 "protocols associated with work published elsewhere. All protocols are "
 "available under an open access license (CC BY or CC BY-NC)"
 msgstr ""
-"Sitio web para buscar protocolos en disciplinas biológicas, incluidos "
-"protocolos asociados con trabajos publicados en otros lugares. Todos los "
-"protocolos están disponibles bajo una licencia de acceso abierto (CC BY o"
+"Sitio web para buscar protocols en disciplinas biológicas, incluidos "
+"protocols asociados con trabajos publicados en otros lugares. Todos los "
+"protocols están disponibles bajo una licencia de acceso abierto (CC BY o"
 " CC BY-NC)"
 
 #: ../../01_Sample_preparation/Resources.md:20
-msgid "🌐 protocolos.io"
-msgstr "🌐 protocolos.io"
+msgid "🌐 protocols.io"
+msgstr "🌐 protocols.io"
 
 #: ../../01_Sample_preparation/Resources.md:21
 msgid "[link](https://www.protocols.io/)"
