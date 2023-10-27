@@ -1,29 +1,33 @@
 # SOME DESCRIPTIVE TITLE.
 # Copyright (C) 2023
 # This file is distributed under the same license as the Python package.
-# FIRST AUTHOR <EMAIL@ADDRESS>, 2023.
-#
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+# 
+# Translators:
+# Beth Cimini, 2023
+# 
 #, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: Python \n"
+"Project-Id-Version: Python\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2023-06-28 07:29-0400\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
+"PO-Revision-Date: 2023-05-02 18:49+0000\n"
+"Last-Translator: Beth Cimini, 2023\n"
+"Language-Team: Polish (https://app.transifex.com/center-for-open-bioimage-analysis/teams/169123/pl/)\n"
 "MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=utf-8\n"
+"Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Generated-By: Babel 2.10.3\n"
+"Language: pl\n"
+"Plural-Forms: nplurals=4; plural=(n==1 ? 0 : (n%10>=2 && n%10<=4) && (n%100<12 || n%100>14) ? 1 : n!=1 && (n%10>=0 && n%10<=1) || (n%10>=5 && n%10<=9) || (n%100>=12 && n%100<=14) ? 2 : 3);\n"
 
 #: ../../QuantitativeBioimaging.md:1
 msgid "Quantitative Bioimaging"
-msgstr ""
+msgstr "Ilościowe bioobrazowanie"
 
 #: ../../QuantitativeBioimaging.md:3
 msgid "What do we mean by quantitative bioimaging?"
-msgstr ""
+msgstr "Co rozumiemy przez bioobrazowanie ilościowe?"
 
 #: ../../QuantitativeBioimaging.md:5
 msgid ""
@@ -31,61 +35,90 @@ msgid ""
 "history, we now live in an era where microscope images can be used to "
 "precisely quantify observable phenotypes."
 msgstr ""
+"Podczas gdy mikroskopia była z konieczności nauką jakościową przez większość"
+" swojej historii, obecnie żyjemy w epoce, w której obrazy mikroskopowe mogą "
+"być wykorzystywane do precyzyjnego określania ilościowego obserwowalnych "
+"fenotypów."
 
 #: ../../QuantitativeBioimaging.md:7
 msgid ""
 "The ability to draw accurate quantitative answers from these experiments "
-"relies on certain best practices being followed. If one can confidently "
-"say \"Yes\" to each of the following 4 questions, one is likely to be "
-"able to quantify their sample."
+"relies on certain best practices being followed. If one can confidently say "
+"\"Yes\" to each of the following 4 questions, one is likely to be able to "
+"quantify their sample."
 msgstr ""
+"Zdolność do uzyskania dokładnych odpowiedzi ilościowych z tych eksperymentów"
+" zależy od przestrzegania pewnych najlepszych praktyk. Jeśli ktoś może "
+"śmiało powiedzieć „tak” na każde z poniższych 4 pytań, prawdopodobnie będzie"
+" w stanie określić ilościowo swoją próbkę."
 
 #: ../../QuantitativeBioimaging.md:9
 msgid ""
-"Have I prepared my sample in a way that minimizes technical artifacts and"
-" lets me understand exactly which molecule(s) I am observing?"
+"Have I prepared my sample in a way that minimizes technical artifacts and "
+"lets me understand exactly which molecule(s) I am observing?"
 msgstr ""
+"Czy przygotowałem próbkę w sposób, który minimalizuje artefakty techniczne i"
+" pozwala mi dokładnie zrozumieć, którą cząsteczkę (cząsteczki) obserwuję?"
 
 #: ../../QuantitativeBioimaging.md:10
 msgid ""
-"Have I conducted my microscopy so that I minimize technical artifacts and"
-" am in the quantitative range of the detector attached to my microscope?"
+"Have I conducted my microscopy so that I minimize technical artifacts and am"
+" in the quantitative range of the detector attached to my microscope?"
 msgstr ""
+"Czy przeprowadziłem badanie mikroskopowe w taki sposób, aby zminimalizować "
+"artefakty techniczne i czy mieściłem się w zakresie ilościowym detektora "
+"podłączonego do mojego mikroskopu?"
 
 #: ../../QuantitativeBioimaging.md:11
 msgid ""
-"Have I selected analysis metric(s) that truly answer my biological "
-"question and measured them in a way that minimizes technical artifacts?"
+"Have I selected analysis metric(s) that truly answer my biological question "
+"and measured them in a way that minimizes technical artifacts?"
 msgstr ""
+"Czy wybrałem metryki analizy, które naprawdę odpowiadają na moje pytanie "
+"biologiczne i zmierzyłem je w sposób, który minimalizuje artefakty "
+"techniczne?"
 
 #: ../../QuantitativeBioimaging.md:12
 msgid ""
 "Have I chosen appropriate statistical comparisons and data presentation "
-"approaches so that the distribution of my metric(s) can be fairly "
-"compared across samples, answering my biolgical question?"
+"approaches so that the distribution of my metric(s) can be fairly compared "
+"across samples, answering my biolgical question?"
 msgstr ""
+"Czy wybrałem odpowiednie porównania statystyczne i podejścia do prezentacji "
+"danych, aby rozkład moich wskaźników mógł być rzetelnie porównany w "
+"próbkach, odpowiadając na moje pytanie biologiczne?"
 
 #: ../../QuantitativeBioimaging.md:14
 msgid ""
-"Answering each of these questions requires thought, expertise, and often "
-"a fair amount of trial and error; it can feel overwhelming to grapple "
-"with all the technical aspects and caveats present in a bioimaging "
-"experiment. These questions **_can_** be answered, however, though often "
-"not in a single pass - [continuous optimization through multiple rounds "
-"of answering these questions](qb-decision-cycle) is typically needed for "
-"best results."
+"Answering each of these questions requires thought, expertise, and often a "
+"fair amount of trial and error; it can feel overwhelming to grapple with all"
+" the technical aspects and caveats present in a bioimaging experiment. These"
+" questions **_can_** be answered, however, though often not in a single pass"
+" - [continuous optimization through multiple rounds of answering these "
+"questions](qb-decision-cycle) is typically needed for best results."
 msgstr ""
+"Odpowiedź na każde z tych pytań wymaga przemyślenia, wiedzy i często sporej "
+"liczby prób i błędów; zmaganie się ze wszystkimi aspektami technicznymi i "
+"zastrzeżeniami obecnymi w eksperymencie bioobrazowym może wydawać się "
+"przytłaczające. Jednak odpowiedzi na te pytania **_można_** uzyskać, choć "
+"często nie za jednym razem — [ciągła optymalizacja poprzez wiele rund "
+"odpowiadania na te pytania](cykl decyzyjny-qb) jest zwykle potrzebna, aby "
+"uzyskać najlepsze wyniki."
 
 #: ../../QuantitativeBioimaging.md:16
 msgid ""
 "The resources linked in this guide are designed to help a reader develop "
-"skills in each or all of these areas, helping them get the most from "
-"their microscopy data."
+"skills in each or all of these areas, helping them get the most from their "
+"microscopy data."
 msgstr ""
+"Zasoby, do których łącza znajdują się w tym przewodniku, mają na celu pomóc "
+"czytelnikowi rozwinąć umiejętności w każdym z tych obszarów lub we "
+"wszystkich tych obszarach, pomagając mu w maksymalnym wykorzystaniu danych "
+"mikroskopowych."
 
 #: ../../QuantitativeBioimaging.md:25
 msgid "cycle"
-msgstr ""
+msgstr "cykl"
 
 #: ../../QuantitativeBioimaging.md:25
 msgid ""
@@ -94,4 +127,7 @@ msgid ""
 "planning and performing quantitative bioimaging "
 "experiments_**](https://doi.org/10.1371/journal.pbio.3002167)."
 msgstr ""
-
+"**Cykl decyzyjny bioobrazowania ilościowego {cite}`Senft2023-zy`** "
+"Zaczerpnięto z Senft i Diaz-Rohrer et al, [**_Przewodnik biologa po "
+"planowaniu i przeprowadzaniu ilościowych eksperymentów "
+"bioobrazowych_**](https://doi.org /10.1371/journal.pbio.3002167)."
