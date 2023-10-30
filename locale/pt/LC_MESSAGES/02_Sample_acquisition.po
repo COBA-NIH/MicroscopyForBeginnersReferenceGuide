@@ -234,7 +234,7 @@ msgid ""
 msgstr ""
 "Enquanto algumas instalações de imagem estão abertas apenas para membros de "
 "uma única instituição, outras permitem que visitantes externos ou até "
-"patrocinadores se desloquem até elas."
+"empresas as utilizem."
 
 #: ../../02_Sample_acquisition/Picking.md:21
 msgid ""
