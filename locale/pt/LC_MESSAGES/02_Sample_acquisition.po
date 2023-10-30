@@ -326,9 +326,9 @@ msgid ""
 msgstr ""
 "Distância de trabalho: A distância de trabalho (WD) dá a distância em "
 "milímetros que a lente pode focalizar na amostra. Essa distância inclui a "
-"lamínula e a mídia de montagem também. Ao obter imagens de uma amostra "
-"espessa e/ou se precisar obter imagens longe da superfície da amostra, é "
-"importante garantir que a lente tenha uma distância de trabalho suficiente."
+"lamínula e o meio de montagem. Ao obter imagens de uma amostra espessa e/ou "
+"se precisar obter imagens longe da superfície da amostra, é importante "
+"garantir que a lente tenha uma distância de trabalho suficiente."
 
 #: ../../02_Sample_acquisition/Practical_considerations.md:22
 msgid "Filter sets"
