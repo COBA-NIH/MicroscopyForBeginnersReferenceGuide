@@ -299,9 +299,9 @@ msgid ""
 msgstr ""
 "**Resolução reduzida em comprimentos de onda de luz mais longos**. Os "
 "microtúbulos fotografados em um comprimento de onda de luz mais curto "
-"mostram uma resolução mais alta do que aqueles fotografados em comprimentos "
-"de onda mais longos. Adaptado de Jonkman J., Brown C.M., Wright G.D _et al_."
-" Tutorial: orientação para microscopia confocal quantitativa. _Nat Prot_ "
+"mostram uma resolução maior do que aqueles fotografados em comprimentos de "
+"onda mais longos. Adaptado de Jonkman J., Brown C.M., Wright G.D _et al_. "
+"Tutorial: orientação para microscopia confocal quantitativa. _Nat Prot_ "
 "**15**, (2020) {cite}`Jonkman2020-bo`"
 
 #: ../../02_Sample_acquisition/Practical_considerations.md:19
