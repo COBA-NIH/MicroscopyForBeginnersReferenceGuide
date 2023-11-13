@@ -5,8 +5,8 @@
 # 
 # Translators:
 # Beth Cimini, 2023
-# Laura Mairinoja, 2023
 # Joanna Pylvanainen, 2023
+# Laura Mairinoja, 2023
 # 
 #, fuzzy
 msgid ""
@@ -15,7 +15,7 @@ msgstr ""
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2023-05-19 07:07-0400\n"
 "PO-Revision-Date: 2023-05-02 18:49+0000\n"
-"Last-Translator: Joanna Pylvanainen, 2023\n"
+"Last-Translator: Laura Mairinoja, 2023\n"
 "Language-Team: Finnish (https://app.transifex.com/center-for-open-bioimage-analysis/teams/169123/fi/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -390,23 +390,22 @@ msgid ""
 "and tissues using conventional microscopy techniques such as confocal "
 "microscopy without the need to physically section the sample."
 msgstr ""
-"Kudospalan koko paksuuden fluoresenssikuvaus on hyvin haastavaa, koska valon"
-" absorptio ja sironta johtuvat itse kudoksen taitekertoimien "
-"epäyhtenäisyydestä, mikä johtaa valon huonoon tunkeutumiseen. Lisäksi "
-"näytteen eri osista tuleva valo vaikuttaa fluoresenssin hämärtymiseen, mikä "
-"heikentää huomattavasti kontrastia ja erottelukykyä kussakin tasossa. Tämän "
-"vuoksi tutkijat käyttävät yleensä kudosleikkaustekniikoita saadakseen tietoa"
-" solukomponenteista ja niiden alueellisesta jakautumisesta tai suhteista "
-"ohuesta kaksiulotteisesta tilavuudesta. Useimmat komponentit missä tahansa "
-"monimutkaisessa biologisessa järjestelmässä, kuten elimessä, eivät "
-"kuitenkaan sisälly tähän kaksiulotteiseen tilavuuteen, ja siksi tämä "
-"lähestymistapa vaarantaa solukomponenttien välisten tilasuhteiden "
-"ymmärtämisen. Kudospuhdistuksessa keskityttiin vähentämään kudoksen "
-"inhomogeenisuuksia tasaamalla taitekerroin koko näytteessä. Tämä "
-"mahdollistaa valon kulkemisen kudoksen läpi ja mahdollistaa siten koko "
-"elinten ja kudosten korkean resoluution ja tilavuuden kuvantamisen "
-"tavanomaisilla mikroskopiatekniikoilla, kuten konfokaalimikroskopialla, "
-"ilman, että näytettä tarvitsee leikata fyysisesti."
+"On haastavaa kuvata paksu kudos fluoresenssimikroskopialla, koska valon "
+"absorptio ja sironta johtuvat kudoksen taitekertoimien epäyhtenäisyydestä, "
+"mikä johtaa valon huonoon tunkeutumiseen. Lisäksi näytteen eri osista tuleva"
+" valo hämärtää fluoresenssia, jolloin kontrasti ja erottelukyky heikentyy "
+"kussakin tasossa. Tämän vuoksi tutkijat käyttävät yleensä "
+"kudosleikkaustekniikoita saadakseen tietoa soluista (TÄSSÄ KOHTAA) ja niiden"
+" alueellisesta jakautumisesta tai suhteista ohuesta kaksiulotteisesta "
+"tilavuudesta. Useimmat komponentit missä tahansa monimutkaisessa "
+"biologisessa järjestelmässä, kuten elimessä, eivät kuitenkaan sisälly tähän "
+"kaksiulotteiseen tilavuuteen, ja siksi tämä lähestymistapa vaarantaa "
+"solukomponenttien välisten tilasuhteiden ymmärtämisen. Kudospuhdistuksessa "
+"keskityttiin vähentämään kudoksen inhomogeenisuuksia tasaamalla taitekerroin"
+" koko näytteessä. Tämä mahdollistaa valon kulkemisen kudoksen läpi ja "
+"mahdollistaa siten koko elinten ja kudosten korkean resoluution ja "
+"tilavuuden kuvantamisen tavanomaisilla mikroskopiatekniikoilla, kuten "
+"konfokaalimikroskopialla, ilman, että näytettä tarvitsee leikata fyysisesti."
 
 #: ../../Glossary.md:57
 msgid "Tissue sectioning"
