@@ -243,7 +243,7 @@ msgstr ""
 
 #: ../../Glossary.md:33
 msgid "Oxygen scavengers"
-msgstr "Épurateurs d'oxygène"
+msgstr "Absorbeurs d'oxygène"
 
 #: ../../Glossary.md:38
 msgid ""
