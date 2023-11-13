@@ -6,6 +6,7 @@
 # Translators:
 # Beth Cimini, 2023
 # Joanna Pylvanainen, 2023
+# Laura Mairinoja, 2023
 # 
 #, fuzzy
 msgid ""
@@ -14,7 +15,7 @@ msgstr ""
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2023-05-19 07:07-0400\n"
 "PO-Revision-Date: 2023-05-02 18:49+0000\n"
-"Last-Translator: Joanna Pylvanainen, 2023\n"
+"Last-Translator: Laura Mairinoja, 2023\n"
 "Language-Team: Finnish (https://app.transifex.com/center-for-open-bioimage-analysis/teams/169123/fi/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -421,12 +422,11 @@ msgid ""
 "medium and later cut into thin slices by a machine like a cryostat, "
 "microtome, or vibratome and sections collected into a tube or onto a slide."
 msgstr ""
-"Valon läpäisyyn ja fluoresenssikuvaukseen vaikuttaa negatiivisesti valon "
-"sironta paksussa näytteessä. Tämä sironta johtuu kudoksen sisällä olevista "
-"erilaisista taitekertoimista. Kudosten kuvantamisen helpottamiseksi tutkijat"
-" leikkaavat paksut kudokset usein eripaksuisiin viipaleisiin. Tätä prosessia"
-" kutsutaan kudosleikkaukseksi. Useimmissa tapauksissa näytteet kiinnitetään "
-"ja upotetaan parafiiniin tai pakastetaan kudospakastusmediassa, minkä "
-"jälkeen ne leikataan ohuiksi viipaleiksi koneella, kuten kryostaatilla, "
-"mikrotomilla tai vibratomilla, ja leikkeet kerätään putkeen tai "
-"objektilasille."
+"Valon sironta paksussa näytteessä hankaloittaa fluoresenssikuvausta ja valon"
+" läpäisyä näyttessä. Sironta johtuu kudoksen sisällä olevista erilaisista "
+"taitekertoimista. Kudosten kuvantamisen helpottamiseksi kudokset leikataan "
+"viipaleisiin. Tätä prosessia kutsutaan kudosten leikkaamiseksi. Useimmissa "
+"tapauksissa näytteet kiinnitetään ja valetaan parafiiniin tai pakastetaan "
+"kudospakastusaineessa, minkä jälkeen ne leikataan ohuiksi viipaleiksi "
+"koneella, kuten kryostaatilla, mikrotomilla tai vibratomilla, ja leikkeet "
+"kerätään putkeen tai objektilasille."
