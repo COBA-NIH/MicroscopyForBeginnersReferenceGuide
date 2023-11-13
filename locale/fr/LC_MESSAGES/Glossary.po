@@ -237,9 +237,9 @@ msgid ""
 "would not give you a mask of the objects but it could give you a bounding "
 "box, or and x,y position."
 msgstr ""
-"Est la technique de traitement d'image pour détecter des objets dans une "
-"image. Cela ne vous donnerait pas un masque des objets, mais cela pourrait "
-"vous donner une boîte englobante ou une position x, y."
+"Technique de traitement d'images qui permet de détecter des objets dans une "
+"image. Elle ne permet pas d'obtenir un masque des objets, mais elle peut "
+"fournir une boîte de délimitation et / ou une position x,y."
 
 #: ../../Glossary.md:33
 msgid "Oxygen scavengers"
