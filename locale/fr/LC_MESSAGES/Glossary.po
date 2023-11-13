@@ -177,9 +177,9 @@ msgstr ""
 "secondaire conjugué à un fluorophore. Le marquage primaire-secondaire a "
 "tendance à amplifier le signal. Le principal défit de l'immunomarquage est "
 "la taille des anticorps, nécessitant souvent de perméabiliser l'échantillon."
-" Une autre bonne option de marquage consiste à utiliser des nano-corps, "
-"formés que de la chaîne lourde et sont donc nettement plus petits que les "
-"anticorps classiques."
+" Une autre option de marquage consiste à utiliser des nano-corps, formés que"
+" d'une chaîne lourde et donc nettement plus petits que les anticorps "
+"classiques."
 
 #: ../../Glossary.md:24
 msgid "Intravital imaging"
