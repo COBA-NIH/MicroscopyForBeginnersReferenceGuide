@@ -96,7 +96,7 @@ msgstr ""
 
 #: ../../Glossary.md:12
 msgid "Fixation"
-msgstr "Kiinnitys"
+msgstr "Kiinnittäminen (fiksaus)"
 
 #: ../../Glossary.md:17
 msgid ""
