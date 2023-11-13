@@ -42,7 +42,7 @@ msgstr ""
 "aineiden epäspesifinen sitoutuminen. Useimmissa tapauksissa tämä saavutetaan"
 " blokkaamalla, mikä tarkoittaa tyypillisesti normaalin seerumin, gelatiinin "
 "tai albumiinin kaltaisten aineiden lisäämistä ennen immunovärjäystä, jotta "
-"kaikki näytteen epäspesifiset sitoutumiskohdat saadaan \"varattua\"."
+"kaikki näytteen epäspesifiset sitoutumiskohdat saadaan \"piilotettua\"."
 
 #: ../../Glossary.md:3
 msgid "Deconvolution"
