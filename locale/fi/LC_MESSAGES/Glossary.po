@@ -56,9 +56,9 @@ msgid ""
 " emitted the light."
 msgstr ""
 "Prosessi, jossa mikroskooppikuvista poistetaan laskennallisesti epätarkkuus "
-"käyttämällä valopolun tunnettuja optisia ominaisuuksia pikselin "
-"intensiteetin \"uudelleen kohdentamiseksi\" pois kameraan osuneesta kohdasta"
-" ja takaisin valon lähettäneeseen rakenteeseen."
+"käyttämällä valotien tunnettuja optisia ominaisuuksia pikselin intensiteetin"
+" \"uudelleen kohdentamiseksi\" pois kameraan osuneesta kohdasta ja takaisin "
+"valon lähettäneeseen rakenteeseen."
 
 #: ../../Glossary.md:6
 msgid "Ex-Vivo imaging"
