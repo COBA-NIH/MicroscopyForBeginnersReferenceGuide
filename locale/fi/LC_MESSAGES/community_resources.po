@@ -145,7 +145,7 @@ msgstr "[linkki](https://www.sabioimaging.org/)"
 
 #: ../../community_resources.md:45
 msgid "Euro-bioimaging"
-msgstr "Eurobiokuvantaminen"
+msgstr "Euro-biokuvantaminen"
 
 #: ../../community_resources.md:46
 msgid "[link](https://www.eurobioimaging.eu/)"
