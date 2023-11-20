@@ -32,7 +32,7 @@ msgstr "Näytteen hankinta"
 
 #: ../../welcome.md:1
 msgid "Image Analysis and Data Handling"
-msgstr "Kuva-analyysi ja tietojen käsittely"
+msgstr "Kuva-analyysi ja datan käsittely"
 
 #: ../../welcome.md:1
 msgid "Data Interpretation"
