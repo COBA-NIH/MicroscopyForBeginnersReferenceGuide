@@ -183,7 +183,7 @@ msgstr "Mikä voi mennä pieleen?"
 
 #: ../../welcome.md:53
 msgid "Where can I learn more? (links to resources)"
-msgstr "Mistä saan lisätietoja? (linkit resursseihin)"
+msgstr "Mistä saan lisätietoja? (linkit)"
 
 #: ../../welcome.md:55
 msgid ""
