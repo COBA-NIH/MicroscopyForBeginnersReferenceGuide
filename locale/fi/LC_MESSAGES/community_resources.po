@@ -121,7 +121,7 @@ msgstr "[linkki](https://www.bioimagingnorthamerica.org/)"
 
 #: ../../community_resources.md:39
 msgid "Latin America BioImaging"
-msgstr "Latinalainen Amerikka BioImaging"
+msgstr "BioImaging Latinalainen Amerikka "
 
 #: ../../community_resources.md:40
 msgid "[link](https://www.latambioimaging.org/ )"
