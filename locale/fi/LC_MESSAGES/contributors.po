@@ -56,8 +56,8 @@ msgid ""
 "contributions from the following members of the microscopy and bioimage "
 "analysis community!"
 msgstr ""
-"Tämän oppaan julkaisemisen jälkeen olemme kiitollisia seuraavien "
-"mikroskopia- ja biokuvan analysointiyhteisön jäsenten panoksesta!"
+"Olemme kiitollisia mikroskopia- ja biokuvien analysointiyhteisön jäsenten "
+"panoksesta myös tämän oppaan julkaisemisen jälkeen!"
 
 #: ../../contributors.md:8
 msgid "William Giang"
