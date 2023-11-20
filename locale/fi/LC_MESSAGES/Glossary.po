@@ -368,7 +368,7 @@ msgstr ""
 
 #: ../../Glossary.md:54
 msgid "Tissue clearing"
-msgstr "Kudosten puhdistaminen"
+msgstr "Kudosten kirkastus"
 
 #: ../../Glossary.md:59
 msgid ""
