@@ -36,7 +36,7 @@ msgstr "Kuva-analyysi ja datan käsittely"
 
 #: ../../welcome.md:1
 msgid "Data Interpretation"
-msgstr "Tietojen tulkinta"
+msgstr "Datan tulkinta"
 
 #: ../../welcome.md:1
 msgid "Additional Resources"
