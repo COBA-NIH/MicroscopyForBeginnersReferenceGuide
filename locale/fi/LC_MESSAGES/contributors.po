@@ -123,7 +123,7 @@ msgstr ""
 
 #: ../../contributors.md:24
 msgid "Translations are gratefully acknowledged from:"
-msgstr "Käännökset ovat kiitollisina seuraavilta:"
+msgstr "Kiitokset käännösten tekijöille:"
 
 #: ../../contributors.md:26
 msgid "Czech : Martin Schätz"
