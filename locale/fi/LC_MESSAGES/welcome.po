@@ -110,7 +110,7 @@ msgstr ""
 
 #: ../../welcome.md:39
 msgid "What **isn't** this book?"
-msgstr "Mikä **ei** ole** tämä kirja?"
+msgstr "Mikä tämä kirja **ei** ole** ?"
 
 #: ../../welcome.md:41
 msgid ""
