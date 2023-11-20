@@ -179,7 +179,7 @@ msgstr "Miten teen sen?"
 
 #: ../../welcome.md:52
 msgid "Where can things go wrong?"
-msgstr "Missä asiat voivat mennä pieleen?"
+msgstr "Mikä voi mennä pieleen?"
 
 #: ../../welcome.md:53
 msgid "Where can I learn more? (links to resources)"
