@@ -362,7 +362,7 @@ msgid ""
 "where usually the background pixels would be change to a 0 value and the "
 "foreground pixels values would be 1."
 msgstr ""
-"Se on helpoin kuvan segmentoinnin muoto, jossa kuva jaetaan kahteen osaan, "
+"Helpoin kuvan segmentoinnin muoto, jossa kuva jaetaan kahteen osaan, "
 "taustaan ja etualaan (tai signaaliin). Se luo binäärikuvan, jossa yleensä "
 "taustapikselit muuttuvat 0-arvoisiksi ja etualan pikselien arvot ovat 1."
 
