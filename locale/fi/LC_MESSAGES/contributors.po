@@ -93,8 +93,8 @@ msgid ""
 msgstr ""
 "Tarjoamme tällä hetkellä myös [Google "
 "Form](https://docs.google.com/forms/d/e/1FAIpQLScWQbemviI2OkvVkeTKUOozAzKNndcZpXIB_nE0qFMl72lqvQ/viewform)"
-" -lomakkeen, mutta huomioi, että niihin saatetaan vastata hitaammin kuin "
-"suoraan GitHub-arkistoon tehtäviin kirjoituksiin."
+" -lomakkeen, mutta huomioi, että siihen saatetaan vastata hitaammin kuin "
+"suoraan GitHub-arkistoon tehtäviin kommentteihin."
 
 #: ../../contributors.md:18
 msgid "Translation"
