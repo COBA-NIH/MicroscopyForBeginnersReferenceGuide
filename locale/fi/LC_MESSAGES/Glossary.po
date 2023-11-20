@@ -63,7 +63,7 @@ msgstr ""
 
 #: ../../Glossary.md:6
 msgid "Ex-Vivo imaging"
-msgstr "Ex-Vivo -kuvantaminen"
+msgstr "Ex vivo -kuvantaminen"
 
 #: ../../Glossary.md:11
 msgid ""
