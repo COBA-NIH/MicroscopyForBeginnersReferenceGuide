@@ -89,7 +89,7 @@ msgstr "[linkki](https://forum.image.sc/)"
 #: ../../community_resources.md:23
 msgid "Discussion forum for bioimage analysis software {cite}`Rueden2019-qp`"
 msgstr ""
-"Keskustelufoorumi biokuvan analysointiohjelmistolle {cite}`Rueden2019-qp`."
+"Keskustelufoorumi biokuvien analysointiohjelmistolle {cite}`Rueden2019-qp`."
 
 #: ../../community_resources.md:24
 msgid "HMS Nikon Imaging Center \"Favorite References\""
