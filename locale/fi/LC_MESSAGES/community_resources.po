@@ -161,7 +161,7 @@ msgstr "[linkki](https://www.nibb.ac.jp/abis/)"
 
 #: ../../community_resources.md:49
 msgid "Microscopy Australia"
-msgstr "Mikroskooppi Australia"
+msgstr "Mikroskopia Australia"
 
 #: ../../community_resources.md:50
 msgid "[link](https://micro.org.au/)"
