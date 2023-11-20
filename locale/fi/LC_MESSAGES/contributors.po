@@ -80,9 +80,9 @@ msgid ""
 msgstr ""
 "Voit vapaasti avata "
 "[issue](https://github.com/broadinstitute/MicroscopyForBeginnersReferenceGuide/issues)"
-" tai pull requestin osallistuaksesi! Toivomme, että tästä tulee elävä "
-"dokumentti, joka heijastaa parhaita käytäntöjä ja saatavilla olevia "
-"resursseja."
+" tai klikata \"pull request\" osallistuaksesi! Toivomme, että tästä tulee "
+"jatkuvasti päivittyvä dokumentti, joka heijastaa parhaita käytäntöjä ja "
+"saatavilla olevia resursseja."
 
 #: ../../contributors.md:15
 msgid ""
