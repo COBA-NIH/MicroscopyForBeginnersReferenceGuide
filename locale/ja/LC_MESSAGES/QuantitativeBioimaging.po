@@ -1,31 +1,33 @@
 # SOME DESCRIPTIVE TITLE.
 # Copyright (C) 2023
 # This file is distributed under the same license as the Python package.
-# FIRST AUTHOR <EMAIL@ADDRESS>, 2023.
-#
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+# 
+# Translators:
+# Beth Cimini, 2023
+# 
 #, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: Python \n"
+"Project-Id-Version: Python\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2023-06-28 07:29-0400\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language: ja\n"
-"Language-Team: ja <LL@li.org>\n"
-"Plural-Forms: nplurals=1; plural=0;\n"
+"PO-Revision-Date: 2023-05-02 18:49+0000\n"
+"Last-Translator: Beth Cimini, 2023\n"
+"Language-Team: Japanese (https://app.transifex.com/center-for-open-bioimage-analysis/teams/169123/ja/)\n"
 "MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=utf-8\n"
+"Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Generated-By: Babel 2.12.1\n"
+"Language: ja\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
 
 #: ../../QuantitativeBioimaging.md:1
 msgid "Quantitative Bioimaging"
-msgstr ""
+msgstr "定量的バイオイメージング"
 
 #: ../../QuantitativeBioimaging.md:3
 msgid "What do we mean by quantitative bioimaging?"
-msgstr ""
+msgstr "定量的バイオイメージングとは？"
 
 #: ../../QuantitativeBioimaging.md:5
 msgid ""
@@ -33,61 +35,65 @@ msgid ""
 "history, we now live in an era where microscope images can be used to "
 "precisely quantify observable phenotypes."
 msgstr ""
+"顕微鏡検査は、その歴史の大半において必然的に定性的な科学であったが、現在は顕微鏡画像を用いて観察可能な表現型を正確に定量化できる時代に生きている。"
 
 #: ../../QuantitativeBioimaging.md:7
 msgid ""
 "The ability to draw accurate quantitative answers from these experiments "
-"relies on certain best practices being followed. If one can confidently "
-"say \"Yes\" to each of the following 4 questions, one is likely to be "
-"able to quantify their sample."
+"relies on certain best practices being followed. If one can confidently say "
+"\"Yes\" to each of the following 4 questions, one is likely to be able to "
+"quantify their sample."
 msgstr ""
+"これらの実験から正確な定量的答えを導き出す能力は、特定のベストプラクティスが守られているかどうかにかかっている。以下の4つの質問に対して、それぞれ自信を持って「はい」と答えることができれば、サンプルを定量化できる可能性が高い。"
 
 #: ../../QuantitativeBioimaging.md:9
 msgid ""
-"Have I prepared my sample in a way that minimizes technical artifacts and"
-" lets me understand exactly which molecule(s) I am observing?"
-msgstr ""
+"Have I prepared my sample in a way that minimizes technical artifacts and "
+"lets me understand exactly which molecule(s) I am observing?"
+msgstr "技術的なアーチファクトを最小限に抑え、どの分子を観察しているかを正確に理解できるような方法でサンプルを準備しましたか？"
 
 #: ../../QuantitativeBioimaging.md:10
 msgid ""
-"Have I conducted my microscopy so that I minimize technical artifacts and"
-" am in the quantitative range of the detector attached to my microscope?"
-msgstr ""
+"Have I conducted my microscopy so that I minimize technical artifacts and am"
+" in the quantitative range of the detector attached to my microscope?"
+msgstr "技術的なアーチファクトを最小限に抑え、顕微鏡に取り付けられた検出器の定量範囲内で顕微鏡検査を行ったか？"
 
 #: ../../QuantitativeBioimaging.md:11
 msgid ""
-"Have I selected analysis metric(s) that truly answer my biological "
-"question and measured them in a way that minimizes technical artifacts?"
-msgstr ""
+"Have I selected analysis metric(s) that truly answer my biological question "
+"and measured them in a way that minimizes technical artifacts?"
+msgstr "生物学的な疑問に真に答える分析指標を選択し、技術的なアーチファクトを最小限に抑える方法で測定したか？"
 
 #: ../../QuantitativeBioimaging.md:12
 msgid ""
 "Have I chosen appropriate statistical comparisons and data presentation "
-"approaches so that the distribution of my metric(s) can be fairly "
-"compared across samples, answering my biolgical question?"
-msgstr ""
+"approaches so that the distribution of my metric(s) can be fairly compared "
+"across samples, answering my biolgical question?"
+msgstr "生物学的な疑問に答えるため、サンプル間で測定値の分布を公平に比較できるよう、適切な統計的比較とデータ提示のアプローチを選択したか？"
 
 #: ../../QuantitativeBioimaging.md:14
 msgid ""
-"Answering each of these questions requires thought, expertise, and often "
-"a fair amount of trial and error; it can feel overwhelming to grapple "
-"with all the technical aspects and caveats present in a bioimaging "
-"experiment. These questions **_can_** be answered, however, though often "
-"not in a single pass - [continuous optimization through multiple rounds "
-"of answering these questions](qb-decision-cycle) is typically needed for "
-"best results."
+"Answering each of these questions requires thought, expertise, and often a "
+"fair amount of trial and error; it can feel overwhelming to grapple with all"
+" the technical aspects and caveats present in a bioimaging experiment. These"
+" questions **_can_** be answered, however, though often not in a single pass"
+" - [continuous optimization through multiple rounds of answering these "
+"questions](qb-decision-cycle) is typically needed for best results."
 msgstr ""
+"バイオイメージング実験に存在するすべての技術的側面と注意事項に取り組むことは、圧倒されるように感じるかもしれない。しかし、これらの質問には**_can_**答えることができるが、一度では答えられないことが多い。最良の結果を得るためには、通常、[これらの質問に複数回答えることによる継続的な最適化](qb-"
+"decision-cycle)が必要である。"
 
 #: ../../QuantitativeBioimaging.md:16
 msgid ""
 "The resources linked in this guide are designed to help a reader develop "
-"skills in each or all of these areas, helping them get the most from "
-"their microscopy data."
+"skills in each or all of these areas, helping them get the most from their "
+"microscopy data."
 msgstr ""
+"本ガイドにリンクされているリソースは、読者がこれらの分野のそれぞれ、またはすべてのスキルを向上させ、顕微鏡データを最大限に活用できるように設計されている。"
 
 #: ../../QuantitativeBioimaging.md:25
 msgid "cycle"
-msgstr ""
+msgstr "サイクル"
 
 #: ../../QuantitativeBioimaging.md:25
 msgid ""
@@ -96,4 +102,7 @@ msgid ""
 "planning and performing quantitative bioimaging "
 "experiments_**](https://doi.org/10.1371/journal.pbio.3002167)."
 msgstr ""
-
+"**The decision cycle of quantitative bioimaging{cite}`Senft2023-zy`** Senft "
+"and Diaz-Rohrer et al, [**_A biologist's guide to planning and performing "
+"quantitative bioimaging "
+"experiments_**](https://doi.org/10.1371/journal.pbio.3002167) より転載。"
