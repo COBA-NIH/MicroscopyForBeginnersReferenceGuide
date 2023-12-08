@@ -79,7 +79,7 @@ msgstr ""
 
 #: ../../01_Sample_preparation/Considerations.md:11
 msgid "**Cultured cells**"
-msgstr "**Cellule coltivate**"
+msgstr "**Colture cellulari**"
 
 #: ../../01_Sample_preparation/Considerations.md:13
 msgid ""
