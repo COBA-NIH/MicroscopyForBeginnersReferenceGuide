@@ -122,8 +122,8 @@ msgid ""
 "timeline to perform an experiment"
 msgstr ""
 "Le cellule possono essere congelate, scongelate e coltivate molto più "
-"velocemente rispetto al lavoro con campioni più complessi come gli organoidi"
-" o gli organismi interi, comprimendo i tempi di esecuzione di un "
+"velocemente rispetto al lavoro richiesto da campioni più complessi come gli "
+"organoidi o gli interi organismi, riducendo i tempi di esecuzione di un "
 "esperimento."
 
 #: ../../01_Sample_preparation/Considerations.md:21
