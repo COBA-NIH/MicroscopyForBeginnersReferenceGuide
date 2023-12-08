@@ -74,7 +74,8 @@ msgstr ""
 "sono confini rigidi tra queste diverse categorie (ad esempio, sia le cellule"
 " che gli organoidi possono essere mantenuti in coltura 3D, molti di questi "
 "campioni possono essere osservati al microscopio prima o dopo essere stati "
-"fissati), ma alcuni vantaggi e svantaggi generali sono riassunti di seguito."
+"{term}`fissati`), ma alcuni vantaggi e svantaggi generali sono riassunti di "
+"seguito."
 
 #: ../../01_Sample_preparation/Considerations.md:11
 msgid "**Cultured cells**"
