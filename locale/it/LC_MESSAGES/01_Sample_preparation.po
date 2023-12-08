@@ -190,10 +190,10 @@ msgid ""
 msgstr ""
 "Poiché gli organoidi contengono più tipi di cellule e riflettono alcune "
 "strutture e relazioni cellulari osservate negli organi _in vivo_, sono "
-"adatti a domande più complesse sulle malattie e sulle interazioni cellula-"
+"adatti a domande più complesse sulle patologie e sulle interazioni cellula-"
 "cellula. Possono anche essere usati per modellare processi e strutture che "
-"sono necessariamente tridimensionali e non sono ben ricapitolati in uno "
-"strato piatto di cellule, come molti processi di sviluppo."
+"sono necessariamente 3D e non sono ben ricapitolati in un monostrato di "
+"cellule, come molti processi relativi allo sviluppo."
 
 #: ../../01_Sample_preparation/Considerations.md:35
 msgid ""
