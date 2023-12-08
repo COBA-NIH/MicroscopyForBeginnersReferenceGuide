@@ -96,7 +96,7 @@ msgstr ""
 #: ../../01_Sample_preparation/Considerations.md:49
 #: ../../01_Sample_preparation/Considerations.md:67
 msgid "_Advantages_"
-msgstr "Vantaggi"
+msgstr "_Vantaggi_"
 
 #: ../../01_Sample_preparation/Considerations.md:17
 msgid ""
