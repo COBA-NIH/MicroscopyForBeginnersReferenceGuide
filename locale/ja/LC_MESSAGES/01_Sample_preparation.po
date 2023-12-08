@@ -24,7 +24,7 @@ msgstr ""
 
 #: ../../01_Sample_preparation/Considerations.md:1
 msgid "Considerations for different sample types"
-msgstr "試料に応じた検討"
+msgstr "サンプルの検討"
 
 #: ../../01_Sample_preparation/Considerations.md:3
 msgid ""
