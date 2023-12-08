@@ -87,9 +87,9 @@ msgid ""
 " be grown in a monoculture, with only one cell type, or in a co-culture with"
 " multiple cell types."
 msgstr ""
-"È possibile coltivare o far crescere in un piatto molti tipi diversi di "
-"cellule. Le cellule possono essere coltivate in monocultura, con un solo "
-"tipo di cellula, o in co-coltura con più tipi di cellule."
+"È possibile mantenere in coltura molti tipi diversi di cellule. Le cellule "
+"possono essere mantenute in monocultura, con un solo tipo di cellula, o in "
+"co-coltura con più tipi di cellule."
 
 #: ../../01_Sample_preparation/Considerations.md:15
 #: ../../01_Sample_preparation/Considerations.md:31
