@@ -32,7 +32,7 @@ msgstr "サンプルの撮影"
 
 #: ../../welcome.md:1
 msgid "Image Analysis and Data Handling"
-msgstr "画像解析とデータハンドリング"
+msgstr "画像解析とデータ処理"
 
 #: ../../welcome.md:1
 msgid "Data Interpretation"
