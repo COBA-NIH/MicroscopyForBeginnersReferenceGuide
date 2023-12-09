@@ -121,7 +121,7 @@ msgid ""
 "interpretation are massive topics that we can't exhaustively cover in a "
 "guide for beginners."
 msgstr ""
-"本書はプロトコルやステップ・バイ・ステップのガイドブックではありません。バイオ画像解析はサンプルの準備からデータの解釈に至るまでのステップがそれぞれ膨大な内容を含むため、初心者向けのガイドがすべてを網羅することはできません。"
+"本書はプロトコルやステップ・バイ・ステップのガイドブックではありません。バイオ画像解析はサンプルの準備からデータの解釈に至るまでのステップがそれぞれ膨大であり、初心者向けのガイドがすべてを網羅することはできません。"
 
 #: ../../welcome.md:45
 msgid "How to use this book:"
