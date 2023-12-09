@@ -166,7 +166,7 @@ msgid ""
 "hope this structure helps guide users to a deeper understanding of each "
 "subtopic."
 msgstr ""
-"どの質問を使うか、また正確な言い回しはセクションによって異なるかもしれませんが、この構成が各サブトピックをより深く理解するための道しるべとなれば幸いです。"
+"どの質問を使うか、また正確な言い回しはセクションによって異なる可能性がありますが、この構成が各トピックをより深く理解するための道しるべとなれば幸いです。"
 
 #: ../../welcome.md:57
 msgid "What if my resource/topic is not included?"
