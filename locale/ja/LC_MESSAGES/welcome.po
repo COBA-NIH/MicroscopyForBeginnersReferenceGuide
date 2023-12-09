@@ -158,7 +158,7 @@ msgstr "どこでつまずきますか？"
 
 #: ../../welcome.md:53
 msgid "Where can I learn more? (links to resources)"
-msgstr "もっと詳しく知りたいのですが？(リソースへのリンク)"
+msgstr "もっと詳しく教えて(関連資料へのリンク)"
 
 #: ../../welcome.md:55
 msgid ""
