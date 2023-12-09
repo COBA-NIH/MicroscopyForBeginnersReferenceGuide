@@ -170,7 +170,7 @@ msgstr ""
 
 #: ../../welcome.md:57
 msgid "What if my resource/topic is not included?"
-msgstr "私のリソース/トピックがない時はどうすればいい？"
+msgstr "私のリソース/トピックがない時はどうすればいいですか？"
 
 #: ../../welcome.md:58
 msgid ""
