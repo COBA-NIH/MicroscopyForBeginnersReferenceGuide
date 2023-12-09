@@ -40,7 +40,7 @@ msgstr "データの解釈"
 
 #: ../../welcome.md:1
 msgid "Additional Resources"
-msgstr "その他のリソース"
+msgstr "関連資料"
 
 #: ../../welcome.md:1
 msgid "Welcome"
