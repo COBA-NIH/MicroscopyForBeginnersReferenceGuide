@@ -132,7 +132,7 @@ msgid ""
 "Please select a section using the navigation panel on the left to get "
 "started or begin with sample preparation by clicking the \"Next\" button "
 "below ↘️."
-msgstr "左側のナビゲーションパネルでセクションを選択するか、↘️ の下にある「次へ」ボタンをクリックして「サンプルの準備」から始めてください。"
+msgstr "左側のナビゲーションパネルでセクションを選択するか、↘️ の下にある「次へ」ボタンをクリックして「サンプルの準備」に進んでください。"
 
 #: ../../welcome.md:48
 msgid ""
