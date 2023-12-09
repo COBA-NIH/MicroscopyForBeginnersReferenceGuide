@@ -61,10 +61,9 @@ msgid ""
 "Institute).** Images shown are from experiments BBBC007, BBBC008, BBBC034, "
 "BBBC038, BBBC039, and BBBC020 from left to right, top to bottom."
 msgstr ""
-"**Montage of fluorescence microscopy images from "
-"[BBBC](https://bbbc.broadinstitute.org/){cite}`Ljosa2012-fr` (Broad "
-"Institute)。*** "
-"画像は左からBBBC007、BBBC008、BBBC034、BBBC038、BBBC039、BBBC020の実験によるもので、上から順にBBBC007、BBBC008、BBBC034、BBBC038、BBBC039、BBBC020。"
+"**[BBBC](https://bbbc.broadinstitute.org/){cite}`Ljosa2012-fr` (Broad "
+"Institute)に含まれる蛍光顕微鏡の画像。*** "
+"画像は左上からBBBC007、BBBC008、BBBC034、BBBC038、BBBC039、BBBC020の実験によるもの。"
 
 #: ../../welcome.md:13
 msgid "What is this book?"
