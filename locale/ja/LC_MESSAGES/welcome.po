@@ -67,7 +67,7 @@ msgstr ""
 
 #: ../../welcome.md:13
 msgid "What is this book?"
-msgstr "この本は何？"
+msgstr "この本について"
 
 #: ../../welcome.md:15
 msgid ""
