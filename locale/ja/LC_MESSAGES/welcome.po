@@ -78,9 +78,9 @@ msgid ""
 "set of resources for biologists looking to understand the factors that "
 "impact their fluorescence microscopy experiments."
 msgstr ""
-"本書は我々の論文\"[**_A biologist’s guide to planning and performing quantitative "
+"この本は我々の論文\"[**_A biologist’s guide to planning and performing quantitative "
 "bioimaging experiments_**](https://doi.org/10.1371/journal.pbio.3002167)\" "
-"{cite}`Senft2023-zy`に付随するものです。私たちの目標は、蛍光顕微鏡実験に影響を与える要因を理解しようとしている生物学者に、推奨事項と厳選されたリソースのセットを提供することです。"
+"{cite}`Senft2023-zy`に付随するものです。この本の目的は、生物学者が蛍光顕微鏡の実験に影響する要因を理解するにあたって、推奨事項と厳選された資料を提供することです。"
 
 #: ../../welcome.md:17
 msgid ""
