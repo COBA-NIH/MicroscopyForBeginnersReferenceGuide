@@ -62,7 +62,7 @@ msgid ""
 "BBBC038, BBBC039, and BBBC020 from left to right, top to bottom."
 msgstr ""
 "**[BBBC](https://bbbc.broadinstitute.org/){cite}`Ljosa2012-fr` (Broad "
-"Institute)に含まれる蛍光顕微鏡の画像。*** "
+"Institute)に含まれる蛍光顕微鏡画像。*** "
 "画像は左上からBBBC007、BBBC008、BBBC034、BBBC038、BBBC039、BBBC020の実験によるもの。"
 
 #: ../../welcome.md:13
