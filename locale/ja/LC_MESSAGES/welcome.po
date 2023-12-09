@@ -28,7 +28,7 @@ msgstr "サンプルの準備"
 
 #: ../../welcome.md:1
 msgid "Sample Acquisition"
-msgstr "サンプル取得"
+msgstr "サンプルの撮影"
 
 #: ../../welcome.md:1
 msgid "Image Analysis and Data Handling"
