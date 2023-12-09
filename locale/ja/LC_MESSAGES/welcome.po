@@ -40,7 +40,7 @@ msgstr "データの解釈"
 
 #: ../../welcome.md:1
 msgid "Additional Resources"
-msgstr "関連資料"
+msgstr "関連文献"
 
 #: ../../welcome.md:1
 msgid "Welcome"
@@ -67,7 +67,7 @@ msgstr ""
 
 #: ../../welcome.md:13
 msgid "What is this book?"
-msgstr "この本は何ですか？"
+msgstr "この本は何？"
 
 #: ../../welcome.md:15
 msgid ""
