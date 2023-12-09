@@ -138,7 +138,7 @@ msgstr "左側のナビゲーションパネルでセクションを選択する
 msgid ""
 "Most sections will guide you through individual subtopics using some or all "
 "of the following list of questions:"
-msgstr "ほとんどのセクションで、以下の質問リストを使います："
+msgstr "ほとんどのセクションで、以下のQ&Aを使って説明します："
 
 #: ../../welcome.md:49
 msgid "What is it?"
