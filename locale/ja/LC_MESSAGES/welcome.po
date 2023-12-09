@@ -121,7 +121,7 @@ msgid ""
 "interpretation are massive topics that we can't exhaustively cover in a "
 "guide for beginners."
 msgstr ""
-"本書はプロトコールやステップバイステップのガイドではありません。サンプルの前処理からデータの解釈まで、各サブセクションは膨大なトピックであり、初心者向けのガイドでは網羅しきれません。"
+"本書はプロトコルやステップ・バイ・ステップのガイドブックではありません（上記リンクの資料はそうかもしれませんが）。サンプルの前処理からデータの解釈まで、各サブセクションは膨大なトピックであり、初心者向けのガイドでは網羅しきれないからです。"
 
 #: ../../welcome.md:45
 msgid "How to use this book:"
