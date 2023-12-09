@@ -150,7 +150,7 @@ msgstr "どのような選択肢がありますか？"
 
 #: ../../welcome.md:51
 msgid "How do I do it?"
-msgstr "どうすればいい？"
+msgstr "どうすればいいですか？"
 
 #: ../../welcome.md:52
 msgid "Where can things go wrong?"
