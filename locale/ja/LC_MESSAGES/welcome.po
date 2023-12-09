@@ -24,7 +24,7 @@ msgstr ""
 
 #: ../../welcome.md:1
 msgid "Sample Preparation"
-msgstr "サンプルの準備"
+msgstr "Sample Preparation"
 
 #: ../../welcome.md:1
 msgid "Sample Acquisition"
