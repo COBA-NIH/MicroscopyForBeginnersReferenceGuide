@@ -36,7 +36,7 @@ msgstr "画像解析とデータハンドリング"
 
 #: ../../welcome.md:1
 msgid "Data Interpretation"
-msgstr "データ解釈"
+msgstr "データの解釈"
 
 #: ../../welcome.md:1
 msgid "Additional Resources"
