@@ -109,10 +109,10 @@ msgid ""
 " and [here](https://biii.eu/) {cite}`Paul-Gilloteaux2021-vw`). Our goal is "
 "to create a more streamlined, beginner-accessible guide."
 msgstr ""
-"本書は、すべてのリソースを網羅的にリストアップしたものではありません。このような優れたリソースは、他の多くの方々がキュレーションしています（[こちら](https://febs.onlinelibrary.wiley.com/doi/10.1002/1873-3468.14451){cite}`Haase2022-ad`"
+"本書は、すべての資料を網羅的にリストアップしたものではありません。そのような素晴らしい資料はたくさんあります。（[こちら](https://febs.onlinelibrary.wiley.com/doi/10.1002/1873-3468.14451){cite}`Haase2022-ad`"
 " や [こちら](https://www.bioimagingnorthamerica.org/training-education-"
-"resources/) や [こちら](https://biii.eu/){cite}`Paul-Gilloteaux2021-vw` "
-"をご覧ください）。私たちの目標は、より合理化された、初心者がアクセスしやすいガイドを作成することです。"
+"resources/) 、 [こちら](https://biii.eu/){cite}`Paul-Gilloteaux2021-vw` "
+"をご覧ください）。私たちの目標は、より簡潔で初心者に優しいガイドを作成することです。"
 
 #: ../../welcome.md:42
 msgid ""
