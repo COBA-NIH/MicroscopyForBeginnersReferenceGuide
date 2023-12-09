@@ -154,7 +154,7 @@ msgstr "どうすればいいですか？"
 
 #: ../../welcome.md:52
 msgid "Where can things go wrong?"
-msgstr "どこでうまくいかなくなるのか？"
+msgstr "どこでつまずきますか？"
 
 #: ../../welcome.md:53
 msgid "Where can I learn more? (links to resources)"
