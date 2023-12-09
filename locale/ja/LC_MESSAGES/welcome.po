@@ -142,7 +142,7 @@ msgstr "ほとんどのセクションで、以下の質問リストを使いま
 
 #: ../../welcome.md:49
 msgid "What is it?"
-msgstr "それは何？"
+msgstr "これは何ですか？"
 
 #: ../../welcome.md:50
 msgid "What are my options?"
