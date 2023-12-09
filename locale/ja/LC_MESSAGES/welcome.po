@@ -97,7 +97,7 @@ msgstr ""
 
 #: ../../welcome.md:39
 msgid "What **isn't** this book?"
-msgstr "この本ではないものについて"
+msgstr "この本で**扱わない**内容"
 
 #: ../../welcome.md:41
 msgid ""
