@@ -71,7 +71,7 @@ msgid ""
 "Have I chosen appropriate statistical comparisons and data presentation "
 "approaches so that the distribution of my metric(s) can be fairly compared "
 "across samples, answering my biolgical question?"
-msgstr "統計的比較とデータの表示は、サンプル間で測定値の分布を公平に比較できるよう、また生物学的な疑問に答えるように選択されていますか？"
+msgstr "統計的比較とデータの表示は、サンプル間で（複数の）測定値の分布を公平に比較できるよう、また生物学的な疑問に答えるように選択されていますか？"
 
 #: ../../QuantitativeBioimaging.md:14
 msgid ""
