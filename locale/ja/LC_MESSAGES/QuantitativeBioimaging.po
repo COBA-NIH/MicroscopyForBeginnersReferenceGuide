@@ -51,8 +51,7 @@ msgstr ""
 msgid ""
 "Have I prepared my sample in a way that minimizes technical artifacts and "
 "lets me understand exactly which molecule(s) I am observing?"
-msgstr ""
-"サンプルの準備の際、技術的なアーチファクトを最小限に抑え、どの分子（複数の場合もある）を観察しているかを正確に理解できるような方法で行いましたか？"
+msgstr "サンプルの準備の際、技術的なアーチファクトを最小限に抑え、どの（複数の）分子を観察しているかを正確に理解できるような方法で行いましたか？"
 
 #: ../../QuantitativeBioimaging.md:10
 msgid ""
