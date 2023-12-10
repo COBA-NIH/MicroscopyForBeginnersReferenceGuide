@@ -58,7 +58,8 @@ msgstr ""
 msgid ""
 "Have I conducted my microscopy so that I minimize technical artifacts and am"
 " in the quantitative range of the detector attached to my microscope?"
-msgstr "技術的なアーチファクトを最小限に抑え、顕微鏡に取り付けられた検出器の定量範囲内で顕微鏡検査を行ったか？"
+msgstr ""
+"顕微鏡での撮影の際、技術的なアーチファクトを最小限に抑え、顕微鏡に取り付けられた検出器の定量範囲内、つまり検出限界以上、定量下限以下で行ったか？"
 
 #: ../../QuantitativeBioimaging.md:11
 msgid ""
