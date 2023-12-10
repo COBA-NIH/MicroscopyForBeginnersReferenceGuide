@@ -5,6 +5,7 @@
 # 
 # Translators:
 # Beth Cimini, 2023
+# Haruhiko Morita, 2023
 # 
 #, fuzzy
 msgid ""
@@ -13,7 +14,7 @@ msgstr ""
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2023-06-28 07:29-0400\n"
 "PO-Revision-Date: 2023-05-02 18:49+0000\n"
-"Last-Translator: Beth Cimini, 2023\n"
+"Last-Translator: Haruhiko Morita, 2023\n"
 "Language-Team: Japanese (https://app.transifex.com/center-for-open-bioimage-analysis/teams/169123/ja/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -35,7 +36,7 @@ msgid ""
 "history, we now live in an era where microscope images can be used to "
 "precisely quantify observable phenotypes."
 msgstr ""
-"顕微鏡検査は、その歴史の大半において必然的に定性的な科学であったが、現在は顕微鏡画像を用いて観察可能な表現型を正確に定量化できる時代に生きている。"
+"顕微鏡は、その歴史の大半において定性的な科学に使われてきましたが、現在では顕微鏡画像を用いて観察可能な表現型を正確に定量化できるようになりました。"
 
 #: ../../QuantitativeBioimaging.md:7
 msgid ""
