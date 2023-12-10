@@ -91,8 +91,7 @@ msgid ""
 "The resources linked in this guide are designed to help a reader develop "
 "skills in each or all of these areas, helping them get the most from their "
 "microscopy data."
-msgstr ""
-"本ガイドにリンクされているリソースは、読者がこれらの分野のそれぞれ、またはすべてのスキルを向上させ、顕微鏡データを最大限に活用できるように設計されている。"
+msgstr "本ガイドにリンクされているリソースは、これらの分野のスキルを向上させ、顕微鏡データを最大限に活用できるように設計されています。"
 
 #: ../../QuantitativeBioimaging.md:25
 msgid "cycle"
