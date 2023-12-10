@@ -64,8 +64,7 @@ msgstr ""
 msgid ""
 "Have I selected analysis metric(s) that truly answer my biological question "
 "and measured them in a way that minimizes technical artifacts?"
-msgstr ""
-"自身の生物学的な疑問に真に答える分析指標（複数の場合もある）を選択しましたか？また、技術的なアーチファクトを最小限に抑える方法で計測しましたか？"
+msgstr "自身の生物学的な疑問に真に答える（複数の）分析指標を選択しましたか？また、技術的なアーチファクトを最小限に抑える方法で計測しましたか？"
 
 #: ../../QuantitativeBioimaging.md:12
 msgid ""
