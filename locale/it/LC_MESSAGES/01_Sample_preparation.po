@@ -221,9 +221,10 @@ msgid ""
 "widefield imaging and may require spinning disk or point-scanning confocal "
 "microscopy."
 msgstr ""
-"Poiché gli organoidi sono strutture tridimensionali, spesso non sono adatti "
-"all'imaging a largo campo e possono richiedere la microscopia confocale a "
-"disco rotante o a scansione puntiforme."
+"Poiché gli organoidi sono strutture 3D, spesso non sono adatti all'imaging a"
+" largo campo (o \"widefield\"), e possono richiedere la microscopia "
+"confocale a disco rotante (o \"spinning disk\") o a scansione puntiforme (o "
+"\"point-scanning\")."
 
 #: ../../01_Sample_preparation/Considerations.md:45
 msgid "**Tissue**"
