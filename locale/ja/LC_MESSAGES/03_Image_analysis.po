@@ -5,6 +5,7 @@
 # 
 # Translators:
 # Beth Cimini, 2023
+# Cheng-Yu Huang, 2023
 # 
 #, fuzzy
 msgid ""
@@ -13,7 +14,7 @@ msgstr ""
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2023-06-15 11:57-0400\n"
 "PO-Revision-Date: 2023-05-02 18:49+0000\n"
-"Last-Translator: Beth Cimini, 2023\n"
+"Last-Translator: Cheng-Yu Huang, 2023\n"
 "Language-Team: Japanese (https://app.transifex.com/center-for-open-bioimage-analysis/teams/169123/ja/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -46,7 +47,9 @@ msgstr "📏 どうやって測定するのか？"
 msgid ""
 "Phenotypic classification can be performed a few different ways. One way to "
 "break this down is by unsupervised vs. supervised classification."
-msgstr "表現型分類にはいくつかの方法がある。その1つが教師なし分類と教師あり分類である。"
+msgstr ""
+"表現型の分類にはいくつかの方法があります。その1つが教師なし分類(Unsupervised Learning)と教師あり分類(Supervised "
+"Learning)である。"
 
 #: ../../03_Image_analysis/Classification.md:12
 msgid ""
