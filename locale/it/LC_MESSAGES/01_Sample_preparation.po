@@ -212,8 +212,8 @@ msgid ""
 " more time than just growing cultured cells on glass or plastic."
 msgstr ""
 "La coltivazione di organoidi può richiedere risorse e protocolli più "
-"complessi e può richiedere più tempo rispetto alla semplice coltivazione di "
-"cellule coltivate su vetro o plastica."
+"complessi e può richiedere più tempo rispetto alla semplice coltura di "
+"cellule su vetro o plastica."
 
 #: ../../01_Sample_preparation/Considerations.md:41
 msgid ""
