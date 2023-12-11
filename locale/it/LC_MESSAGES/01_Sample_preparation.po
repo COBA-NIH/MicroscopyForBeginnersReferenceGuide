@@ -262,7 +262,7 @@ msgid ""
 "Repositories of donated human tissues enable biomedical research to study a "
 "diverse sample of patients with a particular disease."
 msgstr ""
-"I depositi di tessuti umani donati consentono alla ricerca biomedica di "
+"Le biobanche di tessuti umani donati consentono alla ricerca biomedica di "
 "studiare un campione diversificato di pazienti affetti da una particolare "
 "malattia."
 
