@@ -228,7 +228,7 @@ msgstr ""
 
 #: ../../01_Sample_preparation/Considerations.md:45
 msgid "**Tissue**"
-msgstr "**Tessuto**"
+msgstr "**Tessuti biologici**"
 
 #: ../../01_Sample_preparation/Considerations.md:47
 msgid ""
