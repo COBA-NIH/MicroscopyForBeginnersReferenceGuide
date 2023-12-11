@@ -274,8 +274,8 @@ msgid ""
 msgstr ""
 "Le cellule e i tessuti primari tendono a essere più sensibili all'ambiente "
 "rispetto alle linee cellulari immortalizzate, possono essere più difficili "
-"da coltivare e possono richiedere protocolli specializzati a seconda del "
-"tipo di cellula."
+"da mantenere in coltura e possono richiedere protocolli specializzati a "
+"seconda del tipo di cellula."
 
 #: ../../01_Sample_preparation/Considerations.md:59
 msgid ""
