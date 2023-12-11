@@ -203,7 +203,8 @@ msgid ""
 msgstr ""
 "Gli organoidi possono essere ottenuti da cellule staminali pluripotenti "
 "indotte (iPSC) provenienti da campioni umani o animali e possono quindi "
-"modellare processi patologici specifici di un determinato donatore umano."
+"fungere da modello di processi patologici specifici di un determinato "
+"donatore umano."
 
 #: ../../01_Sample_preparation/Considerations.md:39
 msgid ""
