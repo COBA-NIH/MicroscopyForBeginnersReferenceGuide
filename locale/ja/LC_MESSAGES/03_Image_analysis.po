@@ -48,8 +48,8 @@ msgid ""
 "Phenotypic classification can be performed a few different ways. One way to "
 "break this down is by unsupervised vs. supervised classification."
 msgstr ""
-"表現型の分類にはいくつかの方法があります。その1つが教師なし分類(Unsupervised Learning)と教師あり分類(Supervised "
-"Learning)である。"
+"物のフィーチャーに基づいた分類方法は大きくて二種類に分類できます。その一つが教師なし分類(Unsupervised "
+"Learning)で、もう一つは教師あり分類(Supervised Learning)です。"
 
 #: ../../03_Image_analysis/Classification.md:12
 msgid ""
