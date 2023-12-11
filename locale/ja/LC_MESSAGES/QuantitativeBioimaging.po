@@ -36,7 +36,7 @@ msgid ""
 "history, we now live in an era where microscope images can be used to "
 "precisely quantify observable phenotypes."
 msgstr ""
-"顕微鏡は、その歴史の大半において定性的な科学に使われてきましたが、現在では顕微鏡画像を用いて観察可能な表現型を正確に定量化できるようになりました。"
+"顕微鏡は、その歴史の大半において定性的な科学に使われてきましたが、現在は顕微鏡画像を用いて観察可能な表現型を正確に定量化できる時代になりました。"
 
 #: ../../QuantitativeBioimaging.md:7
 msgid ""
