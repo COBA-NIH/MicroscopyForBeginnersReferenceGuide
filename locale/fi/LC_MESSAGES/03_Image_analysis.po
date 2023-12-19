@@ -747,7 +747,7 @@ msgstr "CellProfilerin lataaminen"
 
 #: ../../03_Image_analysis/GeneralUseSoftware.md:53
 msgid "🌐 [CellProfiler download](https://cellprofiler.org/releases)"
-msgstr "🌐 [CellProfiler download](https://cellprofiler.org/releases)"
+msgstr "🌐 [CellProfiler lataus](https://cellprofiler.org/releases)"
 
 #: ../../03_Image_analysis/GeneralUseSoftware.md:55
 #: ../../03_Image_analysis/GeneralUseSoftware.md:84
