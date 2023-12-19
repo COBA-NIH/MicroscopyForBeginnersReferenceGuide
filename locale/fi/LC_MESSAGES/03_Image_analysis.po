@@ -1241,7 +1241,7 @@ msgstr "Keskustelufoorumi biokuvien analyysiohjelmistoille"
 
 #: ../../03_Image_analysis/Resources.md:13
 msgid "🌐 Peter Bankhead’s Intro to Bioimage Analysis"
-msgstr "🌐 Peter Bankheadin johdanto biokuvan analyysiin"
+msgstr "🌐 Peter Bankheadin johdanto biokuvantamisen analyysiin"
 
 #: ../../03_Image_analysis/Resources.md:14
 msgid "[link](https://bioimagebook.github.io/)"
