@@ -675,7 +675,7 @@ msgstr ""
 
 #: ../../03_Image_analysis/GeneralUseSoftware.md:24
 msgid "🌐 [ImageJ download](https://imagej.net/downloads)"
-msgstr "🌐 [ImageJ download](https://imagej.net/downloads)"
+msgstr "🌐 [Lataa ImageJ](https://imagej.net/downloads)"
 
 #: ../../03_Image_analysis/GeneralUseSoftware.md:26
 msgid ""
