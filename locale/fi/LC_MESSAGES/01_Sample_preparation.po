@@ -127,7 +127,7 @@ msgstr ""
 #: ../../01_Sample_preparation/Considerations.md:55
 #: ../../01_Sample_preparation/Considerations.md:71
 msgid "_Disadvantages_"
-msgstr "_Haitat_"
+msgstr "_Haasteet_"
 
 #: ../../01_Sample_preparation/Considerations.md:23
 msgid ""
