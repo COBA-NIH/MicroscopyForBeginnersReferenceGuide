@@ -872,7 +872,7 @@ msgstr "**Lyhyt kuvaus**"
 
 #: ../../01_Sample_preparation/Resources.md:11
 msgid "🌐 Microforum"
-msgstr "🌐 Mikrofoorumi"
+msgstr "🌐  Microforum"
 
 #: ../../01_Sample_preparation/Resources.md:12
 msgid "[link](https://forum.microlist.org/)"
