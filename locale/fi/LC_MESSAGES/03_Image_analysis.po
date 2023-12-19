@@ -2072,8 +2072,8 @@ msgid ""
 "🌐 [TrackMate Manual](https://imagej.net/media/plugins/trackmate/trackmate-"
 "manual.pdf)"
 msgstr ""
-"🌐 [TrackMate Manual](https://imagej.net/media/plugins/trackmate/trackmate-"
-"manual.pdf)"
+"🌐 [TrackMate "
+"käyttöohje](https://imagej.net/media/plugins/trackmate/trackmate-manual.pdf)"
 
 #: ../../03_Image_analysis/_notinyet_Common_pitfalls.md:1
 msgid "Common pitfalls"
