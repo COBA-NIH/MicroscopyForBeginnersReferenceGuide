@@ -61,7 +61,7 @@ msgstr ""
 
 #: ../../01_Sample_preparation/Considerations.md:11
 msgid "**Cultured cells**"
-msgstr "**培養細胞"
+msgstr "**培養細胞**"
 
 #: ../../01_Sample_preparation/Considerations.md:13
 msgid ""
