@@ -77,7 +77,7 @@ msgstr ""
 
 #: ../../01_Sample_preparation/Considerations.md:11
 msgid "**Cultured cells**"
-msgstr "**Viljellyt solut**"
+msgstr "**Soluviljely**"
 
 #: ../../01_Sample_preparation/Considerations.md:13
 msgid ""
