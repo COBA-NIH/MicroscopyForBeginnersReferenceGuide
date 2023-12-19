@@ -866,7 +866,7 @@ msgstr "Lataa Icy"
 
 #: ../../03_Image_analysis/GeneralUseSoftware.md:111
 msgid "🌐 [Icy download](https://icy.bioimageanalysis.org/download/)"
-msgstr "🌐 [Icy download](https://icy.bioimageanalysis.org/download/)"
+msgstr "🌐 [Icy lataus](https://icy.bioimageanalysis.org/download/)"
 
 #: ../../03_Image_analysis/GeneralUseSoftware.md:117
 msgid ""
