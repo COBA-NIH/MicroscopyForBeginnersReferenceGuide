@@ -1237,7 +1237,7 @@ msgstr "[linkki](https://forum.image.sc/)"
 
 #: ../../03_Image_analysis/Resources.md:12
 msgid "Discussion forum for bioimage analysis software"
-msgstr "Keskustelufoorumi biokuvan analyysiohjelmistoille"
+msgstr "Keskustelufoorumi biokuvien analyysiohjelmistoille"
 
 #: ../../03_Image_analysis/Resources.md:13
 msgid "🌐 Peter Bankhead’s Intro to Bioimage Analysis"
