@@ -856,7 +856,7 @@ msgstr ""
 
 #: ../../01_Sample_preparation/Resources.md:1
 msgid "Resources for learning more"
-msgstr "Resurssit lisätietojen saamiseksi"
+msgstr "Lisämateriaalit"
 
 #: ../../01_Sample_preparation/Resources.md:8
 msgid "**Resource Name**"
