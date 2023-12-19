@@ -85,9 +85,11 @@ msgid ""
 " be grown in a monoculture, with only one cell type, or in a co-culture with"
 " multiple cell types."
 msgstr ""
-"Monia erilaisia solutyyppejä voidaan viljellä tai kasvattaa lautasella. "
-"Soluja voidaan kasvattaa monokulttuurissa, jossa on vain yksi solutyyppi, "
-"tai yhteiskulttuurissa, jossa on useita solutyyppejä."
+"Soluja voidaan kasvattaa yksi- , tai monisoluviljelmissä. "
+"Yksisoluviljelmissä kasvatetaan vain yhden tyyppisiä soluja, kun taas "
+"monisoluviljelmissä voidaan kasvattaa soluja eri alkuperistä. Näitä "
+"viljelmiä voidaan kasvattaa joko solususpensiossa tai kiinteällä alustalla, "
+"kuten soluviljelymaljalla. "
 
 #: ../../01_Sample_preparation/Considerations.md:15
 #: ../../01_Sample_preparation/Considerations.md:31
