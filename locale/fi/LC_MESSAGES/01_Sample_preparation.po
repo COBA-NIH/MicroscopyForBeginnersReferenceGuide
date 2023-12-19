@@ -883,8 +883,8 @@ msgid ""
 "An online forum for discussing issues with and getting advice on sample "
 "preparation and microscopy"
 msgstr ""
-"Verkkofoorumi, jossa voidaan keskustella näytteiden valmisteluun ja "
-"mikroskopointiin liittyvistä kysymyksistä ja saada neuvoja."
+"Verkkofoorumi, jolla voi kysyä ja saada neuvoja näytteiden valmisteluun ja "
+"mikroskopiaan liittyvissä asioissa."
 
 #: ../../01_Sample_preparation/Resources.md:14
 msgid "🌐 FPbase {cite}`Lambert2019-xl`"
