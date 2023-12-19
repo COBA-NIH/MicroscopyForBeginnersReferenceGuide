@@ -1313,7 +1313,7 @@ msgid ""
 "📄 A Hitchhiker's guide through the bio-image analysis software universe "
 "{cite}`Haase2022-ad`"
 msgstr ""
-"📄 Liftaajan opas biokuvien analysointiohjelmistojen maailmankaikkeuden läpi "
+"📄 Liftarin opas biokuvien analysointiohjelmistojen maailmankaikkeuden läpi "
 "{cite}`Haase2022-ad`"
 
 #: ../../03_Image_analysis/Resources.md:26
