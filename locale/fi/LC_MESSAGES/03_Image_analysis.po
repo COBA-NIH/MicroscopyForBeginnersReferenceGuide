@@ -888,7 +888,7 @@ msgid ""
 msgstr ""
 "<img src=\"https://global.discourse-"
 "cdn.com/business4/uploads/imagej/optimized/3X/7/4/74273a1f9a663b52053d44c9767ed49193f2170f_2_787x750.png\""
-" alt=\"logo\" width=\"30px\"> MIB (mikroskooppikuvien selain)"
+" alt=\"logo\" width=\"30px\"> MIB (Microscopy Image Browser)"
 
 #: ../../03_Image_analysis/GeneralUseSoftware.md:124
 msgid ""
