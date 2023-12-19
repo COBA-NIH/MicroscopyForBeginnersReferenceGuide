@@ -120,9 +120,9 @@ msgid ""
 "complex specimens like organoids or whole organisms, compressing the "
 "timeline to perform an experiment"
 msgstr ""
-"Solut voidaan pakastaa, sulattaa ja kasvattaa paljon nopeammin kuin "
-"monimutkaisempien näytteiden, kuten organoidien tai kokonaisten organismien,"
-" kanssa työskentely, mikä lyhentää kokeen suorittamisen aikataulua."
+"Soluja voidaan pakastaa, sulattaa ja kasvattaa paljon nopeammin kuin "
+"monimutkaisempia näytteitä, kuten organoideja tai kokonaisia organismeja, "
+"mikä lyhentää kokeen suorittamisen aikataulua."
 
 #: ../../01_Sample_preparation/Considerations.md:21
 #: ../../01_Sample_preparation/Considerations.md:37
