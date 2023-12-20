@@ -222,7 +222,7 @@ msgstr ""
 
 #: ../../01_Sample_preparation/Considerations.md:45
 msgid "**Tissue**"
-msgstr "**Kudos**"
+msgstr "**Kudokset**"
 
 #: ../../01_Sample_preparation/Considerations.md:47
 msgid ""
