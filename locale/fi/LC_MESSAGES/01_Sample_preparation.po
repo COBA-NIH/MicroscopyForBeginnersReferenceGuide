@@ -216,8 +216,8 @@ msgid ""
 "widefield imaging and may require spinning disk or point-scanning confocal "
 "microscopy."
 msgstr ""
-"Koska organoidit ovat 3D-rakenteita, niitä ei useinkaan voida kuvata "
-"laajakenttäkuvauksella, vaan ne saattavat vaatia pyörivän levyn tai "
+"Organoidit ovat 3D-ryppäitä, ja siksi niitä ei useinkaan voida kuvata "
+"laajakenttämikroskoopilla. Ne saattavat vaatia pyörivän levyn tai "
 "pistekohtaisen konfokaalimikroskopian käyttöä."
 
 #: ../../01_Sample_preparation/Considerations.md:45
