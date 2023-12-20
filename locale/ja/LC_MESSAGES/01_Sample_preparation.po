@@ -68,7 +68,7 @@ msgid ""
 "Many different types of cells can be cultured, or grown in a dish. Cells can"
 " be grown in a monoculture, with only one cell type, or in a co-culture with"
 " multiple cell types."
-msgstr "様々な種類の細胞が培養できます。一種類の細胞だけを培養する単培養と複数の細胞種からなる共培養があります。"
+msgstr "様々な種類の細胞が培養できます。一種類の細胞だけを培養する単培養と、複数の細胞種を同時に培養する共培養があります。"
 
 #: ../../01_Sample_preparation/Considerations.md:15
 #: ../../01_Sample_preparation/Considerations.md:31
