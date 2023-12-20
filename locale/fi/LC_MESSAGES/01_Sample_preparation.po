@@ -206,8 +206,8 @@ msgid ""
 "Organoids can take more complex resources and protocols to grow and can take"
 " more time than just growing cultured cells on glass or plastic."
 msgstr ""
-"Organoidien kasvattaminen voi vaatia monimutkaisempia resursseja ja "
-"protokollia, ja siihen voi kulua enemmän aikaa kuin pelkkien solujen "
+"Organoidien kasvattaminen vaatii monimutkaisia kasvatusolosuhteita ja "
+"työvaiheita, ja siihen voi kulua enemmän aikaa kuin yksittäisten solujen "
 "kasvattamiseen lasilla tai muovilla."
 
 #: ../../01_Sample_preparation/Considerations.md:41
