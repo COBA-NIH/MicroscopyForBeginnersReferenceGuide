@@ -216,9 +216,9 @@ msgid ""
 "widefield imaging and may require spinning disk or point-scanning confocal "
 "microscopy."
 msgstr ""
-"Organoidit ovat 3D-ryppäitä, ja siksi niitä ei useinkaan voida kuvata "
-"laajakenttämikroskoopilla. Ne saattavat vaatia pyörivän levyn tai "
-"pistekohtaisen konfokaalimikroskopian käyttöä."
+"3D-rakenteisia organoideja ei yleensä pystytä kuvaamaan "
+"laajakenttämikroskoopilla, vaan ne usein vaativat konfokaalimikroskoopin "
+"käyttöä."
 
 #: ../../01_Sample_preparation/Considerations.md:45
 msgid "**Tissue**"
