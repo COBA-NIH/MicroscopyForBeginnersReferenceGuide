@@ -75,7 +75,7 @@ msgstr "様々な種類の細胞が培養できます。一種類の細胞だけ
 #: ../../01_Sample_preparation/Considerations.md:49
 #: ../../01_Sample_preparation/Considerations.md:67
 msgid "_Advantages_"
-msgstr "\"メリット"
+msgstr "利点"
 
 #: ../../01_Sample_preparation/Considerations.md:17
 msgid ""
