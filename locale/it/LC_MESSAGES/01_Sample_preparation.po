@@ -5,7 +5,7 @@
 # 
 # Translators:
 # Beth Cimini, 2023
-# Stefania Marcotti, 2023
+# Stefania Marcotti, 2024
 # 
 #, fuzzy
 msgid ""
@@ -14,7 +14,7 @@ msgstr ""
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2023-05-19 07:07-0400\n"
 "PO-Revision-Date: 2023-05-02 18:49+0000\n"
-"Last-Translator: Stefania Marcotti, 2023\n"
+"Last-Translator: Stefania Marcotti, 2024\n"
 "Language-Team: Italian (https://app.transifex.com/center-for-open-bioimage-analysis/teams/169123/it/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -282,8 +282,8 @@ msgid ""
 "Tissues harvested from a whole animal or plant require time for the "
 "development and growth of that specimen before harvesting."
 msgstr ""
-"I tessuti prelevati da un animale o da una pianta interi richiedono tempo "
-"per lo sviluppo e la crescita del campione prima del prelievo."
+"I tessuti prelevati interi da un animale o da una pianta richiedono tempo "
+"per lo sviluppo e la crescita prima del prelievo."
 
 #: ../../01_Sample_preparation/Considerations.md:63
 msgid "**Whole organism / embryo**"
