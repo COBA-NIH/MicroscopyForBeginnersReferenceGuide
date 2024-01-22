@@ -430,7 +430,7 @@ msgid ""
 "📄 Seeing is believing? A beginners' guide to practical pitfalls in image "
 "acquisition {cite}`North2006-sb`"
 msgstr ""
-"📄 Ver é acreditar? Um guia para iniciantes sobre armadilhas práticas na "
+"📄 Ver é acreditar? Um guia para iniciantes sobre os problemas práticao na "
 "aquisição de imagens {cite}`North2006-sb`"
 
 #: ../../02_Sample_acquisition/Resources.md:14
