@@ -543,7 +543,7 @@ msgstr "[link](https://www.youtube.com/@Microcourses)"
 msgid ""
 "Videos about microscopy from the microscopy cores at Harvard Medical School"
 msgstr ""
-"Vídeos sobre microscopia dos núcleos de microscopia da Harvard Medical "
+"Vídeos sobre microscopia da Core Facility de microscopia da Harvard Medical "
 "School"
 
 #: ../../02_Sample_acquisition/Resources.md:31
