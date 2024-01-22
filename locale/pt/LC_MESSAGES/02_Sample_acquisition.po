@@ -493,8 +493,8 @@ msgid ""
 "📄 Best practices and tools for reporting reproducible fluorescence "
 "microscopy methods {cite}`Montero_Llopis2021-nb`"
 msgstr ""
-"📄 Melhores práticas e ferramentas para relatar métodos de microscopia de "
-"fluorescência reproduzíveis {cite}`Montero_Llopis2021-nb`"
+"📄 Melhores práticas e ferramentas para relatar de forma reprodutivel métodos"
+" de microscopia de fluorescência  {cite}`Montero_Llopis2021-nb`"
 
 #: ../../02_Sample_acquisition/Resources.md:23
 msgid "[link](https://www.nature.com/articles/s41592-021-01156-w)"
