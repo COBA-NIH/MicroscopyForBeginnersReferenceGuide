@@ -422,8 +422,8 @@ msgid ""
 "Fundamentals of microscopy explained for beginners with lots of images and "
 "plain language descriptions of terms used in microscopy"
 msgstr ""
-"Fundamentos da microscopia explicados para iniciantes com muitas imagens e "
-"descrições em linguagem simples dos termos usados na microscopia"
+"Fundamentos de microscopia explicados para iniciantes com muitas imagens e "
+"descrições dos termos usados em microscopia com linguagem simples "
 
 #: ../../02_Sample_acquisition/Resources.md:13
 msgid ""
