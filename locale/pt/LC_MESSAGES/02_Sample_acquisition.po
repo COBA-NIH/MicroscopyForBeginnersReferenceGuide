@@ -463,7 +463,7 @@ msgid ""
 "Short overview of some of the most common pitfalls for beginners to "
 "fluorescence microscopy"
 msgstr ""
-"Breve visão geral de algumas das armadilhas mais comuns para iniciantes em "
+"Breve visão geral de algumas dos problemas mais comuns para iniciantes em "
 "microscopia de fluorescência"
 
 #: ../../02_Sample_acquisition/Resources.md:19
