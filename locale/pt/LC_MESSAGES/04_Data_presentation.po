@@ -645,7 +645,7 @@ msgid ""
 "💻 [t-SNE Python implementation](https://scikit-"
 "learn.org/stable/modules/generated/sklearn.manifold.TSNE.html)"
 msgstr ""
-"💻 [implementação t-SNE Python](https://scikit-"
+"💻 [Implementação t-SNE em Python](https://scikit-"
 "learn.org/stable/modules/generated/sklearn.manifold.TSNE.html)"
 
 #: ../../04_Data_presentation/Statistics.md:32
