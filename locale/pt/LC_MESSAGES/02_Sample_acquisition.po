@@ -471,7 +471,7 @@ msgid ""
 "📄 Tutorial: guidance for quantitative confocal microscopy "
 "{cite}`Jonkman2020-bo`"
 msgstr ""
-"📄 Tutorial: orientação para microscopia confocal quantitativa "
+"📄 Tutorial: guia para microscopia confocal quantitativa "
 "{cite}`Jonkman2020-bo`"
 
 #: ../../02_Sample_acquisition/Resources.md:20
