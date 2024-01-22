@@ -407,7 +407,7 @@ msgstr "**Link**"
 
 #: ../../02_Sample_acquisition/Resources.md:9
 msgid "**Brief description**"
-msgstr "**Descrição breve**"
+msgstr "**Breve descrição**"
 
 #: ../../02_Sample_acquisition/Resources.md:10
 msgid "🌐 Nikon MicroscopyU"
