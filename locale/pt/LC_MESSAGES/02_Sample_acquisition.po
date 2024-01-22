@@ -484,9 +484,9 @@ msgid ""
 "acquisition, and image analysis; primarily though not exclusively aimed at "
 "users of confocal microscopy"
 msgstr ""
-"Orientação passo a passo sobre considerações práticas para preparação de "
-"amostra, aquisição e análise de imagem; principalmente, embora não "
-"exclusivamente, destinado a usuários de microscopia confocal"
+"Guia passo a passo sobre considerações práticas para preparação de amostra, "
+"aquisição e análise de imagem; principalmente, embora não exclusivamente, "
+"destinado a usuários de microscopia confocal"
 
 #: ../../02_Sample_acquisition/Resources.md:22
 msgid ""
