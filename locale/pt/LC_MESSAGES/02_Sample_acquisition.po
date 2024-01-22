@@ -448,7 +448,7 @@ msgstr ""
 #: ../../02_Sample_acquisition/Resources.md:16
 msgid "📄 Fluorescence microscopy - avoiding the pitfalls {cite}`Brown2007-ou`"
 msgstr ""
-"📄 Microscopia de fluorescência - evitando as armadilhas {cite}`Brown2007-ou`"
+"📄 Microscopia de fluorescência - evitando os problemas {cite}`Brown2007-ou`"
 
 #: ../../02_Sample_acquisition/Resources.md:17
 msgid ""
