@@ -512,7 +512,7 @@ msgstr ""
 
 #: ../../02_Sample_acquisition/Resources.md:25
 msgid "🎥 iBiology Microscopy Short Course"
-msgstr "🎥 Curso de curta duração em Microscopia iBiologia"
+msgstr "🎥 iBiologia Curso de curta duração em Microscopia "
 
 #: ../../02_Sample_acquisition/Resources.md:26
 msgid ""
