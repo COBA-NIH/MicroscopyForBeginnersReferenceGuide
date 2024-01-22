@@ -367,7 +367,7 @@ msgstr ""
 
 #: ../../02_Sample_acquisition/Practical_considerations.md:30
 msgid "Acquisition power/speed"
-msgstr "Poder/velocidade de aquisição"
+msgstr "Potência/velocidade de aquisição"
 
 #: ../../02_Sample_acquisition/Practical_considerations.md:32
 msgid ""
