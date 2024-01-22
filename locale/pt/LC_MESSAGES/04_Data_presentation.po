@@ -637,7 +637,7 @@ msgid ""
 "💻 [UMAP introduction and Python implementation](https://umap-"
 "learn.readthedocs.io/en/latest/index.html)"
 msgstr ""
-"💻 [Introdução ao UMAP e implementação do Python](https://umap-"
+"💻 [Introdução ao UMAP e implementação em Python](https://umap-"
 "learn.readthedocs.io/en/latest/index.html)"
 
 #: ../../04_Data_presentation/Statistics.md:28
