@@ -527,7 +527,7 @@ msgid ""
 "An 8 hour video series consisting of 14 videos introducting major concepts "
 "in microscopy. A longer course with >70 videos is also available."
 msgstr ""
-"Uma série de vídeos de 8 horas composta por 14 vídeos que apresentam os "
+"Uma série composta por 14 vídeos totalizando 8 horas que introduzem os "
 "principais conceitos em microscopia. Um curso mais longo com mais de 70 "
 "vídeos também está disponível."
 
