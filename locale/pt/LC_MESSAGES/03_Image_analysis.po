@@ -88,8 +88,8 @@ msgstr ""
 "sobre quantas classes devem haver e exemplos de como cada classe deve ser "
 "para o computador aprender. Um exemplo disso pode ser anotar um subconjunto "
 "de células que estão em diferentes estágios de mitose e treinar um "
-"classificador para usar seus rótulos para encontrar outras células nesses "
-"estágios."
+"classificador para usar suas características para encontrar outras células "
+"nesses estágios."
 
 #: ../../03_Image_analysis/Classification.md:16
 msgid ""
