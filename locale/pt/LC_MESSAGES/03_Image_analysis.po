@@ -2099,7 +2099,7 @@ msgstr ""
 
 #: ../../03_Image_analysis/_notinyet_Common_pitfalls.md:1
 msgid "Common pitfalls"
-msgstr "Armadilhas comuns"
+msgstr "Obstáculos comuns"
 
 #: ../../03_Image_analysis/_notinyet_Common_pitfalls.md:3
 msgid ""
