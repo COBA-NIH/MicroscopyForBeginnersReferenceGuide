@@ -1707,7 +1707,7 @@ msgstr ""
 
 #: ../../03_Image_analysis/Software.md:0
 msgid "QuPath"
-msgstr "QuPathGenericName"
+msgstr "QuPath"
 
 #: ../../03_Image_analysis/Software.md:39
 msgid ""
