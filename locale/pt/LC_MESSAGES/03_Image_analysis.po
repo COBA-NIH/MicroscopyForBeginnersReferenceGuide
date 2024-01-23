@@ -655,7 +655,7 @@ msgid ""
 msgstr ""
 "As operações de processamento de imagem são feitas uma de cada vez, embora "
 "tenha a capacidade de processar em lote e criar macros, mas requer algum "
-"conhecimento de codificação."
+"conhecimento de linguagem de programação."
 
 #: ../../03_Image_analysis/GeneralUseSoftware.md:15
 msgid ""
