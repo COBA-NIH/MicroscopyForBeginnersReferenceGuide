@@ -1357,8 +1357,9 @@ msgid ""
 "Repository platform for searching bioimage analysis tools and workflows "
 "based on the problem, method or software of choice"
 msgstr ""
-"Plataforma de repositório para pesquisar ferramentas de análise de bioimagem"
-" e fluxos de trabalho com base no problema, método ou software de escolha"
+"Plataforma no formato de repositório para pesquisar ferramentas de análise "
+"de bioimagem e fluxos de trabalho com base no problema, método ou software "
+"de escolha"
 
 #: ../../03_Image_analysis/Resources.md:31
 msgid "🎥 iBiology Bioimage Analysis video series"
