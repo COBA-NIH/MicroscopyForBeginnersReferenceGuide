@@ -2158,7 +2158,7 @@ msgstr "imagem"
 
 #: ../../03_Image_analysis/_notinyet_Image_processing.md:1
 msgid "Image Processing"
-msgstr "Processamento de imagem"
+msgstr "Processamento da imagem"
 
 #: ../../03_Image_analysis/_notinyet_Image_segmentation.md:1
 msgid "Image Segmentation"
