@@ -1863,9 +1863,9 @@ msgid ""
 "Object {term}`segmentation`, most trained models are for cell "
 "{term}`segmentation` but could be applied to segment other similar objects"
 msgstr ""
-"Objeto {term}`segmentation`, a maioria dos modelos treinados são para a "
-"célula {term}`segmentation`, mas podem ser aplicados para segmentar outros "
-"objetos semelhantes"
+"{term}`Segmentação` de objeto, a maioria dos modelos treinados são para a "
+"{term}`segmentação` de células, mas podem ser aplicados para segmentar "
+"outros objetos semelhantes"
 
 #: ../../03_Image_analysis/SpecificUseSoftware.md:20
 msgid "Its use requires some computational knowledge."
