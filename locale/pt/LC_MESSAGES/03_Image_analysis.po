@@ -36,8 +36,8 @@ msgid ""
 "different groups based on their features (aka measurements)."
 msgstr ""
 "Simplificando, a classificação fenotípica trata de categorizar objetos em "
-"diferentes grupos com base em seus recursos (também conhecidos como "
-"medições)."
+"diferentes grupos com base em seus aspectos (também conhecidos como "
+"medidas)."
 
 #: ../../03_Image_analysis/Classification.md:0
 #: ../../03_Image_analysis/Colocalization.md:0
