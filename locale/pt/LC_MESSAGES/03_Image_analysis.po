@@ -1856,7 +1856,7 @@ msgstr ""
 
 #: ../../03_Image_analysis/SpecificUseSoftware.md:0
 msgid "What type of image analysis problem is it best at?"
-msgstr "Em que tipo de problema de análise de imagem é melhor?"
+msgstr "Em que tipo de problema de análise de imagem este software é melhor?"
 
 #: ../../03_Image_analysis/SpecificUseSoftware.md:13
 msgid ""
