@@ -1806,7 +1806,7 @@ msgstr ""
 
 #: ../../03_Image_analysis/Software.md:0
 msgid "Piximi"
-msgstr "piximi"
+msgstr "Piximi"
 
 #: ../../03_Image_analysis/Software.md:93
 msgid ""
