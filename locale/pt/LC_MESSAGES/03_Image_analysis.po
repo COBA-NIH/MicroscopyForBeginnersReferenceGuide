@@ -1327,7 +1327,7 @@ msgid ""
 "📄 A Hitchhiker's guide through the bio-image analysis software universe "
 "{cite}`Haase2022-ad`"
 msgstr ""
-"📄 O guia do mochileiro através do universo do software de análise de "
+"📄 O guia do mochileiro através do universo dos softwares de análise de "
 "bioimagem {cite}`Haase2022-ad`"
 
 #: ../../03_Image_analysis/Resources.md:26
