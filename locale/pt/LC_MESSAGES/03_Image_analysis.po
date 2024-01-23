@@ -1054,7 +1054,7 @@ msgstr ""
 
 #: ../../03_Image_analysis/Intensity.md:7
 msgid "**Texture measurements**: the smoothness of the intensities"
-msgstr "**Medições de textura**: a suavidade das intensidades"
+msgstr "**Medidas de textura**: a suavidade das intensidades"
 
 #: ../../03_Image_analysis/Intensity.md:13
 msgid ""
