@@ -1829,9 +1829,9 @@ msgid ""
 "focus, see the [General Use Software](./GeneralUseSoftware.md) page."
 msgstr ""
 "As ferramentas nesta página tendem a ser extremamente boas em determinadas "
-"tarefas, mas são menos destinadas a uma ampla gama de casos de uso. Para "
-"ferramentas com áreas de foco mais amplas, consulte a página [Software de "
-"uso geral](./GeneralUseSoftware.md)."
+"tarefas, mas são menos destinadas a usos mais comuns. Para ferramentas com "
+"áreas de foco mais amplas, consulte a página [Software de uso "
+"geral](./GeneralUseSoftware.md)."
 
 #: ../../03_Image_analysis/SpecificUseSoftware.md:6
 msgid ""
