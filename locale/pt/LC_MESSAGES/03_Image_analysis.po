@@ -1458,8 +1458,9 @@ msgid ""
 "A collection of Python Jupyter notebooks for BioImageAnalysis, GPU-"
 "accelerated image processing, bio-image data science and more"
 msgstr ""
-"Uma coleção de notebooks Python Jupyter para BioImageAnalysis, processamento"
-" de imagem acelerado por GPU, bio-image data science e muito mais"
+"Uma coleção de notebooks no formato Python Jupyter para análise de "
+"bioimagens, processamento de imagem acelerado por GPU, ciência de dados em "
+"bioimagem bio-image e muito mais"
 
 #: ../../03_Image_analysis/Shape.md:1
 msgid "Size and Shape measurements"
