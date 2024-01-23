@@ -1042,7 +1042,7 @@ msgstr ""
 
 #: ../../03_Image_analysis/Intensity.md:5
 msgid "**Mean intensity**: the average intensity across all pixels"
-msgstr "**Intensidade média**: a intensidade média em todos os pixels"
+msgstr "**Intensidade média**: a intensidade média de todos os pixels"
 
 #: ../../03_Image_analysis/Intensity.md:6
 msgid ""
