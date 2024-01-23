@@ -1377,7 +1377,7 @@ msgid ""
 msgstr ""
 "Série de vídeos que apresenta a análise de bioimagem, incluindo visões "
 "gerais de {term}`processamento de imagem`, {term}`segmentação`, "
-"rastreamento, realização e interpretação de medições, dicas e armadilhas"
+"rastreamento, medições e interpretação de dados, dicas e obstáculos"
 
 #: ../../03_Image_analysis/Resources.md:34
 msgid "🌐 Bioimage ANalysis Desktop (BAND)"
