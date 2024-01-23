@@ -1096,8 +1096,8 @@ msgstr ""
 "Para entender a saturação de outra maneira, imagine que você está tentando "
 "medir a altura média masculina com uma fita métrica de 2 metros. Se nossa "
 "amostra contiver homens com mais de 2 metros de altura, não podemos dizer "
-"_quanto mais altos_ eles têm; eles são como pixels saturados que excedem a "
-"intensidade que podemos detectar. Essa saturação de nossa ferramenta de "
+"_quanto mais altos_ eles são; eles são como pixels saturados que excedem a "
+"intensidade que podemos detectar. Essa saturação da nossa ferramenta de "
 "medição significa que não podemos relatar com precisão a altura média."
 
 #: ../../03_Image_analysis/Intensity.md:38
