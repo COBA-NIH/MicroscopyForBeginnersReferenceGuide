@@ -1409,9 +1409,9 @@ msgid ""
 " and workflows, making it easy to create and share reproducible FAIR "
 "workflows"
 msgstr ""
-"Um nó Galaxy pré-preenchido com várias ferramentas e fluxos de trabalho de "
-"análise de imagem de código aberto, facilitando a criação e o "
-"compartilhamento de fluxos de trabalho FAIR reproduzíveis"
+"Ambiente Galaxy pré-preenchido com várias ferramentas e fluxos de trabalho "
+"de análise de imagem de código aberto, facilitando a criação e o "
+"compartilhamento de fluxos de trabalho respeitando os parametros FAIR "
 
 #: ../../03_Image_analysis/Resources.md:40
 msgid "🌐 Image Analysis Training Resources"
