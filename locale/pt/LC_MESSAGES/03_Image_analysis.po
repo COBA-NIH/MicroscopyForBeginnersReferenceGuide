@@ -861,7 +861,7 @@ msgid ""
 msgstr ""
 "[Icy](https://icy.bioimageanalysis.org/) {cite}`De_Chaumont2012-pe` é uma "
 "ferramenta de análise de imagem pronta para uso, que utiliza plugins para "
-"criar protocolos de análise de imagem visual que podem ser compartilhados "
+"criar protocolos visuais de análise de imagem que podem ser compartilhados "
 "com outros usuários."
 
 #: ../../03_Image_analysis/GeneralUseSoftware.md:102
