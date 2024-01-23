@@ -1442,7 +1442,7 @@ msgid ""
 "A curated [AwesomeList](https://github.com/sindresorhus/awesome) of "
 "resources related to bioimage analysis"
 msgstr ""
-"Uma [AwesomeList](https://github.com/sindresorhus/awesome) com curadoria de "
+"Uma lista curada [AwesomeList](https://github.com/sindresorhus/awesome) de "
 "recursos relacionados à análise de bioimagem"
 
 #: ../../03_Image_analysis/Resources.md:46
