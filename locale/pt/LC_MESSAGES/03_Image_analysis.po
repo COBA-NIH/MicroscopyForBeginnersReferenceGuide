@@ -823,8 +823,8 @@ msgid ""
 "scripting and knowledge of coding (or adapting other’s code) is necessary"
 msgstr ""
 "Para obter o máximo do QuPath (especialmente ao analisar muitas imagens), é "
-"necessário algum script e conhecimento de codificação (ou adaptação do "
-"código de outras pessoas)."
+"necessário codigos básicos e algum conhecimento de linguagem de programação "
+"(ou adaptação do código de outras pessoas)."
 
 #: ../../03_Image_analysis/GeneralUseSoftware.md:78
 msgid "To download QuPath"
