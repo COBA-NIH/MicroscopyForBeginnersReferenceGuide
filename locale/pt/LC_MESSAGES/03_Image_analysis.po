@@ -380,10 +380,9 @@ msgid ""
 " fluorescent label is present). Noise, uneven illumination, and other "
 "technical artifacts can cause correlation between two channels"
 msgstr ""
-"**Não ter controles adequados** (por exemplo, controles de marcação simples "
-"onde apenas um marcador fluorescente está presente). Ruído, iluminação "
-"irregular e outros artefatos técnicos podem causar a correlação entre dois "
-"canais"
+"**Não ter controles adequados** (por exemplo, controles monomarcados onde "
+"apenas um marcador fluorescente está presente). Ruído, iluminação irregular "
+"e outros artefatos técnicos podem causar a correlação entre dois canais"
 
 #: ../../03_Image_analysis/Colocalization.md:56
 msgid ""
