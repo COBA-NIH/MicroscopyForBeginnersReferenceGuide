@@ -343,8 +343,8 @@ msgid ""
 "There are two main branches for how to look at colocalization: Object-based "
 "and correlation-based."
 msgstr ""
-"Existem dois ramos principais de como olhar para colocalização: baseado em "
-"objeto e baseado em correlação."
+"Existem duas formas principais de se olhar para a colocalização: baseada em "
+"objeto e baseada em correlação."
 
 #: ../../03_Image_analysis/Colocalization.md:30
 msgid ""
