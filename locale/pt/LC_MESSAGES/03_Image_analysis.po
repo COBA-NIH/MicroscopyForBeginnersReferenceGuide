@@ -1250,7 +1250,7 @@ msgstr "[link](https://forum.image.sc/)"
 
 #: ../../03_Image_analysis/Resources.md:12
 msgid "Discussion forum for bioimage analysis software"
-msgstr "Fórum de discussão para software de análise de bioimagem"
+msgstr "Fórum de discussão de software de análise de bioimagem"
 
 #: ../../03_Image_analysis/Resources.md:13
 msgid "🌐 Peter Bankhead’s Intro to Bioimage Analysis"
