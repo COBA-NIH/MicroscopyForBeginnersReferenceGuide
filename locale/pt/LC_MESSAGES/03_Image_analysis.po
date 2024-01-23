@@ -1850,9 +1850,9 @@ msgid ""
 " annotations."
 msgstr ""
 "[Cellpose](https://www.cellpose.org/) {cite}`Stringer2021-uq` é um algoritmo"
-" {term}`segmentation`, fornece uma interface gráfica do usuário que permite "
-"aos usuários usar modelos treinados ou treinar seus próprios usando seus "
-"imagens e anotações."
+" de {term}`segmentação`, que fornece uma interface gráfica do usuário em que"
+" permite aos usuários usar modelos treinados ou treinar seus próprios usando"
+" suas imagens e anotações."
 
 #: ../../03_Image_analysis/SpecificUseSoftware.md:0
 msgid "What type of image analysis problem is it best at?"
