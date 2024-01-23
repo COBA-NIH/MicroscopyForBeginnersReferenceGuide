@@ -675,7 +675,7 @@ msgstr "Como baixar/instalar e saber mais?"
 #: ../../03_Image_analysis/GeneralUseSoftware.md:20
 msgid "To download ImageJ or its “batteries-included” distribution Fiji go to"
 msgstr ""
-"Para baixar o ImageJ ou sua distribuição de “baterias inclusas” em Fiji, "
+"Para baixar o ImageJ ou sua distribuição Fiji com “plugins incluidas”, "
 "acesse"
 
 #: ../../03_Image_analysis/GeneralUseSoftware.md:24
