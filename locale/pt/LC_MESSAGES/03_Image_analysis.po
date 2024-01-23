@@ -1049,8 +1049,8 @@ msgid ""
 "**Integrated intensity**: the sum of pixel intensities, a proxy for the "
 "total amount of that marker in an object"
 msgstr ""
-"**Intensidade integrada**: a soma das intensidades dos pixels, um proxy para"
-" a quantidade total desse marcador em um objeto"
+"**Intensidade integrada**: a soma das intensidades dos pixels, um indicador "
+"da quantidade total desse marcador em um objeto"
 
 #: ../../03_Image_analysis/Intensity.md:7
 msgid "**Texture measurements**: the smoothness of the intensities"
