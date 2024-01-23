@@ -851,7 +851,7 @@ msgid ""
 msgstr ""
 " <img src=\"https://icy.bioimageanalysis.org/wp-"
 "content/uploads/2018/07/logo_full_notext600px.png\" alt=\"logo\" "
-"width=\"30px\"> Gelado"
+"width=\"30px\"> Icy"
 
 #: ../../03_Image_analysis/GeneralUseSoftware.md:95
 msgid ""
