@@ -1238,7 +1238,7 @@ msgstr "**Link**"
 
 #: ../../03_Image_analysis/Resources.md:9
 msgid "**Brief description**"
-msgstr "**Descrição breve**"
+msgstr "**Breve descrição**"
 
 #: ../../03_Image_analysis/Resources.md:10
 msgid "🌐 Image.sc {cite}`Rueden2019-qp`"
