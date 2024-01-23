@@ -980,7 +980,7 @@ msgstr ""
 
 #: ../../03_Image_analysis/GeneralUseSoftware.md:166
 msgid "To download napari"
-msgstr "Para baixar napari"
+msgstr "Para baixar o napari"
 
 #: ../../03_Image_analysis/GeneralUseSoftware.md:170
 msgid ""
