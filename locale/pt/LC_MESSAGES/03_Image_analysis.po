@@ -200,8 +200,8 @@ msgstr ""
 "Existem ferramentas interativas como [CellProfiler "
 "Analyst](https://academic.oup.com/bioinformatics/article/32/20/3210/2196630)"
 " {cite}`Stirling2021-ov` e [Piximi](https://www. piximi.app/) que facilitam "
-"o treinamento de um classificador, especialmente se você não souber "
-"codificar."
+"o treinamento de um classificador, especialmente se você não sabe linguagem "
+"de programação."
 
 #: ../../03_Image_analysis/Classification.md:26
 msgid ""
