@@ -1447,7 +1447,7 @@ msgstr ""
 
 #: ../../03_Image_analysis/Resources.md:46
 msgid "🌐 Bioimage Analysis Notebooks"
-msgstr "🌐 Cadernos de Análise de Bioimagem"
+msgstr "🌐 Bioimage Analysis Notebooks"
 
 #: ../../03_Image_analysis/Resources.md:47
 msgid "[link](https://haesleinhuepf.github.io/BioImageAnalysisNotebooks/)"
