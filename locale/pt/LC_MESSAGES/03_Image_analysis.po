@@ -1341,7 +1341,7 @@ msgid ""
 "An article that gives guidance and a glossary of available image analysis "
 "software and packages"
 msgstr ""
-"Um artigo que fornece orientação e um glossário de software e pacotes de "
+"Um artigo que fornece orientação e um glossário de softwares e pacotes de "
 "análise de imagem disponíveis"
 
 #: ../../03_Image_analysis/Resources.md:28
