@@ -870,7 +870,7 @@ msgstr "A interoperabilidade do Icy com outros softwares é limitada ao ImageJ"
 
 #: ../../03_Image_analysis/GeneralUseSoftware.md:107
 msgid "To download Icy"
-msgstr "Para baixar o Ice"
+msgstr "Para baixar o Icy"
 
 #: ../../03_Image_analysis/GeneralUseSoftware.md:111
 msgid "🌐 [Icy download](https://icy.bioimageanalysis.org/download/)"
