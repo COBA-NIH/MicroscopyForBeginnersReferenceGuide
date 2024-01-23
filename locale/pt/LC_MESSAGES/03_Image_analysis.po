@@ -1301,8 +1301,8 @@ msgid ""
 "An article reviewing major pitfalls in image handling and how to avoid them "
 "and create reproducible analysis workflows"
 msgstr ""
-"Um artigo analisando as principais armadilhas no manuseio de imagens e como "
-"evitá-las e criar fluxos de trabalho de análise reproduzíveis"
+"Um artigo analisando as principais dificuldades no manuseio de imagens e "
+"como evitá-las e criar fluxos de trabalho de análise reproduzíveis"
 
 #: ../../03_Image_analysis/Resources.md:22
 msgid ""
