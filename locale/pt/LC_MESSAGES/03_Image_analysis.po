@@ -1267,8 +1267,8 @@ msgid ""
 "understanding"
 msgstr ""
 "Guia para iniciantes absolutos em análise de imagens, incluindo "
-"perguntas/respostas incorporadas, exercícios com Python e ImageJ e vídeos "
-"para verificar a compreensão"
+"perguntas/respostas, exercícios com Python e ImageJ e vídeos para checar a "
+"compreensão"
 
 #: ../../03_Image_analysis/Resources.md:16
 msgid "📖 Bioimage Data Analysis {cite}`Miura2016-wq`"
