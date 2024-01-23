@@ -52,7 +52,7 @@ msgid ""
 "break this down is by unsupervised vs. supervised classification."
 msgstr ""
 "A classificação fenotípica pode ser realizada de algumas maneiras "
-"diferentes. Uma maneira de simplificar isso é pela classificação não "
+"diferentes. Uma maneira de decompor isso é pela classificação não "
 "supervisionada versus supervisionada."
 
 #: ../../03_Image_analysis/Classification.md:12
