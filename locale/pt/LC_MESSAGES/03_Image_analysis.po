@@ -764,7 +764,7 @@ msgstr "🌐 [Baixe o CellProfiler](https://cellprofiler.org/releases)"
 #: ../../03_Image_analysis/GeneralUseSoftware.md:172
 #: ../../03_Image_analysis/SpecificUseSoftware.md:59
 msgid "For documentation examples and  tutorials."
-msgstr "Para exemplos de documentação e tutoriais."
+msgstr "Para documentação, exemplos e tutoriais."
 
 #: ../../03_Image_analysis/GeneralUseSoftware.md:59
 msgid ""
