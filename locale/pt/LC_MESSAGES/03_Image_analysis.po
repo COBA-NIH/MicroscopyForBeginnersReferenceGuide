@@ -1503,8 +1503,8 @@ msgid ""
 "Shape measurements describe the 2D or 3D form of objects in our sample. "
 "Common shape measurements include:"
 msgstr ""
-"As medições de forma descrevem a forma 2D ou 3D dos objetos em nossa "
-"amostra. Medidas de forma comuns incluem:"
+"As medidas de forma descrevem a forma 2D ou 3D dos objetos em nossa amostra."
+" Medidas comuns de forma incluem:"
 
 #: ../../03_Image_analysis/Shape.md:13
 msgid ""
