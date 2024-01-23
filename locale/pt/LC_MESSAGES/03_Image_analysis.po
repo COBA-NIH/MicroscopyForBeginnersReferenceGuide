@@ -1346,7 +1346,7 @@ msgstr ""
 
 #: ../../03_Image_analysis/Resources.md:28
 msgid "🌐 BioImage Informatics Index"
-msgstr "🌐 Índice de Informática BioImagem"
+msgstr "🌐  BioImage Informatics Index"
 
 #: ../../03_Image_analysis/Resources.md:29
 msgid "[link](https://biii.eu/)"
