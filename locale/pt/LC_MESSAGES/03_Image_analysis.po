@@ -1431,7 +1431,7 @@ msgstr ""
 
 #: ../../03_Image_analysis/Resources.md:43
 msgid "🌐 Bioimage Analysis AwesomeList"
-msgstr "🌐 AwesomeList de análise de bioimagem"
+msgstr "🌐 Bioimage Analysis AwesomeList"
 
 #: ../../03_Image_analysis/Resources.md:44
 msgid "[link](https://github.com/hallvaaw/awesome-biological-image-analysis)"
