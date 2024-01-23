@@ -1080,8 +1080,8 @@ msgstr ""
 "imagem` para compensar o padrão irregular de iluminação produzido pela "
 "maioria das fontes de luz, onde o meio do campo de iluminação é mais claro "
 "que as bordas. Em seguida, as medições de intensidade podem ser feitas em "
-"qualquer software de análise de imagem padrão, seja em toda a imagem ou em "
-"objetos identificados. Veja abaixo um exemplo de fluxo de trabalho:"
+"qualquer software de análise de imagem, seja em toda a imagem ou em objetos "
+"identificados. Veja abaixo um exemplo de fluxo de trabalho:"
 
 #: ../../03_Image_analysis/Intensity.md:35
 msgid ""
