@@ -353,9 +353,9 @@ msgid ""
 " (e.g., 99% of eGFP+ cells were also mCherry+). Here’s a sample workflow:"
 msgstr ""
 "A **colocalização baseada em objetos** é apropriada quando você deseja dizer"
-" algo sobre uma fração de objetos sendo positiva para vários rótulos (por "
-"exemplo, 99% das células eGFP+ também eram mCherry+). Aqui está um exemplo "
-"de fluxo de trabalho:"
+" algo sobre uma fração de um objeto que é positiva para outros marcadores "
+"(por exemplo, 99% das células eGFP+ também eram mCherry+). Aqui está um "
+"exemplo do fluxo de trabalho:"
 
 #: ../../03_Image_analysis/Colocalization.md:51
 msgid ""
