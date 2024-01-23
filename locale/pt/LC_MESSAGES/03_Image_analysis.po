@@ -2009,7 +2009,7 @@ msgstr "Rastreamento de objetos"
 
 #: ../../03_Image_analysis/Tracking.md:3
 msgid "What is tracking?"
-msgstr "O que é rastreamento?"
+msgstr "O que é o rastreamento?"
 
 #: ../../03_Image_analysis/Tracking.md:4
 msgid ""
