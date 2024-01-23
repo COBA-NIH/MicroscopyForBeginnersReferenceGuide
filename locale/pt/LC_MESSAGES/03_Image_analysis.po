@@ -285,8 +285,8 @@ msgid ""
 "Cell Visualization](https://doi.org/10.1002/cpz1.713) "
 "{cite}`GarciaFossaCruz2023`"
 msgstr ""
-"📄 [Interpretando Perfis Baseados em Imagens Usando Similarity Clustering and"
-" Single-Cell Visualization](https://doi.org/10.1002/cpz1.713) "
+"📄 [Interpretando Perfis Baseados em Imagens Usando Matriz de Similaridade e "
+"Visualização de Células Isoladas](https://doi.org/10.1002/cpz1.713) "
 "{cite}`GarciaFossaCruz2023`"
 
 #: ../../03_Image_analysis/Colocalization.md:1
