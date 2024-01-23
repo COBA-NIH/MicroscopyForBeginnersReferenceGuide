@@ -140,9 +140,9 @@ msgid ""
 "here."
 msgstr ""
 "**Medições válidas ainda são importantes** A classificação pode ser simples "
-"ou complexa, mas os resultados sempre dependem da validade de suas medidas. "
-"Por esse motivo, todas as ressalvas das seções de medição anteriores também "
-"se aplicam aqui."
+"ou complexa, mas os resultados sempre dependem da validade/qualidade das "
+"medidas. Por esse motivo, todas as ressalvas das seções de medição "
+"anteriores também se aplicam aqui."
 
 #: ../../03_Image_analysis/Classification.md:24
 msgid ""
