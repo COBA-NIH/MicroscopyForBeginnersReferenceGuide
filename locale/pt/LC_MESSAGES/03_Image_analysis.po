@@ -227,7 +227,7 @@ msgstr ""
 
 #: ../../03_Image_analysis/Classification.md:0
 msgid "a continuous distribution of cell cycle states"
-msgstr "uma distribuição contínua de estados do ciclo celular"
+msgstr "uma distribuição dinâmica das fases do ciclo celular"
 
 #: ../../03_Image_analysis/Classification.md:35
 msgid ""
