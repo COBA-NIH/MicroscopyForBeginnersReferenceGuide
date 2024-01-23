@@ -1254,7 +1254,7 @@ msgstr "Fórum de discussão de software de análise de bioimagem"
 
 #: ../../03_Image_analysis/Resources.md:13
 msgid "🌐 Peter Bankhead’s Intro to Bioimage Analysis"
-msgstr "🌐 Introdução de Peter Bankhead à análise de bioimagem"
+msgstr "🌐 Introdução à análise de bioimagem de Peter Bankhead "
 
 #: ../../03_Image_analysis/Resources.md:14
 msgid "[link](https://bioimagebook.github.io/)"
