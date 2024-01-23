@@ -2162,4 +2162,4 @@ msgstr "Processamento de imagem"
 
 #: ../../03_Image_analysis/_notinyet_Image_segmentation.md:1
 msgid "Image Segmentation"
-msgstr "Segmentação de imagem"
+msgstr "Segmentação da imagem"
