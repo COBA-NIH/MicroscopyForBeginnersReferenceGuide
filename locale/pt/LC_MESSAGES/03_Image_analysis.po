@@ -1603,7 +1603,7 @@ msgstr ""
 
 #: ../../03_Image_analysis/Software.md:1
 msgid "Open source software"
-msgstr "Software livre"
+msgstr "Softwares dee código aberto"
 
 #: ../../03_Image_analysis/Software.md:5
 msgid ""
