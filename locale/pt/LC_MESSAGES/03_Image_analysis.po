@@ -1426,8 +1426,8 @@ msgid ""
 "Image analysis traning resources collected by NEUBIAS, styled based on The "
 "Carpentries"
 msgstr ""
-"Recursos de treinamento de análise de imagem coletados por NEUBIAS, "
-"estilizados com base em The Carpentries"
+"Recursos de treinamento em análise de imagem coletados por NEUBIAS, "
+"estilizados com base no The Carpentries"
 
 #: ../../03_Image_analysis/Resources.md:43
 msgid "🌐 Bioimage Analysis AwesomeList"
