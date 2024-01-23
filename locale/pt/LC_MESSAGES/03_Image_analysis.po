@@ -1392,7 +1392,7 @@ msgid ""
 "Access to virtual desktops allowing access to bioimage analysis software "
 "from a browser"
 msgstr ""
-"Acesso a desktops virtuais que permitem o acesso ao software de análise de "
+"Acesso a desktops virtuais que permitem o acesso a software de análise de "
 "bioimagem a partir de um navegador"
 
 #: ../../03_Image_analysis/Resources.md:37
