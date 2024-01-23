@@ -1415,7 +1415,7 @@ msgstr ""
 
 #: ../../03_Image_analysis/Resources.md:40
 msgid "🌐 Image Analysis Training Resources"
-msgstr "🌐 Recursos de treinamento de análise de imagem"
+msgstr "🌐 Recursos de treinamento em análise de imagem"
 
 #: ../../03_Image_analysis/Resources.md:41
 msgid "[link](https://neubias.github.io/training-resources/index.html)"
