@@ -98,8 +98,8 @@ msgid ""
 "groups there are or what the groups should look like."
 msgstr ""
 "Na **classificação não supervisionada**, você agrupa objetos com base em "
-"suas medidas, mas sem nenhuma orientação definida por humanos de cima para "
-"baixo sobre quantos grupos existem ou como devem ser os grupos."
+"suas medidas, mas sem nenhuma orientação definida por humanos sobre quantos "
+"grupos existem ou como devem ser os grupos."
 
 #: ../../03_Image_analysis/Classification.md:18
 msgid ""
