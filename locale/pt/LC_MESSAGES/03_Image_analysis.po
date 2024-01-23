@@ -1476,7 +1476,7 @@ msgid ""
 "size measurements include:"
 msgstr ""
 "As medidas de tamanho descrevem as dimensões dos objetos em sua imagem. "
-"Medidas de tamanho comuns incluem:"
+"Medidas comuns de tamanho incluem:"
 
 #: ../../03_Image_analysis/Shape.md:6
 msgid ""
