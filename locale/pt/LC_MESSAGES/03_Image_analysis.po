@@ -522,7 +522,7 @@ msgstr ""
 
 #: ../../03_Image_analysis/Data_management.md:0
 msgid "Comparison of various data respositories"
-msgstr "Comparação de vários repositórios de dados"
+msgstr "Comparação entre vários repositórios de dados"
 
 #: ../../03_Image_analysis/Data_management.md:18
 msgid ""
