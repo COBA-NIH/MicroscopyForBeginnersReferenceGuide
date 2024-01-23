@@ -663,9 +663,9 @@ msgid ""
 " handle based on the available memory. And even if it can open large images "
 "it can slow down performance."
 msgstr ""
-"Mas, embora possa abrir imagens grandes, há um limite de tamanho para o "
-"tamanho que pode manipular com base na memória disponível. E mesmo que "
-"consiga abrir imagens grandes, pode diminuir o desempenho."
+"Mas, embora possa abrir imagens grandes, há um limite de tamanho para "
+"manipular as imagens com base na memória disponível. E mesmo que consiga "
+"abrir imagens grandes, isto pode diminuir o desempenho."
 
 #: ../../03_Image_analysis/GeneralUseSoftware.md:0
 #: ../../03_Image_analysis/SpecificUseSoftware.md:0
