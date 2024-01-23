@@ -1877,9 +1877,9 @@ msgid ""
 "consuming, but is likely less time consuming than other methods of training "
 "models."
 msgstr ""
-"Treinar um novo modelo requer correção de anotação manual que pode ser "
+"Treinar um novo modelo requer correção da anotação manual que pode ser "
 "demorada, mas provavelmente consome menos tempo do que outros métodos de "
-"modelos de treinamento."
+"treinamento."
 
 #: ../../03_Image_analysis/SpecificUseSoftware.md:28
 msgid ""
