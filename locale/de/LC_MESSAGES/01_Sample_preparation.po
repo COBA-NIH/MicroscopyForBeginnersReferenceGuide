@@ -516,8 +516,8 @@ msgid ""
 "important to image deep into a relatively opaque specimen"
 msgstr ""
 "Möglicherweise müssen Sie spezielle Verfahren wie z. B. das Clearing von "
-"Gewebe durchführen, wenn Sie tief in eine relativ undurchsichtige Probe "
-"hineinbilden müssen."
+"Gewebe durchführen, wenn Sie optisch tief in eine relativ undurchsichtige "
+"Probe eindringen müssen."
 
 #: ../../01_Sample_preparation/Experimental_design.md:6
 msgid ""
