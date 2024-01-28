@@ -123,7 +123,7 @@ msgid ""
 "timeline to perform an experiment"
 msgstr ""
 "Zellen können viel schneller eingefroren, aufgetaut und gezüchtet werden als"
-" komplexere Exemplare wie Organoide oder ganze Organismen, wodurch sich die "
+" komplexere Samples wie Organoide oder ganze Organismen, wodurch sich die "
 "Zeitspanne bis zur Durchführung eines Experiments verkürzt."
 
 #: ../../01_Sample_preparation/Considerations.md:21
