@@ -837,8 +837,8 @@ msgstr ""
 "festgestellt, dass einige Überlegungen (z. B. ob der C- oder N-Terminus "
 "eines Proteins markiert ist) zu Veränderungen bei der Lokalisierung führen "
 "können. {cite} Stadler2013\". Ein kürzlich erschienener Artikel "
-"{cite}`Sittewelle2023` gibt einen Überblick über Überlegungen zur "
-"genetischen Markierung von Molekülen für die Live-Mikroskopie."
+"{cite}`Sittewelle2023` gibt einen Überblick zu Überlegungen zur genetischen "
+"Markierung von Molekülen für die Live-Mikroskopie."
 
 #: ../../01_Sample_preparation/Reproducibility.md:18
 msgid "Bleedthrough"
