@@ -962,8 +962,8 @@ msgid ""
 "📄 Designing a rigorous microscopy experiment: Validating methods and "
 "avoiding bias {cite}`Jost2019-nx`"
 msgstr ""
-"📄 Planung eines strengen Mikroskopieexperiments: Validierung von Methoden "
-"und Vermeidung von Verzerrungen {cite}`Jost2019-nx`"
+"📄 Planung eines gründlichen Mikroskopieexperiments: Validierung von Methoden"
+" und Vermeidung von Verzerrungen {cite}`Jost2019-nx`"
 
 #: ../../01_Sample_preparation/Resources.md:24
 msgid ""
