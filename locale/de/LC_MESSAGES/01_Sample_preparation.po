@@ -871,7 +871,7 @@ msgstr ""
 "Ihrer Fluorophore ausreichend getrennt sind, ist es wichtig, einfarbige "
 "Fluoreszenzkontrollen unter denselben Bildgebungsbedingungen (und "
 "vorzugsweise am selben Tag) wie Ihre mehrfarbigen Kontrollen zu überprüfen, "
-"um sicher zu sein, dass kein Durchscheinen auftritt; dies ist _zwingend_ "
+"um sicher zu sein, dass kein Bleedthrough auftritt; dies ist _zwingend_ "
 "erforderlich, wenn Sie planen, [Kolokalisierung](Inhalt/Kolokalisierung) zu "
 "messen."
 
