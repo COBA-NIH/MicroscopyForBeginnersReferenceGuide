@@ -223,8 +223,8 @@ msgid ""
 "microscopy."
 msgstr ""
 "Da es sich bei Organoiden um 3D-Strukturen handelt, sind sie oft nicht für "
-"die Weitwinkelmikroskopie geeignet, sondern erfordern die konfokale "
-"Mikroskopie mit rotierenden Scheiben oder Punktrastern."
+"die Weitwinkelmikroskopie geeignet, sondern erfordern konfokale oder "
+"Spinning Disk Mikroskopie."
 
 #: ../../01_Sample_preparation/Considerations.md:45
 msgid "**Tissue**"
