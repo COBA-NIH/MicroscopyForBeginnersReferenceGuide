@@ -1751,7 +1751,7 @@ msgstr ""
 "[MIB](http://mib.helsinki.fi/index.html) é um software amigável para análise"
 " de imagens de conjuntos de dados multidimensionais para microscopia de luz "
 "e eletrônica. Ele permite que você use todos os dados adquiridos para sua "
-"análise e extração de características morfológicas. [Leia "
+"análise e consequente extração de características morfológicas. [Leia "
 "mais...](conteúdo/mib)"
 
 #: ../../03_Image_analysis/Software.md:0
