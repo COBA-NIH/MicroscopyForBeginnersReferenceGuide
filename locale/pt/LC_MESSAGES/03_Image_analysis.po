@@ -2108,7 +2108,7 @@ msgid ""
 "for how to avoid these issues."
 msgstr ""
 "Além dos erros que resumimos para tarefas comuns de análise de imagens, "
-"apresentamos aqui uma lista geral de erros comuns para iniciantes em análise"
+"apresentamos aqui uma lista geral de erros comuns para iniciantes na análise"
 " de imagens. Para cada um, explicamos por que isso é um problema e fazemos "
 "sugestões sobre como evitá-los."
 
