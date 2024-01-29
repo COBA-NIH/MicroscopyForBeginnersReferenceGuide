@@ -1,20 +1,20 @@
 # SOME DESCRIPTIVE TITLE.
-# Copyright (C) 2023
+# Copyright (C) 2024
 # This file is distributed under the same license as the Python package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
 # 
 # Translators:
-# Beth Cimini, 2023
 # Youssef Chebli, 2023
+# Beth Cimini, 2024
 # 
 #, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: Python\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2023-10-13 18:46-0400\n"
+"POT-Creation-Date: 2024-01-29 08:24-0500\n"
 "PO-Revision-Date: 2023-05-02 18:49+0000\n"
-"Last-Translator: Youssef Chebli, 2023\n"
+"Last-Translator: Beth Cimini, 2024\n"
 "Language-Team: French (https://app.transifex.com/center-for-open-bioimage-analysis/teams/169123/fr/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -102,23 +102,26 @@ msgstr "Traduction"
 #: ../../contributors.md:20
 msgid ""
 "This guide is available in [English](https://www.bioimagingguide.org) as "
-"well as [Czech](https://cs.bioimagingguide.org)."
+"well as [Czech](https://cs.bioimagingguide.org) and "
+"[Portuguese](https://pt.bioimagingguide.org)."
 msgstr ""
-"Ce guide est disponible en [anglais] (https://www.bioimagingguide.org) et en"
-" [tchèque] (https://cs.bioimagingguide.org)."
+"Ce guide est disponible en [anglais](https://www.bioimagingguide.org) ainsi "
+"qu'en [tchèque](https://cs.bioimagingguide.org) et en "
+"[portugais](https://pt.bioimagingguide.org)."
 
 #: ../../contributors.md:22
 msgid ""
 "Work is underway to translate this guide into other languages - translation "
-"is planned or has begun in French, Spanish, Portuguese, German, Finnish, and"
-" Polish. To help translate into one of these languages, or another language "
-"not listed here, please contact bcimini AT broadinstitute DOT org."
+"is planned or has begun in French, Spanish, German, Finnish, Italian, "
+"Japanese, and Polish. To help translate into one of these languages, or "
+"another language not listed here, please contact bcimini AT broadinstitute "
+"DOT org."
 msgstr ""
 "Des travaux sont en cours pour traduire ce guide dans d'autres langues - la "
-"traduction est prévue ou est en cours en français, espagnol, portugais, "
-"allemand, finnois et polonais. Pour aider à la traduction dans l'une de ces "
-"langues, ou dans une autre langue non répertoriée ici, veuillez contacter "
-"bcimini AT broadinstitute DOT org."
+"traduction est prévue ou a commencé en français, espagnol, allemand, "
+"finnois, italien, japonais et polonais. Pour aider à la traduction dans "
+"l'une de ces langues, ou dans une autre langue non répertoriée ici, veuillez"
+" contacter bcimini AT broadinstitute DOT org."
 
 #: ../../contributors.md:24
 msgid "Translations are gratefully acknowledged from:"
@@ -127,3 +130,7 @@ msgstr "Nous remercions chaleureusement les traducteurs :"
 #: ../../contributors.md:26
 msgid "Czech : Martin Schätz"
 msgstr "Tchèque : Martin Schätz"
+
+#: ../../contributors.md:27
+msgid "Portuguese: Mario Costa Cruz"
+msgstr "Portugais : Mario Costa Cruz"
