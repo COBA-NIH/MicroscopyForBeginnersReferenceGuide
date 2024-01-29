@@ -1800,8 +1800,8 @@ msgstr ""
 "[ilastik](https://www.ilastik.org/) é uma ferramenta para classificação de "
 "imagens interativas, {term}`segmentação` e análise. Ele aproveita os "
 "algoritmos de aprendizado de máquina para executar a classificação em nível "
-"de pixel e objeto. Usá-lo não requer experiência em {term}`processamento de "
-"imagem`. [Leia mais...](conteúdo/ilastik)"
+"de pixel e/ou objeto. Usá-lo não requer experiência em {term}`processamento "
+"de imagem`. [Leia mais...](conteúdo/ilastik)"
 
 #: ../../03_Image_analysis/Software.md:0
 msgid "Piximi"
