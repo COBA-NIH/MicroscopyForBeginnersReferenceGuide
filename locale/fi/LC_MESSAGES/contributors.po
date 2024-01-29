@@ -1,54 +1,44 @@
 # SOME DESCRIPTIVE TITLE.
 # Copyright (C) 2023
 # This file is distributed under the same license as the Python package.
-# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
-# 
-# Translators:
-# Beth Cimini, 2023
-# Laura Mairinoja, 2023
-# 
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2023.
+#
 #, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: Python\n"
+"Project-Id-Version: Python \n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2023-10-13 18:46-0400\n"
-"PO-Revision-Date: 2023-05-02 18:49+0000\n"
-"Last-Translator: Laura Mairinoja, 2023\n"
-"Language-Team: Finnish (https://app.transifex.com/center-for-open-bioimage-analysis/teams/169123/fi/)\n"
-"MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2023-10-13 18:15-0400\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language: fi\n"
+"Language-Team: fi <LL@li.org>\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.12.1\n"
 
 #: ../../contributors.md:1
 msgid "Contributing to this guide"
-msgstr "Tämän oppaan laatiminen"
+msgstr ""
 
 #: ../../contributors.md:3
 msgid "Contributors"
-msgstr "Yhteistyötahot"
+msgstr ""
 
 #: ../../contributors.md:5
 msgid ""
-"The original material for this book was created as part of the paper \"[**_A"
-" biologist’s guide to planning and performing quantitative bioimaging "
+"The original material for this book was created as part of the paper "
+"\"[**_A biologist’s guide to planning and performing quantitative "
+"bioimaging "
 "experiments_**](https://doi.org/10.1371/journal.pbio.3002167)\" "
 "{cite}`Senft2023-zy`. by Rebecca A. Senft*, Barbara Diaz-Rohrer*, Pina "
 "Colarusso, Lucy Swift, Nasim Jamali, Helena Jambor, Thomas Pengo, Craig "
-"Brideau, Paula Montero Llopis, Virginie Uhlmann, Jason Kirk, Kevin Andrew "
-"Gonzales, Peter Bankhead, Edward L. Evans III, Kevin W Eliceiri and Beth A. "
-"Cimini."
+"Brideau, Paula Montero Llopis, Virginie Uhlmann, Jason Kirk, Kevin Andrew"
+" Gonzales, Peter Bankhead, Edward L. Evans III, Kevin W Eliceiri and Beth"
+" A. Cimini."
 msgstr ""
-"Tämän kirjan alkuperäinen materiaali on luotu osana julkaisua \"[**_A "
-"biologist's guide to planning and performing quantitative bioimaging "
-"experiments_**](https://doi.org/10.1371/journal.pbio.3002167)\". "
-"{cite}`Senft2023-zy`. Kirjoittaneet Rebecca A. Senft*, Barbara Diaz-Rohrer*,"
-" Pina Colarusso, Lucy Swift, Nasim Jamali, Helena Jambor, Thomas Pengo, "
-"Craig Brideau, Paula Montero Llopis, Virginie Uhlmann, Jason Kirk, Kevin "
-"Andrew Gonzales, Peter Bankhead, Edward L. Evans III, Kevin W Eliceiri ja "
-"Beth A. Cimini."
 
 #: ../../contributors.md:7
 msgid ""
@@ -56,20 +46,18 @@ msgid ""
 "contributions from the following members of the microscopy and bioimage "
 "analysis community!"
 msgstr ""
-"Olemme kiitollisia mikroskopia- ja biokuvien analysointiyhteisön jäsenten "
-"panoksesta myös tämän oppaan julkaisemisen jälkeen!"
 
 #: ../../contributors.md:8
 msgid "William Giang"
-msgstr "William Giang"
+msgstr ""
 
 #: ../../contributors.md:9
 msgid "Robert Haase"
-msgstr "Robert Haase"
+msgstr ""
 
 #: ../../contributors.md:11
 msgid "How can I become a contributor?"
-msgstr "Miten voin osallistua?"
+msgstr ""
 
 #: ../../contributors.md:13
 msgid ""
@@ -78,53 +66,50 @@ msgid ""
 " or pull request to contribute! We hope for this to be a living document "
 "reflecting the best practices and resources available."
 msgstr ""
-"Voit vapaasti avata "
-"[issue](https://github.com/broadinstitute/MicroscopyForBeginnersReferenceGuide/issues)"
-" tai klikata \"pull request\" osallistuaksesi! Toivomme, että tästä tulee "
-"jatkuvasti päivittyvä dokumentti, joka heijastaa parhaita käytäntöjä ja "
-"saatavilla olevia resursseja."
 
 #: ../../contributors.md:15
 msgid ""
 "We currently also offer a [Google "
 "Form](https://docs.google.com/forms/d/e/1FAIpQLScWQbemviI2OkvVkeTKUOozAzKNndcZpXIB_nE0qFMl72lqvQ/viewform)"
-" for contributions, though note these may be responded to more slowly than "
-"direct contributions to the GitHub repository."
+" for contributions, though note these may be responded to more slowly "
+"than direct contributions to the GitHub repository."
 msgstr ""
-"Tarjoamme tällä hetkellä myös [Google "
-"Form](https://docs.google.com/forms/d/e/1FAIpQLScWQbemviI2OkvVkeTKUOozAzKNndcZpXIB_nE0qFMl72lqvQ/viewform)"
-" -lomakkeen, mutta huomioi, että siihen saatetaan vastata hitaammin kuin "
-"suoraan GitHub-arkistoon tehtäviin kommentteihin."
 
 #: ../../contributors.md:18
 msgid "Translation"
-msgstr "Käännös"
+msgstr ""
 
 #: ../../contributors.md:20
 msgid ""
-"This guide is available in [English](https://www.bioimagingguide.org) as "
-"well as [Czech](https://cs.bioimagingguide.org)."
+"This guide is available in [English](www.bioimagingguide.org) as well as "
+"Czech(cz.bioimagingguide.org)."
 msgstr ""
-"Tämä opas on saatavilla [englanniksi] (https://www.bioimagingguide.org) ja "
-"[tšekin kielellä] (https://cs.bioimagingguide.org)."
 
 #: ../../contributors.md:22
 msgid ""
-"Work is underway to translate this guide into other languages - translation "
-"is planned or has begun in French, Spanish, Portuguese, German, Finnish, and"
-" Polish. To help translate into one of these languages, or another language "
-"not listed here, please contact bcimini AT broadinstitute DOT org."
+"Work is underway to translate this guide into other languages - "
+"translation is planned or has begun in French, Spanish, Portuguese, "
+"German, Finnish, and Polish. To help translate into one of these "
+"languages, or another language not listed here, please contact bcimini AT"
+" broadinstitute DOT org."
 msgstr ""
-"Tämän oppaan kääntäminen muille kielille on parhaillaan käynnissä - "
-"käännöksiä suunnitellaan tai on aloitettu ranskan, espanjan, portugalin, "
-"saksan, suomen ja puolan kielille. Jos haluat auttaa kääntämisessä jollekin "
-"näistä kielistä tai jollekin muulle kielelle, jota ei ole lueteltu tässä, "
-"ota yhteyttä bcimini AT broadinstitute DOT org."
 
 #: ../../contributors.md:24
 msgid "Translations are gratefully acknowledged from:"
-msgstr "Kiitokset käännösten tekijöille:"
+msgstr ""
 
 #: ../../contributors.md:26
 msgid "Czech : Martin Schätz"
-msgstr "Tšekki : Martin Schätz"
+msgstr ""
+
+#~ msgid ""
+#~ "Work is underway to translate this "
+#~ "guide into other languages - translation"
+#~ " is planned or has begun in "
+#~ "French, Spanish, Portuguese, Czech, and "
+#~ "Polish. To help translate into one "
+#~ "of these languages, or another language"
+#~ " not listed here, please contact "
+#~ "bcimini AT broadinstitute DOT org."
+#~ msgstr ""
+
