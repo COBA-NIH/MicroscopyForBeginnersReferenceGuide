@@ -1,5 +1,5 @@
 # SOME DESCRIPTIVE TITLE.
-# Copyright (C) 2023
+# Copyright (C) 2024
 # This file is distributed under the same license as the Python package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
 #
@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Python \n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2023-10-13 18:46-0400\n"
+"POT-Creation-Date: 2024-01-29 08:24-0500\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -57,11 +57,11 @@ msgid "Translation"
 msgstr ""
 
 #: ../../contributors.md:20
-msgid "This guide is available in [English](https://www.bioimagingguide.org) as well as [Czech](https://cs.bioimagingguide.org)."
+msgid "This guide is available in [English](https://www.bioimagingguide.org) as well as [Czech](https://cs.bioimagingguide.org) and [Portuguese](https://pt.bioimagingguide.org)."
 msgstr ""
 
 #: ../../contributors.md:22
-msgid "Work is underway to translate this guide into other languages - translation is planned or has begun in French, Spanish, Portuguese, German, Finnish, and Polish. To help translate into one of these languages, or another language not listed here, please contact bcimini AT broadinstitute DOT org."
+msgid "Work is underway to translate this guide into other languages - translation is planned or has begun in French, Spanish, German, Finnish, Italian, Japanese, and Polish. To help translate into one of these languages, or another language not listed here, please contact bcimini AT broadinstitute DOT org."
 msgstr ""
 
 #: ../../contributors.md:24
@@ -70,4 +70,8 @@ msgstr ""
 
 #: ../../contributors.md:26
 msgid "Czech : Martin Schätz"
+msgstr ""
+
+#: ../../contributors.md:27
+msgid "Portuguese: Mario Costa Cruz"
 msgstr ""
