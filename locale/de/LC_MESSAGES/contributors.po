@@ -1,19 +1,19 @@
 # SOME DESCRIPTIVE TITLE.
-# Copyright (C) 2023
+# Copyright (C) 2024
 # This file is distributed under the same license as the Python package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
 # 
 # Translators:
-# Beth Cimini, 2023
+# Beth Cimini, 2024
 # 
 #, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: Python\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2023-10-13 18:46-0400\n"
+"POT-Creation-Date: 2024-01-29 08:24-0500\n"
 "PO-Revision-Date: 2023-05-02 18:49+0000\n"
-"Last-Translator: Beth Cimini, 2023\n"
+"Last-Translator: Beth Cimini, 2024\n"
 "Language-Team: German (https://app.transifex.com/center-for-open-bioimage-analysis/teams/169123/de/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -102,21 +102,24 @@ msgstr "Übersetzung"
 #: ../../contributors.md:20
 msgid ""
 "This guide is available in [English](https://www.bioimagingguide.org) as "
-"well as [Czech](https://cs.bioimagingguide.org)."
+"well as [Czech](https://cs.bioimagingguide.org) and "
+"[Portuguese](https://pt.bioimagingguide.org)."
 msgstr ""
-"Dieser Leitfaden ist sowohl in [Englisch] (https://www.bioimagingguide.org) "
-"als auch in [Tschechisch] (https://cs.bioimagingguide.org) verfügbar."
+"Dieser Leitfaden ist in [Englisch](https://www.bioimagingguide.org) sowie in"
+" [Tschechisch](https://cs.bioimagingguide.org) und "
+"[Portugiesisch](https://pt.bioimagingguide.org) verfügbar."
 
 #: ../../contributors.md:22
 msgid ""
 "Work is underway to translate this guide into other languages - translation "
-"is planned or has begun in French, Spanish, Portuguese, German, Finnish, and"
-" Polish. To help translate into one of these languages, or another language "
-"not listed here, please contact bcimini AT broadinstitute DOT org."
+"is planned or has begun in French, Spanish, German, Finnish, Italian, "
+"Japanese, and Polish. To help translate into one of these languages, or "
+"another language not listed here, please contact bcimini AT broadinstitute "
+"DOT org."
 msgstr ""
 "Es wird daran gearbeitet, diesen Leitfaden in andere Sprachen zu übersetzen "
-"- die Übersetzung ins Französische, Spanische, Portugiesische, Deutsche, "
-"Finnische und Polnische ist geplant oder hat bereits begonnen. Wenn Sie bei "
+"- die Übersetzung in Französisch, Spanisch, Deutsch, Finnisch, Italienisch, "
+"Japanisch und Polnisch ist geplant oder hat bereits begonnen. Wenn Sie bei "
 "der Übersetzung in eine dieser Sprachen oder eine andere hier nicht "
 "aufgeführte Sprache helfen möchten, wenden Sie sich bitte an bcimini AT "
 "broadinstitute DOT org."
@@ -128,3 +131,7 @@ msgstr "Die Übersetzungen werden dankend anerkannt von:"
 #: ../../contributors.md:26
 msgid "Czech : Martin Schätz"
 msgstr "Tschechisch : Martin Schätz"
+
+#: ../../contributors.md:27
+msgid "Portuguese: Mario Costa Cruz"
+msgstr "Portugiesisch: Mario Costa Cruz"
