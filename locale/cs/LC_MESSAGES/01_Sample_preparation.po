@@ -893,8 +893,8 @@ msgstr ""
 "dostupné pod licencí s otevřeným přístupem (CC BY nebo CC BY-NC)"
 
 #: ../../01_Sample_preparation/Resources.md:20
-msgid "🌐 protocolos.io"
-msgstr "🌐 protocolos.io"
+msgid "🌐 protocols.io"
+msgstr "🌐 protocols.io"
 
 #: ../../01_Sample_preparation/Resources.md:21
 msgid "[link](https://www.protocols.io/)"

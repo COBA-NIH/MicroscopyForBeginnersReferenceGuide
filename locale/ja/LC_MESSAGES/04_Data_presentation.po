@@ -1,0 +1,618 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2023
+# This file is distributed under the same license as the Python package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2023.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Python \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2023-06-28 07:29-0400\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: ja\n"
+"Language-Team: ja <LL@li.org>\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.12.1\n"
+
+#: ../../04_Data_presentation/Introduction.md:1
+#: ../../04_Data_presentation/Statistics.md:3
+#: ../../04_Data_presentation/_notinyet_Presentation_graphs.md:3
+msgid "Introduction"
+msgstr ""
+
+#: ../../04_Data_presentation/Introduction.md:3
+msgid ""
+"When presenting microscopy image data in biology and biomedicine, it's "
+"important to consider the quality of the images, the labeling and "
+"annotation of important features, and the overall visual appeal. This "
+"also applies to diagrams and plots which convey numerical data derived "
+"from microscopy images. Chart types must in addition be suitable for the "
+"specific data that is being conveyed to not mislead audiences. This "
+"applies to image data in scientific posters, talk-slides, or "
+"publications."
+msgstr ""
+
+#: ../../04_Data_presentation/Presentation_images.md:1
+msgid "Presentation of microscopy images"
+msgstr ""
+
+#: ../../04_Data_presentation/Presentation_images.md:3
+#: ../../04_Data_presentation/Statistics.md:9
+#: ../../04_Data_presentation/Statistics.md:34
+#: ../../04_Data_presentation/Statistics.md:57
+msgid "What is it?"
+msgstr ""
+
+#: ../../04_Data_presentation/Presentation_images.md:5
+msgid ""
+"Microscopy images are often shown in scientific papers to illustrate a "
+"particular conclusion. While qualitative conclusions are not a subsitute "
+"for quantitative comparisons (see next section), images can certainly "
+"guide our reasoning and our conclusions. Following a few consistent best "
+"practices ensures that these conclusions are correct and robust."
+msgstr ""
+
+#: ../../04_Data_presentation/Presentation_images.md:14
+msgid "10 tips for image presentation"
+msgstr ""
+
+#: ../../04_Data_presentation/Presentation_images.md:14
+msgid ""
+"**A brief visual summary of image presentation tips.** Figure by Helena "
+"Jambor. [Source](https://doi.org/10.5281/zenodo.7750259)"
+msgstr ""
+
+#: ../../04_Data_presentation/Presentation_images.md
+msgid "Adjust the image crop, orientation, and size."
+msgstr ""
+
+#: ../../04_Data_presentation/Presentation_images.md:18
+msgid ""
+"For any adjustments, work with an image copy and do not alter the "
+"original file. Note, do not use adjusted images for quantitative image "
+"data analyses  Adjustments to effectively communicate the image content "
+"may include removing uninformative image regions (crop), changing the "
+"image orientation, and adjusting the size. Note that rotation and re-"
+"sizing may change the image data when pixel information is redistributed."
+msgstr ""
+
+#: ../../04_Data_presentation/Presentation_images.md:17
+msgid "rotation"
+msgstr ""
+
+#: ../../04_Data_presentation/Presentation_images.md
+msgid "🤔 How do I do it?"
+msgstr ""
+
+#: ../../04_Data_presentation/Presentation_images.md:25
+#: ../../04_Data_presentation/Presentation_images.md:43
+#: ../../04_Data_presentation/Presentation_images.md:62
+#: ../../04_Data_presentation/Presentation_images.md:82
+#: ../../04_Data_presentation/Presentation_images.md:98
+msgid "See the [cheat-sheet below](image-cheat-sheet) for more information."
+msgstr ""
+
+#: ../../04_Data_presentation/Presentation_images.md
+#: ../../04_Data_presentation/Statistics.md
+msgid "<span style=\"color: red\">⚠️</span> Where can things go wrong?"
+msgstr ""
+
+#: ../../04_Data_presentation/Presentation_images.md:28
+msgid "Any adjustments that alter the conclusions are not permitted."
+msgstr ""
+
+#: ../../04_Data_presentation/Presentation_images.md
+#: ../../04_Data_presentation/Statistics.md
+msgid "📚🤷‍♀️ Where can I learn more?"
+msgstr ""
+
+#: ../../04_Data_presentation/Presentation_images.md:31
+msgid ""
+"📄 [Reproducible image handling and "
+"analysis](https://doi.org/10.15252/embj.2020105889) {cite}`Miura2021-mb`"
+msgstr ""
+
+#: ../../04_Data_presentation/Presentation_images.md:32
+#: ../../04_Data_presentation/Presentation_images.md:49
+#, python-format
+msgid ""
+"📄 [Avoiding Twisted Pixels: Ethical Guidelines for the Appropriate Use "
+"and Manipulation of Scientific Digital "
+"Images](https://doi.org/10.1007%2Fs11948-010-9201-y) "
+"{cite}`Cromey2010-jr`"
+msgstr ""
+
+#: ../../04_Data_presentation/Presentation_images.md
+msgid "Enhance visibility of image content"
+msgstr ""
+
+#: ../../04_Data_presentation/Presentation_images.md:37
+msgid ""
+"Images often do not have regular spaced intensity values. To still "
+"display the data visible on a screen/in a figure, adjustments of "
+"brightness and contrast are usually necessary."
+msgstr ""
+
+#: ../../04_Data_presentation/Presentation_images.md:36
+msgid "image adjustment"
+msgstr ""
+
+#: ../../04_Data_presentation/Presentation_images.md:46
+msgid ""
+"Any adjustments that result in the disappearance of image details are "
+"considered misleading {cite}`Cromey2010-jr`. Note that many nonlinear "
+"transformations of brightness and contrast are available in image "
+"processing software, before using these users should ensure that they "
+"faithfully represent the data to avoid accidentally misleading audiences "
+"and disclose them as annotations."
+msgstr ""
+
+#: ../../04_Data_presentation/Presentation_images.md
+msgid "Use accessible colors"
+msgstr ""
+
+#: ../../04_Data_presentation/Presentation_images.md:54
+msgid ""
+"Fluorescent microscope images are often composed of data from multiple "
+"wavelengths/color channels. To best visualize molecular structures, "
+"individual channels can be shown in separate grayscale images. When "
+"colors are chosen to represent the illumination wavelength (blue, green, "
+"red, far-red), for example Green-Fluorescent Protein is shown in green "
+"color, be reminded that intensity values on a black background reduces "
+"the level of detail."
+msgstr ""
+
+#: ../../04_Data_presentation/Presentation_images.md:56
+msgid ""
+"When channels are over-laid in ‘composite’ images, authors should ensure "
+"that structures are visible, i.e., that the overlay does not obstruct "
+"features and that the colors used are clearly distinguishable."
+msgstr ""
+
+#: ../../04_Data_presentation/Presentation_images.md:53
+msgid "multicolor image composition"
+msgstr ""
+
+#: ../../04_Data_presentation/Presentation_images.md:65
+msgid ""
+"For composite images consider if color combinations are accessible to "
+"color-blind audiences (e.g. not combine red with green, but rather "
+"magenta and green, see reference below for examples) and possibly "
+"additionally show individual channels in grayscale for maximizing "
+"accessibility and detail.  Tools for color blindness simulation of the "
+"images exist in image processing software (ImageJ/Fiji) and visibility of"
+" colors in final image figures can be tested with applications such as "
+"ColorOracle."
+msgstr ""
+
+#: ../../04_Data_presentation/Presentation_images.md:69
+msgid ""
+"📄 [Creating clear and informative image-based figures for scientific "
+"publications](https://doi.org/10.1371/journal.pbio.3001161) "
+"{cite}`Jambor2021-qe`"
+msgstr ""
+
+#: ../../04_Data_presentation/Presentation_images.md
+msgid "Annotate key image features"
+msgstr ""
+
+#: ../../04_Data_presentation/Presentation_images.md:74
+msgid ""
+"Each image needs a reference to its physical dimensions. This is "
+"typically achieved by including a scale bar with dimensions annotated in "
+"the image or the figure legend."
+msgstr ""
+
+#: ../../04_Data_presentation/Presentation_images.md:76
+msgid ""
+"In addition, authors should remember to annotate the colors used, any "
+"symbols and arrows used to guide readers, and, if used, the origin of any"
+" zoom/inset. If specialized images are shown (time-lapse, volumes, "
+"reconstructions) authors are encouraged to consider annotating important "
+"information in the figures."
+msgstr ""
+
+#: ../../04_Data_presentation/Presentation_images.md:73
+msgid "speech bubbles"
+msgstr ""
+
+#: ../../04_Data_presentation/Presentation_images.md:85
+msgid ""
+"Lack of details and missing of key explanations will make it impossible "
+"for audiences to interpret image data in figures.  To unambiguously "
+"reference probes consider using terms from the ISAC Probe Tag Dictionary,"
+" a standardized nomenclature for probers used in cytometry and "
+"microscopy."
+msgstr ""
+
+#: ../../04_Data_presentation/Presentation_images.md:89
+msgid ""
+"📄 [ISAC Probe Tag Dictionary: Standardized Nomenclature for Detection and"
+" Visualization Labels Used in Cytometry and Microscopy Imaging "
+"](https://doi.org/10.1002/cyto.a.24224) {cite}`Blenman2021-ki`"
+msgstr ""
+
+#: ../../04_Data_presentation/Presentation_images.md
+msgid "Explain the image"
+msgstr ""
+
+#: ../../04_Data_presentation/Presentation_images.md:95
+msgid ""
+"To rapidly orient audiences, a minimal explanatory text should be "
+"presented along with images. This includes the figure legend and the "
+"methods section in scientific papers or the title of figures in posters "
+"and slides. Consider using a controlled vocabulary to reduce ambiguity "
+"and increase machine-readability of the descriptions of specimens, "
+"tissues, cell lines, and proteins etc. A useful tool is the [RRID "
+"(Reseach Resource Identifying "
+"Data)index](https://scicrunch.org/resources) , which provides indices for"
+" commonly used biological reagents and resources, e.g., plasmids, cell "
+"lines and antibodies ."
+msgstr ""
+
+#: ../../04_Data_presentation/Presentation_images.md:101
+msgid ""
+"Missing explanations of image details/methods may result in non-"
+"reproducible data and limits the insights from the data."
+msgstr ""
+
+#: ../../04_Data_presentation/Presentation_images.md:104
+msgid ""
+"📄 [Replication Study: Biomechanical remodeling of the microenvironment by"
+" stromal caveolin-1 favors tumor invasion and "
+"metastasis](https://doi.org/10.7554/eLife.45120) {cite}`Sheen2019-bg`"
+msgstr ""
+
+#: ../../04_Data_presentation/Presentation_images.md:105
+msgid ""
+"📄 [Imaging methods are vastly underreported in biomedical "
+"research](https://doi.org/10.7554/eLife.55133) {cite}`Marques2020-nx`"
+msgstr ""
+
+#: ../../04_Data_presentation/Presentation_images.md:106
+msgid ""
+"📄 [Are figure legends sufficient? Evaluating the contribution of "
+"associated text to biomedical figure "
+"comprehension.](https://doi.org/10.1186/1747-5333-4-1) {cite}`Yu2009-ip`"
+msgstr ""
+
+#: ../../04_Data_presentation/Presentation_images.md:110
+msgid "Where can I learn more?"
+msgstr ""
+
+#: ../../04_Data_presentation/Presentation_images.md:112
+msgid ""
+"Check out _Creating clear and informative image-based figures for "
+"scientific publications_{cite}`Jambor2021-qe` and _Community-developed "
+"checklists for publishing images and image "
+"analysis_{cite}`Schmied2023-ad` for more tips and best practices for "
+"making image figures."
+msgstr ""
+
+#: ../../04_Data_presentation/Presentation_images.md:114
+msgid ""
+"A cheat sheet on how to do basic image preparation with open source "
+"software:"
+msgstr ""
+
+#: ../../04_Data_presentation/Presentation_images.md:124
+msgid "Instructions for common image processing operations in Fiji"
+msgstr ""
+
+#: ../../04_Data_presentation/Presentation_images.md:124
+msgid ""
+"**How to correctly perform various image manipulations in Fiji.** Figure "
+"by Christopher Schmied and Helena Jambor. "
+"[Source](https://doi.org/10.12688/f1000research.27140.2)"
+msgstr ""
+
+#: ../../04_Data_presentation/Resources.md:1
+msgid "Resources for learning more"
+msgstr ""
+
+#: ../../04_Data_presentation/Resources.md:8
+msgid "**Resource Name**"
+msgstr ""
+
+#: ../../04_Data_presentation/Resources.md:9
+msgid "**Link**"
+msgstr ""
+
+#: ../../04_Data_presentation/Resources.md:10
+msgid "**Brief description**"
+msgstr ""
+
+#: ../../04_Data_presentation/Resources.md:11
+msgid ""
+"📄 Creating clear and informative image-based figures for scientific "
+"publications {cite}`Jambor2021-qe`"
+msgstr ""
+
+#: ../../04_Data_presentation/Resources.md:12
+msgid ""
+"[link](https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3001161"
+" )"
+msgstr ""
+
+#: ../../04_Data_presentation/Resources.md:13
+msgid ""
+"Review article on how to create accessible, fair scientific figures, "
+"including guidelines for microscopy images"
+msgstr ""
+
+#: ../../04_Data_presentation/Resources.md:14
+msgid ""
+"📄 Community-developed checklists for publishing images and image analysis"
+" {cite}`Schmied2023-ad`"
+msgstr ""
+
+#: ../../04_Data_presentation/Resources.md:15
+msgid "[link](https://arxiv.org/abs/2302.07005)"
+msgstr ""
+
+#: ../../04_Data_presentation/Resources.md:16
+msgid ""
+"A paper recommending checklists and best practices for publishing image "
+"data"
+msgstr ""
+
+#: ../../04_Data_presentation/Resources.md:17
+msgid "📖 Modern Statistics for Modern Biology {cite}`Holmes2019-no`"
+msgstr ""
+
+#: ../../04_Data_presentation/Resources.md:18
+msgid "[link](https://www.huber.embl.de/msmb/)"
+msgstr ""
+
+#: ../../04_Data_presentation/Resources.md:19
+msgid "Online statistics for biologists textbook with code examples (in R)"
+msgstr ""
+
+#: ../../04_Data_presentation/Statistics.md:1
+msgid "Statistics"
+msgstr ""
+
+#: ../../04_Data_presentation/Statistics.md:5
+msgid ""
+"Quantitative data is often summarized and analysed with statistical "
+"methods and visualized with plots/graphs/diagrams. Statistical methods "
+"reveal quantitative trends, patterns, and outliers in data, while plots "
+"and graphs help to convey them to audiences. Carrying out a suitable "
+"statistical analysis and choosing a suitable chart type for your data, "
+"identifying their potential pitfalls, and faithfully realising the "
+"analysis or generating the chart with suitable software are essential to "
+"back up experimental conclusions with data and reach communication goals."
+msgstr ""
+
+#: ../../04_Data_presentation/Statistics.md:7
+msgid "Dimensionality reduction"
+msgstr ""
+
+#: ../../04_Data_presentation/Statistics.md:10
+msgid ""
+"Dimensionality reduction (also called dimension reduction) aims at "
+"mapping high-dimensional data onto a lower-dimensional space in order to "
+"better reveal trends and patterns. Algorithms performing this task "
+"attempt to retain as much information as possible when reducing the "
+"dimensionality of the data: this is achieved by assigning importance "
+"scores to individual features, removing redundancies, and identifying "
+"uninformative (for instance constant) features. Dimensionality reduction "
+"is an important step in quantitative analysis as it makes data more "
+"manageable and easier to visualize. It is also an important preprocessing"
+" step in many downstream analysis algorithms, such as machine learning "
+"classifiers."
+msgstr ""
+
+#: ../../04_Data_presentation/Statistics.md
+msgid "📏 How do I do it?"
+msgstr ""
+
+#: ../../04_Data_presentation/Statistics.md:13
+msgid ""
+"The most traditional dimensionality reduction technique is principal "
+"component analysis (PCA){cite}`Lever2017-pca`. In a nutshell, PCA "
+"recovers a linear transformation of the input data into a new coordinate "
+"system (the principal components) that concentrates variation into its "
+"first axes. This is achieved by relying on classical linear algebra, by "
+"computing an eigendecomposition of the covariance matrix of the data. As "
+"a result, the first 2 or 3 principal components provide a low-dimensional"
+" version of the data distribution that is faithful to the variance that "
+"was originally present. More advanced dimensionality reduction methods "
+"that are popular in biology include t-distributed stochastic neighbor "
+"embedding (t-SNE) and Uniform Manifold Approximation and Projection "
+"(UMAP). In contrast to PCA, these methods are non-linear and can "
+"therefore exploit more complex relationships between features when "
+"building the lower-dimensional representation. This however comes at a "
+"cost: both t-SNE and UMAP are stochastic, meaning that the results they "
+"produce are highly dependent on the choice of hyperparameters and can "
+"differ across different runs."
+msgstr ""
+
+#: ../../04_Data_presentation/Statistics.md:18
+msgid ""
+"Although reducing dimensionality can be very useful for data exploration "
+"and analysis, it may also wipe information or structure that is relevant "
+"to the problem being studied. This is famously well illustrated by the "
+"[Datasaurus "
+"dataset](https://cran.r-project.org/web/packages/datasauRus/vignettes/Datasaurus.html),"
+" which demonstrates how very differently-looking sets of measurements can"
+" become indistinguishable when described by a small set of summary "
+"statistics. The best way to minimize this risk is to start by visually "
+"exploring the data whenever possible, and carefully checking any "
+"underlying assumptions of the dimensionality reduction method being used "
+"to ensure that they hold for the considered data. Dimensionality "
+"reduction may also enhance and reveal patterns that are not biologically "
+"relevant, due to noise or systematic artifacts in the original data (see "
+"Batch effect correction section below). In addition to applying "
+"normalization and batch correction to the data prior to reducing "
+"dimensionality, some dimensionality reduction methods also offer so-"
+"called regularization strategies to mitigate this. In the end, any "
+"pattern identified in dimension-reduced data should be considered while "
+"keeping in mind the biological context of the data in order to interpret "
+"the results appropriately."
+msgstr ""
+
+#: ../../04_Data_presentation/Statistics.md:26
+msgid ""
+"📖 [Dimension Reduction: A Guided "
+"Tour](https://www.researchgate.net/publication/220416606_Dimension_Reduction_A_Guided_Tour)"
+" {cite}`Burges2010-fi`"
+msgstr ""
+
+#: ../../04_Data_presentation/Statistics.md:27
+msgid ""
+"💻 [UMAP introduction and Python implementation](https://umap-"
+"learn.readthedocs.io/en/latest/index.html)"
+msgstr ""
+
+#: ../../04_Data_presentation/Statistics.md:28
+msgid ""
+"💻 [t-SNE Python implementation](https://scikit-"
+"learn.org/stable/modules/generated/sklearn.manifold.TSNE.html)"
+msgstr ""
+
+#: ../../04_Data_presentation/Statistics.md:32
+msgid "Batch correction"
+msgstr ""
+
+#: ../../04_Data_presentation/Statistics.md:35
+msgid ""
+"Batch effects are systematic variations across samples correlated with "
+"experimental conditions (such as different times of the day, different "
+"days of the week, or different experimental tools) that are not related "
+"to the biological process of interest. Batch effects must be mitigated "
+"prior to making comparisons across several datasets as they impact the "
+"reproducibility and reliability of computational analysis and can "
+"dramatically bias conclusions. Algorithms for batch effect correction "
+"address this by identifying and quantifying sources of technical "
+"variation, and adjusting the data so that these are minimized while the "
+"biological signal is preserved. Most batch effect correction methods were"
+" originally developed for microarray data and sequencing data, but can be"
+" adapted to feature vectors extracted from images."
+msgstr ""
+
+#: ../../04_Data_presentation/Statistics.md:38
+msgid ""
+"Two of the most used methods for batch effect correction are ComBat and "
+"Surrogate Variable Analysis (SVA), depending on whether the sources of "
+"batch effects are known a priori or not. In a nutshell, ComBat involves "
+"three steps: 1) dividing the data into known batches, 2) estimating batch"
+" effect by fitting a linear model that includes the batch as a covariate "
+"and 3) adjusting the data by removing the estimated effect of the batch "
+"from each data point. In contrast, SVA aims at identifying \"surrogate "
+"variables\" that capture unknown sources of variability in the data. The "
+"surrogate variables can be estimated relying on linear algebra methods "
+"(such as singular value decomposition) or through a Bayesian factor "
+"analysis model. SVA has been demonstrated to reduce unobserved sources of"
+" variability and is therefore of particular help when identifying "
+"possible causes of batch effects is challenging, but comes at a higher "
+"computational cost than ComBat."
+msgstr ""
+
+#: ../../04_Data_presentation/Statistics.md:41
+msgid ""
+"As important as it is for analysis, batch effect correction can go wrong "
+"when too much or too little of it is done. Both over- and under-"
+"correction can happen when methods are not used properly or when their "
+"underlying assumptions are not met. As a result, either biological "
+"signals can be removed (in the case of over-correction) or irrelevant "
+"sources of variation can remain (in the case of under-correction) - both "
+"potentially leading to inaccurate conclusions. Batch effect correction "
+"can be particularly tricky when the biological variation of interest is "
+"suspected to confound with the batch. In this case in particular "
+"(although always a good approach), the first lines of fight against batch"
+" effects should be thought-through experimental design and careful "
+"quality control, as well as visual exploration of the "
+"data{cite}`Lord2020-sp`. Plotting data batch-by-batch before applying any"
+" correction can help confirm (or infirm) that the observed trends are "
+"similar across batches."
+msgstr ""
+
+#: ../../04_Data_presentation/Statistics.md:49
+msgid ""
+"📄 [Why Batch Effects Matter in Omics Data, and How to Avoid "
+"Them](https://doi.org/10.1016/j.tibtech.2017.02.012) {cite}`Goh2017-kd`"
+msgstr ""
+
+#: ../../04_Data_presentation/Statistics.md:50
+msgid ""
+"💻 [pyComBat (ComBat Python "
+"implementation)](https://epigenelabs.github.io/pyComBat/)"
+msgstr ""
+
+#: ../../04_Data_presentation/Statistics.md:51
+msgid ""
+"📄 [The sva package for removing batch effects and other unwanted "
+"variation in high-throughput "
+"experiments](https://doi.org/10.1093/bioinformatics/bts034) "
+"{cite}`Leek2012-rv`"
+msgstr ""
+
+#: ../../04_Data_presentation/Statistics.md:55
+msgid "Normality testing"
+msgstr ""
+
+#: ../../04_Data_presentation/Statistics.md:58
+msgid ""
+"Normality testing is about assessing whether data follow a Gaussian (or "
+"nomal) distribution. Because the Gaussian distribution is frequently "
+"found in nature and has important mathematical properties, normality is a"
+" core assumption in many widely-used statistical tests. When this "
+"assumption is violated, their conclusions may not hold or be flawed. "
+"Normality testing is therefore an important step of the data analysis "
+"pipeline prior to any sort of statistical testing."
+msgstr ""
+
+#: ../../04_Data_presentation/Statistics.md:61
+msgid ""
+"Normality of a data distribution can be qualitatively assessed through "
+"plotting, for instance relying on a histogram. For a more quantitative "
+"readout, statistical methods such as the Kolmogorov-Smirnov (KS) and "
+"Shapiro-Wilk tests (among many others) report how much the observed data "
+"distribution deviates from a Gaussian. These tests usually return and a "
+"p-value linked to the hypothesis that the data are sampled from a "
+"Gaussian distribution. A high p-value indicates that the data are not "
+"inconsistent with a normal distribution, but is not sufficient to prove "
+"that they indeed follow a Gaussian. A p-values smaller than a pre-defined"
+" significance threshold (usually 0.05) indicates that the data are not "
+"sampled from a normal distribution."
+msgstr ""
+
+#: ../../04_Data_presentation/Statistics.md:65
+msgid ""
+"Although lots of the “standard” statistical methods have been designed "
+"with a normnality assumption, alternative approaches exist for non-"
+"normally-ditributed data. Many biological processes result in multimodal "
+"“states” (for instance differentiation) that are inherently not Gaussian."
+" Normality testing should therefore not be mistaken for a quality "
+"assessment of the data: it merely informs on the types of tools that are "
+"appropriate to use when analyzing them."
+msgstr ""
+
+#: ../../04_Data_presentation/Statistics.md:68
+msgid ""
+"📖 [Modern statistics for modern biology](https://www.huber.embl.de/msmb/)"
+" {cite}`Holmes2019-no`"
+msgstr ""
+
+#: ../../04_Data_presentation/Statistics.md:69
+msgid ""
+"💻 [To get started with statistical analysis: "
+"R](https://www.r-project.org/)"
+msgstr ""
+
+#: ../../04_Data_presentation/Statistics.md:70
+msgid ""
+"💻 [To do statistics in Python: "
+"scipy.stats](https://docs.scipy.org/doc/scipy/reference/stats.html)"
+msgstr ""
+
+#: ../../04_Data_presentation/_notinyet_Presentation_graphs.md:1
+msgid "Presentation of graphs"
+msgstr ""
+

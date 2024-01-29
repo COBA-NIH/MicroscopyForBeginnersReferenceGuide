@@ -7,4 +7,4 @@ git:
     source_file_dir: _build/gettext
     translation_files_expression: 'locale/<lang>/LC_MESSAGES'
     ignore_files:
-    - README.md
+    - _build/gettext/README.pot
