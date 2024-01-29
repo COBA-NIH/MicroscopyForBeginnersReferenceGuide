@@ -24,3 +24,4 @@ Work is underway to translate this guide into other languages - translation is p
 Translations are gratefully acknowledged from:
 
 - Czech : Martin Schätz
+- Portuguese: Mario Costa Cruz
