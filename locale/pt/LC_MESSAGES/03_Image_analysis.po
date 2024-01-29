@@ -2019,10 +2019,10 @@ msgid ""
 "be able to identify the same cell as it moves in space."
 msgstr ""
 "Rastreamento, ou _rastreamento de objetos_, refere-se à capacidade de "
-"estimar a localização de objetos em movimento de um quadro de vídeo para o "
+"estimar a localização de objetos em movimento de um quadro do vídeo para o "
 "próximo. Na prática, o rastreamento de objetos em microscopia envolve a "
 "identificação de seus objetos em cada quadro do seu vídeo e, em seguida, "
-"relacionar os objetos quadro a quadro para poder identificar a mesma célula "
+"relacionam os objetos quadro a quadro para poder identificar a mesma célula "
 "à medida que ela se move no espaço."
 
 #: ../../03_Image_analysis/Tracking.md:10
