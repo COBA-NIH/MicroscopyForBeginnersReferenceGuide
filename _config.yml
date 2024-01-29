@@ -3,7 +3,7 @@
 
 title: Microscopy for Beginners reference guide
 author: ""
-copyright                   : "2023"  # Copyright year to be placed in the footer
+copyright                   : "2024"  # Copyright year to be placed in the footer
 logo                        : "logo.png"  # A path to the book logo
 # Patterns to skip when building the book. Can be glob-style (e.g. "*skip.ipynb")
 exclude_patterns            : [_build, Thumbs.db, .DS_Store, "**.ipynb_checkpoints"]
@@ -42,7 +42,7 @@ html:
     hypothesis: true
   extra_footer: |
     <p>
-    <a href="https://www.bioimagingguide.org">English</a> <a href="https://cs.bioimagingguide.org">česky</a> 
+    <a href="https://www.bioimagingguide.org">English</a> <a href="https://cs.bioimagingguide.org">česky</a> <a href="https://pt.bioimagingguide.org">português</a>
     </p>
 
 sphinx:
