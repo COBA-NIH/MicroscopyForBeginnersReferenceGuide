@@ -93,7 +93,7 @@ msgstr ""
 "die das gesamte ihnen zur Verfügung stehende Licht in einem einzigen "
 "Lichtweg aufnehmen; dieser Ansatz erfordert die am wenigsten komplexe "
 "Hardware und ist außerdem oft vorteilhaft, wenn es um die Abbildung von "
-"schwachen Proben geht. {term} Die \"Entfaltung\" wird manchmal nach der "
+"schwachen Proben geht. {term} Die \"Deconvolution\" wird manchmal nach der "
 "Aufnahme mit einem Weitwinkelmikroskop durchgeführt, um Unschärfen zu "
 "entfernen."
 
