@@ -1733,9 +1733,9 @@ msgid ""
 "can be shared with other users. [Read more...](content/icy)"
 msgstr ""
 "[Icy](https://icy.bioimageanalysis.org/) é uma ferramenta de análise de "
-"imagem pronta para uso, que utiliza plugins para criar protocolos de análise"
-" de imagem visual que podem ser compartilhados com outros usuários. [Leia "
-"mais...](conteúdo/gelo)"
+"imagem pronta para uso, que utiliza plugins para criar fluxogramas visuais "
+"de análise de imagem que podem ser compartilhados com outros usuários. [Leia"
+" mais...](conteúdo/gelo)"
 
 #: ../../03_Image_analysis/Software.md:0
 msgid "MIB"
