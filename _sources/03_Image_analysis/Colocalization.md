@@ -8,7 +8,7 @@ Colocalization is when two or more different labels (e.g., eGFP and mCherry) spa
 It is also important to recognize that co-ocurrence does not _necessarily_ imply interaction. 
 
 ```{margin}
-As an example, it is possible for two people to work in the same building an never interact. 
+As an example, it is possible for two people to work in the same building and never interact. 
 ```
 
 ```{figure} ../images/colocalization.png
