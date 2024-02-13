@@ -93,7 +93,7 @@ msgstr ""
 
 #: ../../Glossary.md:12
 msgid "Fixation"
-msgstr "تثبیت"
+msgstr "فیکساسیون"
 
 #: ../../Glossary.md:17
 msgid ""
