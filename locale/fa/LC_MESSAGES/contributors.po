@@ -1,0 +1,135 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2024
+# This file is distributed under the same license as the Python package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+# 
+# Translators:
+# Beth Cimini, 2024
+# 
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Python\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-01-29 08:24-0500\n"
+"PO-Revision-Date: 2023-05-02 18:49+0000\n"
+"Last-Translator: Beth Cimini, 2024\n"
+"Language-Team: Persian (https://app.transifex.com/center-for-open-bioimage-analysis/teams/169123/fa/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: fa\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+
+#: ../../contributors.md:1
+msgid "Contributing to this guide"
+msgstr "مشارکت در این راهنما"
+
+#: ../../contributors.md:3
+msgid "Contributors"
+msgstr "مشارکت کنندگان"
+
+#: ../../contributors.md:5
+msgid ""
+"The original material for this book was created as part of the paper \"[**_A"
+" biologist’s guide to planning and performing quantitative bioimaging "
+"experiments_**](https://doi.org/10.1371/journal.pbio.3002167)\" "
+"{cite}`Senft2023-zy`. by Rebecca A. Senft*, Barbara Diaz-Rohrer*, Pina "
+"Colarusso, Lucy Swift, Nasim Jamali, Helena Jambor, Thomas Pengo, Craig "
+"Brideau, Paula Montero Llopis, Virginie Uhlmann, Jason Kirk, Kevin Andrew "
+"Gonzales, Peter Bankhead, Edward L. Evans III, Kevin W Eliceiri and Beth A. "
+"Cimini."
+msgstr ""
+"مطالب اصلی برای این کتاب به عنوان بخشی از مقاله \"[**_راهنمای یک زیست شناس "
+"برای برنامه ریزی و انجام آزمایش های کمی تصویربرداری "
+"زیستی_**](https://doi.org/10.1371/journal.pbio.3002167)\" ایجاد شده است. "
+"class='notranslate'>{cite}</span>`Senft2023-zy`. توسط ربکا ای. سنفت*، "
+"باربارا دیاز روهرر*، پینا کولاروسو، لوسی سویفت، نسیم جمالی، هلنا جامبور، "
+"توماس پنگو، کریگ بریو، پائولا مونترو لوپیس، ویرجینی اولمن، جیسون کرک، کوین "
+"اندرو گونزالس، پیتر بنک هد، ادوارد ال. ایوانز سوم، کوین دبلیو السیری و بت آ."
+" سیمینی."
+
+#: ../../contributors.md:7
+msgid ""
+"Since this guide has become available, we gratefully acknowledge "
+"contributions from the following members of the microscopy and bioimage "
+"analysis community!"
+msgstr ""
+"از آنجایی که این راهنما در دسترس قرار گرفته است، ما با سپاس از مشارکت اعضای "
+"زیر در انجمن تجزیه و تحلیل میکروسکوپ و تصویر زیستی قدردانی می کنیم!"
+
+#: ../../contributors.md:8
+msgid "William Giang"
+msgstr "ویلیام جیانگ"
+
+#: ../../contributors.md:9
+msgid "Robert Haase"
+msgstr "رابرت هاس"
+
+#: ../../contributors.md:11
+msgid "How can I become a contributor?"
+msgstr "چگونه می توانم یک مشارکت کننده باشم؟"
+
+#: ../../contributors.md:13
+msgid ""
+"Please feel free to open an "
+"[issue](https://github.com/broadinstitute/MicroscopyForBeginnersReferenceGuide/issues)"
+" or pull request to contribute! We hope for this to be a living document "
+"reflecting the best practices and resources available."
+msgstr ""
+"لطفاً یک [مسأله] "
+"(https://github.com/broadinstitute/MicroscopyForBeginnersReferenceGuide/issues)"
+" را باز کنید یا درخواستی برای مشارکت بخواهید! ما امیدواریم که این سند زنده "
+"ای باشد که منعکس کننده بهترین شیوه ها و منابع موجود باشد."
+
+#: ../../contributors.md:15
+msgid ""
+"We currently also offer a [Google "
+"Form](https://docs.google.com/forms/d/e/1FAIpQLScWQbemviI2OkvVkeTKUOozAzKNndcZpXIB_nE0qFMl72lqvQ/viewform)"
+" for contributions, though note these may be responded to more slowly than "
+"direct contributions to the GitHub repository."
+msgstr ""
+"ما در حال حاضر یک [Google "
+"Form](https://docs.google.com/forms/d/e/1FAIpQLScWQbemviI2OkvVkeTKUOozAzKNndcZpXIB_nE0qFMl72lqvQ/viewform)"
+" را نیز برای مشارکت‌ها ارائه می‌دهیم، هرچند توجه داشته باشید که ممکن است به "
+"مشارکت‌های مستقیم به reposit G با کندی پاسخ داده شود."
+
+#: ../../contributors.md:18
+msgid "Translation"
+msgstr "ترجمه"
+
+#: ../../contributors.md:20
+msgid ""
+"This guide is available in [English](https://www.bioimagingguide.org) as "
+"well as [Czech](https://cs.bioimagingguide.org) and "
+"[Portuguese](https://pt.bioimagingguide.org)."
+msgstr ""
+"این راهنما در [انگلیسی](https://www.bioimagingguide.org) و همچنین "
+"[چک](https://cs.bioimagingguide.org) و "
+"[پرتغالی](https://pt.bioimagingguide.org) موجود است )."
+
+#: ../../contributors.md:22
+msgid ""
+"Work is underway to translate this guide into other languages - translation "
+"is planned or has begun in French, Spanish, German, Finnish, Italian, "
+"Japanese, and Polish. To help translate into one of these languages, or "
+"another language not listed here, please contact bcimini AT broadinstitute "
+"DOT org."
+msgstr ""
+"کار برای ترجمه این راهنما به زبان های دیگر در حال انجام است - ترجمه به زبان "
+"های فرانسوی، اسپانیایی، آلمانی، فنلاندی، ایتالیایی، ژاپنی و لهستانی برنامه "
+"ریزی شده یا آغاز شده است. برای کمک به ترجمه به یکی از این زبان‌ها یا زبان "
+"دیگری که در اینجا فهرست نشده است، لطفاً با bcimini AT broadinstitute DOT org"
+" تماس بگیرید."
+
+#: ../../contributors.md:24
+msgid "Translations are gratefully acknowledged from:"
+msgstr "با تشکر از ترجمه ها:"
+
+#: ../../contributors.md:26
+msgid "Czech : Martin Schätz"
+msgstr "چک: مارتین شاتز"
+
+#: ../../contributors.md:27
+msgid "Portuguese: Mario Costa Cruz"
+msgstr "پرتغالی: ماریو کاستا کروز"
