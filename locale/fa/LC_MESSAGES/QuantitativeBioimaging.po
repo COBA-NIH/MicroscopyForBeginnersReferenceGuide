@@ -1,0 +1,128 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2023
+# This file is distributed under the same license as the Python package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+# 
+# Translators:
+# Beth Cimini, 2024
+# 
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Python\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2023-06-28 07:29-0400\n"
+"PO-Revision-Date: 2023-05-02 18:49+0000\n"
+"Last-Translator: Beth Cimini, 2024\n"
+"Language-Team: Persian (https://app.transifex.com/center-for-open-bioimage-analysis/teams/169123/fa/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: fa\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+
+#: ../../QuantitativeBioimaging.md:1
+msgid "Quantitative Bioimaging"
+msgstr "تصویربرداری زیستی کمی"
+
+#: ../../QuantitativeBioimaging.md:3
+msgid "What do we mean by quantitative bioimaging?"
+msgstr "منظور ما از تصویربرداری زیستی کمی چیست؟"
+
+#: ../../QuantitativeBioimaging.md:5
+msgid ""
+"While microscopy was by necessity a qualitative science for most of its "
+"history, we now live in an era where microscope images can be used to "
+"precisely quantify observable phenotypes."
+msgstr ""
+"در حالی که میکروسکوپ به طور ضروری در بیشتر تاریخ خود یک علم کیفی بود، ما "
+"اکنون در عصری زندگی می کنیم که می توان از تصاویر میکروسکوپ برای تعیین کمیت "
+"فنوتیپ های قابل مشاهده استفاده کرد."
+
+#: ../../QuantitativeBioimaging.md:7
+msgid ""
+"The ability to draw accurate quantitative answers from these experiments "
+"relies on certain best practices being followed. If one can confidently say "
+"\"Yes\" to each of the following 4 questions, one is likely to be able to "
+"quantify their sample."
+msgstr ""
+"توانایی استخراج پاسخ‌های کمی دقیق از این آزمایش‌ها به بهترین شیوه‌هایی که "
+"دنبال می‌شوند متکی است. اگر کسی بتواند با اطمینان به هر یک از 4 سوال زیر "
+"\"بله\" بگوید، احتمالاً می تواند نمونه خود را کمیت کند."
+
+#: ../../QuantitativeBioimaging.md:9
+msgid ""
+"Have I prepared my sample in a way that minimizes technical artifacts and "
+"lets me understand exactly which molecule(s) I am observing?"
+msgstr ""
+"آیا نمونه خود را به گونه ای آماده کرده ام که مصنوعات فنی را به حداقل برساند "
+"و به من امکان دهد دقیقاً متوجه شوم کدام مولکول(های) را مشاهده می کنم؟"
+
+#: ../../QuantitativeBioimaging.md:10
+msgid ""
+"Have I conducted my microscopy so that I minimize technical artifacts and am"
+" in the quantitative range of the detector attached to my microscope?"
+msgstr ""
+"آیا میکروسکوپ خود را طوری انجام داده ام که مصنوعات فنی را به حداقل برسانم و "
+"در محدوده کمی آشکارساز متصل به میکروسکوپ خود قرار داشته باشم؟"
+
+#: ../../QuantitativeBioimaging.md:11
+msgid ""
+"Have I selected analysis metric(s) that truly answer my biological question "
+"and measured them in a way that minimizes technical artifacts?"
+msgstr ""
+"آیا معیار(های) تحلیلی را انتخاب کرده ام که واقعاً به سؤال بیولوژیکی من پاسخ "
+"می دهد و آنها را به گونه ای اندازه گیری کرده ام که مصنوعات فنی را به حداقل "
+"برساند؟"
+
+#: ../../QuantitativeBioimaging.md:12
+msgid ""
+"Have I chosen appropriate statistical comparisons and data presentation "
+"approaches so that the distribution of my metric(s) can be fairly compared "
+"across samples, answering my biolgical question?"
+msgstr ""
+"آیا مقایسه‌های آماری و روش‌های ارائه داده‌های مناسبی را انتخاب کرده‌ام تا "
+"بتوان توزیع متریک(های) من را به طور منصفانه در بین نمونه‌ها مقایسه کرد و به "
+"سؤال بیولوژیکی من پاسخ داد؟"
+
+#: ../../QuantitativeBioimaging.md:14
+msgid ""
+"Answering each of these questions requires thought, expertise, and often a "
+"fair amount of trial and error; it can feel overwhelming to grapple with all"
+" the technical aspects and caveats present in a bioimaging experiment. These"
+" questions **_can_** be answered, however, though often not in a single pass"
+" - [continuous optimization through multiple rounds of answering these "
+"questions](qb-decision-cycle) is typically needed for best results."
+msgstr ""
+"پاسخ به هر یک از این سؤالات نیازمند تفکر، تخصص و اغلب آزمون و خطا است. دست و"
+" پنجه نرم کردن با تمام جنبه های فنی و اخطارهای موجود در یک آزمایش "
+"تصویربرداری زیستی می تواند طاقت فرسا باشد. با این حال، به این سوالات "
+"**_can_** پاسخ داده می‌شود، اگرچه اغلب نه در یک مرحله - [بهینه‌سازی مستمر از"
+" طریق چندین دور پاسخ دادن به این سوالات] (qb-decision-cycle) معمولاً برای "
+"بهترین نتایج مورد نیاز است."
+
+#: ../../QuantitativeBioimaging.md:16
+msgid ""
+"The resources linked in this guide are designed to help a reader develop "
+"skills in each or all of these areas, helping them get the most from their "
+"microscopy data."
+msgstr ""
+"منابع مرتبط در این راهنما برای کمک به خواننده در توسعه مهارت‌ها در هر یک یا "
+"همه این زمینه‌ها طراحی شده‌اند و به او کمک می‌کنند از داده‌های میکروسکوپی "
+"خود بیشترین بهره را ببرند."
+
+#: ../../QuantitativeBioimaging.md:25
+msgid "cycle"
+msgstr "چرخه"
+
+#: ../../QuantitativeBioimaging.md:25
+msgid ""
+"**The decision cycle of quantitative bioimaging {cite}`Senft2023-zy`** "
+"Reproduced from Senft and Diaz-Rohrer et al, [**_A biologist’s guide to "
+"planning and performing quantitative bioimaging "
+"experiments_**](https://doi.org/10.1371/journal.pbio.3002167)."
+msgstr ""
+"**چرخه تصمیم گیری تصویربرداری زیستی کمی {cite}`Senft2023-zy`** بازتولید شده "
+"از Senft و Diaz-Rohrer و همکاران، [**_راهنمای زیست شناس برای برنامه ریزی و "
+"اجرای تصویربرداری کمی زیستی "
+"Experiments_**](https://doi.org/10.1371/journal.pbio.3002167)."
