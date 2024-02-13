@@ -1,0 +1,416 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2023
+# This file is distributed under the same license as the Python package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+# 
+# Translators:
+# Beth Cimini, 2024
+# 
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Python\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2023-05-19 07:07-0400\n"
+"PO-Revision-Date: 2023-05-02 18:49+0000\n"
+"Last-Translator: Beth Cimini, 2024\n"
+"Language-Team: Persian (https://app.transifex.com/center-for-open-bioimage-analysis/teams/169123/fa/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: fa\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+
+#: ../../Glossary.md:1
+msgid "Glossary"
+msgstr "واژه نامه"
+
+#: ../../Glossary.md:0
+msgid "Blocking"
+msgstr "مسدود کردن"
+
+#: ../../Glossary.md:5
+msgid ""
+"During the immunostaining procedure, it is important to minimize nonspecific"
+" binding of the primary or secondary antibodies. In most cases, this is "
+"achieved by blocking, which typically involves adding substances such as "
+"normal sera, gelatin, or albumin before immunostaining in order to "
+"\"occupy\" all the non-specific binding sites in the sample."
+msgstr ""
+"در طول روش ایمونوهیستوشیمی، به حداقل رساندن اتصال غیر اختصاصی آنتی بادی های "
+"اولیه یا ثانویه مهم است. در بیشتر موارد، این امر با مسدود کردن به دست "
+"می‌آید، که معمولاً شامل افزودن موادی مانند سرم معمولی، ژلاتین یا آلبومین قبل"
+" از رنگ‌آمیزی ایمنی به منظور «اشغال» تمام مکان‌های اتصال غیر اختصاصی در "
+"نمونه است."
+
+#: ../../Glossary.md:3
+msgid "Deconvolution"
+msgstr "دکانولوشن"
+
+#: ../../Glossary.md:8
+msgid ""
+"The process of computationally removing blur from microscopy images by using"
+" the known optical properties of the light path to \"reassign\" pixel "
+"intensity away from where it hit the camera and back onto the structure that"
+" emitted the light."
+msgstr ""
+"فرآیند محاسباتی از بین بردن تاری از تصاویر میکروسکوپی با استفاده از خواص "
+"نوری شناخته شده مسیر نور برای \"تخصیص مجدد\" شدت پیکسل به دور از نقطه برخورد"
+" دوربین و بازگشت به ساختاری که نور را ساطع می کند."
+
+#: ../../Glossary.md:6
+msgid "Ex-Vivo imaging"
+msgstr "تصویربرداری Ex-Vivo"
+
+#: ../../Glossary.md:11
+msgid ""
+"Refers to imaging performed on live animal tissue in an external "
+"controllable environment (e.g., tissue explant on a petri dish). It enables "
+"high-resolution imaging of live tissue that may be otherwise inaccessible "
+"within the animal. The tissue is maintained alive on the imaging system "
+"through perfusion of oxygenated (95% oxygen and 5% CO2), temperature-"
+"controlled media using peristaltic pumps and microfluidics."
+msgstr ""
+"به تصویربرداری انجام شده بر روی بافت حیوانی زنده در یک محیط قابل کنترل خارجی"
+" (به عنوان مثال، ریزنمونه بافت روی یک ظرف پتری) اشاره دارد. این امکان "
+"تصویربرداری با وضوح بالا از بافت زنده را فراهم می کند که ممکن است در غیر این"
+" صورت در حیوان غیر قابل دسترس باشد. بافت از طریق پرفیوژن اکسیژن دار (95٪ "
+"اکسیژن و 5٪ CO2)، محیط های کنترل شده با دما با استفاده از پمپ های پریستالتیک"
+" و میکروسیال ها در سیستم تصویربرداری زنده نگه داشته می شود."
+
+#: ../../Glossary.md:9
+msgid "Fiji"
+msgstr "فیجی"
+
+#: ../../Glossary.md:14
+msgid ""
+"[Fiji](https://imagej.net/software/fiji/) Is Just ImageJ. ImageJ2 plus a lot"
+" of common plugins."
+msgstr ""
+"[فیجی](https://imagej.net/software/fiji/) فقط ImageJ است. ImageJ2 به علاوه "
+"بسیاری از پلاگین های رایج."
+
+#: ../../Glossary.md:12
+msgid "Fixation"
+msgstr "تثبیت"
+
+#: ../../Glossary.md:17
+msgid ""
+"Fixation of a specimen refers to the stabilization of the cellular/molecular"
+" components within the sample while at the same time stopping any biological"
+" function in that sample. The fixative used (e.g., paraformaldehyde, "
+"glutaraldehyde, methanol), concentration and conditions (e.g., buffer, "
+"temperature) determine the extent of preservation of the cellular and/or "
+"molecular structures within a sample, and needs to be optimized depending on"
+" the sample or structure that is being imaged."
+msgstr ""
+"تثبیت یک نمونه به تثبیت اجزای سلولی/مولکولی درون نمونه و در عین حال متوقف "
+"کردن هر گونه عملکرد بیولوژیکی در آن نمونه اشاره دارد. تثبیت کننده مورد "
+"استفاده (به عنوان مثال، پارافورمالدئید، گلوتارآلدئید، متانول)، غلظت و شرایط "
+"(به عنوان مثال، بافر، دما) میزان حفظ ساختارهای سلولی و/یا مولکولی را در یک "
+"نمونه تعیین می کند و بسته به نمونه یا باید بهینه شود. ساختاری که در حال "
+"تصویربرداری است."
+
+#: ../../Glossary.md:15
+msgid "Image processing"
+msgstr "پردازش تصویر"
+
+#: ../../Glossary.md:20
+msgid ""
+"Is an operation that can be performed on an image, resulting in another "
+"image. Image processing operations can be simple (e.g. resizing or rotating)"
+" or more advanced (e.g. enhancing particular features of an image like "
+"circles or lines)."
+msgstr ""
+"عملیاتی است که می توان روی یک تصویر انجام داد و در نتیجه تصویر دیگری ایجاد "
+"کرد. عملیات پردازش تصویر می تواند ساده باشد (به عنوان مثال تغییر اندازه یا "
+"چرخش) یا پیشرفته تر (به عنوان مثال بهبود ویژگی های خاص یک تصویر مانند دایره "
+"ها یا خطوط)."
+
+#: ../../Glossary.md:18
+msgid "Immersion media"
+msgstr "رسانه غوطه وری"
+
+#: ../../Glossary.md:23
+msgid ""
+"The immersion media is the medium that fills the gap between your objective "
+"lens and the glass coverslip or sample. It impacts the numerical aperture of"
+" the objective lens {math}`NA=RI * sin(θ)`, thus impacting lateral and axial"
+" resolution. It is critical to match the RI of the immersion media with that"
+" of the mounting media to minimize aberrations and improve image quality. "
+"Immersion media can be air, water, silicone oil, glycerol or oil."
+msgstr ""
+"رسانه غوطه وری محیطی است که شکاف بین لنز شیئی شما و پوشش شیشه ای یا نمونه را"
+" پر می کند. این دیافراگم عددی لنز شیئی را تحت تأثیر قرار می دهد {math}`NA=RI"
+" * sin(θ)`، بنابراین بر وضوح جانبی و محوری تأثیر می گذارد. برای به حداقل "
+"رساندن انحرافات و بهبود کیفیت تصویر، تطبیق RI رسانه غوطه وری با رسانه نصب "
+"بسیار مهم است. محیط غوطه وری می تواند هوا، آب، روغن سیلیکون، گلیسرول یا روغن"
+" باشد."
+
+#: ../../Glossary.md:21
+msgid "Immunolabeling"
+msgstr "برچسب گذاری ایمنی"
+
+#: ../../Glossary.md:26
+msgid ""
+"Immunolabeling is one of the most common labeling techniques for fixed "
+"samples. You can use fluorescently conjugated primary antibodies to detect "
+"the protein of interest or a two-step labeling with a primary antibody and a"
+" fluorescently conjugated secondary antibody. Primary-secondary labeling "
+"tends to result in signal amplification. The main issue with immunolabeling "
+"is the size of the antibodies, which require extensive permeabilization. "
+"Another good option is to use nano-bodies, which only have the heavy-chain "
+"and are significantly smaller than regular antibodies."
+msgstr ""
+"برچسب گذاری ایمنی یکی از رایج ترین تکنیک های برچسب گذاری برای نمونه های ثابت"
+" است. می توانید از آنتی بادی های اولیه کونژوگه فلورسنت برای تشخیص پروتئین "
+"مورد نظر یا برچسب گذاری دو مرحله ای با یک آنتی بادی اولیه و یک آنتی بادی "
+"ثانویه کونژوگه فلورسنت استفاده کنید. برچسب‌گذاری اولیه-ثانویه منجر به تقویت "
+"سیگنال می‌شود. مشکل اصلی با برچسب گذاری ایمنی، اندازه آنتی بادی ها است که به"
+" نفوذپذیری گسترده نیاز دارند. یکی دیگر از گزینه های خوب استفاده از نانو "
+"اجسام است که فقط دارای زنجیره سنگین هستند و به طور قابل توجهی کوچکتر از آنتی"
+" بادی های معمولی هستند."
+
+#: ../../Glossary.md:24
+msgid "Intravital imaging"
+msgstr "تصویربرداری داخل حیاتی"
+
+#: ../../Glossary.md:29
+msgid ""
+"It refers to the imaging of cellular structures or biological processes "
+"inside a live animal in real time, without extracting the organs or fixing "
+"the sample. In general, it requires specific instrumentation or modalities "
+"with improved light penetration, such as multiphoton microscopy and is "
+"limited to the ability to access the specific organ, often through optical "
+"windows. Intravital imaging is overseen by bioethical committees and needs "
+"to be approved by IACUC and/or other institutional committees."
+msgstr ""
+"این به تصویربرداری از ساختارهای سلولی یا فرآیندهای بیولوژیکی درون یک حیوان "
+"زنده در زمان واقعی، بدون استخراج اندام ها یا ثابت کردن نمونه اشاره دارد. به "
+"طور کلی، نیاز به ابزار دقیق یا مدالیته‌هایی با نفوذ نور بهبود یافته، مانند "
+"میکروسکوپ چند فوتونی دارد و به توانایی دسترسی به اندام خاص، اغلب از طریق "
+"پنجره‌های نوری محدود می‌شود. تصویربرداری درون حیاتی توسط کمیته‌های اخلاق "
+"زیستی نظارت می‌شود و باید توسط IACUC و/یا کمیته‌های سازمانی دیگر تأیید شود."
+
+#: ../../Glossary.md:27
+msgid "Mounting media"
+msgstr "رسانه نصب"
+
+#: ../../Glossary.md:32
+msgid ""
+"Is the solution in which your specimen is placed in (mounted). Its purpose "
+"is to preserve the sample, including the fluorophores in it,  and enhance "
+"the imaging quality during acquisition, by buffering the pH, matching the "
+"refractive index throughout the sample (ideally matching it to that of "
+"glass) and minimizing photobleaching (depending on the medium). Mounting "
+"media prevents the sample from drying out allowing long-term storage."
+msgstr ""
+"آیا محلولی است که نمونه شما در آن قرار می گیرد (نصب شده است). هدف آن حفظ "
+"نمونه، از جمله فلوروفورهای موجود در آن، و افزایش کیفیت تصویربرداری در حین "
+"اکتساب، با بافر کردن pH، تطبیق ضریب شکست در سراسر نمونه (در حالت ایده‌آل "
+"تطبیق آن با شیشه) و به حداقل رساندن سفیدکننده نور (بسته به متوسط). رسانه های"
+" نصب از خشک شدن نمونه جلوگیری می کند و امکان نگهداری طولانی مدت را فراهم می "
+"کند."
+
+#: ../../Glossary.md:30
+msgid "Object detection"
+msgstr "تشخیص اشیا"
+
+#: ../../Glossary.md:35
+msgid ""
+"Is the image processing technique to detect objects within an image. It "
+"would not give you a mask of the objects but it could give you a bounding "
+"box, or and x,y position."
+msgstr ""
+"تکنیک پردازش تصویر برای تشخیص اشیاء درون یک تصویر است. به شما ماسکی از اشیا "
+"نمی دهد، اما می تواند یک جعبه مرزی، یا و موقعیت x،y به شما بدهد."
+
+#: ../../Glossary.md:33
+msgid "Oxygen scavengers"
+msgstr "اکسیژن گیر"
+
+#: ../../Glossary.md:38
+msgid ""
+"Oxygen tends to induce photobleaching of organic dyes and other "
+"fluorophores. Addition of oxygen scavengers to the imaging media such as "
+"glucose oxidase or pyranose 2-oxidase can significantly reduce "
+"photobleaching of the fluorophores present in the sample. It is important to"
+" understand that the use of oxygen scavengers may affect live cell imaging, "
+"as these scavengers can affect the ATP and oxygen levels within the sample, "
+"compromising its health and therefore biological function."
+msgstr ""
+"اکسیژن تمایل دارد تا رنگ‌های آلی و سایر فلوروفورها را به نور سفید القا کند. "
+"افزودن جاذب‌های اکسیژن به محیط‌های تصویربرداری مانند گلوکز اکسیداز یا "
+"پیرانوز 2-اکسیداز می‌تواند به طور قابل‌توجهی سفیدکننده نور فلوروفورهای موجود"
+" در نمونه را کاهش دهد. درک این نکته مهم است که استفاده از جاذب‌های اکسیژن "
+"ممکن است بر تصویربرداری سلول زنده تأثیر بگذارد، زیرا این روبنده‌ها می‌توانند"
+" بر سطح ATP و اکسیژن در نمونه تأثیر بگذارند و سلامت و در نتیجه عملکرد "
+"بیولوژیکی آن را به خطر بیندازند."
+
+#: ../../Glossary.md:36
+msgid "Permeabilization"
+msgstr "نفوذپذیری"
+
+#: ../../Glossary.md:41
+msgid ""
+"In order for the antibodies used during immunostaining or other fluorophores"
+" to penetrate and bind to their antigen within a cell or tissue, the "
+"membrane integrity (holes) needs to be challenged with a mild detergent. The"
+" permeabilization step needs to be carefully optimized depending on the "
+"antigen of interest, as it can result in a loss of cytoplasm or a "
+"degradation of the signal."
+msgstr ""
+"برای اینکه آنتی بادی های مورد استفاده در طی رنگ آمیزی ایمونوهیستوشیمی یا "
+"سایر فلوروفورها نفوذ کنند و به آنتی ژن خود در یک سلول یا بافت متصل شوند، "
+"یکپارچگی غشاء (سوراخ ها) باید با یک شوینده ملایم به چالش کشیده شود. مرحله "
+"نفوذپذیری باید با دقت بسته به آنتی ژن مورد نظر بهینه شود، زیرا می تواند منجر"
+" به از دست دادن سیتوپلاسم یا تخریب سیگنال شود."
+
+#: ../../Glossary.md:39
+msgid "Refractive index"
+msgstr "ضریب شکست"
+
+#: ../../Glossary.md:44
+msgid ""
+"It's a measure of how light travels through a specific medium. It is an "
+"important value when calculating the numerical aperture of an objective, "
+"Ideally, a mismatch in refractive index between the sample (mounting "
+"medium), the coverslip and immersion media should be minimized in order to "
+"enhance the image quality. [See an interactive demo of refactive index at "
+"MicroscopyU](https://www.microscopyu.com/microscopy-basics/refractive-index-"
+"index-of-refraction)"
+msgstr ""
+"این معیاری است برای چگونگی عبور نور از یک محیط خاص. هنگام محاسبه دیافراگم "
+"عددی یک شی، یک مقدار مهم است، در حالت ایده آل، عدم تطابق در ضریب شکست بین "
+"نمونه (محیط نصب)، لغزش پوشش و رسانه غوطه وری باید به حداقل برسد تا کیفیت "
+"تصویر افزایش یابد. [نمونه نمایشی تعاملی شاخص انکسار را در MicroscopyU "
+"ببینید](https://www.microscopyu.com/microscopy-basics/refractive-index-"
+"index-of-refction)"
+
+#: ../../Glossary.md:42
+msgid "ROIs"
+msgstr "ROI"
+
+#: ../../Glossary.md:47
+msgid ""
+"Regions Of Interest. Pixels in your image that you care about (e.g., a "
+"region in tissue, a cell, a tumor, etc.)"
+msgstr ""
+"مناطق مورد علاقه. پیکسل‌هایی در تصویرتان که به آن‌ها اهمیت می‌دهید (مثلاً "
+"ناحیه‌ای در بافت، سلول، تومور و غیره)"
+
+#: ../../Glossary.md:45
+msgid "Segmentation"
+msgstr "تقسیم بندی"
+
+#: ../../Glossary.md:50
+msgid ""
+"Method of dividing an image into multiple parts or regions. There are three "
+"different types of segmentation."
+msgstr ""
+"روش تقسیم یک تصویر به چند قسمت یا منطقه. سه نوع مختلف تقسیم بندی وجود دارد."
+
+#: ../../Glossary.md:51
+msgid ""
+"Semantic segmentation, where all parts of an image are part of a class, "
+"common in cell biology will be detecting cells and background on an image."
+msgstr ""
+"تقسیم بندی معنایی، که در آن تمام قسمت های یک تصویر بخشی از یک کلاس هستند، که"
+" در زیست شناسی سلولی رایج است، تشخیص سلول ها و پس زمینه روی یک تصویر است."
+
+#: ../../Glossary.md:52
+msgid ""
+"Instance segmentation, the segmentation is object based, not just detecting "
+"were the cells are but diving each cell as a separate object."
+msgstr ""
+"تقسیم‌بندی نمونه، تقسیم‌بندی مبتنی بر شی است، نه تنها تشخیص سلول‌ها، بلکه "
+"غواصی هر سلول به عنوان یک شی جداگانه."
+
+#: ../../Glossary.md:53
+msgid ""
+"Panoptic Segmentation, it can be defined as a combination of the prior two, "
+"because it identifies the object but also classifies them. An example in "
+"biology might be detecting all the cells on an image and classifying them as"
+" dividing vs not."
+msgstr ""
+"Panoptic Segmentation، می تواند به عنوان ترکیبی از دو مورد قبلی تعریف شود، "
+"زیرا شی را شناسایی می کند اما آنها را نیز طبقه بندی می کند. یک مثال در "
+"زیست‌شناسی می‌تواند تشخیص تمام سلول‌های روی یک تصویر و طبقه‌بندی آن‌ها "
+"به‌عنوان تقسیم‌کننده در مقابل غیر تقسیم‌بندی باشد."
+
+#: ../../Glossary.md:51
+msgid "Thresholding"
+msgstr "آستانه گذاری"
+
+#: ../../Glossary.md:56
+msgid ""
+"The easiest form of image segmentation, it divides the image into two part "
+"the background and the foreground (or signal). It creates a binary image "
+"where usually the background pixels would be change to a 0 value and the "
+"foreground pixels values would be 1."
+msgstr ""
+"ساده ترین شکل تقسیم بندی تصویر، تصویر را به دو قسمت پس زمینه و پیش زمینه (یا"
+" سیگنال) تقسیم می کند. این یک تصویر باینری ایجاد می کند که معمولاً پیکسل های"
+" پس زمینه به مقدار 0 تغییر می کنند و مقادیر پیکسل های پیش زمینه 1 خواهد بود."
+
+#: ../../Glossary.md:54
+msgid "Tissue clearing"
+msgstr "پاکسازی بافت"
+
+#: ../../Glossary.md:59
+msgid ""
+"Fluorescence imaging of the whole thickness of a piece of tissue is very "
+"challenging due to light absorption and scattering induced by the "
+"inhomogeneities in refractive indexes within the tissue itself, resulting in"
+" poor light penetration. Additionally, light coming from different parts of "
+"the sample contribute to fluorescence blur, drastically reducing contrast "
+"and resolution in any given plane. As a result, researchers tend to use "
+"tissue sectioning techniques to extract information about cellular "
+"components and their spatial distribution or relationships from a thin two-"
+"dimensional volume. However, most components in any complex biological "
+"system such as an organ are not contained within this two-dimensional "
+"volume, and therefore, this approach compromises the understanding of the "
+"spatial relationships among cellular components. Tissue clearing focused on "
+"reducing the inhomogeneities in the tissue by equilibrating the refractive "
+"index throughout the sample. This allows light to pass through the tissue "
+"and therefore enables high resolution, volumetric imaging of whole organs "
+"and tissues using conventional microscopy techniques such as confocal "
+"microscopy without the need to physically section the sample."
+msgstr ""
+"تصویربرداری فلورسانس از کل ضخامت یک تکه بافت به دلیل جذب نور و پراکندگی ناشی"
+" از ناهمگونی‌های ضریب شکست در خود بافت بسیار چالش برانگیز است که منجر به "
+"نفوذ ضعیف نور می‌شود. علاوه بر این، نوری که از قسمت‌های مختلف نمونه می‌آید "
+"به تاری فلورسانس کمک می‌کند و کنتراست و وضوح را در هر صفحه معین به شدت کاهش "
+"می‌دهد. در نتیجه، محققان تمایل دارند از تکنیک‌های برش بافت برای استخراج "
+"اطلاعات در مورد اجزای سلولی و توزیع فضایی یا روابط آنها از یک حجم نازک دو "
+"بعدی استفاده کنند. با این حال، اکثر اجزاء در هر سیستم بیولوژیکی پیچیده ای "
+"مانند یک اندام در این حجم دو بعدی قرار ندارند و بنابراین، این رویکرد درک "
+"روابط فضایی بین اجزای سلولی را به خطر می اندازد. پاکسازی بافت بر کاهش "
+"ناهمگنی های بافت با متعادل کردن ضریب شکست در سراسر نمونه متمرکز شد. این "
+"اجازه می دهد تا نور از بافت عبور کند و بنابراین تصویربرداری حجمی و وضوح بالا"
+" از کل اندام ها و بافت ها را با استفاده از تکنیک های میکروسکوپ معمولی مانند "
+"میکروسکوپ کانفوکال بدون نیاز به برش فیزیکی نمونه ممکن می کند."
+
+#: ../../Glossary.md:57
+msgid "Tissue sectioning"
+msgstr "برش بافت"
+
+#: ../../Glossary.md:62
+msgid ""
+"Light penetration and fluorescence imaging is negatively impacted by light "
+"scattering within a thick specimen. This scattering is due to the different "
+"refractive indexes present within a tissue. To facilitate imaging of "
+"tissues, researchers often cut thick tissues into slices of different "
+"thicknesses. This process is called tissue sectioning. In most cases the "
+"samples are fixed and embedded in paraffin or frozen in tissue freezing "
+"medium and later cut into thin slices by a machine like a cryostat, "
+"microtome, or vibratome and sections collected into a tube or onto a slide."
+msgstr ""
+"نفوذ نور و تصویربرداری فلورسانس به طور منفی تحت تأثیر پراکندگی نور در یک "
+"نمونه ضخیم است. این پراکندگی به دلیل ضریب شکست متفاوت موجود در یک بافت است. "
+"برای تسهیل تصویربرداری از بافت ها، محققان اغلب بافت های ضخیم را به برش هایی "
+"با ضخامت های مختلف برش می دهند. این فرآیند برش بافت نامیده می شود. در اغلب "
+"موارد، نمونه‌ها را در پارافین ثابت کرده و یا در محیط انجماد بافت منجمد "
+"می‌کنند و بعداً توسط دستگاهی مانند کرایوستات، میکروتوم یا ویبراتوم به "
+"برش‌های نازک بریده می‌شوند و بخش‌هایی در یک لوله یا روی یک لام جمع‌آوری "
+"می‌شوند."
