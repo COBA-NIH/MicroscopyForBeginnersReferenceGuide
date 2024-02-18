@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/568954740.svg)](https://zenodo.org/doi/10.5281/zenodo.10675608)
+
 # Microscopy For Beginners Reference Guide
 Website :link: :arrow_right: [CLICK HERE](https://bioimagingguide.org)
 
