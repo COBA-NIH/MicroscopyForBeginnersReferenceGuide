@@ -75,7 +75,7 @@ msgstr "様々な種類の細胞が培養可能です。培養の方法として
 #: ../../01_Sample_preparation/Considerations.md:49
 #: ../../01_Sample_preparation/Considerations.md:67
 msgid "_Advantages_"
-msgstr "利点"
+msgstr "_利点_"
 
 #: ../../01_Sample_preparation/Considerations.md:17
 msgid ""
@@ -100,7 +100,7 @@ msgstr "細胞の凍結、解凍、増殖は、オルガノイドや全生物の
 #: ../../01_Sample_preparation/Considerations.md:55
 #: ../../01_Sample_preparation/Considerations.md:71
 msgid "_Disadvantages_"
-msgstr "\"デメリット"
+msgstr "_デメリット_"
 
 #: ../../01_Sample_preparation/Considerations.md:23
 msgid ""
