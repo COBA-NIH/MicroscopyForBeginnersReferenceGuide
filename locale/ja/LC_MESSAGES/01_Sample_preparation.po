@@ -93,7 +93,7 @@ msgid ""
 "Cells can be frozen, thawed, and grown much faster than work with more "
 "complex specimens like organoids or whole organisms, compressing the "
 "timeline to perform an experiment"
-msgstr "細胞の凍結、解凍、増殖は、オルガノイドや全生物のような複雑な試料を扱うよりもはるかに速く行えるため、実験に要する時間が短縮される。"
+msgstr "細胞の凍結、解凍、増殖は、オルガノイドや全生物のような複雑な試料を扱うよりもはるかに速く行えるため、実験に要する時間が短縮されます。"
 
 #: ../../01_Sample_preparation/Considerations.md:21
 #: ../../01_Sample_preparation/Considerations.md:37
