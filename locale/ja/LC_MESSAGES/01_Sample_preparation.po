@@ -86,7 +86,7 @@ msgid ""
 "throughput microscopes integrated with robotics can enable automation of "
 "experiments and imaging with cultured cells."
 msgstr ""
-"培養細胞は比較的簡単に撮像できる傾向があり、多くの問題については、共焦点法や超解像法よりも迅速で利用しやすい広視野顕微鏡で撮像できる（[Acquisition](content/microscope_selection)を参照）。さらに、ロボット工学と統合されたハイスループットマイクロスコープは、培養細胞を用いた実験やイメージングの自動化を可能にする。"
+"培養細胞は比較的簡単に撮像でき、多くのテーマでは、共焦点法や超解像法よりも迅速で利用しやすい広視野顕微鏡で撮影できます（[Acquisition](content/microscope_selection)を参照）。さらに、ロボット工学と統合されたハイスループット顕微鏡を使えば、培養細胞を用いた実験やイメージングの自動化が可能です。"
 
 #: ../../01_Sample_preparation/Considerations.md:19
 msgid ""
