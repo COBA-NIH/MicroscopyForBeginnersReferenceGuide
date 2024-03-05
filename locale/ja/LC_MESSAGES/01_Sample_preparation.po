@@ -5,7 +5,7 @@
 # 
 # Translators:
 # Beth Cimini, 2023
-# Haruhiko Morita, 2023
+# Haruhiko Morita, 2024
 # 
 #, fuzzy
 msgid ""
@@ -14,7 +14,7 @@ msgstr ""
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2023-05-19 07:07-0400\n"
 "PO-Revision-Date: 2023-05-02 18:49+0000\n"
-"Last-Translator: Haruhiko Morita, 2023\n"
+"Last-Translator: Haruhiko Morita, 2024\n"
 "Language-Team: Japanese (https://app.transifex.com/center-for-open-bioimage-analysis/teams/169123/ja/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -42,7 +42,7 @@ msgid ""
 " is appropriate for your question and what measurements you'd ultimately "
 "like to be able to make. Below, we summarize some common sample types"
 msgstr ""
-"画像化する試料の種類には多くの選択肢があり、試料調製技術や画像化モダリティの進歩により、より多様で複雑な生物学的試料の画像化が絶えず可能になっている。実験計画の他の多くの側面と同様に、試料の種類の選択にはトレードオフが伴う。簡便な調製とイメージングが可能な試料は、培養細胞の単層膜のように、小さく、薄く、比較的透明である傾向がある。このような試料には明らかな利点があり、ハイスループットで画像化できるが、すべての生物学的疑問に適しているわけではない。特に、生物学的な疑問が異なるタイプの細胞間の相互作用に関わる場合、オルガノイドのような厚みのある標本や、全組織や切片化された組織が必要になることもある。どのような生物学的背景があなたの疑問に適切で、最終的にどのような測定ができるようにしたいかを慎重に検討する。以下に、一般的なサンプルの種類を要約する。"
+"撮影する試料の種類には多くの選択肢があり、試料調製技術や画像化モダリティの進歩により、より多様で複雑な生物学的試料の画像化が絶えず可能になっている。実験計画の他の多くの側面と同様に、試料の種類の選択にはトレードオフがあります。簡便な調製とイメージングが可能な試料は、培養細胞の単層膜のように、小さく、薄く、比較的透明である傾向がある。このような試料には明らかな利点があり、ハイスループットで画像化できるが、すべての生物学的疑問に適しているわけではない。特に、生物学的な疑問が異なるタイプの細胞間の相互作用に関わる場合、オルガノイドのような厚みのある標本や、全組織や切片化された組織が必要になることもある。どのような生物学的背景があなたの疑問に適切で、最終的にどのような測定ができるようにしたいかを慎重に検討する。以下、一般的なサンプルの種類をまとめます。"
 
 #: ../../01_Sample_preparation/Considerations.md:0
 msgid "🤔 What are my options?"
