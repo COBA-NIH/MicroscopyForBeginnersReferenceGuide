@@ -56,8 +56,8 @@ msgid ""
 " or after {term}`fixation`), but some general advantages and disadvantages "
 "are summarized below."
 msgstr ""
-"ここでは、試料のタイプについて、いくつかの主要なカテゴリーを紹介します。これらのカテゴリーの間には、厳密な境界があるわけではありませんが（例えば、細胞もオルガノイドも3D培養が可能であり、これらの試料の多くは生きたまま"
-" live 、または固定 fixation 後に画像化できます）、いくつかの一般的な利点と欠点を以下にまとめます。"
+"ここでは試料のタイプについて、いくつかの主要なカテゴリーを紹介します。これらのカテゴリーの間には、厳密な境界があるわけではないことに注意してください。例えば、細胞もオルガノイドも3D培養が可能であり、これらの試料の多くは生きたまま"
+" live 、または固定 fixation 後に画像化できます。いくつかの一般的な利点と欠点を以下にまとめます。"
 
 #: ../../01_Sample_preparation/Considerations.md:11
 msgid "**Cultured cells**"
