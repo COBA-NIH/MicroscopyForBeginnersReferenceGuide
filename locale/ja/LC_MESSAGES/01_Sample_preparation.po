@@ -100,7 +100,7 @@ msgstr "細胞の凍結、解凍、増殖は、オルガノイドや全生物の
 #: ../../01_Sample_preparation/Considerations.md:55
 #: ../../01_Sample_preparation/Considerations.md:71
 msgid "_Disadvantages_"
-msgstr "_デメリット_"
+msgstr "_欠点_"
 
 #: ../../01_Sample_preparation/Considerations.md:23
 msgid ""
