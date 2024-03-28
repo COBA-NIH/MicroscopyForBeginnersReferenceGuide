@@ -262,7 +262,7 @@ msgid ""
 "diverse sample of patients with a particular disease."
 msgstr ""
 "Los depósitos de tejidos humanos donados permiten que la investigación "
-"biomédica estudie una muestra diversa de pacientes con una enfermedad "
+"biomédica estudie diversas muestras de pacientes con una enfermedad "
 "particular."
 
 #: ../../01_Sample_preparation/Considerations.md:57
