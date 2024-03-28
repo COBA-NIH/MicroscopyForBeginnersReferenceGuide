@@ -160,7 +160,7 @@ msgstr ""
 "ortogonal de lentes objetivo. Esto permite el seccionamiento óptico delgado "
 "en grandes volúmenes, pero presenta más consideraciones sobre el montaje de "
 "la muestra. En los últimos años han surgido muchas variaciones de los "
-"microscopios de láminas de luz."
+"microscopios de hoja de luz."
 
 #: ../../02_Sample_acquisition/Introduction.md:17
 msgid ""
