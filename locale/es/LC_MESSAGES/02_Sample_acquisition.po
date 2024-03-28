@@ -5,6 +5,7 @@
 # 
 # Translators:
 # Beth Cimini, 2023
+# Mariana De Niz, 2024
 # 
 #, fuzzy
 msgid ""
@@ -13,7 +14,7 @@ msgstr ""
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2023-05-02 14:28-0400\n"
 "PO-Revision-Date: 2023-05-02 18:49+0000\n"
-"Last-Translator: Beth Cimini, 2023\n"
+"Last-Translator: Mariana De Niz, 2024\n"
 "Language-Team: Spanish (https://app.transifex.com/center-for-open-bioimage-analysis/teams/169123/es/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -55,7 +56,7 @@ msgid ""
 "view](https://www.microscopyu.com/microscopy-basics/components) gives more "
 "detail about the various parts."
 msgstr ""
-"Un concepto fundamental es el \"camino de la luz\", que se puede utilizar "
+"Un concepto fundamental es el \"trayecto de luz\", que se puede utilizar "
 "para rastrear la trayectoria de la luz desde la fuente de luz hasta el "
 "detector. Cuando se trabaja con microscopios, ya sea un microscopio de "
 "cultivo celular o un sistema de superresolución de vanguardia, es importante"
@@ -65,7 +66,7 @@ msgstr ""
 "comparación con cuando el sistema se trata como una caja negra. Este "
 "[tutorial interactivo en "
 "MicroscopyU](https://www.microscopyu.com/tutorials/tepaths) muestra las "
-"rutas de luz en un microscopio invertido estándar; [esta vista] "
+"trayectorias de luz en un microscopio invertido estándar; [esta vista] "
 "(https://www.microscopyu.com/microscopy-basics/components) brinda más "
 "detalles sobre las distintas partes."
 
