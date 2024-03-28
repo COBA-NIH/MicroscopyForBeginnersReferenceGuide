@@ -129,7 +129,7 @@ msgstr "Se agradecen las traducciones de:"
 
 #: ../../contributors.md:26
 msgid "Czech : Martin Schätz"
-msgstr "Checa : Martin Schätz"
+msgstr "Checo : Martin Schätz"
 
 #: ../../contributors.md:27
 msgid "Portuguese: Mario Costa Cruz"
