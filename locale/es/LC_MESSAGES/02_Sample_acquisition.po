@@ -239,8 +239,8 @@ msgid ""
 "travel to them."
 msgstr ""
 "Si bien algunas instalaciones de imágenes están abiertas solo para miembros "
-"de una sola institución, otras permiten que los visitantes externos o "
-"incluso patrocinen a los visitantes para que viajen a ellas."
+"de una sola institución, otras permiten  visitantes externos o incluso "
+"patrocinan a los visitantes para que viajen a ellas."
 
 #: ../../02_Sample_acquisition/Picking.md:21
 msgid ""
