@@ -939,7 +939,7 @@ msgstr ""
 
 #: ../../01_Sample_preparation/Resources.md:20
 msgid "🌐 protocols.io"
-msgstr "🌐 protocolos.io"
+msgstr "🌐 protocols.io"
 
 #: ../../01_Sample_preparation/Resources.md:21
 msgid "[link](https://www.protocols.io/)"
