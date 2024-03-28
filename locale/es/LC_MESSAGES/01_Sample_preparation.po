@@ -839,7 +839,7 @@ msgstr ""
 
 #: ../../01_Sample_preparation/Reproducibility.md:18
 msgid "Bleedthrough"
-msgstr "Sangrar a través"
+msgstr "Bleedthrough "
 
 #: ../../01_Sample_preparation/Reproducibility.md:20
 msgid ""
