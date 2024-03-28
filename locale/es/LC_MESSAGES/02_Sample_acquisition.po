@@ -555,8 +555,8 @@ msgstr "[enlace](https://www.youtube.com/@Microcourses)"
 msgid ""
 "Videos about microscopy from the microscopy cores at Harvard Medical School"
 msgstr ""
-"Videos sobre microscopía de los núcleos de microscopía en la Escuela de "
-"Medicina de Harvard"
+"Videos sobre microscopía generados por el centro de microscopía en la "
+"Escuela de Medicina de Harvard"
 
 #: ../../02_Sample_acquisition/Resources.md:31
 msgid "🌐 Advanced Imaging Center"
