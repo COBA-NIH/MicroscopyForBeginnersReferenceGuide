@@ -49,8 +49,8 @@ msgid ""
 "quantify their sample."
 msgstr ""
 "La capacidad de obtener respuestas cuantitativas precisas de estos "
-"experimentos se basa en que se sigan ciertas mejores prácticas. Si uno puede"
-" decir con confianza \"Sí\" a cada una de las siguientes 4 preguntas, es "
+"experimentos se basa en que se sigan ciertas buenas prácticas. Si uno puede "
+"decir con confianza \"Sí\" a cada una de las siguientes 4 preguntas, es "
 "probable que pueda cuantificar su muestra."
 
 #: ../../QuantitativeBioimaging.md:9
