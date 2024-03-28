@@ -72,7 +72,7 @@ msgstr ""
 
 #: ../../02_Sample_acquisition/Introduction.md:7
 msgid "Types of microscopes"
-msgstr "tipos de microscopios"
+msgstr "Tipos de microscopios"
 
 #: ../../02_Sample_acquisition/Introduction.md:9
 msgid ""
