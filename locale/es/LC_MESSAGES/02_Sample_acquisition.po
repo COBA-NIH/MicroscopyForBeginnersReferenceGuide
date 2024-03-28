@@ -261,7 +261,7 @@ msgstr "Consideraciones prácticas"
 
 #: ../../02_Sample_acquisition/Practical_considerations.md:3
 msgid "Objective selection"
-msgstr "Selección objetiva"
+msgstr "Selección de objetivos"
 
 #: ../../02_Sample_acquisition/Practical_considerations.md:5
 msgid ""
