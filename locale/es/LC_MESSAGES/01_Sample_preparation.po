@@ -212,8 +212,8 @@ msgid ""
 " more time than just growing cultured cells on glass or plastic."
 msgstr ""
 "Los organoides pueden requerir recursos y protocolos más complejos para "
-"crecer y pueden llevar más tiempo que simplemente cultivar células "
-"cultivadas en vidrio o plástico."
+"crecer y pueden llevar más tiempo que simplemente cultivar células en vidrio"
+" o plástico."
 
 #: ../../01_Sample_preparation/Considerations.md:41
 msgid ""
