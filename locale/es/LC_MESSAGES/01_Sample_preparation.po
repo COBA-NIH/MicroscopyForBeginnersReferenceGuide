@@ -392,9 +392,9 @@ msgstr ""
 "ADN y la oxidación de los componentes celulares (fototoxicidad). Además, el "
 "fotoblanqueo de fluoróforos puede inducir aún más la fototoxicidad al crear "
 "especies reactivas de oxígeno (ROS). La adición de antioxidantes y la "
-"eliminación de ciertas moléculas (p. ej., riboflavina) de los medios de "
-"obtención de imágenes pueden reducir las ROS producidas durante la obtención"
-" de imágenes, lo que mejora la salud de la muestra.{cite}`Stockley2017`"
+"eliminación de ciertas moléculas (ej., riboflavina) de los medios de montaje"
+" pueden reducir las ROS producidas durante la obtención de imágenes, lo que "
+"mejora la salud de la muestra.{cite}`Stockley2017`"
 
 #: ../../01_Sample_preparation/Considerations.md:85
 msgid ""
