@@ -74,7 +74,7 @@ msgstr ""
 "Tenga en cuenta que no existen límites estrictos entre estas diferentes "
 "categorías (por ejemplo, tanto las células como los organoides se pueden "
 "cultivar en 3D, muchos de estos especímenes se pueden visualizar en vivo o "
-"después de `fijación', pero en los siguientes párrafos se resumen algunas "
+"después de `fijación'), pero en los siguientes párrafos se resumen algunas "
 "ventajas y desventajas generales."
 
 #: ../../01_Sample_preparation/Considerations.md:11
