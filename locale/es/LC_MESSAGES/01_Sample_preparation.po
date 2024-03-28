@@ -761,7 +761,7 @@ msgstr ""
 
 #: ../../01_Sample_preparation/Reproducibility.md:1
 msgid "Reproducibility"
-msgstr "reproducibilidad"
+msgstr "Reproducibilidad"
 
 #: ../../01_Sample_preparation/Reproducibility.md:5
 msgid ""
