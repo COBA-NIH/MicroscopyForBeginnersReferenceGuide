@@ -357,7 +357,7 @@ msgstr ""
 
 #: ../../02_Sample_acquisition/Practical_considerations.md:26
 msgid "Z sampling"
-msgstr "muestreo Z"
+msgstr "Muestreo Z"
 
 #: ../../02_Sample_acquisition/Practical_considerations.md:28
 msgid ""
