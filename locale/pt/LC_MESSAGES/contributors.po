@@ -4,8 +4,8 @@
 # FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
 # 
 # Translators:
-# Mario Costa Cruz, 2023
 # Beth Cimini, 2024
+# Mario Costa Cruz, 2024
 # 
 #, fuzzy
 msgid ""
@@ -14,7 +14,7 @@ msgstr ""
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-01-29 08:24-0500\n"
 "PO-Revision-Date: 2023-05-02 18:49+0000\n"
-"Last-Translator: Beth Cimini, 2024\n"
+"Last-Translator: Mario Costa Cruz, 2024\n"
 "Language-Team: Portuguese (https://app.transifex.com/center-for-open-bioimage-analysis/teams/169123/pt/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -117,10 +117,10 @@ msgid ""
 "DOT org."
 msgstr ""
 "Estão em curso trabalhos para traduzir este guia para outras línguas - está "
-"planeada ou já começou a tradução para francês, espanhol, alemão, finlandês,"
-" italiano, japonês e polaco. Para ajudar a traduzir para uma destas línguas,"
-" ou para outra língua não listada aqui, por favor contacte bcimini AT "
-"broadinstitute DOT org."
+"planejada ou iniciou-se a tradução para francês, espanhol, alemão, "
+"finlandês, italiano, japonês e polaco. Para ajudar a traduzir para uma "
+"destas línguas, ou para outra língua não listada aqui, por favor contacte "
+"bcimini AT broadinstitute DOT org."
 
 #: ../../contributors.md:24
 msgid "Translations are gratefully acknowledged from:"
