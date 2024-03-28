@@ -598,7 +598,7 @@ msgstr "Comparación de grados de cubreobjetos"
 
 #: ../../01_Sample_preparation/Experimental_design.md:21
 msgid "Grade"
-msgstr "Calificación"
+msgstr "Grado"
 
 #: ../../01_Sample_preparation/Experimental_design.md:22
 msgid "Nominal thickness [mm]"
