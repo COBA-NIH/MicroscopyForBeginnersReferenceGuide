@@ -116,7 +116,7 @@ msgstr ""
 
 #: ../../QuantitativeBioimaging.md:25
 msgid "cycle"
-msgstr "ciclo"
+msgstr "Ciclo"
 
 #: ../../QuantitativeBioimaging.md:25
 msgid ""
