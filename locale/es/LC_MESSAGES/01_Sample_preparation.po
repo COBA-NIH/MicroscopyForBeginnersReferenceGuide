@@ -525,7 +525,7 @@ msgid ""
 "system is not genetically tractable to such manipulations"
 msgstr ""
 "No puede confiar en el marcado genético con proteínas fluorescentes si su "
-"sistema modelo no es manejable genéticamente para tales manipulaciones."
+"sistema modelo no es genéticamente manejable para tales manipulaciones."
 
 #: ../../01_Sample_preparation/Experimental_design.md:7
 msgid ""
