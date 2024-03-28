@@ -549,7 +549,7 @@ msgstr "🎥 Microcursos"
 
 #: ../../02_Sample_acquisition/Resources.md:29
 msgid "[link](https://www.youtube.com/@Microcourses)"
-msgstr "[enlace](https://www.youtube.com/@Microcursos)"
+msgstr "[enlace](https://www.youtube.com/@Microcourses)"
 
 #: ../../02_Sample_acquisition/Resources.md:30
 msgid ""
