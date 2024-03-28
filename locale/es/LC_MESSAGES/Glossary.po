@@ -78,13 +78,13 @@ msgstr ""
 "controlable externo (p. ej., explante de tejido en una placa de Petri). "
 "Permite obtener imágenes de alta resolución de tejido vivo que, de otro "
 "modo, sería inaccesible dentro del animal. El tejido se mantiene vivo en el "
-"sistema de imágenes a través de la perfusión de medios oxigenados (95 % de "
+"sistema de imágen a través de la perfusión de medios oxigenados (95 % de "
 "oxígeno y 5 % de CO2) con temperatura controlada mediante bombas "
 "peristálticas y microfluidos."
 
 #: ../../Glossary.md:9
 msgid "Fiji"
-msgstr "Fiyi"
+msgstr "Fiji"
 
 #: ../../Glossary.md:14
 msgid ""
