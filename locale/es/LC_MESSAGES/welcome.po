@@ -139,7 +139,7 @@ msgid ""
 "guide for beginners."
 msgstr ""
 "Este libro **no** es un protocolo o una guía paso a paso, aunque ciertos "
-"recursos a los que enlazamos podrían serlo. Cada subsección, desde la "
+"recursos a los que enlazamos podrían serlo. Cada sub-sección, desde la "
 "preparación de muestras hasta la interpretación de datos, son temas masivos "
 "que no podemos cubrir de manera exhaustiva en una guía para principiantes."
 
