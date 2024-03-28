@@ -518,10 +518,9 @@ msgid ""
 "fluorescence light microscopy techniques, emphasizing the impact of accurate"
 " microscopy metadata on data interpretation.'"
 msgstr ""
-"Directrices y recursos para la elaboración de informes precisos de las "
-"técnicas de microscopía de luz de fluorescencia más comunes, enfatizando el "
-"impacto de los metadatos de microscopía precisos en la interpretación de "
-"datos.'"
+"Guías y recursos para la elaboración de informes precisos de las técnicas de"
+" microscopía de luz de fluorescencia más comunes, enfatizando el impacto de "
+"los metadatos de microscopía precisos en la interpretación de datos.'"
 
 #: ../../02_Sample_acquisition/Resources.md:25
 msgid "🎥 iBiology Microscopy Short Course"
