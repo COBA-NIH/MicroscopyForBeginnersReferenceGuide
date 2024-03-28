@@ -974,7 +974,7 @@ msgid ""
 msgstr ""
 "Revisión de aspectos del diseño de un experimento riguroso de microscopía "
 "óptica, incluida la validación de muestras e imágenes, identificación y "
-"corrección de errores y estrategias para evitar sesgos."
+"corrección de errores, y estrategias para evitar sesgos."
 
 #: ../../01_Sample_preparation/Resources.md:26
 msgid ""
