@@ -124,7 +124,7 @@ msgid ""
 msgstr ""
 "Las células se pueden congelar, descongelar y cultivar mucho más rápido que "
 "trabajar con muestras más complejas como organoides u organismos completos, "
-"comprimiendo la línea de tiempo para realizar un experimento."
+"acortando el marco temporal para realizar un experimento."
 
 #: ../../01_Sample_preparation/Considerations.md:21
 #: ../../01_Sample_preparation/Considerations.md:37
