@@ -185,7 +185,7 @@ msgstr ""
 "microscopio pueden afectar su capacidad para realizar ciertas mediciones con"
 " precisión. Su responsable de mantenimiento de microscopios puede estar "
 "manteniendo una gran cantidad de microscopios con una gran cantidad de "
-"usuarios independientes, por lo que si algo parece \"apagado\", ¡asegúrese "
+"usuarios independientes, por lo que si algo parece \"extraño\", ¡asegúrese "
 "de hablar con ellos antes de continuar!"
 
 #: ../../02_Sample_acquisition/Picking.md:1
