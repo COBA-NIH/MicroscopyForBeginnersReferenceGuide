@@ -133,4 +133,4 @@ msgstr "Checo : Martin Schätz"
 
 #: ../../contributors.md:27
 msgid "Portuguese: Mario Costa Cruz"
-msgstr "portugués: Mario Costa Cruz"
+msgstr "Portugués: Mario Costa Cruz"
