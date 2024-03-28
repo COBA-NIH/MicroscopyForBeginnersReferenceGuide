@@ -497,9 +497,9 @@ msgid ""
 "bioimaging experiment. Many of these decisions will be deeply dependent on "
 "what is possible given the biology you wish to study, for example:"
 msgstr ""
-"Al diseñar un experimento de bioimagen cuantitativa se deben tomar una serie"
-" de decisiones críticas. Muchas de estas decisiones dependerán en gran "
-"medida de lo que sea posible dada la biología que desea estudiar, por "
+"Al diseñar un experimento de bioimagenología cuantitativa se deben tomar una"
+" serie de decisiones críticas. Muchas de estas decisiones dependerán en gran"
+" medida de lo que sea posible dada la biología que desea estudiar, por "
 "ejemplo:"
 
 #: ../../01_Sample_preparation/Experimental_design.md:4
