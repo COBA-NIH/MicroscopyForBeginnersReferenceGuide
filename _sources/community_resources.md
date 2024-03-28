@@ -14,6 +14,9 @@ Below are globally and locally available community resources
 * -  Global BioImaging
   - [link](https://globalbioimaging.org/)
   - Training resources, working groups, recommendations for standardization and research reproducibility for global bioimaging efforts
+* - GloBIAS
+  - [link](https://www.globias.org/home)
+  - Connections, training, and more for bioimage analysts across the world
 * - Microforum
   - [link](https://forum.microlist.org/)
   - Discussion forum for bioimaging sample preparation and acquisition
