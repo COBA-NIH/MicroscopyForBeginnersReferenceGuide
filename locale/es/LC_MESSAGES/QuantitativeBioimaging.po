@@ -75,7 +75,7 @@ msgid ""
 "and measured them in a way that minimizes technical artifacts?"
 msgstr ""
 "¿Seleccioné las métricas de análisis que realmente responden a mi pregunta "
-"biológica y las midí de una manera que minimiza los artefactos técnicos?"
+"biológica y las medí de una manera que minimiza los artefactos técnicos?"
 
 #: ../../QuantitativeBioimaging.md:12
 msgid ""
