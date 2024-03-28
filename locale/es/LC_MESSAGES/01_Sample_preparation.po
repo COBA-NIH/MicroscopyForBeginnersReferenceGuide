@@ -549,7 +549,7 @@ msgstr ""
 "portaobjetos. Muchas decisiones de preparación de muestras están "
 "profundamente entrelazadas con la disponibilidad y la idoneidad de "
 "microscopios particulares; consulte [esa sección] "
-"(contenido/microscopio_selección) para obtener más información."
+"(contenido/selección_de_microscopio) para obtener más información."
 
 #: ../../01_Sample_preparation/Experimental_design.md:11
 msgid "Mounting"
