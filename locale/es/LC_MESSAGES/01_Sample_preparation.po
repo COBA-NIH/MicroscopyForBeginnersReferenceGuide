@@ -88,8 +88,8 @@ msgid ""
 " multiple cell types."
 msgstr ""
 "Muchos tipos diferentes de células se pueden cultivar o hacer crecer en un "
-"plato. Las células se pueden cultivar en un monocultivo, con un solo tipo de"
-" célula, o en un cocultivo con varios tipos de células."
+"plato de cultivo. Las células se pueden cultivar en un monocultivo, con un "
+"solo tipo de célula, o en un co-cultivo con varios tipos de células."
 
 #: ../../01_Sample_preparation/Considerations.md:15
 #: ../../01_Sample_preparation/Considerations.md:31
