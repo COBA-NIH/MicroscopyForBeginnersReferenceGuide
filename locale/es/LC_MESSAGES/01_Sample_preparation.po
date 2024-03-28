@@ -651,7 +651,7 @@ msgstr ""
 
 #: ../../01_Sample_preparation/Experimental_design.md:43
 msgid "effects of mounting media"
-msgstr "efectos de los medios de montaje"
+msgstr "Efectos de los medios de montaje"
 
 #: ../../01_Sample_preparation/Experimental_design.md:43
 msgid ""
