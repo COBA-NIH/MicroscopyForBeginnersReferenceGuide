@@ -28,7 +28,7 @@ msgstr "Bioimagenología Cuantitativa"
 
 #: ../../QuantitativeBioimaging.md:3
 msgid "What do we mean by quantitative bioimaging?"
-msgstr "¿Qué entendemos por bioimagen cuantitativa?"
+msgstr "¿Qué entendemos por bioimagenología cuantitativa?"
 
 #: ../../QuantitativeBioimaging.md:5
 msgid ""
