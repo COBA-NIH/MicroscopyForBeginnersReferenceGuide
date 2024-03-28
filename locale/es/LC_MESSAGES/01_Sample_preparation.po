@@ -325,9 +325,9 @@ msgid ""
 "the imaging media and reduce absorption and scattering of light."
 msgstr ""
 "La obtención de imágenes de muestras más gruesas puede requerir el "
-"procesamiento ({term}`limpieza del tejido`) de la muestra para hacer que su "
-"{term}`índice de refracción` coincida con el de los medios de obtención de "
-"imágenes y reducir la absorción y la dispersión de la luz."
+"procesamiento ({term}`transparentación del tejido`) de la muestra para hacer"
+" que su {term}`índice de refracción` coincida con el del medio externo y "
+"reduce la absorción y la dispersión de la luz."
 
 #: ../../01_Sample_preparation/Considerations.md:75
 msgid ""
