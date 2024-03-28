@@ -667,7 +667,7 @@ msgstr ""
 
 #: ../../01_Sample_preparation/Experimental_design.md:46
 msgid "Fluorophore selection"
-msgstr "Selección de fluoróforo"
+msgstr "Selección de fluoróforos"
 
 #: ../../01_Sample_preparation/Experimental_design.md:48
 msgid ""
