@@ -92,7 +92,7 @@ msgid ""
 " of common plugins."
 msgstr ""
 "[Fiji](https://imagej.net/software/fiji/) es solo ImageJ. ImageJ2 más muchos"
-" complementos comunes."
+" plugins comunes."
 
 #: ../../Glossary.md:12
 msgid "Fixation"
