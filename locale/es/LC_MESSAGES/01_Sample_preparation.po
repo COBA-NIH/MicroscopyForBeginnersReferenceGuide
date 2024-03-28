@@ -335,9 +335,9 @@ msgid ""
 "overseen by bioethical committees and needs to be approved by IACUC and/or "
 "other institutional committees."
 msgstr ""
-"Las imágenes intravitales a menudo requieren técnicas quirúrgicas "
-"específicas y son supervisadas por comités de bioética y deben ser aprobadas"
-" por IACUC y/u otros comités institucionales."
+"Las microscopia intravital a menudo requiere técnicas quirúrgicas "
+"específicas y es supervisada por comités de bioética. Estas técnicas deben "
+"ser aprobadas por IACUC y/u otros comités institucionales."
 
 #: ../../01_Sample_preparation/Considerations.md:0
 msgid "<span style=\"color: red\">⚠️</span> Where can things go wrong?"
