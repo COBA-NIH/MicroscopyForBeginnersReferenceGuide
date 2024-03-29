@@ -2024,7 +2024,7 @@ msgstr ""
 
 #: ../../03_Image_analysis/Tracking.md:1
 msgid "Object tracking"
-msgstr "seguimiento de objetos"
+msgstr "Seguimiento de objetos"
 
 #: ../../03_Image_analysis/Tracking.md:3
 msgid "What is tracking?"
