@@ -1425,7 +1425,7 @@ msgid ""
 msgstr ""
 "Un nodo Galaxy precargado con una serie de flujos de trabajo y herramientas "
 "de análisis de imágenes de código abierto, lo que facilita la creación y el "
-"intercambio de flujos de trabajo FAIR reproducibles."
+"intercambio de flujos reproducibles de trabajo FAIR ."
 
 #: ../../03_Image_analysis/Resources.md:40
 msgid "🌐 Image Analysis Training Resources"
