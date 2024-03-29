@@ -325,8 +325,8 @@ msgstr ""
 
 #: ../../03_Image_analysis/Colocalization.md:11
 msgid ""
-"As an example, it is possible for two people to work in the same building "
-"and never interact."
+"As an example, it is possible for two people to work in the same building"
+" and never interact."
 msgstr ""
 "Por ejemplo, es posible que dos personas trabajen en el mismo edificio y "
 "nunca interactúen."
@@ -459,6 +459,11 @@ msgstr ""
 #: ../../03_Image_analysis/Software.md:1
 msgid "Default Caption"
 msgstr "Título predeterminado"
+
+#: ../../03_Image_analysis/Common_types_of_analysis.md:1
+#: ../../03_Image_analysis/Software.md:1
+msgid "Default Caption"
+msgstr ""
 
 #: ../../03_Image_analysis/Common_types_of_analysis.md:1
 msgid "Common types of analysis"

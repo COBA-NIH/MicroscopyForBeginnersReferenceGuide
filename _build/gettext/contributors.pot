@@ -1,5 +1,5 @@
 # SOME DESCRIPTIVE TITLE.
-# Copyright (C) 2023
+# Copyright (C) 2024
 # This file is distributed under the same license as the Python package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
 #
@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Python \n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2023-10-13 18:46-0400\n"
+"POT-Creation-Date: 2024-03-29 09:37-0400\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -41,33 +41,45 @@ msgid "Robert Haase"
 msgstr ""
 
 #: ../../contributors.md:11
+msgid "Improvements to the build and maintenance system for this book have come from"
+msgstr ""
+
+#: ../../contributors.md:12
+msgid "Pete Bankhead"
+msgstr ""
+
+#: ../../contributors.md:14
 msgid "How can I become a contributor?"
 msgstr ""
 
-#: ../../contributors.md:13
+#: ../../contributors.md:16
 msgid "Please feel free to open an [issue](https://github.com/broadinstitute/MicroscopyForBeginnersReferenceGuide/issues) or pull request to contribute! We hope for this to be a living document reflecting the best practices and resources available."
 msgstr ""
 
-#: ../../contributors.md:15
+#: ../../contributors.md:18
 msgid "We currently also offer a [Google Form](https://docs.google.com/forms/d/e/1FAIpQLScWQbemviI2OkvVkeTKUOozAzKNndcZpXIB_nE0qFMl72lqvQ/viewform) for contributions, though note these may be responded to more slowly than direct contributions to the GitHub repository."
 msgstr ""
 
-#: ../../contributors.md:18
+#: ../../contributors.md:21
 msgid "Translation"
 msgstr ""
 
-#: ../../contributors.md:20
-msgid "This guide is available in [English](https://www.bioimagingguide.org) as well as [Czech](https://cs.bioimagingguide.org)."
+#: ../../contributors.md:23
+msgid "This guide is available in [English](https://www.bioimagingguide.org) as well as [Czech](https://cs.bioimagingguide.org), [Portuguese](https://pt.bioimagingguide.org), and [Spanish](https://es.bioimagingguide.org)."
 msgstr ""
 
-#: ../../contributors.md:22
-msgid "Work is underway to translate this guide into other languages - translation is planned or has begun in French, Spanish, Portuguese, German, Finnish, and Polish. To help translate into one of these languages, or another language not listed here, please contact bcimini AT broadinstitute DOT org."
+#: ../../contributors.md:25
+msgid "Work is underway to translate this guide into other languages - translation is planned or has begun in French, German, Finnish, Italian, Japanese, Polish, and Farsi. To help translate into one of these languages, or another language not listed here, please contact bcimini AT broadinstitute DOT org."
 msgstr ""
 
-#: ../../contributors.md:24
+#: ../../contributors.md:27
 msgid "Translations are gratefully acknowledged from:"
 msgstr ""
 
-#: ../../contributors.md:26
+#: ../../contributors.md:29
 msgid "Czech : Martin Schätz"
+msgstr ""
+
+#: ../../contributors.md:30
+msgid "Portuguese: Mario Costa Cruz"
 msgstr ""

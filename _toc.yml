@@ -1,5 +1,7 @@
 format: jb-book
 root: welcome
+defaults:  
+  caption: Default Caption
 parts:
 - caption: 
   chapters:
