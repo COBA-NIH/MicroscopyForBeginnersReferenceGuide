@@ -644,9 +644,9 @@ msgstr ""
 "[ImageJ](https://imagej.net/) "
 "{cite}`Schneider2012-gs,Schindelin2012-kk,Rueden2017-ku` es un programa de "
 "procesamiento de imágenes que es capaz de operar en una variedad de imágenes"
-" que incluyen multicanal, 3D y tiempo. serie. Proporciona una variedad de "
-"operaciones básicas de procesamiento de imágenes, pero se puede complementar"
-" con una variedad de complementos para tareas más complejas."
+" que incluyen multicanal, y series de 3D y de tiempo. Proporciona una "
+"variedad de operaciones básicas de procesamiento de imágenes, pero se puede "
+"complementar con una variedad de plugins para tareas más complejas."
 
 #: ../../03_Image_analysis/GeneralUseSoftware.md:0
 #: ../../03_Image_analysis/SpecificUseSoftware.md:0
