@@ -1,28 +1,26 @@
 # SOME DESCRIPTIVE TITLE.
-# Copyright (C) 2023
+# Copyright (C) 2024
 # This file is distributed under the same license as the Python package.
-# FIRST AUTHOR <EMAIL@ADDRESS>, 2023.
-#
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+# 
 # Translators:
-# Beth Cimini, 2023
 # Martin Schätz, 2023
+# Beth Cimini, 2024
+# 
 #, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version:  Python\n"
+"Project-Id-Version: Python\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-03-29 09:37-0400\n"
 "PO-Revision-Date: 2023-05-02 18:49+0000\n"
-"Last-Translator: Martin Schätz, 2023\n"
-"Language: cs\n"
-"Language-Team: Czech (https://app.transifex.com/center-for-open-bioimage-"
-"analysis/teams/169123/cs/)\n"
-"Plural-Forms: nplurals=4; plural=(n == 1 && n % 1 == 0) ? 0 : (n >= 2 && "
-"n <= 4 && n % 1 == 0) ? 1: (n % 1 != 0 ) ? 2 : 3;\n"
+"Last-Translator: Beth Cimini, 2024\n"
+"Language-Team: Czech (https://app.transifex.com/center-for-open-bioimage-analysis/teams/169123/cs/)\n"
 "MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=utf-8\n"
+"Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Generated-By: Babel 2.13.1\n"
+"Language: cs\n"
+"Plural-Forms: nplurals=4; plural=(n == 1 && n % 1 == 0) ? 0 : (n >= 2 && n <= 4 && n % 1 == 0) ? 1: (n % 1 != 0 ) ? 2 : 3;\n"
 
 #: ../../community_resources.md:1
 msgid "Community resources"
@@ -58,24 +56,23 @@ msgstr "[odkaz](https://globalbioimaging.org/)"
 
 #: ../../community_resources.md:17
 msgid ""
-"Training resources, working groups, recommendations for standardization "
-"and research reproducibility for global bioimaging efforts"
+"Training resources, working groups, recommendations for standardization and "
+"research reproducibility for global bioimaging efforts"
 msgstr ""
 "Školící podklady, pracovní skupiny, doporučení pro standardizaci a "
 "reprodukovatelnost výzkumu pro globální úsilí o biozobrazování"
 
 #: ../../community_resources.md:18
 msgid "GloBIAS"
-msgstr ""
+msgstr "GloBIAS"
 
 #: ../../community_resources.md:19
-#, fuzzy
 msgid "[link](https://www.globias.org/home)"
-msgstr "[odkaz](https://www.sabioimaging.org/)"
+msgstr "[odkaz](https://www.globias.org/home)"
 
 #: ../../community_resources.md:20
 msgid "Connections, training, and more for bioimage analysts across the world"
-msgstr ""
+msgstr "Spojení, školení a další pro analytiky bioobrazu po celém světě"
 
 #: ../../community_resources.md:21
 msgid "Microforum"
@@ -111,8 +108,8 @@ msgstr "[odkaz](https://nic.med.harvard.edu/fav_references/)"
 
 #: ../../community_resources.md:29
 msgid ""
-"A curated list of references related to many aspects of microscopy and "
-"image analysis"
+"A curated list of references related to many aspects of microscopy and image"
+" analysis"
 msgstr ""
 "Vybraný seznam odkazů týkajících se mnoha aspektů mikroskopie a analýzy "
 "obrazu."
@@ -192,4 +189,3 @@ msgstr "Singapore Microscopy Infrastructure Network"
 #: ../../community_resources.md:57
 msgid "[link](https://www.singascope.sg/)"
 msgstr "[odkaz](https://www.singascope.sg/)"
-
