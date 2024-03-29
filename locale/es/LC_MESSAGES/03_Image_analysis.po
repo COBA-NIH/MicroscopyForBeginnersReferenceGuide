@@ -1528,8 +1528,8 @@ msgid ""
 "circularity <1 is a more elongated polygon."
 msgstr ""
 "**Circularidad**: Cuán redondo o alargado es un objeto. Definido formalmente"
-" como $circularity = 4pi*{area}/{perimeter}^2$ donde 1 es un círculo "
-"perfecto y circularity <1 es un polígono más alargado."
+" como $circularidad = 4pi*{area}/{perímetro}^2$ donde 1 es un círculo "
+"perfecto y circularidad <1 es un polígono más alargado."
 
 #: ../../03_Image_analysis/Shape.md:14
 msgid ""
