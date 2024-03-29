@@ -90,8 +90,7 @@ msgid ""
 "Improvements to the build and maintenance system for this book have come "
 "from"
 msgstr ""
-"Las mejoras al sistema de construcción y mantenimiento de este libro "
-"provienen de"
+"Las mejoras para la generación y mantenimiento de este libro provienen de"
 
 #: ../../contributors.md:14
 msgid "Pete Bankhead"
