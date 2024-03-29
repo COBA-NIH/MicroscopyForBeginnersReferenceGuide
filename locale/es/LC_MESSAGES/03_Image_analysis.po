@@ -1699,9 +1699,9 @@ msgid ""
 msgstr ""
 "[ImageJ](https://imagej.net/) es un programa de procesamiento de imágenes "
 "que es capaz de operar en una variedad de imágenes que incluyen multicanal, "
-"3D y series temporales. Proporciona operaciones básicas de procesamiento de "
-"imágenes y tiene una variedad de complementos para tareas más complejas. "
-"[Leer más...](contenido/imagenj)"
+"y series 3D y temporales. Proporciona operaciones básicas de procesamiento "
+"de imágenes y tiene una variedad de plugins para tareas más complejas. [Leer"
+" más...](contenido/imagej)"
 
 #: ../../03_Image_analysis/Software.md:0
 msgid "CellProfiler"
