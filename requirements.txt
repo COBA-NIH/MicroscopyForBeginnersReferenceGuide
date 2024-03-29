@@ -1,3 +1,4 @@
 jupyter-book
 jupytext
 git+https://github.com/brownsarahm/sphinxcontrib-mermaid@cdnupdate
+sphinx-intl[intl]
