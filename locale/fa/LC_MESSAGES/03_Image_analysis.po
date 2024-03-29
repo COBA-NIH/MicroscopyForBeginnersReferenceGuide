@@ -1,5 +1,5 @@
 # SOME DESCRIPTIVE TITLE.
-# Copyright (C) 2023
+# Copyright (C) 2024
 # This file is distributed under the same license as the Python package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
 # 
@@ -11,7 +11,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Python\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2023-06-15 11:57-0400\n"
+"POT-Creation-Date: 2024-03-29 09:37-0400\n"
 "PO-Revision-Date: 2023-05-02 18:49+0000\n"
 "Last-Translator: Beth Cimini, 2024\n"
 "Language-Team: Persian (https://app.transifex.com/center-for-open-bioimage-analysis/teams/169123/fa/)\n"
@@ -308,11 +308,11 @@ msgstr "همچنین مهم است که تشخیص دهیم که وقوع همز
 
 #: ../../03_Image_analysis/Colocalization.md:11
 msgid ""
-"As an example, it is possible for two people to work in the same building an"
-" never interact."
+"As an example, it is possible for two people to work in the same building "
+"and never interact."
 msgstr ""
-"به عنوان مثال، ممکن است دو نفر در یک ساختمان کار کنند و هرگز با هم تعامل "
-"نداشته باشند."
+"به عنوان مثال، این امکان وجود دارد که دو نفر در یک ساختمان کار کنند و هرگز "
+"با هم تعامل نداشته باشند."
 
 #: ../../03_Image_analysis/Colocalization.md:21
 msgid "degrees of colocalization"
@@ -428,6 +428,11 @@ msgstr ""
 "📄 [هم‌محل‌سازی تصویر - هم‌وضعیت در مقابل "
 "همبستگی](https://journals.biologists.com/jcs/article/131/3/jcs211847/77151/Image-"
 "co-localization-co-occurrence-versus) {cite}`Aaron2018-qi`"
+
+#: ../../03_Image_analysis/Common_types_of_analysis.md:1
+#: ../../03_Image_analysis/Software.md:1
+msgid "Default Caption"
+msgstr "عنوان پیش‌فرض"
 
 #: ../../03_Image_analysis/Common_types_of_analysis.md:1
 msgid "Common types of analysis"
