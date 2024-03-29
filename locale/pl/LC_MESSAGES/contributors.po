@@ -11,7 +11,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Python\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2024-01-29 08:24-0500\n"
+"POT-Creation-Date: 2024-03-29 09:37-0400\n"
 "PO-Revision-Date: 2023-05-02 18:49+0000\n"
 "Last-Translator: Beth Cimini, 2024\n"
 "Language-Team: Polish (https://app.transifex.com/center-for-open-bioimage-analysis/teams/169123/pl/)\n"
@@ -68,10 +68,20 @@ msgid "Robert Haase"
 msgstr "Roberta Haase'a"
 
 #: ../../contributors.md:11
+msgid ""
+"Improvements to the build and maintenance system for this book have come "
+"from"
+msgstr "Ulepszenia systemu tworzenia i konserwacji tej książki pochodzą z"
+
+#: ../../contributors.md:12
+msgid "Pete Bankhead"
+msgstr "Pete’a Bankheada"
+
+#: ../../contributors.md:14
 msgid "How can I become a contributor?"
 msgstr "Jak mogę zostać współtwórcą?"
 
-#: ../../contributors.md:13
+#: ../../contributors.md:16
 msgid ""
 "Please feel free to open an "
 "[issue](https://github.com/broadinstitute/MicroscopyForBeginnersReferenceGuide/issues)"
@@ -83,7 +93,7 @@ msgstr ""
 " lub wyciągnięcia prośby o wniesienie wkładu! Mamy nadzieję, że będzie to "
 "żywy dokument odzwierciedlający najlepsze praktyki i dostępne zasoby."
 
-#: ../../contributors.md:15
+#: ../../contributors.md:18
 msgid ""
 "We currently also offer a [Google "
 "Form](https://docs.google.com/forms/d/e/1FAIpQLScWQbemviI2OkvVkeTKUOozAzKNndcZpXIB_nE0qFMl72lqvQ/viewform)"
@@ -95,43 +105,44 @@ msgstr ""
 " do przesyłania opinii, ale należy pamiętać, że odpowiedzi na te odpowiedzi "
 "mogą być wolniejsze niż bezpośrednie przesyłanie do repozytorium GitHub."
 
-#: ../../contributors.md:18
+#: ../../contributors.md:21
 msgid "Translation"
 msgstr "Tłumaczenie"
 
-#: ../../contributors.md:20
+#: ../../contributors.md:23
 msgid ""
 "This guide is available in [English](https://www.bioimagingguide.org) as "
-"well as [Czech](https://cs.bioimagingguide.org) and "
-"[Portuguese](https://pt.bioimagingguide.org)."
+"well as [Czech](https://cs.bioimagingguide.org), "
+"[Portuguese](https://pt.bioimagingguide.org), and "
+"[Spanish](https://es.bioimagingguide.org)."
 msgstr ""
 "Ten przewodnik jest dostępny w języku [angielskim] "
-"(https://www.bioimagingguide.org), a także [czeskim] "
-"(https://cs.bioimagingguide.org) i [portugalskim] "
-"(https://pt.bioimagingguide.org)."
+"(https://www.bioimagingguide.org), [czeskim] "
+"(https://cs.bioimagingguide.org), [portugalskim] "
+"(https://pt.bioimagingguide.org ) i "
+"[hiszpański](https://es.bioimagingguide.org)."
 
-#: ../../contributors.md:22
+#: ../../contributors.md:25
 msgid ""
 "Work is underway to translate this guide into other languages - translation "
-"is planned or has begun in French, Spanish, German, Finnish, Italian, "
-"Japanese, and Polish. To help translate into one of these languages, or "
-"another language not listed here, please contact bcimini AT broadinstitute "
-"DOT org."
+"is planned or has begun in French, German, Finnish, Italian, Japanese, "
+"Polish, and Farsi. To help translate into one of these languages, or another"
+" language not listed here, please contact bcimini AT broadinstitute DOT org."
 msgstr ""
-"Trwają prace nad tłumaczeniem tego przewodnika na inne języki - planowane "
-"lub rozpoczęte jest tłumaczenie na francuski, hiszpański, niemiecki, fiński,"
-" włoski, japoński i polski. Aby pomóc w tłumaczeniu na jeden z tych języków "
-"lub inny język niewymieniony tutaj, prosimy o kontakt z bcimini AT "
-"broadinstitute DOT org."
+"Trwają prace nad tłumaczeniem tego przewodnika na inne języki – planowane "
+"jest lub rozpoczęło się tłumaczenie na język francuski, niemiecki, fiński, "
+"włoski, japoński, polski i perski. Aby pomóc w tłumaczeniu na jeden z tych "
+"języków lub inny język, który nie jest tutaj wymieniony, prosimy o kontakt z"
+" firmą bcimini AT broadinstitute DOT org."
 
-#: ../../contributors.md:24
+#: ../../contributors.md:27
 msgid "Translations are gratefully acknowledged from:"
 msgstr "Tłumaczenia z wdzięcznością przyjmujemy od:"
 
-#: ../../contributors.md:26
+#: ../../contributors.md:29
 msgid "Czech : Martin Schätz"
 msgstr "Czeski : Martin Schätz"
 
-#: ../../contributors.md:27
+#: ../../contributors.md:30
 msgid "Portuguese: Mario Costa Cruz"
 msgstr "Portugalski: Mario Costa Cruz"
