@@ -1,5 +1,5 @@
 # SOME DESCRIPTIVE TITLE.
-# Copyright (C) 2023
+# Copyright (C) 2024
 # This file is distributed under the same license as the Python package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
 #
@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Python \n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2023-06-30 07:32-0400\n"
+"POT-Creation-Date: 2024-03-29 09:37-0400\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -17,13 +17,21 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 
 #: ../../README.md:1
+msgid "[![DOI](https://zenodo.org/badge/568954740.svg)](https://zenodo.org/doi/10.5281/zenodo.10675608)"
+msgstr ""
+
+#: ../../README.md:1
+msgid "DOI"
+msgstr ""
+
+#: ../../README.md:3
 msgid "Microscopy For Beginners Reference Guide"
 msgstr ""
 
-#: ../../README.md:2
+#: ../../README.md:4
 msgid "Website :link: :arrow_right: [CLICK HERE](https://bioimagingguide.org)"
 msgstr ""
 
-#: ../../README.md:4
+#: ../../README.md:6
 msgid "A Beginner's guide to microscopy, from sample prep to acquisition, image analysis, and data interpretation. See the paper [here](https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3002167) (original preprint [here](https://doi.org/10.5281/zenodo.7439283))"
 msgstr ""
