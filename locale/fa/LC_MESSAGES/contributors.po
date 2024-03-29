@@ -11,7 +11,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Python\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2024-01-29 08:24-0500\n"
+"POT-Creation-Date: 2024-03-29 09:37-0400\n"
 "PO-Revision-Date: 2023-05-02 18:49+0000\n"
 "Last-Translator: Beth Cimini, 2024\n"
 "Language-Team: Persian (https://app.transifex.com/center-for-open-bioimage-analysis/teams/169123/fa/)\n"
@@ -67,10 +67,20 @@ msgid "Robert Haase"
 msgstr "رابرت هاس"
 
 #: ../../contributors.md:11
+msgid ""
+"Improvements to the build and maintenance system for this book have come "
+"from"
+msgstr "بهبودهایی در سیستم ساخت و نگهداری این کتاب حاصل شده است"
+
+#: ../../contributors.md:12
+msgid "Pete Bankhead"
+msgstr "پیت بانکهد"
+
+#: ../../contributors.md:14
 msgid "How can I become a contributor?"
 msgstr "چگونه می توانم یک مشارکت کننده باشم؟"
 
-#: ../../contributors.md:13
+#: ../../contributors.md:16
 msgid ""
 "Please feel free to open an "
 "[issue](https://github.com/broadinstitute/MicroscopyForBeginnersReferenceGuide/issues)"
@@ -82,7 +92,7 @@ msgstr ""
 " را باز کنید یا درخواستی برای مشارکت بخواهید! ما امیدواریم که این سند زنده "
 "ای باشد که منعکس کننده بهترین شیوه ها و منابع موجود باشد."
 
-#: ../../contributors.md:15
+#: ../../contributors.md:18
 msgid ""
 "We currently also offer a [Google "
 "Form](https://docs.google.com/forms/d/e/1FAIpQLScWQbemviI2OkvVkeTKUOozAzKNndcZpXIB_nE0qFMl72lqvQ/viewform)"
@@ -94,42 +104,43 @@ msgstr ""
 " را نیز برای مشارکت‌ها ارائه می‌دهیم، هرچند توجه داشته باشید که ممکن است به "
 "مشارکت‌های مستقیم به reposit G با کندی پاسخ داده شود."
 
-#: ../../contributors.md:18
+#: ../../contributors.md:21
 msgid "Translation"
 msgstr "ترجمه"
 
-#: ../../contributors.md:20
+#: ../../contributors.md:23
 msgid ""
 "This guide is available in [English](https://www.bioimagingguide.org) as "
-"well as [Czech](https://cs.bioimagingguide.org) and "
-"[Portuguese](https://pt.bioimagingguide.org)."
+"well as [Czech](https://cs.bioimagingguide.org), "
+"[Portuguese](https://pt.bioimagingguide.org), and "
+"[Spanish](https://es.bioimagingguide.org)."
 msgstr ""
 "این راهنما در [انگلیسی](https://www.bioimagingguide.org) و همچنین "
-"[چک](https://cs.bioimagingguide.org) و "
-"[پرتغالی](https://pt.bioimagingguide.org) موجود است )."
+"[چکی](https://cs.bioimagingguide.org)، "
+"[پرتغالی](https://pt.bioimagingguide.org) موجود است ، و [اسپانیایی] "
+"(https://es.bioimagingguide.org)."
 
-#: ../../contributors.md:22
+#: ../../contributors.md:25
 msgid ""
 "Work is underway to translate this guide into other languages - translation "
-"is planned or has begun in French, Spanish, German, Finnish, Italian, "
-"Japanese, and Polish. To help translate into one of these languages, or "
-"another language not listed here, please contact bcimini AT broadinstitute "
-"DOT org."
+"is planned or has begun in French, German, Finnish, Italian, Japanese, "
+"Polish, and Farsi. To help translate into one of these languages, or another"
+" language not listed here, please contact bcimini AT broadinstitute DOT org."
 msgstr ""
 "کار برای ترجمه این راهنما به زبان های دیگر در حال انجام است - ترجمه به زبان "
-"های فرانسوی، اسپانیایی، آلمانی، فنلاندی، ایتالیایی، ژاپنی و لهستانی برنامه "
-"ریزی شده یا آغاز شده است. برای کمک به ترجمه به یکی از این زبان‌ها یا زبان "
-"دیگری که در اینجا فهرست نشده است، لطفاً با bcimini AT broadinstitute DOT org"
-" تماس بگیرید."
+"های فرانسوی، آلمانی، فنلاندی، ایتالیایی، ژاپنی، لهستانی و فارسی برنامه ریزی "
+"شده یا آغاز شده است. برای کمک به ترجمه به یکی از این زبان‌ها یا زبان دیگری "
+"که در اینجا فهرست نشده است، لطفاً با bcimini AT broadinstitute DOT org تماس "
+"بگیرید."
 
-#: ../../contributors.md:24
+#: ../../contributors.md:27
 msgid "Translations are gratefully acknowledged from:"
 msgstr "با تشکر از ترجمه ها:"
 
-#: ../../contributors.md:26
+#: ../../contributors.md:29
 msgid "Czech : Martin Schätz"
 msgstr "چک: مارتین شاتز"
 
-#: ../../contributors.md:27
+#: ../../contributors.md:30
 msgid "Portuguese: Mario Costa Cruz"
 msgstr "پرتغالی: ماریو کاستا کروز"
