@@ -1952,7 +1952,7 @@ msgid ""
 "Sometimes loading or exporting images can require a bit of troubleshooting "
 "to get the dimensions correct."
 msgstr ""
-"A veces, cargar o exportar imágenes puede requerir un poco de solución de "
+"A veces, cargar o exportar imágenes puede requerir un poco de resolución de "
 "problemas para obtener las dimensiones correctas."
 
 #: ../../03_Image_analysis/SpecificUseSoftware.md:48
