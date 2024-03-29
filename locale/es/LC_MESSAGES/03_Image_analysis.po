@@ -1208,8 +1208,8 @@ msgstr ""
 "números. Sin embargo, el análisis de imágenes es el proceso de convertir "
 "estos números sin procesar en medidas biológicamente interpretables. El "
 "análisis de imágenes generalmente implica una serie de pasos que se pueden "
-"recopilar en un flujo de trabajo de análisis o canalización. A continuación "
-"se muestra un flujo de trabajo de ejemplo simple:"
+"recopilar en un flujo de trabajo de análisis. A continuación se muestra un "
+"flujo de trabajo de ejemplo simple:"
 
 #: ../../03_Image_analysis/Introduction.md:26
 msgid ""
