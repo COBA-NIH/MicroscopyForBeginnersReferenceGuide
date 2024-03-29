@@ -727,7 +727,7 @@ msgstr ""
 "imágenes en mente: le permite tomar una serie de módulos interoperables para"
 " diseñar su propia canalización de análisis personalizada que se puede "
 "aplicar a una o miles de imágenes, haciéndola adecuada para el análisis de "
-"imágenes de alto rendimiento. ."
+"imágenes de alta producción (high-throughput)."
 
 #: ../../03_Image_analysis/GeneralUseSoftware.md:42
 msgid ""
