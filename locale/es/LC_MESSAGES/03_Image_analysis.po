@@ -973,9 +973,9 @@ msgid ""
 "plugins to perform basic and complex image analysis tasks."
 msgstr ""
 "[napari](https://napari.org/) {cite}`Sofroniew2022-nd` se está desarrollando"
-" como un visor de imágenes multidimensional que se puede expandir a través "
-"de una variedad de complementos para realizar tareas de análisis de imágenes"
-" básicas y complejas."
+" como un visualizador de imágenes multidimensional que se puede expandir a "
+"través de una variedad de plugins para realizar tareas de análisis de "
+"imágenes básicas y complejas."
 
 #: ../../03_Image_analysis/GeneralUseSoftware.md:161
 msgid ""
