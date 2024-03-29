@@ -63,7 +63,7 @@ msgid ""
 msgstr ""
 "Recursos de capacitación, grupos de trabajo, recomendaciones para la "
 "estandarización y la reproducibilidad de la investigación para los esfuerzos"
-" globales de bioimagen"
+" globales de bioimagenología"
 
 #: ../../community_resources.md:18
 msgid "Microforum"
