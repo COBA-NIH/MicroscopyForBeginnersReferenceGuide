@@ -28,3 +28,4 @@ Translations are gratefully acknowledged from:
 
 - Czech : Martin Schätz
 - Portuguese: Mario Costa Cruz
+- Spanish: Mariana De Niz
