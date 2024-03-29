@@ -37,10 +37,12 @@ jobs:
         sphinx-intl update -p _build/gettext 
         rm conf.py  
 
-    - name: Push translations
+    - name: Push translations to a branch (branch protection)
       run: |
           git config user.name github-actions
           git config user.email github-actions@github.com
+          git checkout -b auto_translation
           git add .
           git commit -m "auto generated translation file updates"
-          git push 
+          git push -u origin auto_translation
+          gh pr create --title "Auto-translations" --body "Made by GH Actions"
