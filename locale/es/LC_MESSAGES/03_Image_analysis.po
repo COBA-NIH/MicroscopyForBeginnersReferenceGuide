@@ -1473,7 +1473,7 @@ msgid ""
 "A collection of Python Jupyter notebooks for BioImageAnalysis, GPU-"
 "accelerated image processing, bio-image data science and more"
 msgstr ""
-"Una colección de notebooks Python Jupyter para BioImageAnalysis, "
+"Una colección de notebooks Jupyter en Python para análisis de bioimágenes, "
 "procesamiento de imágenes acelerado por GPU, ciencia de datos de bioimágenes"
 " y más"
 
