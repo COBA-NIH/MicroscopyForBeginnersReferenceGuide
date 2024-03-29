@@ -1006,7 +1006,7 @@ msgid ""
 "🌐 [New to napari guide "
 "](https://napari.org/stable/tutorials/fundamentals/getting_started.html)"
 msgstr ""
-"🌐 [Nuevo en la guía de napari] "
+"🌐 [Guía para principantes en napari] "
 "(https://napari.org/stable/tutorials/fundamentals/getting_started.html)"
 
 #: ../../03_Image_analysis/GeneralUseSoftware.md:177
