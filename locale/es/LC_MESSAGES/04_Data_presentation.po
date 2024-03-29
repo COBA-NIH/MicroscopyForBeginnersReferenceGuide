@@ -171,13 +171,13 @@ msgid ""
 "the data visible on a screen/in a figure, adjustments of brightness and "
 "contrast are usually necessary."
 msgstr ""
-"Las imágenes a menudo no tienen valores de intensidad espaciados regulares. "
-"Para seguir mostrando los datos visibles en una pantalla/en una figura, "
-"normalmente son necesarios ajustes de brillo y contraste."
+"Las imágenes a menudo no tienen valores de intensidad con espaciados "
+"regulares. Para mostrar los datos en una pantalla/en una figura, normalmente"
+" son necesarios ajustes de brillo y contraste."
 
 #: ../../04_Data_presentation/Presentation_images.md:36
 msgid "image adjustment"
-msgstr "ajuste de imagen"
+msgstr "Ajuste de imagen"
 
 #: ../../04_Data_presentation/Presentation_images.md:46
 msgid ""
