@@ -422,7 +422,7 @@ msgstr ""
 
 #: ../../Glossary.md:57
 msgid "Tissue sectioning"
-msgstr "seccionamiento de tejido"
+msgstr "Seccionamiento de tejido"
 
 #: ../../Glossary.md:62
 msgid ""
