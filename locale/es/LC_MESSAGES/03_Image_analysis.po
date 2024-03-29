@@ -916,7 +916,7 @@ msgstr ""
 "[MIB](http://mib.helsinki.fi/index.html) {cite}`Belevich2016-vi` es un "
 "software fácil de usar para el análisis de imágenes de conjuntos de datos "
 "multidimensionales para microscopía óptica y electrónica. Le permite "
-"utilizar todos los datos adquiridos para su análisis y extracción de "
+"utilizar todos los datos adquiridos para su análisis y la extracción de "
 "características morfológicas."
 
 #: ../../03_Image_analysis/GeneralUseSoftware.md:131
