@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Python \n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2024-03-29 09:37-0400\n"
+"POT-Creation-Date: 2024-03-29 10:14-0400\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language: it\n"
@@ -116,6 +116,10 @@ msgstr ""
 
 #: ../../contributors.md:30
 msgid "Portuguese: Mario Costa Cruz"
+msgstr ""
+
+#: ../../contributors.md:31
+msgid "Spanish: Mariana De Niz"
 msgstr ""
 
 #~ msgid ""
