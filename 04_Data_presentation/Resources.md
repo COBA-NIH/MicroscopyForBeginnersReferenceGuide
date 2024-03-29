@@ -12,7 +12,7 @@
   - Review article on how to create accessible, fair scientific figures, including guidelines for microscopy images
 * - 📄 Community-developed checklists for publishing images and image analysis {cite}`Schmied2023-ad`
   - [link](https://arxiv.org/abs/2302.07005)
-  - A paper recommending checklists and best practices for publishing image data
+  - A paper recommending checklists and best practices for publishing image data. [It also has a JupyterBook](https://quarep-limi.github.io/WG12_checklists_for_image_publishing/intro.html)
 * - 📖 Modern Statistics for Modern Biology {cite}`Holmes2019-no`
   - [link](https://www.huber.embl.de/msmb/)
   - Online statistics for biologists textbook with code examples (in R) 
