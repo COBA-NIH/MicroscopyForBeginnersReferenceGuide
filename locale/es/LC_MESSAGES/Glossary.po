@@ -361,7 +361,7 @@ msgstr ""
 
 #: ../../Glossary.md:51
 msgid "Thresholding"
-msgstr "umbralización"
+msgstr "Umbralización"
 
 #: ../../Glossary.md:56
 msgid ""
