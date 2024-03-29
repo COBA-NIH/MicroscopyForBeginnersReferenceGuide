@@ -1261,7 +1261,7 @@ msgstr "[enlace](https://forum.image.sc/)"
 
 #: ../../03_Image_analysis/Resources.md:12
 msgid "Discussion forum for bioimage analysis software"
-msgstr "Foro de debate sobre software de análisis de bioimágenes"
+msgstr "Foro de discusión sobre software de análisis de bioimágenes"
 
 #: ../../03_Image_analysis/Resources.md:13
 msgid "🌐 Peter Bankhead’s Intro to Bioimage Analysis"
