@@ -114,7 +114,7 @@ msgstr "Recursos locales"
 
 #: ../../community_resources.md:37
 msgid "BioImaging North America (BINA)"
-msgstr "Bioimagen de América del Norte (BINA)"
+msgstr "BioImaging North America (BINA)"
 
 #: ../../community_resources.md:38
 msgid "[link](https://www.bioimagingnorthamerica.org/)"
