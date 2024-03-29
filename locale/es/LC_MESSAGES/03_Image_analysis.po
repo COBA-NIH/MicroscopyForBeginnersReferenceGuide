@@ -661,7 +661,7 @@ msgid ""
 msgstr ""
 "Las operaciones de procesamiento de imágenes se realizan una a la vez, "
 "aunque tiene la capacidad de procesamiento por lotes y la creación de "
-"macros, requiere cierta comprensión de la codificación."
+"macros, requiere cierta comprensión de programación."
 
 #: ../../03_Image_analysis/GeneralUseSoftware.md:15
 msgid ""
