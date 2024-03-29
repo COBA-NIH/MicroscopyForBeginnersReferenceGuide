@@ -1,10 +1,13 @@
 name: push-translations
 
-# Only run this when the master branch changes
+# Only run this when the main branch changes a markdown file or a top level config file
 on:
   push:
     branches:
     - main
+    paths:
+    - '**.md'
+    - '_*.yml'
 
 permissions:
   contents: write
@@ -34,14 +37,10 @@ jobs:
         sphinx-intl update -p _build/gettext 
         rm conf.py  
 
-    # Make a PR, because right now I don't feel like setting up the conditional push patterns to make this not recursive
-    - name: Make a PR
+    - name: Push translations
       run: |
           git config user.name github-actions
           git config user.email github-actions@github.com
-          git checkout -b translation_file_update
           git add .
           git commit -m "auto generated translation file updates"
-          git push -u origin translation_file_update
-
-    
+          git push 
