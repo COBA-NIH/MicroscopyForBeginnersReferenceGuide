@@ -294,7 +294,7 @@ msgstr ""
 
 #: ../../04_Data_presentation/Presentation_images.md:73
 msgid "speech bubbles"
-msgstr "globos de texto"
+msgstr "Globos de texto"
 
 #: ../../04_Data_presentation/Presentation_images.md:85
 msgid ""
