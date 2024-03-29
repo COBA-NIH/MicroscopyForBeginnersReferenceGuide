@@ -232,7 +232,7 @@ msgstr ""
 
 #: ../../04_Data_presentation/Presentation_images.md:53
 msgid "multicolor image composition"
-msgstr "composición de imagen multicolor"
+msgstr "Composición de imagen multicolor"
 
 #: ../../04_Data_presentation/Presentation_images.md:65
 msgid ""
