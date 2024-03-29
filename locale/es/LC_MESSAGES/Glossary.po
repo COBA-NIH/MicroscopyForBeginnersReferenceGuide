@@ -240,7 +240,7 @@ msgstr ""
 
 #: ../../Glossary.md:33
 msgid "Oxygen scavengers"
-msgstr "Eliminadores de oxígeno"
+msgstr "Captadores/eliminadores de oxígeno"
 
 #: ../../Glossary.md:38
 msgid ""
