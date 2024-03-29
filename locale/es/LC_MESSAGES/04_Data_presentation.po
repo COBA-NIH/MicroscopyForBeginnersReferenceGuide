@@ -810,8 +810,8 @@ msgstr ""
 "importantes, la normalidad es una suposición central en muchas pruebas "
 "estadísticas ampliamente utilizadas. Cuando se viola esta suposición, sus "
 "conclusiones pueden no ser válidas o ser erróneas. Por lo tanto, la prueba "
-"de normalidad es un paso importante de la tubería de análisis de datos antes"
-" de cualquier tipo de prueba estadística."
+"de normalidad es un paso importante de la pipeline de análisis de datos "
+"antes de cualquier tipo de prueba estadística."
 
 #: ../../04_Data_presentation/Statistics.md:61
 msgid ""
