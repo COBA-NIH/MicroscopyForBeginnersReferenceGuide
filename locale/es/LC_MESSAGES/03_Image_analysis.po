@@ -611,7 +611,7 @@ msgstr ""
 
 #: ../../03_Image_analysis/GeneralUseSoftware.md:1
 msgid "General Use Software"
-msgstr "Software de uso general"
+msgstr "Uso general de software"
 
 #: ../../03_Image_analysis/GeneralUseSoftware.md:3
 msgid ""
