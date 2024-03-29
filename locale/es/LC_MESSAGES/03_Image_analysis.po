@@ -671,7 +671,7 @@ msgid ""
 msgstr ""
 "Pero si bien puede abrir imágenes grandes, existe un límite de tamaño para "
 "el tamaño que puede manejar según la memoria disponible. E incluso si puede "
-"abrir imágenes grandes, puede ralentizar el rendimiento."
+"abrir imágenes grandes, puede desacelerar el rendimiento."
 
 #: ../../03_Image_analysis/GeneralUseSoftware.md:0
 #: ../../03_Image_analysis/SpecificUseSoftware.md:0
