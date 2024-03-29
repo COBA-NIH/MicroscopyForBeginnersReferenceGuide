@@ -1743,7 +1743,7 @@ msgstr ""
 
 #: ../../03_Image_analysis/Software.md:0
 msgid "Icy"
-msgstr "Glacial"
+msgstr "Icy"
 
 #: ../../03_Image_analysis/Software.md:48
 msgid ""
