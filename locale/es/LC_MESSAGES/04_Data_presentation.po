@@ -786,8 +786,8 @@ msgid ""
 "{cite}`Leek2012-rv`"
 msgstr ""
 "📄 [El paquete sva para eliminar efectos por lotes y otras variaciones no "
-"deseadas en experimentos de alto "
-"rendimiento](https://doi.org/10.1093/bioinformatics/bts034) "
+"deseadas en experimentos de alta "
+"producción](https://doi.org/10.1093/bioinformatics/bts034) "
 "{cite}`Leek2012-rv`"
 
 #: ../../04_Data_presentation/Statistics.md:55
