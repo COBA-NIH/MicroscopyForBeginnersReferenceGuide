@@ -2135,7 +2135,7 @@ msgstr ""
 
 #: ../../03_Image_analysis/_notinyet_Common_pitfalls.md:5
 msgid "Changing your image bit depth"
-msgstr "Cambiando la profundidad de bits de tu imagen"
+msgstr "Cambiar la profundidad de bits de su imagen"
 
 #: ../../03_Image_analysis/_notinyet_Common_pitfalls.md:7
 msgid ""
