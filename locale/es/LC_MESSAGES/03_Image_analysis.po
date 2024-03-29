@@ -1988,7 +1988,7 @@ msgid ""
 msgstr ""
 " <img src=\"https://global.discourse-"
 "cdn.com/business4/uploads/imagej/original/3X/3/f/3fe4d974194caabdb61a5574e24402db8484ab9b.png\""
-" alt=\"logo\" width=\"30px\">"
+" alt=\"logo\" width=\"30px\">Piximi"
 
 #: ../../03_Image_analysis/SpecificUseSoftware.md:70
 msgid ""
