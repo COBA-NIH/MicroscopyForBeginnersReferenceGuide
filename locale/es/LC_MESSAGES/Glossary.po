@@ -357,7 +357,7 @@ msgstr ""
 "Segmentación Panóptica, se puede definir como una combinación de las dos "
 "anteriores, porque identifica el objeto pero también lo clasifica. Un "
 "ejemplo en biología podría ser detectar todas las células en una imagen y "
-"clasificarlas como en división frente a no."
+"clasificarlas entre aquellas que se dividen y las que no."
 
 #: ../../Glossary.md:51
 msgid "Thresholding"
