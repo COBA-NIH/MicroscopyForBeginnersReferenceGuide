@@ -1,20 +1,20 @@
 # SOME DESCRIPTIVE TITLE.
-# Copyright (C) 2023
+# Copyright (C) 2024
 # This file is distributed under the same license as the Python package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
 # 
 # Translators:
-# Beth Cimini, 2023
 # Cheng-Yu Huang, 2023
+# Beth Cimini, 2024
 # 
 #, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: Python\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2023-06-15 11:57-0400\n"
+"POT-Creation-Date: 2024-03-29 09:37-0400\n"
 "PO-Revision-Date: 2023-05-02 18:49+0000\n"
-"Last-Translator: Cheng-Yu Huang, 2023\n"
+"Last-Translator: Beth Cimini, 2024\n"
 "Language-Team: Japanese (https://app.transifex.com/center-for-open-bioimage-analysis/teams/169123/ja/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -254,9 +254,9 @@ msgstr "また、共時性が必ずしも相互作用を意味するわけでは
 
 #: ../../03_Image_analysis/Colocalization.md:11
 msgid ""
-"As an example, it is possible for two people to work in the same building an"
-" never interact."
-msgstr "例えば、2人の人間が同じビルで働きながら、一度も交流しないことはあり得る。"
+"As an example, it is possible for two people to work in the same building "
+"and never interact."
+msgstr "たとえば、2 人が同じ建物内で働きながら、まったく対話しない可能性があります。"
 
 #: ../../03_Image_analysis/Colocalization.md:21
 msgid "degrees of colocalization"
@@ -353,6 +353,11 @@ msgstr ""
 "📄 [画像の共局在化 - 共起 vs "
 "相関](https://journals.biologists.com/jcs/article/131/3/jcs211847/77151/Image-"
 "co-localization-co-occurrence-versus){cite}`Aaron2018-qi`"
+
+#: ../../03_Image_analysis/Common_types_of_analysis.md:1
+#: ../../03_Image_analysis/Software.md:1
+msgid "Default Caption"
+msgstr "デフォルトのキャプション"
 
 #: ../../03_Image_analysis/Common_types_of_analysis.md:1
 msgid "Common types of analysis"
