@@ -1,20 +1,20 @@
 # SOME DESCRIPTIVE TITLE.
-# Copyright (C) 2023
+# Copyright (C) 2024
 # This file is distributed under the same license as the Python package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
 # 
 # Translators:
-# Beth Cimini, 2023
 # Mariana De Niz, 2024
+# Beth Cimini, 2024
 # 
 #, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: Python\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2023-05-02 14:28-0400\n"
+"POT-Creation-Date: 2024-03-29 09:37-0400\n"
 "PO-Revision-Date: 2023-05-02 18:49+0000\n"
-"Last-Translator: Mariana De Niz, 2024\n"
+"Last-Translator: Beth Cimini, 2024\n"
 "Language-Team: Spanish (https://app.transifex.com/center-for-open-bioimage-analysis/teams/169123/es/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -36,11 +36,11 @@ msgstr ""
 msgid "Global and online resources"
 msgstr "Recursos globales y en línea"
 
-#: ../../community_resources.md:12 ../../community_resources.md:35
+#: ../../community_resources.md:12 ../../community_resources.md:38
 msgid "**Resource Name**"
 msgstr "**Nombre del recurso**"
 
-#: ../../community_resources.md:13 ../../community_resources.md:36
+#: ../../community_resources.md:13 ../../community_resources.md:39
 msgid "**Link**"
 msgstr "**Enlace**"
 
@@ -66,41 +66,54 @@ msgstr ""
 " globales de bioimagenología"
 
 #: ../../community_resources.md:18
+msgid "GloBIAS"
+msgstr "GloBIAS"
+
+#: ../../community_resources.md:19
+msgid "[link](https://www.globias.org/home)"
+msgstr "[enlace](https://www.globias.org/home)"
+
+#: ../../community_resources.md:20
+msgid "Connections, training, and more for bioimage analysts across the world"
+msgstr ""
+"Conexiones, capacitación y más para analistas de bioimagen de todo el mundo"
+
+#: ../../community_resources.md:21
 msgid "Microforum"
 msgstr "Microforum"
 
-#: ../../community_resources.md:19
+#: ../../community_resources.md:22
 msgid "[link](https://forum.microlist.org/)"
 msgstr "[enlace](https://forum.microlist.org/)"
 
-#: ../../community_resources.md:20
+#: ../../community_resources.md:23
 msgid "Discussion forum for bioimaging sample preparation and acquisition"
 msgstr ""
 "Foro de discusión para la preparación y adquisición de muestras de bioimagen"
 
-#: ../../community_resources.md:21
+#: ../../community_resources.md:24
 msgid "Scientific Community Image Forum (Image . sc)"
 msgstr "Foro de imágenes de la comunidad científica (Imagen . sc)"
 
-#: ../../community_resources.md:22
+#: ../../community_resources.md:25
 msgid "[link](https://forum.image.sc/)"
 msgstr "[enlace](https://forum.image.sc/)"
 
-#: ../../community_resources.md:23
+#: ../../community_resources.md:26
 msgid "Discussion forum for bioimage analysis software {cite}`Rueden2019-qp`"
 msgstr ""
 "Foro de debate sobre el software de análisis de bioimágenes "
 "{cite}`Rueden2019-qp`"
 
-#: ../../community_resources.md:24
+#: ../../community_resources.md:27
 msgid "HMS Nikon Imaging Center \"Favorite References\""
 msgstr "HMS Nikon Imaging Center \"Referencias favoritas\""
 
-#: ../../community_resources.md:25
+#: ../../community_resources.md:28
 msgid "[link](https://nic.med.harvard.edu/fav_references/)"
 msgstr "[enlace](https://nic.med.harvard.edu/fav_references/)"
 
-#: ../../community_resources.md:26
+#: ../../community_resources.md:29
 msgid ""
 "A curated list of references related to many aspects of microscopy and image"
 " analysis"
@@ -108,78 +121,78 @@ msgstr ""
 "Una lista seleccionada de referencias relacionadas a muchos aspectos de la "
 "microscopía y el análisis de imágenes."
 
-#: ../../community_resources.md:29
+#: ../../community_resources.md:32
 msgid "Local resources"
 msgstr "Recursos locales"
 
-#: ../../community_resources.md:37
+#: ../../community_resources.md:40
 msgid "BioImaging North America (BINA)"
 msgstr "BioImaging North America (BINA)"
 
-#: ../../community_resources.md:38
+#: ../../community_resources.md:41
 msgid "[link](https://www.bioimagingnorthamerica.org/)"
 msgstr "[enlace](https://www.bioimagingnorthamerica.org/)"
 
-#: ../../community_resources.md:39
+#: ../../community_resources.md:42
 msgid "Latin America BioImaging"
 msgstr "Latin America BioImaging"
 
-#: ../../community_resources.md:40
+#: ../../community_resources.md:43
 msgid "[link](https://www.latambioimaging.org/ )"
 msgstr "[enlace](https://www.latambioimaging.org/ )"
 
-#: ../../community_resources.md:41
+#: ../../community_resources.md:44
 msgid "African BioImaging Consortium"
 msgstr "African BioImaging Consortium"
 
-#: ../../community_resources.md:42
+#: ../../community_resources.md:45
 msgid "[link](https://www.africanbioimaging.org/)"
 msgstr "[enlace](https://www.africanbioimaging.org/)"
 
-#: ../../community_resources.md:43
+#: ../../community_resources.md:46
 msgid "South Africa BioImaging"
 msgstr "South Africa BioImaging"
 
-#: ../../community_resources.md:44
+#: ../../community_resources.md:47
 msgid "[link](https://www.sabioimaging.org/)"
 msgstr "[enlace](https://www.sabioimaging.org/)"
 
-#: ../../community_resources.md:45
+#: ../../community_resources.md:48
 msgid "Euro-bioimaging"
 msgstr "Euro-bioimaging"
 
-#: ../../community_resources.md:46
+#: ../../community_resources.md:49
 msgid "[link](https://www.eurobioimaging.eu/)"
 msgstr "[enlace](https://www.eurobioimaging.eu/)"
 
-#: ../../community_resources.md:47
+#: ../../community_resources.md:50
 msgid "Advanced BioImaging support (Japan)"
 msgstr "Advanced BioImaging support (Japón)"
 
-#: ../../community_resources.md:48
+#: ../../community_resources.md:51
 msgid "[link](https://www.nibb.ac.jp/abis/)"
 msgstr "[enlace](https://www.nibb.ac.jp/abis/)"
 
-#: ../../community_resources.md:49
+#: ../../community_resources.md:52
 msgid "Microscopy Australia"
 msgstr "Microscopy Australia"
 
-#: ../../community_resources.md:50
+#: ../../community_resources.md:53
 msgid "[link](https://micro.org.au/)"
 msgstr "[enlace](https://micro.org.au/)"
 
-#: ../../community_resources.md:51
+#: ../../community_resources.md:54
 msgid "Canada BioImaging"
 msgstr "Canada BioImaging"
 
-#: ../../community_resources.md:52
+#: ../../community_resources.md:55
 msgid "[link](https://www.canadabioimaging.org/)"
 msgstr "[enlace](https://www.canadabioimaging.org/)"
 
-#: ../../community_resources.md:53
+#: ../../community_resources.md:56
 msgid "Singapore Microscopy Infrastructure Network"
 msgstr "Singapore Microscopy Infrastructure Network"
 
-#: ../../community_resources.md:54
+#: ../../community_resources.md:57
 msgid "[link](https://www.singascope.sg/)"
 msgstr "[enlace](https://www.singascope.sg/)"
