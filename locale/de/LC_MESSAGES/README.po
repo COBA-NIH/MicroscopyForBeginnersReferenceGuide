@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Python \n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2023-06-30 07:32-0400\n"
+"POT-Creation-Date: 2024-03-29 09:37-0400\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language: de\n"
@@ -17,17 +17,25 @@ msgstr ""
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Generated-By: Babel 2.12.1\n"
+"Generated-By: Babel 2.13.1\n"
 
 #: ../../README.md:1
+msgid "[![DOI](https://zenodo.org/badge/568954740.svg)](https://zenodo.org/doi/10.5281/zenodo.10675608)"
+msgstr ""
+
+#: ../../README.md:1
+msgid "DOI"
+msgstr ""
+
+#: ../../README.md:3
 msgid "Microscopy For Beginners Reference Guide"
 msgstr ""
 
-#: ../../README.md:2
+#: ../../README.md:4
 msgid "Website :link: :arrow_right: [CLICK HERE](https://bioimagingguide.org)"
 msgstr ""
 
-#: ../../README.md:4
+#: ../../README.md:6
 msgid ""
 "A Beginner's guide to microscopy, from sample prep to acquisition, image "
 "analysis, and data interpretation. See the paper "

@@ -1,5 +1,5 @@
 # SOME DESCRIPTIVE TITLE.
-# Copyright (C) 2023
+# Copyright (C) 2024
 # This file is distributed under the same license as the Python package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
 #
@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Python \n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2023-06-15 11:57-0400\n"
+"POT-Creation-Date: 2024-03-29 09:37-0400\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -131,7 +131,7 @@ msgid "It is also important to recognize that co-ocurrence does not _necessarily
 msgstr ""
 
 #: ../../03_Image_analysis/Colocalization.md:11
-msgid "As an example, it is possible for two people to work in the same building an never interact."
+msgid "As an example, it is possible for two people to work in the same building and never interact."
 msgstr ""
 
 #: ../../03_Image_analysis/Colocalization.md:21
@@ -176,6 +176,11 @@ msgstr ""
 
 #: ../../03_Image_analysis/Colocalization.md:64
 msgid "📄 [Image co-localization - co-occurrence versus correlation](https://journals.biologists.com/jcs/article/131/3/jcs211847/77151/Image-co-localization-co-occurrence-versus) {cite}`Aaron2018-qi`"
+msgstr ""
+
+#: ../../03_Image_analysis/Common_types_of_analysis.md:1
+#: ../../03_Image_analysis/Software.md:1
+msgid "Default Caption"
 msgstr ""
 
 #: ../../03_Image_analysis/Common_types_of_analysis.md:1
