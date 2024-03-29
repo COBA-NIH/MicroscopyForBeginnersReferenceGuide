@@ -882,4 +882,4 @@ msgstr ""
 
 #: ../../04_Data_presentation/_notinyet_Presentation_graphs.md:1
 msgid "Presentation of graphs"
-msgstr "presentación de gráficos"
+msgstr "Presentación de gráficos"
