@@ -830,7 +830,7 @@ msgid ""
 msgstr ""
 "Para sacar el máximo provecho de QuPath (especialmente cuando se analizan "
 "muchas imágenes), se necesitan algunos scripts y conocimientos de "
-"codificación (o la adaptación del código de otros)."
+"programación (o la adaptación del código de otros)."
 
 #: ../../03_Image_analysis/GeneralUseSoftware.md:78
 msgid "To download QuPath"
