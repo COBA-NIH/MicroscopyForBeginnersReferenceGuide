@@ -377,7 +377,7 @@ msgstr ""
 
 #: ../../Glossary.md:54
 msgid "Tissue clearing"
-msgstr "Limpieza de tejidos"
+msgstr "Transparentación de tejidos"
 
 #: ../../Glossary.md:59
 msgid ""
