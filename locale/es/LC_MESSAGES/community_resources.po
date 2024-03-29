@@ -67,7 +67,7 @@ msgstr ""
 
 #: ../../community_resources.md:18
 msgid "Microforum"
-msgstr "microforo"
+msgstr "Microforum"
 
 #: ../../community_resources.md:19
 msgid "[link](https://forum.microlist.org/)"
