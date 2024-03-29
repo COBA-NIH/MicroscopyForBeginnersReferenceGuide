@@ -1,28 +1,26 @@
 # SOME DESCRIPTIVE TITLE.
-# Copyright (C) 2023
+# Copyright (C) 2024
 # This file is distributed under the same license as the Python package.
-# FIRST AUTHOR <EMAIL@ADDRESS>, 2023.
-#
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+# 
 # Translators:
-# Beth Cimini, 2023
 # Mario Costa Cruz, 2023
+# Beth Cimini, 2024
+# 
 #, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version:  Python\n"
+"Project-Id-Version: Python\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-03-29 09:37-0400\n"
 "PO-Revision-Date: 2023-05-02 18:49+0000\n"
-"Last-Translator: Mario Costa Cruz, 2023\n"
-"Language: pt\n"
-"Language-Team: Portuguese (https://app.transifex.com/center-for-open-"
-"bioimage-analysis/teams/169123/pt/)\n"
-"Plural-Forms: nplurals=3; plural=(n == 0 || n == 1) ? 0 : n != 0 && n % "
-"1000000 == 0 ? 1 : 2;\n"
+"Last-Translator: Beth Cimini, 2024\n"
+"Language-Team: Portuguese (https://app.transifex.com/center-for-open-bioimage-analysis/teams/169123/pt/)\n"
 "MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=utf-8\n"
+"Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Generated-By: Babel 2.13.1\n"
+"Language: pt\n"
+"Plural-Forms: nplurals=3; plural=(n == 0 || n == 1) ? 0 : n != 0 && n % 1000000 == 0 ? 1 : 2;\n"
 
 #: ../../community_resources.md:1
 msgid "Community resources"
@@ -31,8 +29,7 @@ msgstr "Recursos da comunidade"
 #: ../../community_resources.md:3
 msgid "Below are globally and locally available community resources"
 msgstr ""
-"Abaixo estão os recursos da comunidade globalmente e localmente "
-"disponíveis"
+"Abaixo estão os recursos da comunidade globalmente e localmente disponíveis"
 
 #: ../../community_resources.md:5
 msgid "Global and online resources"
@@ -60,25 +57,25 @@ msgstr "[link](https://globalbioimaging.org/)"
 
 #: ../../community_resources.md:17
 msgid ""
-"Training resources, working groups, recommendations for standardization "
-"and research reproducibility for global bioimaging efforts"
+"Training resources, working groups, recommendations for standardization and "
+"research reproducibility for global bioimaging efforts"
 msgstr ""
-"Recursos de treinamento, grupos de trabalho, recomendações para "
-"padronização e reprodutibilidade de pesquisa para esforços globais de "
-"bioimagem"
+"Recursos de treinamento, grupos de trabalho, recomendações para padronização"
+" e reprodutibilidade de pesquisa para esforços globais de bioimagem"
 
 #: ../../community_resources.md:18
 msgid "GloBIAS"
-msgstr ""
+msgstr "GloBIAS"
 
 #: ../../community_resources.md:19
-#, fuzzy
 msgid "[link](https://www.globias.org/home)"
-msgstr "[link](https://www.sabioimaging.org/)"
+msgstr "[link](https://www.globias.org/home)"
 
 #: ../../community_resources.md:20
 msgid "Connections, training, and more for bioimage analysts across the world"
 msgstr ""
+"Conexões, treinamento e muito mais para analistas de bioimagem em todo o "
+"mundo"
 
 #: ../../community_resources.md:21
 msgid "Microforum"
@@ -90,7 +87,8 @@ msgstr "[link](https://forum.microlist.org/)"
 
 #: ../../community_resources.md:23
 msgid "Discussion forum for bioimaging sample preparation and acquisition"
-msgstr "Fórum de discussão para preparação e aquisição de amostras de bioimagem"
+msgstr ""
+"Fórum de discussão para preparação e aquisição de amostras de bioimagem"
 
 #: ../../community_resources.md:24
 msgid "Scientific Community Image Forum (Image . sc)"
@@ -116,8 +114,8 @@ msgstr "[link](https://nic.med.harvard.edu/fav_references/)"
 
 #: ../../community_resources.md:29
 msgid ""
-"A curated list of references related to many aspects of microscopy and "
-"image analysis"
+"A curated list of references related to many aspects of microscopy and image"
+" analysis"
 msgstr ""
 "Uma lista curada de referências relacionadas a muitos aspectos da "
 "microscopia e análise de imagens"
@@ -197,4 +195,3 @@ msgstr "Singapore Microscopy Infrastructure Network"
 #: ../../community_resources.md:57
 msgid "[link](https://www.singascope.sg/)"
 msgstr "[link](https://www.singascope.sg/)"
-
