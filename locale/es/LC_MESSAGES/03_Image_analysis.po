@@ -287,8 +287,8 @@ msgid ""
 "{cite}`GarciaFossaCruz2023`"
 msgstr ""
 "📄 [Interpretación de perfiles basados en imágenes usando agrupamiento de "
-"similitud y visualización de celda única](https://doi.org/10.1002/cpz1.713) "
-"{cite}`GarciaFossaCruz2023`"
+"similitud y visualización de células "
+"únicas](https://doi.org/10.1002/cpz1.713) {cite}`GarciaFossaCruz2023`"
 
 #: ../../03_Image_analysis/Colocalization.md:1
 msgid "Colocalization"
