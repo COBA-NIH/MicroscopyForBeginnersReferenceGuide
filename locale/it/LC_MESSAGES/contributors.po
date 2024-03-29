@@ -11,7 +11,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Python\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2024-03-29 09:37-0400\n"
+"POT-Creation-Date: 2024-03-29 10:14-0400\n"
 "PO-Revision-Date: 2023-05-02 18:49+0000\n"
 "Last-Translator: Beth Cimini, 2024\n"
 "Language-Team: Italian (https://app.transifex.com/center-for-open-bioimage-analysis/teams/169123/it/)\n"
@@ -146,3 +146,7 @@ msgstr "Ceco : Martin Schätz"
 #: ../../contributors.md:30
 msgid "Portuguese: Mario Costa Cruz"
 msgstr "Portoghese: Mario Costa Cruz"
+
+#: ../../contributors.md:31
+msgid "Spanish: Mariana De Niz"
+msgstr "spagnolo: Mariana De Niz"
