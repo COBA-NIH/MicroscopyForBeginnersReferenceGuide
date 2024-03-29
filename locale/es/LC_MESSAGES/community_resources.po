@@ -122,7 +122,7 @@ msgstr "[enlace](https://www.bioimagingnorthamerica.org/)"
 
 #: ../../community_resources.md:39
 msgid "Latin America BioImaging"
-msgstr "América Latina BioImagen"
+msgstr "Latin America BioImaging"
 
 #: ../../community_resources.md:40
 msgid "[link](https://www.latambioimaging.org/ )"
@@ -130,7 +130,7 @@ msgstr "[enlace](https://www.latambioimaging.org/ )"
 
 #: ../../community_resources.md:41
 msgid "African BioImaging Consortium"
-msgstr "Consorcio africano de bioimágenes"
+msgstr "African BioImaging Consortium"
 
 #: ../../community_resources.md:42
 msgid "[link](https://www.africanbioimaging.org/)"
@@ -138,7 +138,7 @@ msgstr "[enlace](https://www.africanbioimaging.org/)"
 
 #: ../../community_resources.md:43
 msgid "South Africa BioImaging"
-msgstr "Imágenes biológicas de Sudáfrica"
+msgstr "South Africa BioImaging"
 
 #: ../../community_resources.md:44
 msgid "[link](https://www.sabioimaging.org/)"
