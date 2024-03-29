@@ -1395,7 +1395,7 @@ msgstr ""
 
 #: ../../03_Image_analysis/Resources.md:34
 msgid "🌐 Bioimage ANalysis Desktop (BAND)"
-msgstr "🌐 Escritorio de análisis de bioimágenes (BANDA)"
+msgstr "🌐 Escritorio de análisis de bioimágenes (BAND)"
 
 #: ../../03_Image_analysis/Resources.md:35
 msgid "[link](https://band.embl.de)"
