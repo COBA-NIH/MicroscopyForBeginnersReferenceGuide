@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Python \n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2023-06-28 07:29-0400\n"
+"POT-Creation-Date: 2024-03-29 15:03+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language: it\n"
@@ -17,7 +17,7 @@ msgstr ""
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Generated-By: Babel 2.12.1\n"
+"Generated-By: Babel 2.14.0\n"
 
 #: ../../04_Data_presentation/Introduction.md:1
 #: ../../04_Data_presentation/Statistics.md:3
@@ -358,7 +358,8 @@ msgstr ""
 #: ../../04_Data_presentation/Resources.md:16
 msgid ""
 "A paper recommending checklists and best practices for publishing image "
-"data"
+"data. [It also has a JupyterBook](https://quarep-"
+"limi.github.io/WG12_checklists_for_image_publishing/intro.html)"
 msgstr ""
 
 #: ../../04_Data_presentation/Resources.md:17
@@ -615,4 +616,9 @@ msgstr ""
 #: ../../04_Data_presentation/_notinyet_Presentation_graphs.md:1
 msgid "Presentation of graphs"
 msgstr ""
+
+#~ msgid ""
+#~ "A paper recommending checklists and best"
+#~ " practices for publishing image data"
+#~ msgstr ""
 

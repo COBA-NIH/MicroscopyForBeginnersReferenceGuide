@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Python \n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2024-03-29 09:37-0400\n"
+"POT-Creation-Date: 2024-03-29 15:03+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language: ja\n"
@@ -17,7 +17,7 @@ msgstr ""
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Generated-By: Babel 2.13.1\n"
+"Generated-By: Babel 2.14.0\n"
 
 #: ../../03_Image_analysis/Classification.md:1
 msgid "Object classification"
@@ -554,7 +554,7 @@ msgstr ""
 #: ../../03_Image_analysis/GeneralUseSoftware.md:59
 msgid ""
 "🌐 [CellProfiler user manual](https://cellprofiler-"
-"manual.s3.amazonaws.com/CellProfiler-4.2.4/index.html)"
+"manual.s3.amazonaws.com/CellProfiler-4.2.6/index.html)"
 msgstr ""
 
 #: ../../03_Image_analysis/GeneralUseSoftware.md:60
@@ -1594,5 +1594,11 @@ msgstr ""
 #~ "As an example, it is possible for"
 #~ " two people to work in the same"
 #~ " building an never interact."
+#~ msgstr ""
+
+#~ msgid ""
+#~ "🌐 [CellProfiler user manual](https"
+#~ "://cellprofiler-"
+#~ "manual.s3.amazonaws.com/CellProfiler-4.2.4/index.html)"
 #~ msgstr ""
 

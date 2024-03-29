@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Python \n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2024-03-29 09:37-0400\n"
+"POT-Creation-Date: 2024-03-29 15:03+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -241,7 +241,7 @@ msgid "[link](https://arxiv.org/abs/2302.07005)"
 msgstr ""
 
 #: ../../04_Data_presentation/Resources.md:16
-msgid "A paper recommending checklists and best practices for publishing image data"
+msgid "A paper recommending checklists and best practices for publishing image data. [It also has a JupyterBook](https://quarep-limi.github.io/WG12_checklists_for_image_publishing/intro.html)"
 msgstr ""
 
 #: ../../04_Data_presentation/Resources.md:17
