@@ -339,7 +339,7 @@ msgstr "Grados de colocalización"
 msgid "**Colocalization is about intensity and spatial overlap of labels**"
 msgstr ""
 "**La colocalización tiene que ver con la intensidad y la superposición "
-"espacial de las etiquetas**"
+"espacial de los marcajes**"
 
 #: ../../03_Image_analysis/Colocalization.md:28
 msgid ""
