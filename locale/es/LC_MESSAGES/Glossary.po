@@ -335,7 +335,7 @@ msgid ""
 "common in cell biology will be detecting cells and background on an image."
 msgstr ""
 "La segmentación semántica, donde todas las partes de una imagen son parte de"
-" una clase, común en la biología celular será la detección de células y el "
+" una clase. Común en la biología celular será la detección de células y el "
 "fondo de una imagen."
 
 #: ../../Glossary.md:52
