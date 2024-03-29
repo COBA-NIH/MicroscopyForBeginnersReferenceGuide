@@ -694,7 +694,7 @@ msgid ""
 "available plugins"
 msgstr ""
 "Para obtener documentación y tutoriales sobre cómo usar ImageJ, así como una"
-" lista de complementos disponibles"
+" lista de plugins disponibles"
 
 #: ../../03_Image_analysis/GeneralUseSoftware.md:30
 msgid "🌐 [ImageJ basics](https://imagej.net/learn/)"
