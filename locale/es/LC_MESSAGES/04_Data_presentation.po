@@ -321,7 +321,7 @@ msgstr ""
 
 #: ../../04_Data_presentation/Presentation_images.md:0
 msgid "Explain the image"
-msgstr "explica la imagen"
+msgstr "Explique la imagen"
 
 #: ../../04_Data_presentation/Presentation_images.md:95
 msgid ""
