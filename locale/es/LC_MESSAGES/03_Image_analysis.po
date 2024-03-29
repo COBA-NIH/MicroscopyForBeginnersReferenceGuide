@@ -333,7 +333,7 @@ msgstr ""
 
 #: ../../03_Image_analysis/Colocalization.md:21
 msgid "degrees of colocalization"
-msgstr "grados de colocalización"
+msgstr "Grados de colocalización"
 
 #: ../../03_Image_analysis/Colocalization.md:21
 msgid "**Colocalization is about intensity and spatial overlap of labels**"
