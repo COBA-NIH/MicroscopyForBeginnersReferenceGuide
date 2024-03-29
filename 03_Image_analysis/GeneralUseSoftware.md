@@ -56,7 +56,7 @@ For documentation examples and  tutorials.
 
 
 
-* 🌐 [CellProfiler user manual](https://cellprofiler-manual.s3.amazonaws.com/CellProfiler-4.2.4/index.html) 
+* 🌐 [CellProfiler user manual](https://cellprofiler-manual.s3.amazonaws.com/CellProfiler-4.2.6/index.html) 
 * 🌐 [Examples](https://cellprofiler.org/examples)
 * 🌐 [Tutorials](https://tutorials.cellprofiler.org/)
 * 🎥 [Video tutorials and workshops](https://www.youtube.com/playlist?list=PLXSm9cHbSZBBy7JkChB32_e3lURUcT3RL) 
