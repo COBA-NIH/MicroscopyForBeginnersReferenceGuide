@@ -10,7 +10,7 @@ permissions:
   contents: write
 
 jobs:
-  deploy-book:
+  push-translations:
     runs-on: ubuntu-latest
     steps:
     - uses: actions/checkout@v2
@@ -24,6 +24,7 @@ jobs:
     - name: Install dependencies
       run: |
         pip install -r requirements.txt
+        pip install -r intl_requirements.txt
 
     # Update the files
     - name: Update the files
