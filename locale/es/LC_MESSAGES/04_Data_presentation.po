@@ -491,12 +491,12 @@ msgstr "[enlace](https://www.huber.embl.de/msmb/)"
 #: ../../04_Data_presentation/Resources.md:19
 msgid "Online statistics for biologists textbook with code examples (in R)"
 msgstr ""
-"Estadísticas en línea para libro de texto de biólogos con ejemplos de código"
-" (en R)"
+"Estadísticas en línea para libros de texto de biólogos con ejemplos de "
+"código (en R)"
 
 #: ../../04_Data_presentation/Statistics.md:1
 msgid "Statistics"
-msgstr "Estadísticas"
+msgstr "Estadística"
 
 #: ../../04_Data_presentation/Statistics.md:5
 msgid ""
