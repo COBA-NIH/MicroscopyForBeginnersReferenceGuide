@@ -115,7 +115,7 @@ msgstr ""
 "condiciones (p. ej., tampón, temperatura) determinan el grado de "
 "conservación de las estructuras celulares y/o moleculares dentro de una "
 "muestra, y debe optimizarse dependiendo de la muestra o estructura que se "
-"está fotografiando."
+"está visualizando."
 
 #: ../../Glossary.md:15
 msgid "Image processing"
