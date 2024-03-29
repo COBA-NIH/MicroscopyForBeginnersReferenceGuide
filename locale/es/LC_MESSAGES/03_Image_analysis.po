@@ -1783,10 +1783,10 @@ msgid ""
 "image viewer that can be expanded via a variety of plugins to perform basic "
 "and complex image analysis tasks. [Read more...](content/napari)"
 msgstr ""
-"[napari](https://napari.org/) se está desarrollando como un visor de "
+"[napari](https://napari.org/) se está desarrollando como un visualizador de "
 "imágenes multidimensionales que se puede expandir a través de una variedad "
-"de complementos para realizar tareas de análisis de imágenes básicas y "
-"complejas. [Leer más...](contenido/napari)"
+"de plugins para realizar tareas de análisis de imágenes básicas y complejas."
+" [Leer más...](contenido/napari)"
 
 #: ../../03_Image_analysis/Software.md:0
 msgid "Cellpose"
