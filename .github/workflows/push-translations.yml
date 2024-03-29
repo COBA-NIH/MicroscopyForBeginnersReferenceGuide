@@ -45,7 +45,7 @@ jobs:
           git config user.name github-actions
           git config user.email github-actions@github.com
           git checkout -b auto_translation
-          git add .
+          git add "**.pot"
           git commit -m "auto generated translation file updates"
           git push -u origin auto_translation
           gh pr create --title "Auto-translations" --body "Made by GH Actions"
