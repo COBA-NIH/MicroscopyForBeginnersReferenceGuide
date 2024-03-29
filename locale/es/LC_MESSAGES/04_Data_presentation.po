@@ -369,7 +369,7 @@ msgid ""
 "📄 [Imaging methods are vastly underreported in biomedical "
 "research](https://doi.org/10.7554/eLife.55133) {cite}`Marques2020-nx`"
 msgstr ""
-"📄 [Los métodos de imágenes están muy poco informados en la investigación "
+"📄 [Los métodos de imágenes están sub-reportados en la investigación "
 "biomédica](https://doi.org/10.7554/eLife.55133) {cite}`Marques2020-nx`"
 
 #: ../../04_Data_presentation/Presentation_images.md:106
