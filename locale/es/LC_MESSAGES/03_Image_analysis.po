@@ -1106,7 +1106,7 @@ msgstr ""
 "Para entender la saturación de otra manera, imagine que está tratando de "
 "medir la altura masculina promedio con una cinta métrica de 2 metros. Si "
 "nuestra muestra contiene hombres que miden más de 2 metros, no podemos decir"
-" _cuánto miden más de 6 pies; son como píxeles saturados que superan la "
+" _cuánto más de 2 metros miden; son como píxeles saturados que superan la "
 "intensidad que podemos detectar. Esta saturación de nuestra herramienta de "
 "medición significa que no podemos informar con precisión la altura promedio."
 
