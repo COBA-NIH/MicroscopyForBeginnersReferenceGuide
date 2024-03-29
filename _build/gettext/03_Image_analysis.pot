@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Python \n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2024-03-29 15:03+0000\n"
+"POT-Creation-Date: 2024-03-29 15:22+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -618,98 +618,110 @@ msgid "An article describing several common classes of measurements made in micr
 msgstr ""
 
 #: ../../03_Image_analysis/Resources.md:25
-msgid "📄 A Hitchhiker's guide through the bio-image analysis software universe {cite}`Haase2022-ad`"
+msgid "🌐 Metrics Reloaded"
 msgstr ""
 
 #: ../../03_Image_analysis/Resources.md:26
-msgid "[link](https://febs.onlinelibrary.wiley.com/doi/full/10.1002/1873-3468.14451)"
+msgid "[link](https://metrics-reloaded.dkfz.de/)"
 msgstr ""
 
 #: ../../03_Image_analysis/Resources.md:27
-msgid "An article that gives guidance and a glossary of available image analysis software and packages"
+msgid "An interactive guide to choosing the right metric for your scientific question"
 msgstr ""
 
 #: ../../03_Image_analysis/Resources.md:28
-msgid "🌐 BioImage Informatics Index"
+msgid "📄 A Hitchhiker's guide through the bio-image analysis software universe {cite}`Haase2022-ad`"
 msgstr ""
 
 #: ../../03_Image_analysis/Resources.md:29
-msgid "[link](https://biii.eu/)"
+msgid "[link](https://febs.onlinelibrary.wiley.com/doi/full/10.1002/1873-3468.14451)"
 msgstr ""
 
 #: ../../03_Image_analysis/Resources.md:30
-msgid "Repository platform for searching bioimage analysis tools and workflows based on the problem, method or software of choice"
+msgid "An article that gives guidance and a glossary of available image analysis software and packages"
 msgstr ""
 
 #: ../../03_Image_analysis/Resources.md:31
-msgid "🎥 iBiology Bioimage Analysis video series"
+msgid "🌐 BioImage Informatics Index"
 msgstr ""
 
 #: ../../03_Image_analysis/Resources.md:32
-msgid "[link](https://youtu.be/1xo4vi6Ub4I)"
+msgid "[link](https://biii.eu/)"
 msgstr ""
 
 #: ../../03_Image_analysis/Resources.md:33
-msgid "Video series that introduces Bioimage analysis, including overviews of {term}`image processing`, {term}`segmentation`, tracking, making and interpreting measurements, tips and pitfalls"
+msgid "Repository platform for searching bioimage analysis tools and workflows based on the problem, method or software of choice"
 msgstr ""
 
 #: ../../03_Image_analysis/Resources.md:34
-msgid "🌐 Bioimage ANalysis Desktop (BAND)"
+msgid "🎥 iBiology Bioimage Analysis video series"
 msgstr ""
 
 #: ../../03_Image_analysis/Resources.md:35
-msgid "[link](https://band.embl.de)"
+msgid "[link](https://youtu.be/1xo4vi6Ub4I)"
 msgstr ""
 
 #: ../../03_Image_analysis/Resources.md:36
-msgid "Access to virtual desktops allowing access to bioimage analysis software from a browser"
+msgid "Video series that introduces Bioimage analysis, including overviews of {term}`image processing`, {term}`segmentation`, tracking, making and interpreting measurements, tips and pitfalls"
 msgstr ""
 
 #: ../../03_Image_analysis/Resources.md:37
-msgid "🌐 Galaxy Imaging Node"
+msgid "🌐 Bioimage ANalysis Desktop (BAND)"
 msgstr ""
 
 #: ../../03_Image_analysis/Resources.md:38
-msgid "[link](https://imaging.usegalaxy.eu/)"
+msgid "[link](https://band.embl.de)"
 msgstr ""
 
 #: ../../03_Image_analysis/Resources.md:39
-msgid "A Galaxy node prepopulated with a number of open-source image analysis tools and workflows, making it easy to create and share reproducible FAIR workflows"
+msgid "Access to virtual desktops allowing access to bioimage analysis software from a browser"
 msgstr ""
 
 #: ../../03_Image_analysis/Resources.md:40
-msgid "🌐 Image Analysis Training Resources"
+msgid "🌐 Galaxy Imaging Node"
 msgstr ""
 
 #: ../../03_Image_analysis/Resources.md:41
-msgid "[link](https://neubias.github.io/training-resources/index.html)"
+msgid "[link](https://imaging.usegalaxy.eu/)"
 msgstr ""
 
 #: ../../03_Image_analysis/Resources.md:42
-msgid "Image analysis traning resources collected by NEUBIAS, styled based on The Carpentries"
+msgid "A Galaxy node prepopulated with a number of open-source image analysis tools and workflows, making it easy to create and share reproducible FAIR workflows"
 msgstr ""
 
 #: ../../03_Image_analysis/Resources.md:43
-msgid "🌐 Bioimage Analysis AwesomeList"
+msgid "🌐 Image Analysis Training Resources"
 msgstr ""
 
 #: ../../03_Image_analysis/Resources.md:44
-msgid "[link](https://github.com/hallvaaw/awesome-biological-image-analysis)"
+msgid "[link](https://neubias.github.io/training-resources/index.html)"
 msgstr ""
 
 #: ../../03_Image_analysis/Resources.md:45
-msgid "A curated [AwesomeList](https://github.com/sindresorhus/awesome) of resources related to bioimage analysis"
+msgid "Image analysis traning resources collected by NEUBIAS, styled based on The Carpentries"
 msgstr ""
 
 #: ../../03_Image_analysis/Resources.md:46
-msgid "🌐 Bioimage Analysis Notebooks"
+msgid "🌐 Bioimage Analysis AwesomeList"
 msgstr ""
 
 #: ../../03_Image_analysis/Resources.md:47
-msgid "[link](https://haesleinhuepf.github.io/BioImageAnalysisNotebooks/)"
+msgid "[link](https://github.com/hallvaaw/awesome-biological-image-analysis)"
 msgstr ""
 
 #: ../../03_Image_analysis/Resources.md:48
+msgid "A curated [AwesomeList](https://github.com/sindresorhus/awesome) of resources related to bioimage analysis"
+msgstr ""
+
+#: ../../03_Image_analysis/Resources.md:49
+msgid "🌐 Bioimage Analysis Notebooks"
+msgstr ""
+
+#: ../../03_Image_analysis/Resources.md:50
+msgid "[link](https://haesleinhuepf.github.io/BioImageAnalysisNotebooks/)"
+msgstr ""
+
+#: ../../03_Image_analysis/Resources.md:51
 msgid "A collection of Python Jupyter notebooks for BioImageAnalysis, GPU-accelerated image processing, bio-image data science and more"
 msgstr ""
 
