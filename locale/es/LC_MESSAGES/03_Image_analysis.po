@@ -1638,7 +1638,7 @@ msgstr ""
 "documentos en su campo y ver lo que otros han usado para analizar "
 "experimentos similares al suyo. Es importante tener en cuenta que no hay una"
 " respuesta correcta a \"¿Qué programa debo usar?\" Dependiendo de su "
-"pregunta biológica, sus imágenes y su propia comodidad con la codificación, "
+"pregunta biológica, sus imágenes y su propia comodidad con la programación, "
 "hay muchas opciones disponibles."
 
 #: ../../03_Image_analysis/Software.md:7
