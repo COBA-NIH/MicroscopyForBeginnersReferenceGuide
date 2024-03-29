@@ -984,7 +984,7 @@ msgid ""
 "available."
 msgstr ""
 "napari aún se encuentra en las etapas de desarrollo, pero es una plataforma "
-"muy popular y ya cuenta con una variedad de complementos y casos de uso con "
+"muy popular y ya cuenta con una variedad de plugins y casos de uso con "
 "tutoriales disponibles."
 
 #: ../../03_Image_analysis/GeneralUseSoftware.md:166
