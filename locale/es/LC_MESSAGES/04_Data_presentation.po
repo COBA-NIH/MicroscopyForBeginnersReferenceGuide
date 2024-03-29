@@ -306,8 +306,8 @@ msgstr ""
 "La falta de detalles y la falta de explicaciones clave harán que sea "
 "imposible para el público interpretar los datos de las imágenes en cifras. "
 "Para hacer referencia sin ambigüedades a las sondas, considere usar términos"
-" del ISAC Probe Tag Dictionary, una nomenclatura estandarizada para sondas "
-"utilizadas en citometría y microscopía."
+" del Diccionario de etiquetas de sonda ISAC, una nomenclatura estandarizada "
+"para sondas utilizadas en citometría y microscopía."
 
 #: ../../04_Data_presentation/Presentation_images.md:89
 msgid ""
