@@ -924,8 +924,9 @@ msgid ""
 "It was created using MATLAB, a standalone packaged version exist, but they "
 "do not use the most up-to-date MATLAB releases"
 msgstr ""
-"Fue creado utilizando MATLAB, existe una versión empaquetada independiente, "
-"pero no utilizan las versiones más actualizadas de MATLAB"
+"Fue creado utilizando MATLAB, existe una versión empaquetada "
+"independientemente, pero no utilizan las versiones más actualizadas de "
+"MATLAB"
 
 #: ../../03_Image_analysis/GeneralUseSoftware.md:136
 msgid "To download MIB"
