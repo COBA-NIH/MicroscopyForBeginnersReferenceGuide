@@ -459,7 +459,7 @@ msgid ""
 "including guidelines for microscopy images"
 msgstr ""
 "Artículo de revisión sobre cómo crear figuras científicas justas y "
-"accesibles, incluidas las pautas para imágenes de microscopía"
+"accesibles, incluidas las guías para imágenes de microscopía"
 
 #: ../../04_Data_presentation/Resources.md:14
 msgid ""
