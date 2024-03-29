@@ -551,7 +551,7 @@ msgstr ""
 "que estos archivos no sean formatos comprimidos (p. ej., '.jpeg') o "
 "modificados de los archivos originales en los que se realizó el análisis. Si"
 " se modifican los archivos, las mediciones cambiarán y nadie más podrá "
-"reproducir la tubería de análisis."
+"reproducir la línea de análisis."
 
 #: ../../03_Image_analysis/Data_management.md:26
 msgid ""
