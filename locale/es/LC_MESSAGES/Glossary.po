@@ -182,7 +182,7 @@ msgstr ""
 
 #: ../../Glossary.md:24
 msgid "Intravital imaging"
-msgstr "Imágenes intravitales"
+msgstr "Microscopía intravital"
 
 #: ../../Glossary.md:29
 msgid ""
