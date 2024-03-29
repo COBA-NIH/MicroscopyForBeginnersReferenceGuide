@@ -50,7 +50,7 @@ msgstr "**Breve descripción**"
 
 #: ../../community_resources.md:15
 msgid "Global BioImaging"
-msgstr "Imágenes biológicas globales"
+msgstr "Global BioImaging"
 
 #: ../../community_resources.md:16
 msgid "[link](https://globalbioimaging.org/)"
