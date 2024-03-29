@@ -1,26 +1,28 @@
 # SOME DESCRIPTIVE TITLE.
 # Copyright (C) 2024
 # This file is distributed under the same license as the Python package.
-# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
-# 
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2023.
+#
 # Translators:
 # Martin Schätz, 2023
 # Beth Cimini, 2024
-# 
 #, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: Python\n"
+"Project-Id-Version:  Python\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2024-03-29 10:14-0400\n"
+"POT-Creation-Date: 2024-03-29 15:22+0000\n"
 "PO-Revision-Date: 2023-05-02 18:49+0000\n"
 "Last-Translator: Beth Cimini, 2024\n"
-"Language-Team: Czech (https://app.transifex.com/center-for-open-bioimage-analysis/teams/169123/cs/)\n"
-"MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: 8bit\n"
 "Language: cs\n"
-"Plural-Forms: nplurals=4; plural=(n == 1 && n % 1 == 0) ? 0 : (n >= 2 && n <= 4 && n % 1 == 0) ? 1: (n % 1 != 0 ) ? 2 : 3;\n"
+"Language-Team: Czech (https://app.transifex.com/center-for-open-bioimage-"
+"analysis/teams/169123/cs/)\n"
+"Plural-Forms: nplurals=4; plural=(n == 1 && n % 1 == 0) ? 0 : (n >= 2 && "
+"n <= 4 && n % 1 == 0) ? 1: (n % 1 != 0 ) ? 2 : 3;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.14.0\n"
 
 #: ../../contributors.md:1
 msgid "Contributing to this guide"
@@ -32,56 +34,70 @@ msgstr "Přispěvatelé"
 
 #: ../../contributors.md:5
 msgid ""
-"The original material for this book was created as part of the paper \"[**_A"
-" biologist’s guide to planning and performing quantitative bioimaging "
+"The original material for this book was created as part of the paper "
+"\"[**_A biologist’s guide to planning and performing quantitative "
+"bioimaging "
 "experiments_**](https://doi.org/10.1371/journal.pbio.3002167)\" "
 "{cite}`Senft2023-zy`. by Rebecca A. Senft*, Barbara Diaz-Rohrer*, Pina "
 "Colarusso, Lucy Swift, Nasim Jamali, Helena Jambor, Thomas Pengo, Craig "
-"Brideau, Paula Montero Llopis, Virginie Uhlmann, Jason Kirk, Kevin Andrew "
-"Gonzales, Peter Bankhead, Edward L. Evans III, Kevin W Eliceiri and Beth A. "
-"Cimini."
+"Brideau, Paula Montero Llopis, Virginie Uhlmann, Jason Kirk, Kevin Andrew"
+" Gonzales, Peter Bankhead, Edward L. Evans III, Kevin W Eliceiri and Beth"
+" A. Cimini."
 msgstr ""
 "Původní materiál pro tuto knihu byl vytvořen jako součást článku „[**_A "
 "biologist’s guide to planning and performing quantitative bioimaging "
 "experiments_**](https://doi.org/10.1371/journal.pbio.3002167)“ {cite}` "
 "Senft2023-zy`. autor: Rebecca A. Senft*, Barbara Diaz-Rohrer*, Pina "
 "Colarusso, Lucy Swift, Nasim Jamali, Helena Jambor, Thomas Pengo, Craig "
-"Brideau, Paula Montero Llopis, Virginie Uhlmann, Jason Kirk, Kevin Andrew "
-"Gonzales, Peter Bankhead, Edward L Evans III, Kevin W Eliceiri a Beth A. "
-"Cimini."
+"Brideau, Paula Montero Llopis, Virginie Uhlmann, Jason Kirk, Kevin Andrew"
+" Gonzales, Peter Bankhead, Edward L Evans III, Kevin W Eliceiri a Beth A."
+" Cimini."
 
 #: ../../contributors.md:7
+msgid ""
+"This project was initiated by the [Center for Open Bioimage "
+"Analysis](https://openbioimageanalysis.org/) .We are grateful to "
+"[Bioimaging North America](https://www.bioimagingnorthamerica.org/) "
+"(especially its [Image "
+"Informatics](https://www.bioimagingnorthamerica.org/image-informatics-"
+"wg/) and [Training and Education](https://www.bioimagingnorthamerica.org"
+"/te-wg/) Working Groups) for both initial and ongoing support of this "
+"project."
+msgstr ""
+
+#: ../../contributors.md:9
 msgid ""
 "Since this guide has become available, we gratefully acknowledge "
 "contributions from the following members of the microscopy and bioimage "
 "analysis community!"
 msgstr ""
-"Děkujeme za příspěvky následujících členů komunity pro mikroskopii a analýzu"
-" biologických obrazových dat bez kterých by tato příručka nevznikla!"
+"Děkujeme za příspěvky následujících členů komunity pro mikroskopii a "
+"analýzu biologických obrazových dat bez kterých by tato příručka "
+"nevznikla!"
 
-#: ../../contributors.md:8
+#: ../../contributors.md:10
 msgid "William Giang"
 msgstr "William Giang"
 
-#: ../../contributors.md:9
+#: ../../contributors.md:11
 msgid "Robert Haase"
 msgstr "Robert Haase"
 
-#: ../../contributors.md:11
+#: ../../contributors.md:13
 msgid ""
 "Improvements to the build and maintenance system for this book have come "
 "from"
 msgstr "Vylepšení systému sestavení a údržby pro tuto knihu pocházejí"
 
-#: ../../contributors.md:12
+#: ../../contributors.md:14
 msgid "Pete Bankhead"
 msgstr "Pete Bankhead"
 
-#: ../../contributors.md:14
+#: ../../contributors.md:16
 msgid "How can I become a contributor?"
 msgstr "Jak se mohu stát přispěvatelem?"
 
-#: ../../contributors.md:16
+#: ../../contributors.md:18
 msgid ""
 "Please feel free to open an "
 "[issue](https://github.com/broadinstitute/MicroscopyForBeginnersReferenceGuide/issues)"
@@ -94,59 +110,62 @@ msgstr ""
 "příručka bude živý dokument popisující aktuální a nejlepší postupy a "
 "dostupné zdroje."
 
-#: ../../contributors.md:18
+#: ../../contributors.md:20
 msgid ""
 "We currently also offer a [Google "
 "Form](https://docs.google.com/forms/d/e/1FAIpQLScWQbemviI2OkvVkeTKUOozAzKNndcZpXIB_nE0qFMl72lqvQ/viewform)"
-" for contributions, though note these may be responded to more slowly than "
-"direct contributions to the GitHub repository."
+" for contributions, though note these may be responded to more slowly "
+"than direct contributions to the GitHub repository."
 msgstr ""
 "V současné době také nabízíme [Google "
 "formulář](https://docs.google.com/forms/d/e/1FAIpQLScWQbemviI2OkvVkeTKUOozAzKNndcZpXIB_nE0qFMl72lqvQ/viewform)"
-" pro příspěvky. Ale je možné že na tyto příspěvky budeme reagovat pomaleji "
-"než na přímé příspěvky v GitHubu."
+" pro příspěvky. Ale je možné že na tyto příspěvky budeme reagovat "
+"pomaleji než na přímé příspěvky v GitHubu."
 
-#: ../../contributors.md:21
+#: ../../contributors.md:23
 msgid "Translation"
 msgstr "Překlad"
 
-#: ../../contributors.md:23
+#: ../../contributors.md:25
 msgid ""
 "This guide is available in [English](https://www.bioimagingguide.org) as "
 "well as [Czech](https://cs.bioimagingguide.org), "
 "[Portuguese](https://pt.bioimagingguide.org), and "
 "[Spanish](https://es.bioimagingguide.org)."
 msgstr ""
-"Tato příručka je k dispozici v [angličtině](https://www.bioimagingguide.org)"
-" a také [češtině](https://cs.bioimagingguide.org), "
+"Tato příručka je k dispozici v "
+"[angličtině](https://www.bioimagingguide.org) a také "
+"[češtině](https://cs.bioimagingguide.org), "
 "[portugalštině](https://pt.bioimagingguide.org ) a "
 "[španělština](https://es.bioimagingguide.org)."
 
-#: ../../contributors.md:25
-msgid ""
-"Work is underway to translate this guide into other languages - translation "
-"is planned or has begun in French, German, Finnish, Italian, Japanese, "
-"Polish, and Farsi. To help translate into one of these languages, or another"
-" language not listed here, please contact bcimini AT broadinstitute DOT org."
-msgstr ""
-"Pracuje se na překladu této příručky do dalších jazyků – překlad je plánován"
-" nebo již začal do francouzštiny, němčiny, finštiny, italštiny, japonštiny, "
-"polštiny a perštiny. Chcete-li pomoci s překladem do jednoho z těchto jazyků"
-" nebo do jiného jazyka, který zde není uveden, kontaktujte prosím bcimini AT"
-" broadinstitute DOT org."
-
 #: ../../contributors.md:27
+msgid ""
+"Work is underway to translate this guide into other languages - "
+"translation is planned or has begun in French, German, Finnish, Italian, "
+"Japanese, Polish, and Farsi. To help translate into one of these "
+"languages, or another language not listed here, please contact bcimini AT"
+" broadinstitute DOT org."
+msgstr ""
+"Pracuje se na překladu této příručky do dalších jazyků – překlad je "
+"plánován nebo již začal do francouzštiny, němčiny, finštiny, italštiny, "
+"japonštiny, polštiny a perštiny. Chcete-li pomoci s překladem do jednoho "
+"z těchto jazyků nebo do jiného jazyka, který zde není uveden, kontaktujte"
+" prosím bcimini AT broadinstitute DOT org."
+
+#: ../../contributors.md:29
 msgid "Translations are gratefully acknowledged from:"
 msgstr "Za překlady děkujeme:"
 
-#: ../../contributors.md:29
+#: ../../contributors.md:31
 msgid "Czech : Martin Schätz"
 msgstr "Čeština : [Martin Schätz](https://orcid.org/0000-0003-0931-4017)"
 
-#: ../../contributors.md:30
+#: ../../contributors.md:32
 msgid "Portuguese: Mario Costa Cruz"
 msgstr "Portugalština: Mario Costa Cruz"
 
-#: ../../contributors.md:31
+#: ../../contributors.md:33
 msgid "Spanish: Mariana De Niz"
 msgstr "Španělsky: Mariana De Niz"
+
