@@ -105,8 +105,8 @@ msgid ""
 "A curated list of references related to many aspects of microscopy and image"
 " analysis"
 msgstr ""
-"Una lista seleccionada de referencias relacionadas con muchos aspectos de la"
-" microscopía y el análisis de imágenes."
+"Una lista seleccionada de referencias relacionadas a muchos aspectos de la "
+"microscopía y el análisis de imágenes."
 
 #: ../../community_resources.md:29
 msgid "Local resources"
