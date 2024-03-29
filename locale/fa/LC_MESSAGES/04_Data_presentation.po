@@ -1,0 +1,829 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2024
+# This file is distributed under the same license as the Python package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+# 
+# Translators:
+# Beth Cimini, 2024
+# 
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Python\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-03-29 15:03+0000\n"
+"PO-Revision-Date: 2023-05-02 18:49+0000\n"
+"Last-Translator: Beth Cimini, 2024\n"
+"Language-Team: Persian (https://app.transifex.com/center-for-open-bioimage-analysis/teams/169123/fa/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: fa\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+
+#: ../../04_Data_presentation/Introduction.md:1
+#: ../../04_Data_presentation/Statistics.md:3
+#: ../../04_Data_presentation/_notinyet_Presentation_graphs.md:3
+msgid "Introduction"
+msgstr "معرفی"
+
+#: ../../04_Data_presentation/Introduction.md:3
+msgid ""
+"When presenting microscopy image data in biology and biomedicine, it's "
+"important to consider the quality of the images, the labeling and annotation"
+" of important features, and the overall visual appeal. This also applies to "
+"diagrams and plots which convey numerical data derived from microscopy "
+"images. Chart types must in addition be suitable for the specific data that "
+"is being conveyed to not mislead audiences. This applies to image data in "
+"scientific posters, talk-slides, or publications."
+msgstr ""
+"هنگام ارائه داده های تصویر میکروسکوپی در زیست شناسی و زیست پزشکی، مهم است که"
+" کیفیت تصاویر، برچسب گذاری و حاشیه نویسی ویژگی های مهم و جذابیت بصری کلی را "
+"در نظر بگیرید. این همچنین در مورد نمودارها و نمودارهایی که داده های عددی "
+"حاصل از تصاویر میکروسکوپی را منتقل می کنند، صدق می کند. علاوه بر این، انواع "
+"نمودارها باید برای داده‌های خاصی که منتقل می‌شوند مناسب باشند تا مخاطبان را "
+"گمراه نکنند. این در مورد داده های تصویری در پوسترهای علمی، اسلایدهای گفتگو، "
+"یا انتشارات صدق می کند."
+
+#: ../../04_Data_presentation/Presentation_images.md:1
+msgid "Presentation of microscopy images"
+msgstr "ارائه تصاویر میکروسکوپی"
+
+#: ../../04_Data_presentation/Presentation_images.md:3
+#: ../../04_Data_presentation/Statistics.md:9
+#: ../../04_Data_presentation/Statistics.md:34
+#: ../../04_Data_presentation/Statistics.md:57
+msgid "What is it?"
+msgstr "چیست؟"
+
+#: ../../04_Data_presentation/Presentation_images.md:5
+msgid ""
+"Microscopy images are often shown in scientific papers to illustrate a "
+"particular conclusion. While qualitative conclusions are not a subsitute for"
+" quantitative comparisons (see next section), images can certainly guide our"
+" reasoning and our conclusions. Following a few consistent best practices "
+"ensures that these conclusions are correct and robust."
+msgstr ""
+"تصاویر میکروسکوپی اغلب در مقالات علمی برای نشان دادن یک نتیجه خاص نشان داده "
+"می شوند. در حالی که نتیجه گیری های کیفی جایگزینی برای مقایسه های کمی نیستند "
+"(به بخش بعدی مراجعه کنید)، تصاویر مطمئناً می توانند استدلال و نتیجه گیری ما "
+"را راهنمایی کنند. پیروی از چند بهترین شیوه منسجم تضمین می کند که این نتیجه "
+"گیری ها صحیح و قوی هستند."
+
+#: ../../04_Data_presentation/Presentation_images.md:14
+msgid "10 tips for image presentation"
+msgstr "10 نکته برای ارائه تصویر"
+
+#: ../../04_Data_presentation/Presentation_images.md:14
+msgid ""
+"**A brief visual summary of image presentation tips.** Figure by Helena "
+"Jambor. [Source](https://doi.org/10.5281/zenodo.7750259)"
+msgstr ""
+"**خلاصه تصویری مختصری از نکات ارائه تصویر.** شکل توسط هلنا جامبور. "
+"[منبع](https://doi.org/10.5281/zenodo.7750259)"
+
+#: ../../04_Data_presentation/Presentation_images.md:0
+msgid "Adjust the image crop, orientation, and size."
+msgstr "برش، جهت و اندازه تصویر را تنظیم کنید."
+
+#: ../../04_Data_presentation/Presentation_images.md:18
+msgid ""
+"For any adjustments, work with an image copy and do not alter the original "
+"file. Note, do not use adjusted images for quantitative image data analyses"
+"  Adjustments to effectively communicate the image content may include "
+"removing uninformative image regions (crop), changing the image orientation,"
+" and adjusting the size. Note that rotation and re-sizing may change the "
+"image data when pixel information is redistributed."
+msgstr ""
+"برای هر گونه تنظیمات، با یک کپی تصویر کار کنید و فایل اصلی را تغییر ندهید. "
+"توجه داشته باشید، از تصاویر تنظیم‌شده برای تجزیه و تحلیل داده‌های کمی تصویر "
+"استفاده نکنید. تنظیمات برای برقراری ارتباط مؤثر با محتوای تصویر ممکن است "
+"شامل حذف مناطق تصویر غیر اطلاعاتی (برش)، تغییر جهت تصویر، و تنظیم اندازه "
+"باشد. توجه داشته باشید که چرخش و تغییر اندازه ممکن است داده های تصویر را در "
+"هنگام توزیع مجدد اطلاعات پیکسل تغییر دهد."
+
+#: ../../04_Data_presentation/Presentation_images.md:17
+msgid "rotation"
+msgstr "چرخش"
+
+#: ../../04_Data_presentation/Presentation_images.md:0
+msgid "🤔 How do I do it?"
+msgstr "🤔 چطور انجامش بدم؟"
+
+#: ../../04_Data_presentation/Presentation_images.md:25
+#: ../../04_Data_presentation/Presentation_images.md:43
+#: ../../04_Data_presentation/Presentation_images.md:62
+#: ../../04_Data_presentation/Presentation_images.md:82
+#: ../../04_Data_presentation/Presentation_images.md:98
+msgid "See the [cheat-sheet below](image-cheat-sheet) for more information."
+msgstr "برای اطلاعات بیشتر به [برگ تقلب زیر] (تصویر-برگ تقلب) مراجعه کنید."
+
+#: ../../04_Data_presentation/Presentation_images.md:0
+#: ../../04_Data_presentation/Statistics.md:0
+msgid "<span style=\"color: red\">⚠️</span> Where can things go wrong?"
+msgstr "<span style=\"color: red\">⚠️</span> کجا ممکن است مشکل پیش برود؟"
+
+#: ../../04_Data_presentation/Presentation_images.md:28
+msgid "Any adjustments that alter the conclusions are not permitted."
+msgstr "هرگونه تنظیمی که نتیجه گیری را تغییر دهد مجاز نیست."
+
+#: ../../04_Data_presentation/Presentation_images.md:0
+#: ../../04_Data_presentation/Statistics.md:0
+msgid "📚🤷‍♀️ Where can I learn more?"
+msgstr "📚🤷‍♀️ از کجا می توانم بیشتر بیاموزم؟"
+
+#: ../../04_Data_presentation/Presentation_images.md:31
+msgid ""
+"📄 [Reproducible image handling and "
+"analysis](https://doi.org/10.15252/embj.2020105889) {cite}`Miura2021-mb`"
+msgstr ""
+"📄 [تحلیل و مدیریت تصویر قابل "
+"تکرار](https://doi.org/10.15252/embj.2020105889) {cite}`Miura2021-mb`"
+
+#: ../../04_Data_presentation/Presentation_images.md:32
+#: ../../04_Data_presentation/Presentation_images.md:49
+msgid ""
+"📄 [Avoiding Twisted Pixels: Ethical Guidelines for the Appropriate Use and "
+"Manipulation of Scientific Digital "
+"Images](https://doi.org/10.1007%2Fs11948-010-9201-y) {cite}`Cromey2010-jr`"
+msgstr ""
+"📄 [اجتناب از پیکسل‌های پیچ خورده: دستورالعمل‌های اخلاقی برای استفاده و "
+"دستکاری مناسب تصاویر دیجیتال "
+"علمی](https://doi.org/10.1007%2Fs11948-010-01-01) {cite}`Cromey2010-jr`"
+
+#: ../../04_Data_presentation/Presentation_images.md:0
+msgid "Enhance visibility of image content"
+msgstr "افزایش دید محتوای تصویر"
+
+#: ../../04_Data_presentation/Presentation_images.md:37
+msgid ""
+"Images often do not have regular spaced intensity values. To still display "
+"the data visible on a screen/in a figure, adjustments of brightness and "
+"contrast are usually necessary."
+msgstr ""
+"تصاویر اغلب دارای مقادیر شدت فاصله منظم نیستند. برای نمایش داده های قابل "
+"مشاهده بر روی صفحه نمایش/شکل، معمولاً تنظیم روشنایی و کنتراست ضروری است."
+
+#: ../../04_Data_presentation/Presentation_images.md:36
+msgid "image adjustment"
+msgstr "تنظیم تصویر"
+
+#: ../../04_Data_presentation/Presentation_images.md:46
+msgid ""
+"Any adjustments that result in the disappearance of image details are "
+"considered misleading {cite}`Cromey2010-jr`. Note that many nonlinear "
+"transformations of brightness and contrast are available in image processing"
+" software, before using these users should ensure that they faithfully "
+"represent the data to avoid accidentally misleading audiences and disclose "
+"them as annotations."
+msgstr ""
+"هرگونه تنظیمی که منجر به ناپدید شدن جزئیات تصویر شود گمراه کننده "
+"{cite}«Cromey2010-jr» در نظر گرفته می شود. توجه داشته باشید که بسیاری از "
+"تبدیل‌های غیرخطی روشنایی و کنتراست در نرم‌افزارهای پردازش تصویر موجود است، "
+"قبل از استفاده از این کاربران باید اطمینان حاصل کنند که داده‌ها را صادقانه "
+"نشان می‌دهند تا از گمراه‌کردن تصادفی مخاطبان جلوگیری کنند و آنها را به عنوان"
+" حاشیه‌نویسی افشا کنند."
+
+#: ../../04_Data_presentation/Presentation_images.md:0
+msgid "Use accessible colors"
+msgstr "از رنگ های در دسترس استفاده کنید"
+
+#: ../../04_Data_presentation/Presentation_images.md:54
+msgid ""
+"Fluorescent microscope images are often composed of data from multiple "
+"wavelengths/color channels. To best visualize molecular structures, "
+"individual channels can be shown in separate grayscale images. When colors "
+"are chosen to represent the illumination wavelength (blue, green, red, far-"
+"red), for example Green-Fluorescent Protein is shown in green color, be "
+"reminded that intensity values on a black background reduces the level of "
+"detail."
+msgstr ""
+"تصاویر میکروسکوپ فلورسنت اغلب از داده های چندین طول موج / کانال های رنگی "
+"تشکیل شده اند. برای تجسم بهتر ساختارهای مولکولی، کانال های مجزا را می توان "
+"در تصاویر جداگانه در مقیاس خاکستری نشان داد. هنگامی که رنگ ها برای نشان دادن"
+" طول موج روشنایی (آبی، سبز، قرمز، قرمز دور) انتخاب می شوند، به عنوان مثال "
+"پروتئین سبز فلورسنت به رنگ سبز نشان داده می شود، به یاد داشته باشید که "
+"مقادیر شدت در پس زمینه سیاه سطح جزئیات را کاهش می دهد."
+
+#: ../../04_Data_presentation/Presentation_images.md:56
+msgid ""
+"When channels are over-laid in ‘composite’ images, authors should ensure "
+"that structures are visible, i.e., that the overlay does not obstruct "
+"features and that the colors used are clearly distinguishable."
+msgstr ""
+"هنگامی که کانال ها در تصاویر \"کامپوزیت\" بیش از حد قرار می گیرند، نویسندگان"
+" باید اطمینان حاصل کنند که ساختارها قابل مشاهده هستند، به عنوان مثال، پوشش "
+"مانع از ویژگی ها نمی شود و رنگ های استفاده شده به وضوح قابل تشخیص هستند."
+
+#: ../../04_Data_presentation/Presentation_images.md:53
+msgid "multicolor image composition"
+msgstr "ترکیب تصویر چند رنگ"
+
+#: ../../04_Data_presentation/Presentation_images.md:65
+msgid ""
+"For composite images consider if color combinations are accessible to color-"
+"blind audiences (e.g. not combine red with green, but rather magenta and "
+"green, see reference below for examples) and possibly additionally show "
+"individual channels in grayscale for maximizing accessibility and detail.  "
+"Tools for color blindness simulation of the images exist in image processing"
+" software (ImageJ/Fiji) and visibility of colors in final image figures can "
+"be tested with applications such as ColorOracle."
+msgstr ""
+"برای تصاویر ترکیبی، در نظر بگیرید که آیا ترکیب رنگ‌ها برای مخاطبان کوررنگ "
+"قابل دسترسی است (مثلاً قرمز را با سبز ترکیب نکنید، بلکه قرمز و سبز را ترکیب "
+"کنید، برای مثال به مرجع زیر مراجعه کنید) و احتمالاً کانال‌های جداگانه را در "
+"مقیاس خاکستری برای به حداکثر رساندن دسترسی و جزئیات نشان دهید. ابزارهایی "
+"برای شبیه‌سازی کوررنگی تصاویر در نرم‌افزار پردازش تصویر (ImageJ/Fiji) وجود "
+"دارد و قابلیت مشاهده رنگ‌ها در شکل‌های تصویر نهایی را می‌توان با برنامه‌هایی"
+" مانند ColorOracle آزمایش کرد."
+
+#: ../../04_Data_presentation/Presentation_images.md:69
+msgid ""
+"📄 [Creating clear and informative image-based figures for scientific "
+"publications](https://doi.org/10.1371/journal.pbio.3001161) "
+"{cite}`Jambor2021-qe`"
+msgstr ""
+"📄 [ایجاد ارقام واضح و آموزنده مبتنی بر تصویر برای انتشارات "
+"علمی](https://doi.org/10.1371/journal.pbio.3001161) {cite}`Jambor`2021-qe"
+
+#: ../../04_Data_presentation/Presentation_images.md:0
+msgid "Annotate key image features"
+msgstr "حاشیه نویسی ویژگی های کلیدی تصویر"
+
+#: ../../04_Data_presentation/Presentation_images.md:74
+msgid ""
+"Each image needs a reference to its physical dimensions. This is typically "
+"achieved by including a scale bar with dimensions annotated in the image or "
+"the figure legend."
+msgstr ""
+"هر تصویر نیاز به ارجاع به ابعاد فیزیکی خود دارد. این معمولاً با گنجاندن یک "
+"نوار مقیاس با ابعاد حاشیه‌نویسی شده در تصویر یا افسانه شکل به دست می‌آید."
+
+#: ../../04_Data_presentation/Presentation_images.md:76
+msgid ""
+"In addition, authors should remember to annotate the colors used, any "
+"symbols and arrows used to guide readers, and, if used, the origin of any "
+"zoom/inset. If specialized images are shown (time-lapse, volumes, "
+"reconstructions) authors are encouraged to consider annotating important "
+"information in the figures."
+msgstr ""
+"علاوه بر این، نویسندگان باید به یاد داشته باشند که رنگ‌های استفاده شده، "
+"نمادها و فلش‌هایی را که برای راهنمایی خوانندگان استفاده می‌شوند، و در صورت "
+"استفاده، مبدأ هر بزرگنمایی/درج را یادداشت کنند. اگر تصاویر تخصصی نشان داده "
+"شوند (تایم لپس، حجم، بازسازی)، نویسندگان تشویق می شوند تا اطلاعات مهم را در "
+"شکل ها حاشیه نویسی کنند."
+
+#: ../../04_Data_presentation/Presentation_images.md:73
+msgid "speech bubbles"
+msgstr "حباب های گفتار"
+
+#: ../../04_Data_presentation/Presentation_images.md:85
+msgid ""
+"Lack of details and missing of key explanations will make it impossible for "
+"audiences to interpret image data in figures.  To unambiguously reference "
+"probes consider using terms from the ISAC Probe Tag Dictionary, a "
+"standardized nomenclature for probers used in cytometry and microscopy."
+msgstr ""
+"فقدان جزئیات و فقدان توضیحات کلیدی، تفسیر داده های تصویر را به شکل ارقام "
+"برای مخاطبان غیرممکن می کند. برای ارجاع بدون ابهام کاوشگرها، استفاده از "
+"اصطلاحات ISAC Probe Tag Dictionary را در نظر بگیرید، یک نامگذاری استاندارد "
+"برای پروبرهای مورد استفاده در سیتومتری و میکروسکوپ."
+
+#: ../../04_Data_presentation/Presentation_images.md:89
+msgid ""
+"📄 [ISAC Probe Tag Dictionary: Standardized Nomenclature for Detection and "
+"Visualization Labels Used in Cytometry and Microscopy Imaging "
+"](https://doi.org/10.1002/cyto.a.24224) {cite}`Blenman2021-ki`"
+msgstr ""
+"📄 [ISAC Probe Tag Dictionary: Standardized Nomenclature for Detection and "
+"Visualization Labels Used in Cytometry and Microscopy Imaging "
+"](https://doi.org/10.1002/cyto.a.24224) <span "
+"class='notranslate'>3503span67az >`Blenman2021-ki`"
+
+#: ../../04_Data_presentation/Presentation_images.md:0
+msgid "Explain the image"
+msgstr "تصویر را توضیح دهید"
+
+#: ../../04_Data_presentation/Presentation_images.md:95
+msgid ""
+"To rapidly orient audiences, a minimal explanatory text should be presented "
+"along with images. This includes the figure legend and the methods section "
+"in scientific papers or the title of figures in posters and slides. Consider"
+" using a controlled vocabulary to reduce ambiguity and increase machine-"
+"readability of the descriptions of specimens, tissues, cell lines, and "
+"proteins etc. A useful tool is the [RRID (Reseach Resource Identifying "
+"Data)index](https://scicrunch.org/resources) , which provides indices for "
+"commonly used biological reagents and resources, e.g., plasmids, cell lines "
+"and antibodies ."
+msgstr ""
+"برای جهت دهی سریع مخاطبان، باید یک متن توضیحی حداقلی همراه با تصاویر ارائه "
+"شود. این شامل افسانه شکل و بخش روش ها در مقالات علمی یا عنوان شکل ها در "
+"پوسترها و اسلایدها می شود. استفاده از واژگان کنترل شده را برای کاهش ابهام و "
+"افزایش خوانایی ماشینی توصیف نمونه ها، بافت ها، خطوط سلولی، و پروتئین ها و "
+"غیره در نظر بگیرید. یک ابزار مفید [RRID (Reseach Resource Identifying "
+"Data)index] (https://scicrunch) است. org/resources)، که شاخص‌هایی را برای "
+"معرف‌ها و منابع بیولوژیکی که معمولاً مورد استفاده قرار می‌گیرند، مانند "
+"پلاسمیدها، رده‌های سلولی و آنتی‌بادی‌ها را فراهم می‌کند."
+
+#: ../../04_Data_presentation/Presentation_images.md:101
+msgid ""
+"Missing explanations of image details/methods may result in non-reproducible"
+" data and limits the insights from the data."
+msgstr ""
+"توضیح ناقص جزئیات/روش‌های تصویر ممکن است منجر به داده‌های غیرقابل تکرار شود "
+"و بینش داده‌ها را محدود کند."
+
+#: ../../04_Data_presentation/Presentation_images.md:104
+msgid ""
+"📄 [Replication Study: Biomechanical remodeling of the microenvironment by "
+"stromal caveolin-1 favors tumor invasion and "
+"metastasis](https://doi.org/10.7554/eLife.45120) {cite}`Sheen2019-bg`"
+msgstr ""
+"📄 [مطالعه تکرار: بازسازی بیومکانیکی ریزمحیط توسط استرومال caveolin-1 به حمله"
+" و متاستاز تومور کمک می کند](https://doi.org/10.7554/eLife.45120) <span "
+"class='notranslate'>b0d4273503dc Sheen2019-bg`"
+
+#: ../../04_Data_presentation/Presentation_images.md:105
+msgid ""
+"📄 [Imaging methods are vastly underreported in biomedical "
+"research](https://doi.org/10.7554/eLife.55133) {cite}`Marques2020-nx`"
+msgstr ""
+"📄 [روش های تصویربرداری در تحقیقات زیست پزشکی بسیار کم گزارش شده "
+"است](https://doi.org/10.7554/eLife.55133) {cite}`Marques2020-nx`"
+
+#: ../../04_Data_presentation/Presentation_images.md:106
+msgid ""
+"📄 [Are figure legends sufficient? Evaluating the contribution of associated "
+"text to biomedical figure "
+"comprehension.](https://doi.org/10.1186/1747-5333-4-1) {cite}`Yu2009-ip`"
+msgstr ""
+"📄 [آیا افسانه های فیگور کافی هستند؟ ارزیابی سهم متن مرتبط در درک فیگورهای "
+"زیست پزشکی.](https://doi.org/10.1186/1747-5333-4-1) {cite}`Yu2009-ip`"
+
+#: ../../04_Data_presentation/Presentation_images.md:110
+msgid "Where can I learn more?"
+msgstr "از کجا می توانم بیشتر یاد بگیرم؟"
+
+#: ../../04_Data_presentation/Presentation_images.md:112
+msgid ""
+"Check out _Creating clear and informative image-based figures for scientific"
+" publications_{cite}`Jambor2021-qe` and _Community-developed checklists for "
+"publishing images and image analysis_{cite}`Schmied2023-ad` for more tips "
+"and best practices for making image figures."
+msgstr ""
+"بررسی _ایجاد ارقام واضح و آموزنده مبتنی بر تصویر برای نشریات "
+"علمی_{cite}'Jambor2021-qe' و _چک لیست های توسعه یافته در جامعه برای انتشار "
+"تصاویر و تجزیه و تحلیل تصویر_ {cite}«Schmied2023-ad» برای نکات بیشتر و "
+"بهترین روش ها برای ساخت فیگورهای تصویری."
+
+#: ../../04_Data_presentation/Presentation_images.md:114
+msgid ""
+"A cheat sheet on how to do basic image preparation with open source "
+"software:"
+msgstr "یک برگه تقلب در مورد نحوه تهیه اولیه تصویر با نرم افزار منبع باز:"
+
+#: ../../04_Data_presentation/Presentation_images.md:124
+msgid "Instructions for common image processing operations in Fiji"
+msgstr "دستورالعمل عملیات پردازش تصویر رایج در فیجی"
+
+#: ../../04_Data_presentation/Presentation_images.md:124
+msgid ""
+"**How to correctly perform various image manipulations in Fiji.** Figure by "
+"Christopher Schmied and Helena Jambor. "
+"[Source](https://doi.org/10.12688/f1000research.27140.2)"
+msgstr ""
+"**نحوه انجام صحیح دستکاری های مختلف تصویر در فیجی.** شکل توسط کریستوفر اشمید"
+" و هلنا جامبور. [منبع](https://doi.org/10.12688/f1000research.27140.2)"
+
+#: ../../04_Data_presentation/Resources.md:1
+msgid "Resources for learning more"
+msgstr "منابعی برای یادگیری بیشتر"
+
+#: ../../04_Data_presentation/Resources.md:8
+msgid "**Resource Name**"
+msgstr "**نام منبع**"
+
+#: ../../04_Data_presentation/Resources.md:9
+msgid "**Link**"
+msgstr "**ارتباط دادن**"
+
+#: ../../04_Data_presentation/Resources.md:10
+msgid "**Brief description**"
+msgstr "**توضیح مختصر**"
+
+#: ../../04_Data_presentation/Resources.md:11
+msgid ""
+"📄 Creating clear and informative image-based figures for scientific "
+"publications {cite}`Jambor2021-qe`"
+msgstr ""
+"📄 ایجاد ارقام واضح و آموزنده مبتنی بر تصویر برای نشریات علمی "
+"{cite}`Jambor2021-qe`"
+
+#: ../../04_Data_presentation/Resources.md:12
+msgid ""
+"[link](https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3001161"
+" )"
+msgstr ""
+"[لینک](https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3001161)"
+
+#: ../../04_Data_presentation/Resources.md:13
+msgid ""
+"Review article on how to create accessible, fair scientific figures, "
+"including guidelines for microscopy images"
+msgstr ""
+"مقاله ای در مورد چگونگی ایجاد ارقام علمی قابل دسترس و منصفانه، از جمله "
+"دستورالعمل هایی برای تصاویر میکروسکوپی مرور کنید"
+
+#: ../../04_Data_presentation/Resources.md:14
+msgid ""
+"📄 Community-developed checklists for publishing images and image analysis "
+"{cite}`Schmied2023-ad`"
+msgstr ""
+"📄 چک لیست های ایجاد شده توسط انجمن برای انتشار تصاویر و تجزیه و تحلیل تصویر "
+"{cite}`Schmied2023-ad`"
+
+#: ../../04_Data_presentation/Resources.md:15
+msgid "[link](https://arxiv.org/abs/2302.07005)"
+msgstr "[لینک](https://arxiv.org/abs/2302.07005)"
+
+#: ../../04_Data_presentation/Resources.md:16
+msgid ""
+"A paper recommending checklists and best practices for publishing image "
+"data. [It also has a JupyterBook](https://quarep-"
+"limi.github.io/WG12_checklists_for_image_publishing/intro.html)"
+msgstr ""
+"مقاله ای که چک لیست ها و بهترین روش ها را برای انتشار داده های تصویری توصیه "
+"می کند. [همچنین یک JupyterBook دارد](https://quarep-"
+"limi.github.io/WG12_checklists_for_image_publishing/intro.html)"
+
+#: ../../04_Data_presentation/Resources.md:17
+msgid "📖 Modern Statistics for Modern Biology {cite}`Holmes2019-no`"
+msgstr "📖 آمار مدرن برای زیست شناسی مدرن {cite}`Holmes2019-no`"
+
+#: ../../04_Data_presentation/Resources.md:18
+msgid "[link](https://www.huber.embl.de/msmb/)"
+msgstr "[لینک](https://www.huber.embl.de/msmb/)"
+
+#: ../../04_Data_presentation/Resources.md:19
+msgid "Online statistics for biologists textbook with code examples (in R)"
+msgstr "کتاب درسی آمار آنلاین برای زیست شناسان با نمونه کد (به زبان R)"
+
+#: ../../04_Data_presentation/Statistics.md:1
+msgid "Statistics"
+msgstr "آمار"
+
+#: ../../04_Data_presentation/Statistics.md:5
+msgid ""
+"Quantitative data is often summarized and analysed with statistical methods "
+"and visualized with plots/graphs/diagrams. Statistical methods reveal "
+"quantitative trends, patterns, and outliers in data, while plots and graphs "
+"help to convey them to audiences. Carrying out a suitable statistical "
+"analysis and choosing a suitable chart type for your data, identifying their"
+" potential pitfalls, and faithfully realising the analysis or generating the"
+" chart with suitable software are essential to back up experimental "
+"conclusions with data and reach communication goals."
+msgstr ""
+"داده های کمی اغلب با روش های آماری خلاصه و تجزیه و تحلیل می شوند و با "
+"نمودارها/نمودارها/نمودارها تجسم می شوند. روش‌های آماری روندهای کمی، الگوها و"
+" نقاط پرت را در داده‌ها نشان می‌دهند، در حالی که نمودارها و نمودارها به "
+"انتقال آنها به مخاطبان کمک می‌کنند. انجام یک تجزیه و تحلیل آماری مناسب و "
+"انتخاب نوع نمودار مناسب برای داده های خود، شناسایی مشکلات احتمالی آنها و "
+"تحقق صادقانه تجزیه و تحلیل یا تولید نمودار با نرم افزار مناسب برای پشتیبان "
+"گیری از نتایج تجربی با داده ها و رسیدن به اهداف ارتباطی ضروری است."
+
+#: ../../04_Data_presentation/Statistics.md:7
+msgid "Dimensionality reduction"
+msgstr "کاهش ابعاد"
+
+#: ../../04_Data_presentation/Statistics.md:10
+msgid ""
+"Dimensionality reduction (also called dimension reduction) aims at mapping "
+"high-dimensional data onto a lower-dimensional space in order to better "
+"reveal trends and patterns. Algorithms performing this task attempt to "
+"retain as much information as possible when reducing the dimensionality of "
+"the data: this is achieved by assigning importance scores to individual "
+"features, removing redundancies, and identifying uninformative (for instance"
+" constant) features. Dimensionality reduction is an important step in "
+"quantitative analysis as it makes data more manageable and easier to "
+"visualize. It is also an important preprocessing step in many downstream "
+"analysis algorithms, such as machine learning classifiers."
+msgstr ""
+"هدف کاهش ابعاد (که کاهش ابعاد نیز نامیده می شود) نقشه برداری داده های با "
+"ابعاد بالا در فضایی با ابعاد پایین تر به منظور آشکارسازی بهتر روندها و "
+"الگوها است. الگوریتم‌هایی که این کار را انجام می‌دهند سعی می‌کنند تا حد "
+"امکان اطلاعات را هنگام کاهش ابعاد داده‌ها حفظ کنند: این امر با اختصاص "
+"امتیازهای اهمیت به ویژگی‌های فردی، حذف افزونگی‌ها و شناسایی ویژگی‌های غیر "
+"اطلاعاتی (به عنوان مثال ثابت) به دست می‌آید. کاهش ابعاد یک مرحله مهم در "
+"تجزیه و تحلیل کمی است زیرا داده ها را قابل مدیریت تر و تجسم آسان تر می کند. "
+"همچنین یک مرحله پیش پردازش مهم در بسیاری از الگوریتم های تحلیل پایین دستی "
+"مانند طبقه بندی کننده های یادگیری ماشین است."
+
+#: ../../04_Data_presentation/Statistics.md:0
+msgid "📏 How do I do it?"
+msgstr "⚖ چگونه انجامش دهم؟"
+
+#: ../../04_Data_presentation/Statistics.md:13
+msgid ""
+"The most traditional dimensionality reduction technique is principal "
+"component analysis (PCA){cite}`Lever2017-pca`. In a nutshell, PCA recovers a"
+" linear transformation of the input data into a new coordinate system (the "
+"principal components) that concentrates variation into its first axes. This "
+"is achieved by relying on classical linear algebra, by computing an "
+"eigendecomposition of the covariance matrix of the data. As a result, the "
+"first 2 or 3 principal components provide a low-dimensional version of the "
+"data distribution that is faithful to the variance that was originally "
+"present. More advanced dimensionality reduction methods that are popular in "
+"biology include t-distributed stochastic neighbor embedding (t-SNE) and "
+"Uniform Manifold Approximation and Projection (UMAP). In contrast to PCA, "
+"these methods are non-linear and can therefore exploit more complex "
+"relationships between features when building the lower-dimensional "
+"representation. This however comes at a cost: both t-SNE and UMAP are "
+"stochastic, meaning that the results they produce are highly dependent on "
+"the choice of hyperparameters and can differ across different runs."
+msgstr ""
+"سنتی ترین تکنیک کاهش ابعاد، تجزیه و تحلیل مؤلفه اصلی "
+"(PCA){cite}«Lever2017-pca» است. به طور خلاصه، PCA تبدیل خطی داده های ورودی "
+"را به یک سیستم مختصات جدید (اجزای اصلی) بازیابی می کند که تغییرات را در "
+"اولین محورهای خود متمرکز می کند. این با تکیه بر جبر خطی کلاسیک، با محاسبه یک"
+" تجزیه ویژه از ماتریس کوواریانس داده ها به دست می آید. در نتیجه، 2 یا 3 "
+"مؤلفه اصلی اول نسخه‌ای با ابعاد کم از توزیع داده را ارائه می‌دهند که به "
+"واریانسی که در ابتدا وجود داشت وفادار است. روش‌های پیشرفته‌تر کاهش ابعاد که "
+"در زیست‌شناسی رایج هستند عبارتند از تعبیه همسایه تصادفی t-distributed "
+"(t-SNE) و تقریب و پیش‌بینی منیفولد یکنواخت (UMAP). برخلاف PCA، این روش‌ها "
+"غیر خطی هستند و بنابراین می‌توانند از روابط پیچیده‌تر بین ویژگی‌ها در هنگام "
+"ساختن نمایش با ابعاد پایین‌تر استفاده کنند. با این حال، این هزینه دارد: هر "
+"دو t-SNE و UMAP تصادفی هستند، به این معنی که نتایجی که تولید می‌کنند به شدت "
+"به انتخاب فراپارامترها وابسته است و می‌تواند در اجراهای مختلف متفاوت باشد."
+
+#: ../../04_Data_presentation/Statistics.md:18
+msgid ""
+"Although reducing dimensionality can be very useful for data exploration and"
+" analysis, it may also wipe information or structure that is relevant to the"
+" problem being studied. This is famously well illustrated by the [Datasaurus"
+" "
+"dataset](https://cran.r-project.org/web/packages/datasauRus/vignettes/Datasaurus.html),"
+" which demonstrates how very differently-looking sets of measurements can "
+"become indistinguishable when described by a small set of summary "
+"statistics. The best way to minimize this risk is to start by visually "
+"exploring the data whenever possible, and carefully checking any underlying "
+"assumptions of the dimensionality reduction method being used to ensure that"
+" they hold for the considered data. Dimensionality reduction may also "
+"enhance and reveal patterns that are not biologically relevant, due to noise"
+" or systematic artifacts in the original data (see Batch effect correction "
+"section below). In addition to applying normalization and batch correction "
+"to the data prior to reducing dimensionality, some dimensionality reduction "
+"methods also offer so-called regularization strategies to mitigate this. In "
+"the end, any pattern identified in dimension-reduced data should be "
+"considered while keeping in mind the biological context of the data in order"
+" to interpret the results appropriately."
+msgstr ""
+"اگرچه کاهش ابعاد می تواند برای کاوش و تجزیه و تحلیل داده ها بسیار مفید باشد،"
+" اما ممکن است اطلاعات یا ساختار مرتبط با مشکل مورد مطالعه را نیز پاک کند. "
+"این به خوبی توسط [مجموعه داده داده‌ها] "
+"(https://cran.r-project.org/web/packages/datasauRus/vignettes/Datasaurus.html)"
+" به خوبی نشان داده شده است، که نشان می‌دهد چگونه مجموعه‌های اندازه‌گیری با "
+"ظاهر بسیار متفاوت می‌توانند غیرقابل تشخیص شوند. هنگامی که توسط مجموعه کوچکی "
+"از آمار خلاصه توصیف می شود. بهترین راه برای به حداقل رساندن این خطر این است "
+"که با کاوش بصری داده‌ها در صورت امکان، و بررسی دقیق فرضیات اساسی روش کاهش "
+"ابعاد مورد استفاده برای اطمینان از حفظ آنها برای داده‌های در نظر گرفته شده، "
+"شروع کنید. کاهش ابعاد همچنین ممکن است به دلیل نویز یا مصنوعات سیستماتیک در "
+"داده های اصلی، الگوهایی را که از نظر بیولوژیکی مرتبط نیستند، افزایش داده و "
+"آشکار کند (به بخش اصلاح اثر دسته ای در زیر مراجعه کنید). علاوه بر اعمال "
+"نرمال سازی و اصلاح دسته ای به داده ها قبل از کاهش ابعاد، برخی از روش های "
+"کاهش ابعاد نیز به اصطلاح استراتژی های منظم سازی را برای کاهش این امر ارائه "
+"می دهند. در پایان، هر الگوی شناسایی‌شده در داده‌های کاهش‌یافته باید با در "
+"نظر گرفتن بافت بیولوژیکی داده‌ها در نظر گرفته شود تا نتایج به‌طور مناسب "
+"تفسیر شوند."
+
+#: ../../04_Data_presentation/Statistics.md:26
+msgid ""
+"📖 [Dimension Reduction: A Guided "
+"Tour](https://www.researchgate.net/publication/220416606_Dimension_Reduction_A_Guided_Tour)"
+" {cite}`Burges2010-fi`"
+msgstr ""
+"📖 [Dimension Reduction: A Guided "
+"Tour](https://www.researchgate.net/publication/220416606_Dimension_Reduction_A_Guided_Tour)"
+" <span class='notranslate'>{cite}`0-gefi20`{cite}`0-gefi20"
+
+#: ../../04_Data_presentation/Statistics.md:27
+msgid ""
+"💻 [UMAP introduction and Python implementation](https://umap-"
+"learn.readthedocs.io/en/latest/index.html)"
+msgstr ""
+"💻 [معرفی UMAP و پیاده سازی Python] (https://umap-"
+"learn.readthedocs.io/en/latest/index.html)"
+
+#: ../../04_Data_presentation/Statistics.md:28
+msgid ""
+"💻 [t-SNE Python implementation](https://scikit-"
+"learn.org/stable/modules/generated/sklearn.manifold.TSNE.html)"
+msgstr ""
+"💻 [پیاده سازی پایتون t-SNE] (https://scikit-"
+"learn.org/stable/modules/generated/sklearn.manifold.TSNE.html)"
+
+#: ../../04_Data_presentation/Statistics.md:32
+msgid "Batch correction"
+msgstr "اصلاح دسته ای"
+
+#: ../../04_Data_presentation/Statistics.md:35
+msgid ""
+"Batch effects are systematic variations across samples correlated with "
+"experimental conditions (such as different times of the day, different days "
+"of the week, or different experimental tools) that are not related to the "
+"biological process of interest. Batch effects must be mitigated prior to "
+"making comparisons across several datasets as they impact the "
+"reproducibility and reliability of computational analysis and can "
+"dramatically bias conclusions. Algorithms for batch effect correction "
+"address this by identifying and quantifying sources of technical variation, "
+"and adjusting the data so that these are minimized while the biological "
+"signal is preserved. Most batch effect correction methods were originally "
+"developed for microarray data and sequencing data, but can be adapted to "
+"feature vectors extracted from images."
+msgstr ""
+"اثرات دسته ای تغییرات سیستماتیک در بین نمونه ها هستند که با شرایط آزمایشی "
+"(مانند زمان های مختلف روز، روزهای مختلف هفته یا ابزارهای آزمایشی مختلف) "
+"مرتبط هستند که به فرآیند بیولوژیکی مورد علاقه مرتبط نیستند. اثرات دسته‌ای "
+"باید قبل از انجام مقایسه بین چندین مجموعه داده کاهش یابد، زیرا آنها بر "
+"تکرارپذیری و قابلیت اطمینان تجزیه و تحلیل محاسباتی تأثیر می‌گذارند و "
+"می‌توانند به طور چشمگیری نتیجه‌گیری را سوگیری کنند. الگوریتم‌های اصلاح اثر "
+"دسته‌ای با شناسایی و کمی کردن منابع تغییرات فنی، و تنظیم داده‌ها به گونه‌ای "
+"که در حین حفظ سیگنال بیولوژیکی به حداقل برسد، به این موضوع می‌پردازند. بیشتر"
+" روش‌های تصحیح اثر دسته‌ای در ابتدا برای داده‌های ریزآرایه و داده‌های توالی "
+"ابداع شدند، اما می‌توان آنها را برای ویژگی‌های بردار استخراج‌شده از تصاویر "
+"تطبیق داد."
+
+#: ../../04_Data_presentation/Statistics.md:38
+msgid ""
+"Two of the most used methods for batch effect correction are ComBat and "
+"Surrogate Variable Analysis (SVA), depending on whether the sources of batch"
+" effects are known a priori or not. In a nutshell, ComBat involves three "
+"steps: 1) dividing the data into known batches, 2) estimating batch effect "
+"by fitting a linear model that includes the batch as a covariate and 3) "
+"adjusting the data by removing the estimated effect of the batch from each "
+"data point. In contrast, SVA aims at identifying \"surrogate variables\" "
+"that capture unknown sources of variability in the data. The surrogate "
+"variables can be estimated relying on linear algebra methods (such as "
+"singular value decomposition) or through a Bayesian factor analysis model. "
+"SVA has been demonstrated to reduce unobserved sources of variability and is"
+" therefore of particular help when identifying possible causes of batch "
+"effects is challenging, but comes at a higher computational cost than "
+"ComBat."
+msgstr ""
+"دو تا از پرکاربردترین روش‌ها برای تصحیح اثر دسته‌ای، ComBat و تحلیل متغیر "
+"جایگزین (SVA) هستند، بسته به اینکه منابع اثرات دسته‌ای از قبل شناخته شده "
+"باشند یا نه. به طور خلاصه، ComBat شامل سه مرحله است: 1) تقسیم داده ها به "
+"دسته های شناخته شده، 2) تخمین اثر دسته ای با برازش یک مدل خطی که شامل دسته "
+"به عنوان متغیر کمکی است و 3) تنظیم داده ها با حذف اثر تخمینی دسته از هر نقطه"
+" داده در مقابل، هدف SVA شناسایی \"متغیرهای جایگزین\" است که منابع ناشناخته "
+"تغییرپذیری در داده ها را جذب می کند. متغیرهای جانشین را می توان با تکیه بر "
+"روش های جبر خطی (مانند تجزیه مقدار منفرد) یا از طریق مدل تحلیل عاملی بیزی "
+"تخمین زد. ثابت شده است که SVA منابع تغییرپذیری مشاهده نشده را کاهش می دهد و "
+"بنابراین زمانی که شناسایی علل احتمالی اثرات دسته ای چالش برانگیز است کمک "
+"ویژه ای می کند، اما هزینه محاسباتی بالاتری نسبت به ComBat دارد."
+
+#: ../../04_Data_presentation/Statistics.md:41
+msgid ""
+"As important as it is for analysis, batch effect correction can go wrong "
+"when too much or too little of it is done. Both over- and under-correction "
+"can happen when methods are not used properly or when their underlying "
+"assumptions are not met. As a result, either biological signals can be "
+"removed (in the case of over-correction) or irrelevant sources of variation "
+"can remain (in the case of under-correction) - both potentially leading to "
+"inaccurate conclusions. Batch effect correction can be particularly tricky "
+"when the biological variation of interest is suspected to confound with the "
+"batch. In this case in particular (although always a good approach), the "
+"first lines of fight against batch effects should be thought-through "
+"experimental design and careful quality control, as well as visual "
+"exploration of the data{cite}`Lord2020-sp`. Plotting data batch-by-batch "
+"before applying any correction can help confirm (or infirm) that the "
+"observed trends are similar across batches."
+msgstr ""
+"به همان اندازه که برای تجزیه و تحلیل مهم است، اصلاح اثر دسته‌ای می‌تواند "
+"زمانی که مقدار زیادی یا خیلی کم از آن انجام می‌شود، اشتباه انجام شود. تصحیح "
+"بیش از حد و کم ممکن است زمانی اتفاق بیفتد که روش ها به درستی استفاده نمی "
+"شوند یا مفروضات اساسی آنها برآورده نمی شوند. در نتیجه، یا می‌توان سیگنال‌های"
+" بیولوژیکی را حذف کرد (در صورت تصحیح بیش از حد) یا منابع تغییر نامربوط "
+"می‌توانند باقی بمانند (در صورت تصحیح کم) - هر دو به طور بالقوه منجر به "
+"نتیجه‌گیری نادرست می‌شوند. تصحیح اثر دسته‌ای می‌تواند به‌ویژه زمانی مشکل "
+"باشد که تنوع بیولوژیکی مورد علاقه با دسته اشتباه گرفته شود. به ویژه در این "
+"مورد (اگرچه همیشه یک رویکرد خوب است)، اولین خطوط مبارزه با اثرات دسته ای "
+"باید از طریق طراحی آزمایشی و کنترل دقیق کیفیت و همچنین کاوش بصری داده ها "
+"باشد{cite} `Lord2020-sp`. ترسیم دسته به دسته داده ها قبل از اعمال هر اصلاحی "
+"می تواند به تأیید (یا عدم اطمینان) کمک کند که روندهای مشاهده شده در بین دسته"
+" ها مشابه هستند."
+
+#: ../../04_Data_presentation/Statistics.md:49
+msgid ""
+"📄 [Why Batch Effects Matter in Omics Data, and How to Avoid "
+"Them](https://doi.org/10.1016/j.tibtech.2017.02.012) {cite}`Goh2017-kd`"
+msgstr ""
+"📄 [چرا جلوه‌های دسته‌ای در داده‌های Omics مهم هستند و چگونه از آنها اجتناب "
+"کنیم](https://doi.org/10.1016/j.tibtech.2017.02.012) <span "
+"class='notranslate'>{cite}</span7`Goh -kd`"
+
+#: ../../04_Data_presentation/Statistics.md:50
+msgid ""
+"💻 [pyComBat (ComBat Python "
+"implementation)](https://epigenelabs.github.io/pyComBat/)"
+msgstr ""
+"💻 [pyComBat (پیاده سازی ComBat "
+"Python)](https://epigenelabs.github.io/pyComBat/)"
+
+#: ../../04_Data_presentation/Statistics.md:51
+msgid ""
+"📄 [The sva package for removing batch effects and other unwanted variation "
+"in high-throughput "
+"experiments](https://doi.org/10.1093/bioinformatics/bts034) "
+"{cite}`Leek2012-rv`"
+msgstr ""
+"📄 [بسته sva برای حذف اثرات دسته‌ای و سایر تغییرات ناخواسته در آزمایش‌های "
+"پرتوان](https://doi.org/10.1093/bioinformatics/bts034) <span "
+"class='notranslate'>{cite}</span2>`ek rv`"
+
+#: ../../04_Data_presentation/Statistics.md:55
+msgid "Normality testing"
+msgstr "تست نرمال بودن"
+
+#: ../../04_Data_presentation/Statistics.md:58
+msgid ""
+"Normality testing is about assessing whether data follow a Gaussian (or "
+"nomal) distribution. Because the Gaussian distribution is frequently found "
+"in nature and has important mathematical properties, normality is a core "
+"assumption in many widely-used statistical tests. When this assumption is "
+"violated, their conclusions may not hold or be flawed. Normality testing is "
+"therefore an important step of the data analysis pipeline prior to any sort "
+"of statistical testing."
+msgstr ""
+"تست نرمال بودن در مورد ارزیابی این است که آیا داده ها از توزیع گاوسی (یا "
+"عادی) پیروی می کنند. از آنجا که توزیع گاوسی اغلب در طبیعت یافت می شود و "
+"دارای ویژگی های ریاضی مهمی است، نرمال بودن یک فرض اصلی در بسیاری از آزمون "
+"های آماری پرکاربرد است. هنگامی که این فرض نقض می شود، نتیجه گیری آنها ممکن "
+"است معتبر نباشد یا ناقص باشد. بنابراین تست نرمال بودن یک مرحله مهم از خط "
+"لوله تجزیه و تحلیل داده ها قبل از هر نوع آزمایش آماری است."
+
+#: ../../04_Data_presentation/Statistics.md:61
+msgid ""
+"Normality of a data distribution can be qualitatively assessed through "
+"plotting, for instance relying on a histogram. For a more quantitative "
+"readout, statistical methods such as the Kolmogorov-Smirnov (KS) and "
+"Shapiro-Wilk tests (among many others) report how much the observed data "
+"distribution deviates from a Gaussian. These tests usually return and a "
+"p-value linked to the hypothesis that the data are sampled from a Gaussian "
+"distribution. A high p-value indicates that the data are not inconsistent "
+"with a normal distribution, but is not sufficient to prove that they indeed "
+"follow a Gaussian. A p-values smaller than a pre-defined significance "
+"threshold (usually 0.05) indicates that the data are not sampled from a "
+"normal distribution."
+msgstr ""
+"عادی بودن یک توزیع داده را می توان از طریق رسم، به عنوان مثال با تکیه بر یک "
+"هیستوگرام، از نظر کیفی ارزیابی کرد. برای بازخوانی کمی بیشتر، روش‌های آماری "
+"مانند آزمون‌های Kolmogorov-Smirnov (KS) و Shapiro-Wilk (در میان بسیاری دیگر)"
+" گزارش می‌دهند که توزیع داده‌های مشاهده‌شده چقدر از یک گاوسی انحراف دارد. "
+"این آزمون ها معمولا برمی گردند و یک مقدار p به این فرضیه مرتبط می شود که "
+"داده ها از یک توزیع گاوسی نمونه برداری شده اند. مقدار p بالا نشان می دهد که "
+"داده ها با یک توزیع نرمال ناسازگار نیستند، اما برای اثبات اینکه آنها واقعاً "
+"از یک گاوسی پیروی می کنند کافی نیست. مقادیر p کوچکتر از آستانه معنی‌داری از "
+"پیش تعریف شده (معمولاً 0.05) نشان می‌دهد که داده‌ها از یک توزیع نرمال "
+"نمونه‌برداری نشده‌اند."
+
+#: ../../04_Data_presentation/Statistics.md:65
+msgid ""
+"Although lots of the “standard” statistical methods have been designed with "
+"a normnality assumption, alternative approaches exist for non-normally-"
+"ditributed data. Many biological processes result in multimodal “states” "
+"(for instance differentiation) that are inherently not Gaussian. Normality "
+"testing should therefore not be mistaken for a quality assessment of the "
+"data: it merely informs on the types of tools that are appropriate to use "
+"when analyzing them."
+msgstr ""
+"اگرچه بسیاری از روش‌های آماری «استاندارد» با یک فرض نرمال طراحی شده‌اند، "
+"روش‌های جایگزین برای داده‌های غیرعادی توزیع شده وجود دارد. بسیاری از "
+"فرآیندهای بیولوژیکی منجر به «حالت‌های» چندوجهی (مثلاً تمایز) می‌شوند که "
+"ذاتاً گوسی نیستند. بنابراین تست نرمال بودن نباید با ارزیابی کیفی داده ها "
+"اشتباه گرفته شود: این آزمایش صرفاً انواع ابزارهایی را که برای تجزیه و تحلیل "
+"آنها مناسب هستند، اطلاع می دهد."
+
+#: ../../04_Data_presentation/Statistics.md:68
+msgid ""
+"📖 [Modern statistics for modern biology](https://www.huber.embl.de/msmb/) "
+"{cite}`Holmes2019-no`"
+msgstr ""
+"📖 [آمار مدرن برای زیست شناسی مدرن](https://www.huber.embl.de/msmb/) "
+"{cite}`Holmes2019-no`"
+
+#: ../../04_Data_presentation/Statistics.md:69
+msgid ""
+"💻 [To get started with statistical analysis: R](https://www.r-project.org/)"
+msgstr "💻 [برای شروع با تجزیه و تحلیل آماری: R](https://www.r-project.org/)"
+
+#: ../../04_Data_presentation/Statistics.md:70
+msgid ""
+"💻 [To do statistics in Python: "
+"scipy.stats](https://docs.scipy.org/doc/scipy/reference/stats.html)"
+msgstr ""
+"💻 [برای انجام آمار در پایتون: "
+"scipy.stats](https://docs.scipy.org/doc/scipy/reference/stats.html)"
+
+#: ../../04_Data_presentation/_notinyet_Presentation_graphs.md:1
+msgid "Presentation of graphs"
+msgstr "ارائه نمودارها"
