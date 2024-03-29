@@ -343,8 +343,8 @@ msgid ""
 "Instance segmentation, the segmentation is object based, not just detecting "
 "were the cells are but diving each cell as a separate object."
 msgstr ""
-"Segmentación de instancias, la segmentación se basa en objetos, no solo "
-"detecta dónde están las celdas, sino que divide cada celda como un objeto "
+"Segmentación de instancias, la segmentación se basa en objetos, no sólo "
+"detecta dónde están las células, sino que divide cada célula como un objeto "
 "separado."
 
 #: ../../Glossary.md:53
