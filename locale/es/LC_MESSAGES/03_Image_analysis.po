@@ -356,7 +356,7 @@ msgid ""
 " (e.g., 99% of eGFP+ cells were also mCherry+). Here’s a sample workflow:"
 msgstr ""
 "**La colocalización basada en objetos** es adecuada cuando desea poder decir"
-" algo sobre una fracción de objetos que son positivos para varias etiquetas "
+" algo sobre una fracción de objetos que son positivos para varios marcajes "
 "(p. ej., el 99 % de las celdas eGFP+ también eran mCherry+). Aquí hay un "
 "flujo de trabajo de muestra:"
 
