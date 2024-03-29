@@ -1882,8 +1882,8 @@ msgid ""
 "Object {term}`segmentation`, most trained models are for cell "
 "{term}`segmentation` but could be applied to segment other similar objects"
 msgstr ""
-"Objeto {term}`segmentación`, la mayoría de los modelos entrenados son para "
-"celdas {term}`segmentación` pero podrían aplicarse para segmentar otros "
+" {term}`segmentación`, la mayoría de los modelos entrenados son para "
+"{term}`segmentación` de células pero podrían aplicarse para segmentar otros "
 "objetos similares"
 
 #: ../../03_Image_analysis/SpecificUseSoftware.md:20
