@@ -292,7 +292,7 @@ msgstr ""
 
 #: ../../03_Image_analysis/Colocalization.md:1
 msgid "Colocalization"
-msgstr "colocalización"
+msgstr "Colocalización"
 
 #: ../../03_Image_analysis/Colocalization.md:4
 msgid "What is colocalization?"
