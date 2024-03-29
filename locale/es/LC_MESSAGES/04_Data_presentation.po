@@ -70,7 +70,7 @@ msgstr ""
 "para ilustrar una conclusión particular. Si bien las conclusiones "
 "cualitativas no sustituyen a las comparaciones cuantitativas (consulte la "
 "siguiente sección), las imágenes ciertamente pueden guiar nuestro "
-"razonamiento y nuestras conclusiones. Seguir algunas mejores prácticas "
+"razonamiento y nuestras conclusiones. Seguir algunas buenas prácticas "
 "consistentes asegura que estas conclusiones sean correctas y sólidas."
 
 #: ../../04_Data_presentation/Presentation_images.md:14
