@@ -881,7 +881,7 @@ msgstr "Para descargar Icy"
 
 #: ../../03_Image_analysis/GeneralUseSoftware.md:111
 msgid "🌐 [Icy download](https://icy.bioimageanalysis.org/download/)"
-msgstr "🌐 [descarga helada] (https://icy.bioimageanalysis.org/download/)"
+msgstr "🌐 [descarga Icy] (https://icy.bioimageanalysis.org/download/)"
 
 #: ../../03_Image_analysis/GeneralUseSoftware.md:117
 msgid ""
