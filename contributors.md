@@ -3,6 +3,8 @@
 ## Contributors
 
 The original material for this book was created as part of the paper "[**_A biologist’s guide to planning and performing quantitative bioimaging experiments_**](https://doi.org/10.1371/journal.pbio.3002167)" {cite}`Senft2023-zy`. by Rebecca A. Senft*, Barbara Diaz-Rohrer*, Pina Colarusso, Lucy Swift, Nasim Jamali, Helena Jambor, Thomas Pengo, Craig Brideau, Paula Montero Llopis, Virginie Uhlmann, Jason Kirk, Kevin Andrew Gonzales, Peter Bankhead, Edward L. Evans III, Kevin W Eliceiri and Beth A. Cimini.
+
+This project was initiated by the [Center for Open Bioimage Analysis](https://openbioimageanalysis.org/) .We are grateful to [Bioimaging North America](https://www.bioimagingnorthamerica.org/) (especially its [Image Informatics](https://www.bioimagingnorthamerica.org/image-informatics-wg/) and [Training and Education](https://www.bioimagingnorthamerica.org/te-wg/) Working Groups) for both initial and ongoing support of this project.
 	
 Since this guide has become available, we gratefully acknowledge contributions from the following members of the microscopy and bioimage analysis community! 
 - William Giang
