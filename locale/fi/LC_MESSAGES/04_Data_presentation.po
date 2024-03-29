@@ -1,19 +1,19 @@
 # SOME DESCRIPTIVE TITLE.
-# Copyright (C) 2023
+# Copyright (C) 2024
 # This file is distributed under the same license as the Python package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
 # 
 # Translators:
-# Beth Cimini, 2023
+# Beth Cimini, 2024
 # 
 #, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: Python\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2023-06-28 07:29-0400\n"
+"POT-Creation-Date: 2024-03-29 15:03+0000\n"
 "PO-Revision-Date: 2023-05-02 18:49+0000\n"
-"Last-Translator: Beth Cimini, 2023\n"
+"Last-Translator: Beth Cimini, 2024\n"
 "Language-Team: Finnish (https://app.transifex.com/center-for-open-bioimage-analysis/teams/169123/fi/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -464,10 +464,13 @@ msgstr "[linkki](https://arxiv.org/abs/2302.07005)"
 
 #: ../../04_Data_presentation/Resources.md:16
 msgid ""
-"A paper recommending checklists and best practices for publishing image data"
+"A paper recommending checklists and best practices for publishing image "
+"data. [It also has a JupyterBook](https://quarep-"
+"limi.github.io/WG12_checklists_for_image_publishing/intro.html)"
 msgstr ""
-"Asiakirja, jossa suositellaan tarkistuslistoja ja parhaita käytänteitä "
-"kuvatietojen julkaisemiseen."
+"Paperi, jossa suositellaan tarkistuslistoja ja parhaita käytäntöjä "
+"kuvatietojen julkaisemiseen. [Sillä on myös JupyterBook](https://quarep-"
+"limi.github.io/WG12_checklists_for_image_publishing/intro.html)"
 
 #: ../../04_Data_presentation/Resources.md:17
 msgid "📖 Modern Statistics for Modern Biology {cite}`Holmes2019-no`"
