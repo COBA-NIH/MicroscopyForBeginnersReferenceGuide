@@ -4,8 +4,8 @@
 # FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
 # 
 # Translators:
-# Martin Schätz, 2023
 # Beth Cimini, 2024
+# Martin Schätz, 2024
 # 
 #, fuzzy
 msgid ""
@@ -14,7 +14,7 @@ msgstr ""
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-03-29 09:37-0400\n"
 "PO-Revision-Date: 2023-05-02 18:49+0000\n"
-"Last-Translator: Beth Cimini, 2024\n"
+"Last-Translator: Martin Schätz, 2024\n"
 "Language-Team: Czech (https://app.transifex.com/center-for-open-bioimage-analysis/teams/169123/cs/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -72,7 +72,7 @@ msgstr "[odkaz](https://www.globias.org/home)"
 
 #: ../../community_resources.md:20
 msgid "Connections, training, and more for bioimage analysts across the world"
-msgstr "Spojení, školení a další pro analytiky bioobrazu po celém světě"
+msgstr "Kontakty, školení a další  zdroje z celého světa"
 
 #: ../../community_resources.md:21
 msgid "Microforum"
