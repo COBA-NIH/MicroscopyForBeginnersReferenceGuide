@@ -167,4 +167,4 @@ msgstr "Portugalština: Mario Costa Cruz"
 
 #: ../../contributors.md:33
 msgid "Spanish: Mariana De Niz"
-msgstr "Španělsky: Mariana De Niz"
+msgstr "Španělětina: Mariana De Niz"
