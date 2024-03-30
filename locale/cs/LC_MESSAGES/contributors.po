@@ -89,7 +89,7 @@ msgstr "Robert Haase"
 msgid ""
 "Improvements to the build and maintenance system for this book have come "
 "from"
-msgstr "Vylepšení systému sestavení a údržby pro tuto knihu pocházejí"
+msgstr "Vylepšení systému sestavení a údržby pro tuto knihu pocházejí od"
 
 #: ../../contributors.md:14
 msgid "Pete Bankhead"
