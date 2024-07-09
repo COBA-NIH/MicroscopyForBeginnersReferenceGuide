@@ -776,7 +776,7 @@ msgid ""
 "🎥 [Video tutorials and "
 "workshops](https://www.youtube.com/playlist?list=PLXSm9cHbSZBBy7JkChB32_e3lURUcT3RL)"
 msgstr ""
-"🎥 [Video-opetusohjelmat ja "
+"🎥 [Video-tutoriaalit ja "
 "työpajat](https://www.youtube.com/playlist?list=PLXSm9cHbSZBBy7JkChB32_e3lURUcT3RL)"
 
 #: ../../03_Image_analysis/GeneralUseSoftware.md:66
