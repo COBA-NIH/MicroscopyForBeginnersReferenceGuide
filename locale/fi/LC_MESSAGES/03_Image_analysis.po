@@ -1291,7 +1291,8 @@ msgstr ""
 #: ../../03_Image_analysis/Resources.md:22
 msgid ""
 "📄 Made to measure: an introduction to quantification in microscopy data"
-msgstr "📄 Tehty mittaamaan: johdatus mikroskooppitietojen kvantifiointiin"
+msgstr ""
+"📄 Made to measure: an introduction to quantification in microscopy data"
 
 #: ../../03_Image_analysis/Resources.md:23
 msgid "[link](https://arxiv.org/abs/2302.01657#) {cite}`Culley2023-dj`"
