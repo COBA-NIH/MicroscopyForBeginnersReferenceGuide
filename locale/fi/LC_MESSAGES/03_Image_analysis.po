@@ -736,8 +736,7 @@ msgstr ""
 #: ../../03_Image_analysis/GeneralUseSoftware.md:44
 msgid ""
 "Also several features of CellProfiler are only available for 2D images."
-msgstr ""
-"Myös monet CellProfilerin ominaisuudet ovat käytettävissä vain 2D-kuville."
+msgstr "Monet CellProfilerin ominaisuudet ovat käytettävissä vain 2D-kuville."
 
 #: ../../03_Image_analysis/GeneralUseSoftware.md:49
 msgid "To download CellProfiler"
