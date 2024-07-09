@@ -1285,8 +1285,8 @@ msgid ""
 "An article reviewing major pitfalls in image handling and how to avoid them "
 "and create reproducible analysis workflows"
 msgstr ""
-"Artikkelissa tarkastellaan kuvankäsittelyn tärkeimpiä sudenkuoppia ja sitä, "
-"miten niitä voidaan välttää ja luoda toistettavia analyysityönkulkuja."
+"Artikkeli, jossa tarkastellaan kuvankäsittelyn suurimpia sudenkuoppia ja "
+"miten niitä voidaan välttää ja luoda toistettavia analyysityönkulkuja"
 
 #: ../../03_Image_analysis/Resources.md:22
 msgid ""
