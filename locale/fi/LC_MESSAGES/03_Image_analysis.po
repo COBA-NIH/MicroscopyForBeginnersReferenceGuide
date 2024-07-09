@@ -327,7 +327,7 @@ msgstr "kolokalisaatioasteet"
 #: ../../03_Image_analysis/Colocalization.md:21
 msgid "**Colocalization is about intensity and spatial overlap of labels**"
 msgstr ""
-"**Lokaalisuudessa on kyse intensiteetistä ja merkkien alueellisesta "
+"**Kolokaalisuudessa on kyse intensiteetistä ja leimojen alueellisesta "
 "päällekkäisyydestä**."
 
 #: ../../03_Image_analysis/Colocalization.md:28
