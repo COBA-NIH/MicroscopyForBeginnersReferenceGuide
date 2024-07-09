@@ -636,7 +636,7 @@ msgstr ""
 #: ../../03_Image_analysis/GeneralUseSoftware.md:0
 #: ../../03_Image_analysis/SpecificUseSoftware.md:0
 msgid "What are its disadvantages?"
-msgstr "Mitkä ovat sen haitat?"
+msgstr "Mitkä ovat sen puutteet?"
 
 #: ../../03_Image_analysis/GeneralUseSoftware.md:14
 msgid ""
