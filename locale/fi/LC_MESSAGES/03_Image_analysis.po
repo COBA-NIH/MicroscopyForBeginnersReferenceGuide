@@ -344,7 +344,7 @@ msgid ""
 "say something about a fraction of objects being positive for multiple labels"
 " (e.g., 99% of eGFP+ cells were also mCherry+). Here’s a sample workflow:"
 msgstr ""
-"**Objektipohjainen kolokalisointi** on valitaan, kun haluat tutkia, ovatko "
+"**Objektipohjainen kolokalisointi** valitaan, kun halutaan tutkia, ovatko "
 "objektit positiivisia useille tunnisteille (esim. 99 % eGFP-positiivisista "
 "soluista oli myös mCherry-positiivisia). Tässä on esimerkki työnkulusta:"
 
