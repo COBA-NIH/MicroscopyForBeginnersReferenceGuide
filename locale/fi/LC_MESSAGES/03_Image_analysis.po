@@ -961,9 +961,8 @@ msgid ""
 " and already has a variety of plugins and use cases with tutorials "
 "available."
 msgstr ""
-"Napari on vielä kehitysvaiheessa, mutta se on erittäin suosittu alusta, ja "
-"sillä on jo saatavilla erilaisia liitännäisiä ja käyttötapauksia, joista on "
-"saatavilla opetusohjelmia."
+"napari on vielä kehitysvaiheessa, mutta se on erittäin suosittu alusta ja "
+"sillä on jo useita laajennuksia ja käyttötapauksia opetusohjelmineen."
 
 #: ../../03_Image_analysis/GeneralUseSoftware.md:166
 msgid "To download napari"
