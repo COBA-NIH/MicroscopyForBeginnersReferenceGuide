@@ -1269,8 +1269,8 @@ msgid ""
 "A free online textbook introducing various topics by Bioimage Analysis "
 "experts, edited by Kota Miura"
 msgstr ""
-"Ilmainen verkko-oppikirja, joka esittelee eri aiheita biokuvan analyysin "
-"asiantuntijoiden toimesta, toimittanut Kota Miura."
+"Ilmainen verkko-oppikirja, joka esittelee eri biokuvien analyysin aiheita "
+"eri asiantuntijoiden toimesta, toimittanut Kota Miura."
 
 #: ../../03_Image_analysis/Resources.md:19
 msgid "📄 Reproducible image handling and analysis {cite}`Miura2021-mb`"
