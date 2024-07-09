@@ -895,8 +895,8 @@ msgid ""
 msgstr ""
 "[MIB](http://mib.helsinki.fi/index.html) {cite}`Belevich2016-vi` on "
 "käyttäjäystävällinen ohjelmisto moniulotteisten kuvien analysointiin sekä "
-"valo- että elektronimikroskopiassa. Sen avulla voit käyttää koko hankittua "
-"dataa sen analysointiin ja morfologisten piirteiden poimimiseen."
+"valo- että elektronimikroskopiassa. Sen avulla voit hyödyntää koko hankittua"
+" dataa sen analysointiin ja morfologisten piirteiden poimimiseen."
 
 #: ../../03_Image_analysis/GeneralUseSoftware.md:131
 msgid ""
