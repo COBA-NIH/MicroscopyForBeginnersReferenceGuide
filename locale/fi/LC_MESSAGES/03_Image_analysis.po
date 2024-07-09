@@ -730,7 +730,8 @@ msgid ""
 "limited to a one z-plane at a time via a slider on the viewing window."
 msgstr ""
 "Vaikka CellProfiler voi analysoida 3D-kuvia, visualisointi on rajoitettu "
-"yhteen z-tasoon kerrallaan katseluikkunan liukusäätimen avulla."
+"yhteen z-tasoon kerrallaan, tätä voidaan säädellä katseluikkunan "
+"liukusäätimen avulla."
 
 #: ../../03_Image_analysis/GeneralUseSoftware.md:44
 msgid ""
