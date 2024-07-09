@@ -196,7 +196,7 @@ msgstr ""
 
 #: ../../welcome.md:57
 msgid "What if my resource/topic is not included?"
-msgstr "Mitä jos resurssini/aiheeni ei ole mukana?"
+msgstr "Mitä jos aiheeni ei ole tässä kirjassa?"
 
 #: ../../welcome.md:58
 msgid ""
