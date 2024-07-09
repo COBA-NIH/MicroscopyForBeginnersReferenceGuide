@@ -654,9 +654,10 @@ msgid ""
 " handle based on the available memory. And even if it can open large images "
 "it can slow down performance."
 msgstr ""
-"Vaikka se pystyy avaamaan suuria kuvia, käytettävissä olevan muistin mukaan "
-"sen käsiteltävälle koolle on kuitenkin olemassa kokorajoitus. Ja vaikka se "
-"pystyy avaamaan suuria kuvia, se voi hidastaa suorituskykyä."
+"ImageJ pystyy avaamaa ja käsittelemään suuriakin kuvatiedostoja. Suurien "
+"kuvien avaamista ja käsittelyä kuittenkin hidastaa käytettävissä oleva "
+"tietokoneen muistin määrä. Suuret kuvat myös hidastavat merkittävästi "
+"analyysin suorittamista.  "
 
 #: ../../03_Image_analysis/GeneralUseSoftware.md:0
 #: ../../03_Image_analysis/SpecificUseSoftware.md:0
