@@ -50,8 +50,8 @@ msgid ""
 "Phenotypic classification can be performed a few different ways. One way to "
 "break this down is by unsupervised vs. supervised classification."
 msgstr ""
-"Fenotyyppinen luokittelu voidaan tehdä muutamalla eri tavalla. Yksi tapa "
-"jaotella tämä on valvomaton vs. valvottu luokittelu."
+"Fenotyyppinen luokittelu voidaan suorittaa muutamalla eri tavalla. Yksi tapa"
+" jaotella menetelmät ohjattuun ja valvomattomaan luokitteluun."
 
 #: ../../03_Image_analysis/Classification.md:12
 msgid ""
