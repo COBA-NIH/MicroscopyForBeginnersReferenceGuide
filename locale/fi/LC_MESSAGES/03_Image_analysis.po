@@ -769,7 +769,7 @@ msgstr "🌐 [Esimerkkejä](https://cellprofiler.org/examples)"
 
 #: ../../03_Image_analysis/GeneralUseSoftware.md:61
 msgid "🌐 [Tutorials](https://tutorials.cellprofiler.org/)"
-msgstr "🌐 [opetusohjelmat](https://tutorials.cellprofiler.org/)"
+msgstr "🌐 [tutoriaalit](https://tutorials.cellprofiler.org/)"
 
 #: ../../03_Image_analysis/GeneralUseSoftware.md:62
 msgid ""
