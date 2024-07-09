@@ -91,10 +91,9 @@ msgid ""
 "measurements, but without any top-down human-defined guidance into how many "
 "groups there are or what the groups should look like."
 msgstr ""
-"**Ylivalvomattomassa luokittelussa** ryhmitellään kohteita niiden mittausten"
-" perusteella, mutta ilman mitään ylhäältä päin tulevaa ihmisen määrittelemää"
-" ohjeistusta siitä, kuinka monta ryhmää on olemassa tai miltä ryhmien "
-"pitäisi näyttää."
+"**Valvomattomassa luokittelussa** luokittelet objektit niiden ominaisuuksien"
+" perusteella ilman ihmisen ohjeita siitä, kuinka monta ryhmää on tai miltä "
+"ryhmien tulisi näyttää."
 
 #: ../../03_Image_analysis/Classification.md:18
 msgid ""
