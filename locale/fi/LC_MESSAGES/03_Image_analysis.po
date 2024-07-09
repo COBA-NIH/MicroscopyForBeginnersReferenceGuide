@@ -217,7 +217,7 @@ msgstr ""
 
 #: ../../03_Image_analysis/Classification.md:0
 msgid "a continuous distribution of cell cycle states"
-msgstr "solusyklin tilojen jatkuva jakauma"
+msgstr "jotta solusyklin vaiheiden jatkuva muutos voidaan luokitella."
 
 #: ../../03_Image_analysis/Classification.md:35
 msgid ""
