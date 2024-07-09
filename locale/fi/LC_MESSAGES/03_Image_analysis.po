@@ -51,7 +51,7 @@ msgid ""
 "break this down is by unsupervised vs. supervised classification."
 msgstr ""
 "Fenotyyppinen luokittelu voidaan suorittaa muutamalla eri tavalla. Yksi tapa"
-" jaotella menetelmät ohjattuun ja valvomattomaan luokitteluun."
+" jaotella menetelmät ohjattuun tai valvomattomaan luokitteluun."
 
 #: ../../03_Image_analysis/Classification.md:12
 msgid ""
