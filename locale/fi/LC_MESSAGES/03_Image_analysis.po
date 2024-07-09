@@ -1002,7 +1002,7 @@ msgstr ""
 
 #: ../../03_Image_analysis/Intensity.md:1
 msgid "Intensity measurements"
-msgstr "Intensiteettimittaukset"
+msgstr "Intensiteetin mittaukset"
 
 #: ../../03_Image_analysis/Intensity.md:3
 msgid "What are intensity measurements?"
