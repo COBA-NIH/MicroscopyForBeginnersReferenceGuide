@@ -190,9 +190,9 @@ msgid ""
 "hope this structure helps guide users to a deeper understanding of each "
 "subtopic."
 msgstr ""
-"Käytetyt kysymykset ja tarkka muotoilu voivat vaihdella osioittain, mutta "
-"toivomme, että tämä rakenne auttaa käyttäjiä ymmärtämään syvällisemmin "
-"kutakin alateemaa."
+"Käytetyt kysymykset ja tarkka sanamuoto voivat vaihdella osioittain, mutta "
+"toivomme, että tämä rakenne auttaa käyttäjiä ymmärtämään kutakin ala-"
+"aihetta."
 
 #: ../../welcome.md:57
 msgid "What if my resource/topic is not included?"
