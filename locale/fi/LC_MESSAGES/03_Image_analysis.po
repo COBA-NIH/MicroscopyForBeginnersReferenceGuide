@@ -629,9 +629,9 @@ msgstr ""
 "[ImageJ](https://imagej.net/) "
 "{cite}`Schneider2012-gs,Schindelin2012-kk,Rueden2017-ku` on "
 "kuvankäsittelyohjelma, joka pystyy käsittelemään erilaisia kuvia, mukaan "
-"lukien monikanava-, 3D- ja aikasarjoja. Se tarjoaa erilaisia kuvankäsittelyn"
-" perusoperaatioita, mutta sitä voidaan täydentää erilaisilla lisäosilla "
-"monimutkaisempia tehtäviä varten."
+"lukien monikanava-, 3D-kuvia sekä videoita. Se tarjoaa sellaisenaan "
+"erilaisia kuvankäsittelyn perusoperaatioita, ja sitä voidaan täydentää "
+"lisäosilla monimutkaisempia analyyseja varten."
 
 #: ../../03_Image_analysis/GeneralUseSoftware.md:0
 #: ../../03_Image_analysis/SpecificUseSoftware.md:0
