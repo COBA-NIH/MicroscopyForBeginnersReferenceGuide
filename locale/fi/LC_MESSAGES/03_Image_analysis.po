@@ -950,9 +950,10 @@ msgid ""
 " a multi-dimensional image viewer that can be expanded via a variety of "
 "plugins to perform basic and complex image analysis tasks."
 msgstr ""
-"[napari](https://napari.org/) {cite}`Sofroniew2022-nd` on kehitteillä "
-"moniulotteiseksi kuvankatseluohjelmaksi, jota voidaan laajentaa erilaisilla "
-"lisäosilla suorittamaan perustason ja monimutkaisia kuva-analyysitehtäviä."
+"[napari](https://napari.org/) {cite}`Sofroniew2022-nd` on kehitteillä oleva "
+"moniulotteinen kuvien visualisointiin tarkoitettu ohjelma. Sitä voidaan "
+"laajentaa erilaisilla lisäosilla suorittamaan sekä perustason että "
+"monimutkaisia kuva-analyysitehtäviä."
 
 #: ../../03_Image_analysis/GeneralUseSoftware.md:161
 msgid ""
