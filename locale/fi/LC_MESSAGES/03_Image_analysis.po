@@ -932,7 +932,7 @@ msgid ""
 "tutorials](https://www.youtube.com/playlist?list=PLGkFvW985wz8cj8CWmXOFkXpvoX_HwXzj)"
 msgstr ""
 "🎥 [Video-"
-"oppaat](https://www.youtube.com/playlist?list=PLGkFvW985wz8cj8CWmXOFkXpvoX_HwXzj)"
+"tutoriaalit](https://www.youtube.com/playlist?list=PLGkFvW985wz8cj8CWmXOFkXpvoX_HwXzj)"
 
 #: ../../03_Image_analysis/GeneralUseSoftware.md:152
 msgid ""
