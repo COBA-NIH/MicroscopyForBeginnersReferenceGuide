@@ -829,8 +829,7 @@ msgstr "🌐 [QuPath-käyttöopas](https://qupath.readthedocs.io/en/stable/)"
 
 #: ../../03_Image_analysis/GeneralUseSoftware.md:89
 msgid "🎥 [Video tutorials and workshops](https://www.youtube.com/c/qupath)"
-msgstr ""
-"🎥 [Video-opetusohjelmat ja työpajat](https://www.youtube.com/c/qupath)"
+msgstr "🎥 [Video-tutoriaalit ja työpajat](https://www.youtube.com/c/qupath)"
 
 #: ../../03_Image_analysis/GeneralUseSoftware.md:93
 msgid ""
