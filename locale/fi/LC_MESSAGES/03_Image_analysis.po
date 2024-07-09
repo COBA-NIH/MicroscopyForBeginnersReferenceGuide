@@ -988,7 +988,7 @@ msgstr ""
 
 #: ../../03_Image_analysis/GeneralUseSoftware.md:177
 msgid "🌐 [Tutorials](https://napari.org/stable/tutorials/index.html)"
-msgstr "🌐 [opetusohjelmat](https://napari.org/stable/tutorials/index.html)"
+msgstr "🌐 [tutoriaalit](https://napari.org/stable/tutorials/index.html)"
 
 #: ../../03_Image_analysis/GeneralUseSoftware.md:178
 msgid ""
