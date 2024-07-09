@@ -868,7 +868,7 @@ msgstr "🌐 [Icy lataus](https://icy.bioimageanalysis.org/download/)"
 msgid ""
 "🌐 [Icy course and tutorial](https://icy.bioimageanalysis.org/trainings/)"
 msgstr ""
-"🌐 [Icy kurssi ja opetusohjelma](https://icy.bioimageanalysis.org/trainings/)"
+"🌐 [Icy kurssi ja tutoriaali](https://icy.bioimageanalysis.org/trainings/)"
 
 #: ../../03_Image_analysis/GeneralUseSoftware.md:118
 msgid ""
