@@ -1250,9 +1250,9 @@ msgid ""
 "questions/answers, exercises with Python and ImageJ, and videos to check "
 "understanding"
 msgstr ""
-"Opas täysin aloitteleville kuva-analyysin harrastajille, mukaan lukien "
-"upotetut kysymykset/vastaukset, harjoituksia Pythonilla ja ImageJ:llä sekä "
-"videoita ymmärryksen tarkistamiseksi."
+"Opas kuva-analyysiin aloittelijoille, mukaan lukien kysymykset/vastaukset, "
+"harjoitukset Pythonilla ja ImageJ:llä sekä videoita ymmärtämisen "
+"helpottamiseksi"
 
 #: ../../03_Image_analysis/Resources.md:16
 msgid "📖 Bioimage Data Analysis {cite}`Miura2016-wq`"
