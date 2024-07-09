@@ -490,8 +490,8 @@ msgstr ""
 "sekä tieteellisen tutkimuksen aikana tuotetut raakadatat että niiden "
 "käsittelyssä käytetyt työnkulut. Vaikka useissa maissa on hiljattain otettu "
 "käyttöön valtuudet tallettaa raakakuvatietoja julkisesti, tutkijoiden voi "
-"olla vaikea tietää, minne tallentaa biokuvantamiskokeiluihinsa liittyvät "
-"kuvat, koodi ja metatiedot."
+"olla vaikea tietää, minne tallentaa biokuvantamiskokeisiina liittyvät kuvat,"
+" koodi ja metatiedot."
 
 #: ../../03_Image_analysis/Data_management.md:0
 msgid "🤔 What are my options?"
