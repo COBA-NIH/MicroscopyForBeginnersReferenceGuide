@@ -84,8 +84,8 @@ msgstr ""
 "kvantitatiivisten biokuvantamiskokeiden suunnitteluun ja "
 "suorittamiseen_**](https://doi.org/10.1371/journal.pbio.3002167)\".\" "
 "{cite}`Senft2023-zy`. Tavoitteenamme on tarjota suosituksia ja kuratoituja "
-"resursseja biologeille, jotka haluavat ymmärtää tekijöitä, jotka vaikuttavat"
-" heidän fluoresenssimikroskopiakokeisiinsa."
+"resursseja biologeille, jotka haluavat ymmärtää "
+"fluoresenssimikroskopiakokeisiinsa vaikuttavista tekijöistä."
 
 #: ../../welcome.md:17
 msgid ""
