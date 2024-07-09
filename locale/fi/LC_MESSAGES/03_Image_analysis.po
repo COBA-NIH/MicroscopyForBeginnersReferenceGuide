@@ -226,11 +226,10 @@ msgid ""
 "_et al_. Reconstructing cell cycle and disease progression using deep "
 "learning. _Nat Commun_ **8**, 463 (2017) {cite}`Eulenberg2017-ax`"
 msgstr ""
-"**Tarkka jako valvottuihin luokkiin voi olla hankalaa jatkuville "
-"biologisille prosesseille**. Mukailtu lähteestä Eulenberg, P., Köhler, N., "
-"Blasi, T. _et al_. Solusyklin ja sairauden etenemisen rekonstruointi "
-"syväoppimisen avulla. _Nat Commun_ **8**, 463 (2017) "
-"{cite}`Eulenberg2017-ax`."
+"*Strict division into supervised classes can be tricky for continuous "
+"biological processes**. Mukailtu lähteestä Eulenberg, P., Köhler, N., Blasi,"
+" T. _et al_. Reconstructing cell cycle and disease progression using deep "
+"learning. _Nat Commun_ **8**, 463 (2017) {cite}`Eulenberg2017-ax`."
 
 #: ../../03_Image_analysis/Classification.md:0
 #: ../../03_Image_analysis/Colocalization.md:0
