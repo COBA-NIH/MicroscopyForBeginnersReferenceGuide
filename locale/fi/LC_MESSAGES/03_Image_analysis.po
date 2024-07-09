@@ -974,7 +974,7 @@ msgid ""
 "](https://napari.org/stable/tutorials/fundamentals/installation.html#install-"
 "as-a-bundled-app)"
 msgstr ""
-"🌐 [napari bundled app download "
+"🌐 [naparin sovelluksen lataus "
 "](https://napari.org/stable/tutorials/fundamentals/installation.html#install-"
 "as-a-bundled-app)"
 
