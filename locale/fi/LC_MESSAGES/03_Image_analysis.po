@@ -495,7 +495,7 @@ msgstr ""
 
 #: ../../03_Image_analysis/Data_management.md:0
 msgid "🤔 What are my options?"
-msgstr "🤔 Mitä vaihtoehtoja minulla on?"
+msgstr "🤔 Minkälaisia vaihtoehtoja minulla on?"
 
 #: ../../03_Image_analysis/Data_management.md:9
 msgid ""
