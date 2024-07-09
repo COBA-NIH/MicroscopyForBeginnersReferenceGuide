@@ -924,7 +924,7 @@ msgstr ""
 
 #: ../../03_Image_analysis/GeneralUseSoftware.md:147
 msgid "🌐 [Tutorials](http://mib.helsinki.fi/tutorials.html)"
-msgstr "🌐 [opetusohjelmat](http://mib.helsinki.fi/tutorials.html)"
+msgstr "🌐 [tutoriaalit](http://mib.helsinki.fi/tutorials.html)"
 
 #: ../../03_Image_analysis/GeneralUseSoftware.md:148
 msgid ""
