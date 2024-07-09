@@ -858,7 +858,7 @@ msgstr "Yhteensopivuus muiden ohjelmistojen kanssa rajoittuu ImageJ:hen."
 
 #: ../../03_Image_analysis/GeneralUseSoftware.md:107
 msgid "To download Icy"
-msgstr "Lataa Icy"
+msgstr "Icy:n lataaminen"
 
 #: ../../03_Image_analysis/GeneralUseSoftware.md:111
 msgid "🌐 [Icy download](https://icy.bioimageanalysis.org/download/)"
