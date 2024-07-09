@@ -579,7 +579,7 @@ msgid ""
 "🌐 [Image Data Resource (IDR)](https://idr.openmicroscopy.org/) "
 "{cite}`Williams2017-yy`"
 msgstr ""
-"🌐 [Kuvatietoresurssi (IDR)](https://idr.openmicroscopy.org/) "
+"🌐 [Image Data Resource (IDR)](https://idr.openmicroscopy.org/) "
 "{cite}`Williams2017-yy`"
 
 #: ../../03_Image_analysis/Data_management.md:37
