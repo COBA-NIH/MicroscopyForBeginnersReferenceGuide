@@ -344,10 +344,9 @@ msgid ""
 "say something about a fraction of objects being positive for multiple labels"
 " (e.g., 99% of eGFP+ cells were also mCherry+). Here’s a sample workflow:"
 msgstr ""
-"**Objektipohjainen kolokalisaatio** on tarkoituksenmukaista silloin, kun "
-"halutaan pystyä sanomaan jotain siitä, että osa objekteista on positiivisia "
-"useille merkinnöille (esim. 99 % eGFP+-soluista oli myös mCherry+). Tässä on"
-" esimerkki työnkulusta:"
+"**Objektipohjainen kolokalisointi** on valitaan, kun haluat tutkia, ovatko "
+"objektit positiivisia useille tunnisteille (esim. 99 % eGFP-positiivisista "
+"soluista oli myös mCherry-positiivisia). Tässä on esimerkki työnkulusta:"
 
 #: ../../03_Image_analysis/Colocalization.md:51
 msgid ""
