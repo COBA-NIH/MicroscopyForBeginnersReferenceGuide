@@ -720,9 +720,9 @@ msgid ""
 "histology experiments. The image size is currently limited by the available "
 "memory on your computer."
 msgstr ""
-"CellProfiler ei pysty käsittelemään suuria kuvia, kuten kokonaisia "
-"kudosleikkeitä histologisista kokeista. Kuvien kokoa rajoittaa tällä "
-"hetkellä tietokoneen käytettävissä oleva muisti."
+"CellProfiler ei pysty käsittelemään suuria kuvia, kuten esimerkiksi "
+"kokonaisia kudosleikkeitä histologisista kokeista. Kuvien kokoa rajoittaa "
+"tällä hetkellä tietokoneen käytettävissä oleva muisti."
 
 #: ../../03_Image_analysis/GeneralUseSoftware.md:43
 msgid ""
