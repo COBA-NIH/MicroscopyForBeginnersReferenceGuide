@@ -644,9 +644,9 @@ msgid ""
 "capability of batch processing and creating macros it does require some "
 "understanding of coding."
 msgstr ""
-"Kuvankäsittelytoiminnot tehdään yksi kerrallaan, ja vaikka sillä on "
-"mahdollisuus eräajoon ja makrojen luomiseen, se vaatii jonkin verran "
-"koodauksen ymmärtämistä."
+"Kuvankäsittelyoperaatiot tehdään yleensä yhdelle kuvalle kerrallaan. "
+"Eräkäsittelyn ja makrojen luomiseen vaaditaan jonkin verran "
+"ohjelmointiosaamista. "
 
 #: ../../03_Image_analysis/GeneralUseSoftware.md:15
 msgid ""
