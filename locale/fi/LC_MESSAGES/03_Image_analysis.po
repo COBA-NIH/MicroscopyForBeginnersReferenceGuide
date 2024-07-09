@@ -370,9 +370,9 @@ msgid ""
 " fluorescent label is present). Noise, uneven illumination, and other "
 "technical artifacts can cause correlation between two channels"
 msgstr ""
-"**Ei ole riittäviä kontrolleja** (esim. yhden merkin kontrollit, joissa on "
-"vain yksi fluoresoiva merkintä). Kohina, epätasainen valaistus ja muut "
-"tekniset artefaktit voivat aiheuttaa korrelaatiota kahden kanavan välillä."
+"**Kontrollien puute** (esim. yhden tunnisteen kontrollit, joissa on vain "
+"yksi fluoresoiva leima). Kohina, epätasainen valaistus ja muut tekniset "
+"artefaktit voivat aiheuttaa korrelaatiota kahden kanavan välillä."
 
 #: ../../03_Image_analysis/Colocalization.md:56
 msgid ""
