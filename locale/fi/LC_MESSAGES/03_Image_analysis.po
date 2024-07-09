@@ -64,7 +64,8 @@ msgstr ""
 "**Ohjatussa luokittelussa** ihminen antaa tietoa siitä, miltä eri "
 "objektiryhmien tulisi näyttää antamalla edustavia esimerkkejä jokaisesta "
 "ryhmästä. Tietokone oppii sitten jakamaan objektit ryhmiin näiden "
-"ominaisuuksien perusteella ja vertaa tuloksia koulus- ja  pohjatotuuskuviin."
+"ominaisuuksien perusteella ja vertaa tuloksia koulutus- ja  "
+"pohjatotuuskuviin."
 
 #: ../../03_Image_analysis/Classification.md:14
 msgid ""
