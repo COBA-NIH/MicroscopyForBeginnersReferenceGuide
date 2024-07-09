@@ -679,8 +679,8 @@ msgid ""
 "For documentation and tutorials on how to use ImageJ as well as a list of "
 "available plugins"
 msgstr ""
-"ImageJ:n käyttöä koskevaa dokumentaatiota ja opetusohjelmia sekä luettelo "
-"saatavilla olevista lisäosista."
+"Dokumentaatiota ja opetusohjelmia ImageJ:n käytöstä sekä luetteloa "
+"saatavilla olevista laajennuksista"
 
 #: ../../03_Image_analysis/GeneralUseSoftware.md:30
 msgid "🌐 [ImageJ basics](https://imagej.net/learn/)"
