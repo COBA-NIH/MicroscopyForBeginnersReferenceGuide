@@ -153,8 +153,8 @@ msgid ""
 "started or begin with sample preparation by clicking the \"Next\" button "
 "below ↘️."
 msgstr ""
-"Valitse osio vasemmalla olevan navigointipaneelin avulla tai aloita näytteen"
-" valmistelu napsauttamalla \"Seuraava\"-painiketta alla ↘️."
+"Aloita valitsemalla osio vasemmalla olevasta navigointipaneelista tai aloita"
+" näytteen valmistelusta klikkaamalla alla olevaa \"Seuraava\"-painiketta ↘️."
 
 #: ../../welcome.md:48
 msgid ""
