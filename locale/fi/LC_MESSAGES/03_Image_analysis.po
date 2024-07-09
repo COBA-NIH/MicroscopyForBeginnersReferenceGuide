@@ -903,8 +903,8 @@ msgid ""
 "It was created using MATLAB, a standalone packaged version exist, but they "
 "do not use the most up-to-date MATLAB releases"
 msgstr ""
-"Se on luotu MATLABin avulla, ja siitä on olemassa itsenäinen pakattu versio,"
-" mutta ne eivät käytä uusimpia MATLAB-julkaisuja."
+"Se on luotu MATLABin avulla. Siitä on myös olemassa itsenäinen pakattu "
+"versio, mutta se ei käytä uusimpaa MATLAB-versioita."
 
 #: ../../03_Image_analysis/GeneralUseSoftware.md:136
 msgid "To download MIB"
