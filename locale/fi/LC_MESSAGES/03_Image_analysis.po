@@ -426,8 +426,7 @@ msgstr ""
 msgid ""
 "🔢 [Theoretical background on "
 "colocalization](https://svi.nl/ColocalizationTheory)"
-msgstr ""
-"🔢 [Kolokalisaation teoreettinen tausta](https://svi.nl/ColocalizationTheory)"
+msgstr "🔢 [Kolokalisaation teoriaa](https://svi.nl/ColocalizationTheory)"
 
 #: ../../03_Image_analysis/Colocalization.md:64
 msgid ""
