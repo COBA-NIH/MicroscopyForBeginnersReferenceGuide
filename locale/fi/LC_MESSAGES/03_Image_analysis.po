@@ -469,7 +469,7 @@ msgstr ""
 
 #: ../../03_Image_analysis/Data_management.md:1
 msgid "Data management and sharing"
-msgstr "Tietojen hallinta ja jakaminen"
+msgstr "Tiedon hallinta ja jakaminen"
 
 #: ../../03_Image_analysis/Data_management.md:3
 msgid "What is it?"
