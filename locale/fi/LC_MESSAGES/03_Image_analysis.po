@@ -962,7 +962,7 @@ msgid ""
 "available."
 msgstr ""
 "napari on vielä kehitysvaiheessa, mutta se on erittäin suosittu alusta ja "
-"sillä on jo useita laajennuksia ja käyttötapauksia opetusohjelmineen."
+"sillä on jo useita laajennuksia sekä sovelluksia tutoriaaleineen."
 
 #: ../../03_Image_analysis/GeneralUseSoftware.md:166
 msgid "To download napari"
