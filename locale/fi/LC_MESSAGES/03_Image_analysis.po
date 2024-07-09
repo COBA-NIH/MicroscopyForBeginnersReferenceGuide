@@ -514,7 +514,7 @@ msgstr ""
 
 #: ../../03_Image_analysis/Data_management.md:0
 msgid "Comparison of various data respositories"
-msgstr "Eri tietovarantojen vertailu"
+msgstr "Erilaisten tietovarastojen vertailu"
 
 #: ../../03_Image_analysis/Data_management.md:18
 msgid ""
