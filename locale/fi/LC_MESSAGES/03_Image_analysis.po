@@ -662,7 +662,7 @@ msgstr ""
 #: ../../03_Image_analysis/GeneralUseSoftware.md:0
 #: ../../03_Image_analysis/SpecificUseSoftware.md:0
 msgid "How to download/install and learn more?"
-msgstr "Miten ladata/asentaa ja oppia lisää?"
+msgstr "Miten lataan/asennan ohjelman ja mistä voin oppia lisää?"
 
 #: ../../03_Image_analysis/GeneralUseSoftware.md:20
 msgid "To download ImageJ or its “batteries-included” distribution Fiji go to"
