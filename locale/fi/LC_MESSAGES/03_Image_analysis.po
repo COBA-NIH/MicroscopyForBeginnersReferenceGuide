@@ -811,9 +811,9 @@ msgid ""
 "To get the most out of QuPath (especially when analyzing many images), some "
 "scripting and knowledge of coding (or adapting other’s code) is necessary"
 msgstr ""
-"Jotta QuPathista saataisiin kaikki irti (erityisesti analysoitaessa monia "
-"kuvia), tarvitaan jonkin verran skriptausta ja koodaustaitoa (tai muiden "
-"koodin mukauttamista)."
+"Jotta QuPathista saadaan mahdollisimman paljon irti (erityisesti "
+"analysoitaessa useita kuvia), tarvitaan jonkin verran komentosarjoja ja "
+"ohjelmointitaitoja (muiden kirjoittaman koodin mukauttamista varten)."
 
 #: ../../03_Image_analysis/GeneralUseSoftware.md:78
 msgid "To download QuPath"
