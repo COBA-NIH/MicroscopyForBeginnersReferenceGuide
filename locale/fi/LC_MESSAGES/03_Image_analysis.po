@@ -1150,7 +1150,7 @@ msgid ""
 "resources/measure_intensities/index.html)"
 msgstr ""
 "🎓 [Neubiasin koulutusresurssi "
-"intensiteettitoimenpiteistä](https://neubias.github.io/training-"
+"intensiteettimittauksista](https://neubias.github.io/training-"
 "resources/measure_intensities/index.html)"
 
 #: ../../03_Image_analysis/Introduction.md:1
