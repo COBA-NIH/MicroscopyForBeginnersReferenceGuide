@@ -161,8 +161,8 @@ msgid ""
 "Most sections will guide you through individual subtopics using some or all "
 "of the following list of questions:"
 msgstr ""
-"Useimmissa osioissa sinua ohjataan yksittäisten alateemojen läpi käyttämällä"
-" joitakin tai kaikkia seuraavista kysymyksistä:"
+"Useimmat osiot ohjaavat sinua yksittäisten ala-aiheiden läpi käyttämällä "
+"osaa tai kaikkia seuraavista kysymysluetteloista:"
 
 #: ../../welcome.md:49
 msgid "What is it?"
