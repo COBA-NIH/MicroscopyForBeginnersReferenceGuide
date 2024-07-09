@@ -134,8 +134,8 @@ msgid ""
 msgstr ""
 "**Validit mittaukset ovat edelleen tärkeitä** Luokittelu voi olla "
 "yksinkertaista tai monimutkaista, mutta tulokset riippuvat aina mittausten "
-"validiteetista. Tästä syystä kaikki aiempien mittauksia koskevien osioiden "
-"varoitukset pätevät myös tässä."
+"validiteetista. Tästä syystä kaikki aiempia mittauksia koskevat varoitukset "
+"pätevät myös tässä."
 
 #: ../../03_Image_analysis/Classification.md:24
 msgid ""
