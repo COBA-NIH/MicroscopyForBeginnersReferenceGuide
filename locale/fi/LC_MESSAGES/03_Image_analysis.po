@@ -43,7 +43,7 @@ msgstr ""
 #: ../../03_Image_analysis/Intensity.md:0 ../../03_Image_analysis/Shape.md:0
 #: ../../03_Image_analysis/Tracking.md:0
 msgid "📏 How do I measure it?"
-msgstr "📏 Miten mittaan sen?"
+msgstr "📏 Miten ominaisuuksia mitataan?"
 
 #: ../../03_Image_analysis/Classification.md:10
 msgid ""
