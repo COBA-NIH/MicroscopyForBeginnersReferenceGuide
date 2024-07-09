@@ -667,7 +667,8 @@ msgstr "Miten lataan/asennan ohjelman ja mistä voin oppia lisää?"
 #: ../../03_Image_analysis/GeneralUseSoftware.md:20
 msgid "To download ImageJ or its “batteries-included” distribution Fiji go to"
 msgstr ""
-"Voit ladata ImageJ:n tai sen \"batteries-included\"-jakelun Fiji osoitteesta"
+"Voit ladata ImageJ:n tai sen \"batteries-included\"-version nimeltä Fiji "
+"osoitteesta"
 
 #: ../../03_Image_analysis/GeneralUseSoftware.md:24
 msgid "🌐 [ImageJ download](https://imagej.net/downloads)"
