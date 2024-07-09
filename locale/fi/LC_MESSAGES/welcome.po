@@ -174,7 +174,7 @@ msgstr "Mitä vaihtoehtoja minulla on?"
 
 #: ../../welcome.md:51
 msgid "How do I do it?"
-msgstr "Miten teen sen?"
+msgstr "Miten se tehdään?"
 
 #: ../../welcome.md:52
 msgid "Where can things go wrong?"
