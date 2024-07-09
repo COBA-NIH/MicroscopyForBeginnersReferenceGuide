@@ -213,7 +213,7 @@ msgstr ""
 "eteneminen on kuitenkin lineaarinen prosessi, tätä voidaan visualisoida "
 "yksittäisten solujen mittauksilla (värjäyksillä tai manuaalisella "
 "tunnistamisella). Solusyklin fenotyyppien luokittelemiseksi usein tarvitaan "
-"kehittyneempiä menetelmiä"
+"kehittyneempiä menetelmiä,"
 
 #: ../../03_Image_analysis/Classification.md:0
 msgid "a continuous distribution of cell cycle states"
