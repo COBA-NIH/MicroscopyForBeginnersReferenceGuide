@@ -1308,7 +1308,7 @@ msgstr ""
 
 #: ../../03_Image_analysis/Resources.md:25
 msgid "🌐 Metrics Reloaded"
-msgstr "🌐 Mittarit ladattu uudelleen"
+msgstr "🌐 Metrics Reloaded"
 
 #: ../../03_Image_analysis/Resources.md:26
 msgid "[link](https://metrics-reloaded.dkfz.de/)"
