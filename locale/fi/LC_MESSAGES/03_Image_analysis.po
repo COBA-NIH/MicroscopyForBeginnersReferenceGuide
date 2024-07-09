@@ -335,8 +335,8 @@ msgid ""
 "There are two main branches for how to look at colocalization: Object-based "
 "and correlation-based."
 msgstr ""
-"Kolokalisaation tarkastelussa on kaksi päähaaraa: Kohteisiin perustuva ja "
-"korrelaatioon perustuva."
+"Kolokalisaation tarkastelussa on kaksi päähaaraa: objektipohjainen ja "
+"korrelaatiopohjainen."
 
 #: ../../03_Image_analysis/Colocalization.md:30
 msgid ""
