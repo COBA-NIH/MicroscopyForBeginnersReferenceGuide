@@ -848,9 +848,9 @@ msgid ""
 "image analysis protocols that can be shared with other users."
 msgstr ""
 "[Icy](https://icy.bioimageanalysis.org/) {cite}`De_Chaumont2012-pe` on "
-"valmis kuva-analyysityökalu, joka käyttää liitännäisiä luodakseen "
-"visuaalisia kuva-analyysiprotokollia, jotka voidaan jakaa muiden käyttäjien "
-"kanssa."
+"monipuolinen kuva-analyysityökalu, joka käyttää erilaisia liitännäisiä "
+"visuaalisia kuva-analyysiprotokollien luomiseen. Valmiita protokolloa "
+"voidaan jakaa muiden käyttäjien kanssa."
 
 #: ../../03_Image_analysis/GeneralUseSoftware.md:102
 msgid "Icy interoperability with other softwares is limited to ImageJ"
