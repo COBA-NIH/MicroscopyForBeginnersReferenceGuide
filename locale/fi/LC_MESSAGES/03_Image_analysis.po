@@ -309,8 +309,8 @@ msgid ""
 "It is also important to recognize that co-ocurrence does not _necessarily_ "
 "imply interaction."
 msgstr ""
-"On myös tärkeää tunnustaa, että yhteistodellisuus ei _välttämättä_ tarkoita "
-"vuorovaikutusta."
+"On myös tärkeää tunnustaa, että tunnisteiden ilmeneminen samassa paikassa ei"
+" _välttämättä_ tarkoita näiden vuorovaikutusta."
 
 #: ../../03_Image_analysis/Colocalization.md:11
 msgid ""
