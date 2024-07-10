@@ -1779,8 +1779,9 @@ msgid ""
 msgstr ""
 "[Cellpose] (https://www.cellpose.org/) on {term}`segmentointi`-algoritmi, "
 "joka tarjoaa graafisen käyttöliittymän, jonka avulla käyttäjät voivat "
-"käyttää koulutettuja malleja tai kouluttaa omia mallejaan käyttämällä "
-"kuviaan ja merkintöjään. [Lue lisää...](content/cellpose)"
+"käyttää valmiiksi koulutettuja syväoppimis malleja tai kouluttaa omia "
+"malleja manuaalisesti merkitsemällä kohteet kuvaan. [Lue "
+"lisää...](content/cellpose)"
 
 #: ../../03_Image_analysis/Software.md:0
 msgid "ilastik"
