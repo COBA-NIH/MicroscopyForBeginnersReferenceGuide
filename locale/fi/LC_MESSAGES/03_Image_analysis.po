@@ -1650,11 +1650,11 @@ msgid ""
 "and helps others find useful tools."
 msgstr ""
 "Riippumatta siitä, minkä ohjelmiston valitset, muista sisällyttää "
-"yksityiskohtainen kuvaus analyysistäsi menetelmiin ja mahdollisuuksien "
-"mukaan myös putkisto- tai työnkulkutiedostot, jotta muut voivat jäljentää "
-"työsi. Muista myös mainita käyttämäsi analyysiohjelmisto! Tämä auttaa "
-"ohjelmistojen kehittäjiä saamaan apurahoja ja auttaa muita löytämään "
-"hyödyllisiä työkaluja."
+"yksityiskohtainen kuvaus analyysistäsi tekstisi materiaalit ja menetelmät "
+"osioon ja mahdollisuuksien mukaan myös työnkulkutiedostot, jotta muut voivat"
+" jäljentää työsi. Muista myös mainita käyttämäsi analyysiohjelma! Tämä "
+"auttaa ohjelmistojen kehittäjiä saamaan rahoitusta ohjelmien jatkokehitystä "
+"varten sekä auttaa muita löytämään hyödyllisiä työkaluja."
 
 #: ../../03_Image_analysis/Software.md:17
 #: ../../03_Image_analysis/Software.md:26
