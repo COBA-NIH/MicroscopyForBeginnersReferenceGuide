@@ -1319,7 +1319,7 @@ msgid ""
 "An interactive guide to choosing the right metric for your scientific "
 "question"
 msgstr ""
-"Interaktiivinen opas oikean mittarin valitsemiseen tieteelliseen "
+"Interaktiivinen opas oikeiden mittarien valitsemiseen tieteelliseen "
 "kysymykseesi"
 
 #: ../../03_Image_analysis/Resources.md:28
