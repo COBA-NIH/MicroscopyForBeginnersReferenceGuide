@@ -1540,9 +1540,9 @@ msgstr ""
 "analyysiohjelmilla, kuten FIJI:llä ja CellProfilerilla. Esimerkiksi "
 "{term}`Fiji` -ohjelmassa, kun olet tunnistanut kohteet {term}`ROIs` "
 "-kohteiksi, valitse **Analyze > Set Measurements...** ja sitten \"Shape "
-"Descriptors\" (muodon kuvaajat) ja mittaa {term}`ROIs` -kohteiden muoto "
-"**Analyze > Measure** -komennolla. CellProfilerissa tämä tapahtuu moduulin "
-"MeasureObjectSizeShape avulla."
+"Descriptors\" (muodon kuvaajat) ja mittaa sitten {term}`ROIs` -kohteiden "
+"muoto **Analyze > Measure** -komennolla. CellProfilerissa tämä tapahtuu "
+"moduulin MeasureObjectSizeShape avulla."
 
 #: ../../03_Image_analysis/Shape.md:25
 msgid ""
