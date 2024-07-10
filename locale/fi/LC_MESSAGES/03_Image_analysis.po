@@ -1813,7 +1813,7 @@ msgid ""
 msgstr ""
 "[Piximi] (https://www.piximi.app/) on merkintä- ja luokittelusovellus, joka "
 "toimii kokonaan selaimessa. Se ei vaadi asentamista eikä juurikaan "
-"asetuksien muokkamista.  [Lue lisää...](content/piximi)"
+"asetuksien muokkaamista.  [Lue lisää...](content/piximi)"
 
 #: ../../03_Image_analysis/SpecificUseSoftware.md:1
 msgid "Specific Use Software"
