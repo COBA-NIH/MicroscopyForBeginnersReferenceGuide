@@ -1874,9 +1874,9 @@ msgid ""
 "consuming, but is likely less time consuming than other methods of training "
 "models."
 msgstr ""
-"Uuden mallin kouluttaminen edellyttää manuaalista merkintöjen korjaamista, "
-"mikä voi olla aikaa vievää, mutta se on todennäköisesti vähemmän aikaa "
-"vievää kuin muut mallien kouluttamismenetelmät."
+"Uuden mallin kouluttaminen edellyttää kohteiden merkitsemistä manuaalisesti,"
+" mikä voi olla hidasta. Se on kuitenkin todennäköisesti nopeampaa kuin muut "
+"menetelmät tai toisten mallien käyttäminen. "
 
 #: ../../03_Image_analysis/SpecificUseSoftware.md:28
 msgid ""
