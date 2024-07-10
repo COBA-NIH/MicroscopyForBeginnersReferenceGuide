@@ -1747,9 +1747,9 @@ msgid ""
 "and extraction of morphological features. [Read more...](content/mib)"
 msgstr ""
 "[MIB] (http://mib.helsinki.fi/index.html) on käyttäjäystävällinen ohjelmisto"
-" valo- ja elektronimikroskopian moniulotteisten tietokokonaisuuksien kuva-"
-"analyysiin. Sen avulla voit käyttää koko hankittua dataa sen analysointiin "
-"ja morfologisten piirteiden poimimiseen. [Lue lisää...](content/mib)"
+" valo- ja elektronimikroskopian moniulotteisten kuvien analyysiin. Sen "
+"avulla voit analysoida kuviasi ja poimia niiden morfologisten piirteitä. "
+"[Lue lisää...](content/mib)"
 
 #: ../../03_Image_analysis/Software.md:0
 msgid "napari"
