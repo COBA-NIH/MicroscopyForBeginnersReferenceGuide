@@ -1341,8 +1341,8 @@ msgid ""
 "An article that gives guidance and a glossary of available image analysis "
 "software and packages"
 msgstr ""
-"Artikkeli, jossa annetaan ohjeita ja sanasto saatavilla olevista kuva-"
-"analyysiohjelmistoista ja -paketeista."
+"Artikkeli, joka antaa ohjeita ja sanaston saatavilla olevista kuva-"
+"analyysiohjelmistoista ja -paketeista"
 
 #: ../../03_Image_analysis/Resources.md:31
 msgid "🌐 BioImage Informatics Index"
