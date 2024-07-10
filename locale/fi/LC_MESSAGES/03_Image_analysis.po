@@ -1426,7 +1426,7 @@ msgid ""
 "Image analysis traning resources collected by NEUBIAS, styled based on The "
 "Carpentries"
 msgstr ""
-"NEUBIASin keräämät kuva-analyysin siirtoresurssit, jotka on muotoiltu The "
+"NEUBIASin keräämä kuva-analyysin koulutusmateriaali, jotka on muotoiltu The "
 "Carpentriesin pohjalta."
 
 #: ../../03_Image_analysis/Resources.md:46
