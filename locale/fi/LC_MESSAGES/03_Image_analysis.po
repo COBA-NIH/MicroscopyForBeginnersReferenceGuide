@@ -1846,9 +1846,10 @@ msgid ""
 " annotations."
 msgstr ""
 "[Cellpose](https://www.cellpose.org/) {cite}`Stringer2021-uq` on "
-"{term}`segmentointi`algoritmi, joka tarjoaa graafisen käyttöliittymän, jonka"
-" avulla käyttäjät voivat käyttää koulutettuja malleja tai kouluttaa omia "
-"mallejaan kuviensa ja merkintöjen avulla."
+"{term}`segmentointi`-algoritmi, joka tarjoaa graafisen käyttöliittymän, "
+"jonka avulla käyttäjät voivat käyttää valmiiksi koulutettuja syväoppimis "
+"malleja tai kouluttaa omia malleja manuaalisesti merkitsemällä kohteet "
+"kuvaan."
 
 #: ../../03_Image_analysis/SpecificUseSoftware.md:0
 msgid "What type of image analysis problem is it best at?"
