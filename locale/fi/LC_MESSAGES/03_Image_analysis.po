@@ -1397,7 +1397,7 @@ msgstr ""
 
 #: ../../03_Image_analysis/Resources.md:40
 msgid "🌐 Galaxy Imaging Node"
-msgstr "🌐 Galaxy Imaging Node (Galaxy Imaging Node)"
+msgstr "🌐 Galaxy Imaging Node"
 
 #: ../../03_Image_analysis/Resources.md:41
 msgid "[link](https://imaging.usegalaxy.eu/)"
