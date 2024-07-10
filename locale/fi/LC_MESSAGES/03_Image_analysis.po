@@ -1357,8 +1357,8 @@ msgid ""
 "Repository platform for searching bioimage analysis tools and workflows "
 "based on the problem, method or software of choice"
 msgstr ""
-"Arkisto, josta voi hakea biokuvan analysointityökaluja ja työnkulkuja "
-"ongelman, menetelmän tai ohjelmiston perusteella."
+"Arkisto biokuva-analyysityökalujen ja työnkulkujen etsimiseen valitun "
+"ongelman, menetelmän tai ohjelmiston perusteella"
 
 #: ../../03_Image_analysis/Resources.md:34
 msgid "🎥 iBiology Bioimage Analysis video series"
