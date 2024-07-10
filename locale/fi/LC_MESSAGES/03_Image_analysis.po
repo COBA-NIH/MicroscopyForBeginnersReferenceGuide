@@ -1761,9 +1761,9 @@ msgid ""
 "image viewer that can be expanded via a variety of plugins to perform basic "
 "and complex image analysis tasks. [Read more...](content/napari)"
 msgstr ""
-"[napari] (https://napari.org/) on kehitteillä moniulotteinen "
-"kuvankatseluohjelma, jota voidaan laajentaa erilaisilla lisäosilla, jotta se"
-" voi suorittaa perus ja monimutkaisia kuva-analyysitehtäviä. [Lue "
+"[napari] (https://napari.org/) on kehitteillä oleva moniulotteisten kuvien "
+"katseluohjelma. Sitä voidaan laajentaa erilaisilla lisäosilla perus ja "
+"monimutkaisten kuva-analyysitehtävien suorittamiseen. [Lue "
 "lisää...](content/napari)"
 
 #: ../../03_Image_analysis/Software.md:0
