@@ -1974,9 +1974,9 @@ msgid ""
 "classification that runs entirely from your browser and requires no "
 "installation and minimal setup."
 msgstr ""
-"[Piximi] (https://www.piximi.app/) on kommentointi- ja luokittelusovellus, "
-"joka toimii kokonaan selaimessa ja joka ei vaadi asennusta eikä juurikaan "
-"asetuksia."
+"[Piximi] (https://www.piximi.app/) on merkintä- ja luokittelusovellus, joka "
+"toimii kokonaan selaimessa. Se ei vaadi asentamista eikä juurikaan "
+"asetuksien muokkaamista."
 
 #: ../../03_Image_analysis/SpecificUseSoftware.md:75
 msgid "Piximi can do image classification using machine learning"
