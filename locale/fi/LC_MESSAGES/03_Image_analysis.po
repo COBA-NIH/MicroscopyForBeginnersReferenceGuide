@@ -1798,7 +1798,7 @@ msgstr ""
 "[ilastik] (https://www.ilastik.org/) on työkalu interaktiiviseen kuvien "
 "luokitteluun, {term}`segmentointiin` ja analysointiin. Se hyödyntää "
 "koneoppimisalgoritmeja pikseli- ja objektitason luokitteluun. Sen "
-"käyttäminen ei edellytä kokemusta {term}`kuvan käsittelystä`. [Lue "
+"käyttäminen ei edellytä kokemusta {term}`kuvankäsittelystä`. [Lue "
 "lisää...](content/ilastik)"
 
 #: ../../03_Image_analysis/Software.md:0
