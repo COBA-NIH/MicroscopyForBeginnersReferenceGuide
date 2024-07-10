@@ -1468,7 +1468,7 @@ msgstr "Koon ja muodon mittaukset"
 
 #: ../../03_Image_analysis/Shape.md:3
 msgid "What are size measurements?"
-msgstr "Mitkä ovat kokomitat?"
+msgstr "Mitkä ovat kokomittaukset?"
 
 #: ../../03_Image_analysis/Shape.md:4
 msgid ""
