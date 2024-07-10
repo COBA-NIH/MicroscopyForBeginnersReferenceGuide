@@ -2079,7 +2079,7 @@ msgid ""
 "📄 [Computerized Cell "
 "Tracking](https://www.sciencedirect.com/science/article/pii/S2468502X20300711)"
 msgstr ""
-"📄 [Tietokoneistettu solujen seuranta] "
+"📄 [Automatisoitu solujen seuranta] "
 "(https://www.sciencedirect.com/science/article/pii/S2468502X20300711)"
 
 #: ../../03_Image_analysis/Tracking.md:23
