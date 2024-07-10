@@ -1392,8 +1392,8 @@ msgid ""
 "Access to virtual desktops allowing access to bioimage analysis software "
 "from a browser"
 msgstr ""
-"Pääsy virtuaalisiin työpöytiin, jotka mahdollistavat biokuvan "
-"analysointiohjelmiston käytön selaimella."
+"Virtuaaliset työasemat, jotka mahdollistavat pääsyn biokuva-"
+"analyysiohjelmistoihin selaimen kautta"
 
 #: ../../03_Image_analysis/Resources.md:40
 msgid "🌐 Galaxy Imaging Node"
