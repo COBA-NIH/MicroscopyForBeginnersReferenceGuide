@@ -2140,7 +2140,7 @@ msgid ""
 " first one: ![image](https://user-"
 "images.githubusercontent.com/28116530/206793825-364998d4-6043-4b1d-8438-0a5b37b97232.png)"
 msgstr ""
-"Kuva avautuu näin. Kanavia on viisi, mutta tarkastellaan vain ensimmäistä: "
+"Kuva avautuu näin. Kanavia on viisi, tarkastellaan niistä ensimmäistä: "
 "![kuva](https://user-"
 "images.githubusercontent.com/28116530/206793825-364998d4-6043-4b1d-8438-0a5b37b97232.png)"
 
