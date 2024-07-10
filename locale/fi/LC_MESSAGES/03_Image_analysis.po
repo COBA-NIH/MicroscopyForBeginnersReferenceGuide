@@ -1680,9 +1680,9 @@ msgid ""
 "variety of plugins for more complex tasks. [Read more...](content/imagej)"
 msgstr ""
 "[ImageJ] (https://imagej.net/) on kuvankäsittelyohjelma, joka pystyy "
-"käsittelemään erilaisia kuvia, kuten monikanavaisia, 3D- ja aikasarjoja. Se "
-"tarjoaa kuvankäsittelyn perustoiminnot, ja siinä on useita lisäosia "
-"monimutkaisempia tehtäviä varten. [Lue lisää...](content/imagej)"
+"käsittelemään erilaisia kuvia, 2D ja 3D kuvia, monikanavaisia kuvia sekä "
+"videoita. Se tarjoaa kuvankäsittelyn perustoiminnot, ja siinä on useita "
+"lisäosia monimutkaisempia analyysejä varten. [Lue lisää...](content/imagej)"
 
 #: ../../03_Image_analysis/Software.md:0
 msgid "CellProfiler"
