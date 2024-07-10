@@ -1409,9 +1409,9 @@ msgid ""
 " and workflows, making it easy to create and share reproducible FAIR "
 "workflows"
 msgstr ""
-"Galaxy-solmu, joka on esitäytetty useilla avoimen lähdekoodin kuva-"
-"analyysityökaluilla ja työnkuluilla, mikä helpottaa toistettavien FAIR-"
-"työnkulkujen luomista ja jakamista."
+"Galaxy-alusta, joka on esitäytetty useilla avoimen lähdekoodin kuva-"
+"analyysityökaluilla ja työnkuluilla, mikä tekee toistettavien työnkulkujen "
+"luomisesta ja jakamisesta helppoa"
 
 #: ../../03_Image_analysis/Resources.md:43
 msgid "🌐 Image Analysis Training Resources"
