@@ -1938,9 +1938,9 @@ msgid ""
 "ilastik is limited by your computer’s RAM so training a model with lots of "
 "features or working with very large images is likely to slow you down."
 msgstr ""
-"ilastikin toimintaa rajoittaa tietokoneen RAM-muisti, joten paljon "
-"ominaisuuksia sisältävän mallin harjoittelu tai erittäin suurten kuvien "
-"käsittely hidastaa todennäköisesti toimintaa."
+"ilastik suorituskykyä rajoittaa tietokoneesi RAM-muistin. Tästä syystä "
+"monimutkaisten mallien kouluttaminen ja työskentely erittäin suurten kuvien "
+"kanssa on todennäköisesti hidasta."
 
 #: ../../03_Image_analysis/SpecificUseSoftware.md:53
 msgid "To download ilastik:"
