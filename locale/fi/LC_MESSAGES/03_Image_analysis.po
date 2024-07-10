@@ -2103,8 +2103,8 @@ msgid ""
 msgstr ""
 "Yleisimpiä kuva-analyysitehtäviä varten tekemiemme virheiden lisäksi "
 "esittelemme tässä yleisen luettelon yleisistä virheistä aloittelijoille "
-"kuva-analyysiin. Selitämme jokaisen kohdalla, miksi tämä on ongelma, ja "
-"teemme ehdotuksia näiden ongelmien välttämiseksi."
+"kuva-analyysiin. Selitämme jokaisen ongelman kohdalla, miksi tämä on "
+"ongelma, ja teemme suosituksia näiden ongelmien välttämiseksi."
 
 #: ../../03_Image_analysis/_notinyet_Common_pitfalls.md:5
 msgid "Changing your image bit depth"
