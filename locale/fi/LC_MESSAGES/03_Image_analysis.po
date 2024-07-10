@@ -1521,10 +1521,9 @@ msgid ""
 "$solidity = area/convex area$ where _convex area_ is akin to the area inside"
 " a shape formed by stretching a rubber band around the object."
 msgstr ""
-"**Kiinteys**: kuinka tiheä vs. haalea/reikäinen esine on. Määritellään "
-"muodollisesti seuraavasti: $kiinteys = pinta-ala/konveksinen pinta-ala$, "
-"jossa _konveksinen pinta-ala_ on samankaltainen kuin pinta-ala muodon "
-"sisällä, joka muodostetaan venyttämällä kuminauha objektin ympärille."
+"**Kiinteys**: kuinka tiheä tai reikäinen kohde on. Muodollisesti määritelty "
+"$kiinteys = pinta-ala/kupera alue$  _Kupera alue_ on alue joka muodostuu kun"
+" mitattavan objektin ympärille venytettäisiin kuminauha."
 
 #: ../../03_Image_analysis/Shape.md:20
 msgid ""
