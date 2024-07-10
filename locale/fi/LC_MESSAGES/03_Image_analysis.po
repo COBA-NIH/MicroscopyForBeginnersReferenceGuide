@@ -1731,9 +1731,9 @@ msgid ""
 " tools, it utilizes plugins to create visual image analysis protocols that "
 "can be shared with other users. [Read more...](content/icy)"
 msgstr ""
-"[Icy] (https://icy.bioimageanalysis.org/) on valmis kuva-analyysityökalu, "
-"joka käyttää liitännäisiä luodakseen visuaalisia kuva-analyysiprotokollia, "
-"jotka voidaan jakaa muiden käyttäjien kanssa. [Lue lisää...](content/icy)"
+"[Icy] (https://icy.bioimageanalysis.org/) on kuva-analyysityökalu, joka "
+"käyttää liitännäisiä luodakseen visuaalisia kuva-analyysiprotokollia, joita "
+"voidaan jakaa muiden käyttäjien kanssa. [Lue lisää...](content/icy)"
 
 #: ../../03_Image_analysis/Software.md:0
 msgid "MIB"
