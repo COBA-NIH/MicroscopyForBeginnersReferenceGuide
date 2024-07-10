@@ -1930,8 +1930,8 @@ msgid ""
 "Sometimes loading or exporting images can require a bit of troubleshooting "
 "to get the dimensions correct."
 msgstr ""
-"Joskus kuvien lataaminen tai vieminen voi vaatia hieman vianetsintää, jotta "
-"mitat saadaan oikein."
+"Joskus kuvien lataaminen tai tallentaminen voi vaatia hieman työtä, jotta "
+"mitat kuvan suhteet saadaan oikeiksi."
 
 #: ../../03_Image_analysis/SpecificUseSoftware.md:48
 msgid ""
