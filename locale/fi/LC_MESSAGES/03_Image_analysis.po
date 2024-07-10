@@ -1482,7 +1482,7 @@ msgstr ""
 msgid ""
 "**Area**: the 2D space an object takes up in the image or the 3D surface "
 "area of an object"
-msgstr "**Pinta-ala**: 2D- tai 3D-objektin pinta-ala"
+msgstr "**Pinta-ala**: 2D- tai 3D-kohteen pinta-ala"
 
 #: ../../03_Image_analysis/Shape.md:7
 msgid "**Volume**: the 3D space an object takes up in a 3D image"
@@ -1490,7 +1490,7 @@ msgstr "**Tilavuus**: 3D-objektin tilavuus "
 
 #: ../../03_Image_analysis/Shape.md:8
 msgid "**Perimeter**: the distance around the edge of an object"
-msgstr "**Ympärysmitta**: etäisyys kohteen reunan ympärillä."
+msgstr "**Ympärysmitta**: kohteen ympärysmitta"
 
 #: ../../03_Image_analysis/Shape.md:10
 msgid "What are shape measurements?"
