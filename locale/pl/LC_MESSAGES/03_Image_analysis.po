@@ -4,7 +4,7 @@
 # FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
 # 
 # Translators:
-# Beth Cimini, 2024
+# Beth Cimini, 2025
 # 
 #, fuzzy
 msgid ""
@@ -13,7 +13,7 @@ msgstr ""
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-03-29 15:22+0000\n"
 "PO-Revision-Date: 2023-05-02 18:49+0000\n"
-"Last-Translator: Beth Cimini, 2024\n"
+"Last-Translator: Beth Cimini, 2025\n"
 "Language-Team: Polish (https://app.transifex.com/center-for-open-bioimage-analysis/teams/169123/pl/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -692,12 +692,12 @@ msgstr "🌐 [Podstawy ImageJ](https://imagej.net/learn/)"
 
 #: ../../03_Image_analysis/GeneralUseSoftware.md:34
 msgid ""
-"<img src=\"https://global.discourse-"
-"cdn.com/business4/uploads/imagej/original/2X/b/bcdcd5ba157e07e74dd1964ec81765e708455ed9.png\""
+"<img src=\"https://us1.discourse-"
+"cdn.com/flex015/uploads/imagej/original/2X/b/bcdcd5ba157e07e74dd1964ec81765e708455ed9.png\""
 " alt=\"logo\" width=\"30px\"> CellProfiler"
 msgstr ""
-" <img src=\"https://global.discourse-"
-"cdn.com/business4/uploads/imagej/original/2X/b/bcdcd5ba157e07e74dd1964ec81765e708455ed9.png\""
+"<img src=\"https://us1.discourse-"
+"cdn.com/flex015/uploads/imagej/original/2X/b/bcdcd5ba157e07e74dd1964ec81765e708455ed9.png\""
 " alt=\"logo\" width=\"30px\"> CellProfiler"
 
 #: ../../03_Image_analysis/GeneralUseSoftware.md:36
@@ -787,12 +787,12 @@ msgstr ""
 
 #: ../../03_Image_analysis/GeneralUseSoftware.md:66
 msgid ""
-"<img src=\"https://global.discourse-"
-"cdn.com/business4/uploads/imagej/optimized/3X/6/0/6039b2daa4b6b1c32943f63f464cf3c477898bfe_2_750x750.png\""
+"<img src=\"https://us1.discourse-"
+"cdn.com/flex015/uploads/imagej/optimized/3X/6/0/6039b2daa4b6b1c32943f63f464cf3c477898bfe_2_750x750.png\""
 " alt=\"logo\" width=\"30px\"> QuPath"
 msgstr ""
-" <img src=\"https://global.discourse-"
-"cdn.com/business4/uploads/imagej/optimized/3X/6/0/6039b2daa4b6b1c32943f63f464cf3c477898bfe_2_750x750.png\""
+"<img src=\"https://us1.discourse-"
+"cdn.com/flex015/uploads/imagej/optimized/3X/6/0/6039b2daa4b6b1c32943f63f464cf3c477898bfe_2_750x750.png\""
 " alt=\"logo\" width=\"30px\"> QuPath"
 
 #: ../../03_Image_analysis/GeneralUseSoftware.md:68
@@ -885,13 +885,13 @@ msgstr ""
 
 #: ../../03_Image_analysis/GeneralUseSoftware.md:122
 msgid ""
-"<img src=\"https://global.discourse-"
-"cdn.com/business4/uploads/imagej/optimized/3X/7/4/74273a1f9a663b52053d44c9767ed49193f2170f_2_787x750.png\""
+"<img src=\"https://us1.discourse-"
+"cdn.com/flex015/uploads/imagej/optimized/3X/7/4/74273a1f9a663b52053d44c9767ed49193f2170f_2_787x750.png\""
 " alt=\"logo\" width=\"30px\"> MIB (Microscopy Image Browser)"
 msgstr ""
-" <img src=\"https://global.discourse-"
-"cdn.com/business4/uploads/imagej/optimized/3X/7/4/74273a1f9a663b52053d44c9767ed49193f2170f_2_787x750.png\""
-" alt=\"logo\" width=\"30px\"> MIB (przeglądarka obrazów mikroskopowych)"
+"<img src=\"https://us1.discourse-"
+"cdn.com/flex015/uploads/imagej/optimized/3X/7/4/74273a1f9a663b52053d44c9767ed49193f2170f_2_787x750.png\""
+" alt=\"logo\" width=\"30px\"> MIB (Przeglądarka obrazów mikroskopowych)"
 
 #: ../../03_Image_analysis/GeneralUseSoftware.md:124
 msgid ""
@@ -944,12 +944,12 @@ msgstr ""
 
 #: ../../03_Image_analysis/GeneralUseSoftware.md:152
 msgid ""
-"<img src=\"https://global.discourse-"
-"cdn.com/business4/uploads/imagej/optimized/3X/7/7/775e83f70639e1cb7cb299d8681d272e18718089_2_750x750.png\""
+"<img src=\"https://us1.discourse-"
+"cdn.com/flex015/uploads/imagej/optimized/3X/7/7/775e83f70639e1cb7cb299d8681d272e18718089_2_750x750.png\""
 " alt=\"logo\" width=\"30px\"> napari"
 msgstr ""
-" <img src=\"https://global.discourse-"
-"cdn.com/business4/uploads/imagej/optimized/3X/7/7/775e83f70639e1cb7cb299d8681d272e18718089_2_750x750.png\""
+"<img src=\"https://us1.discourse-"
+"cdn.com/flex015/uploads/imagej/optimized/3X/7/7/775e83f70639e1cb7cb299d8681d272e18718089_2_750x750.png\""
 " alt=\"logo\" width=\"30px\"> napari"
 
 #: ../../03_Image_analysis/GeneralUseSoftware.md:154
@@ -1895,12 +1895,12 @@ msgstr ""
 
 #: ../../03_Image_analysis/SpecificUseSoftware.md:33
 msgid ""
-"<img src=\"https://global.discourse-"
-"cdn.com/business4/uploads/imagej/original/3X/9/f/9f5be5e138c63bc6a50be0bb0027b8eef0194935.png\""
+"<img src=\"https://us1.discourse-"
+"cdn.com/flex015/uploads/imagej/original/3X/9/f/9f5be5e138c63bc6a50be0bb0027b8eef0194935.png\""
 " alt=\"logo\" width=\"30px\"> ilastik"
 msgstr ""
-" <img src=\"https://global.discourse-"
-"cdn.com/business4/uploads/imagej/original/3X/9/f/9f5be5e138c63bc6a50be0bb0027b8eef0194935.png\""
+"<img src=\"https://us1.discourse-"
+"cdn.com/flex015/uploads/imagej/original/3X/9/f/9f5be5e138c63bc6a50be0bb0027b8eef0194935.png\""
 " alt=\"logo\" width=\"30px\"> ilastik"
 
 #: ../../03_Image_analysis/SpecificUseSoftware.md:35
@@ -1964,12 +1964,12 @@ msgstr ""
 
 #: ../../03_Image_analysis/SpecificUseSoftware.md:67
 msgid ""
-"<img src=\"https://global.discourse-"
-"cdn.com/business4/uploads/imagej/original/3X/3/f/3fe4d974194caabdb61a5574e24402db8484ab9b.png\""
+"<img src=\"https://us1.discourse-"
+"cdn.com/flex015/uploads/imagej/original/3X/3/f/3fe4d974194caabdb61a5574e24402db8484ab9b.png\""
 " alt=\"logo\" width=\"30px\"> Piximi"
 msgstr ""
-" <img src=\"https://global.discourse-"
-"cdn.com/business4/uploads/imagej/original/3X/3/f/3fe4d974194caabdb61a5574e24402db8484ab9b.png\""
+"<img src=\"https://us1.discourse-"
+"cdn.com/flex015/uploads/imagej/original/3X/3/f/3fe4d974194caabdb61a5574e24402db8484ab9b.png\""
 " alt=\"logo\" width=\"30px\"> Piximi"
 
 #: ../../03_Image_analysis/SpecificUseSoftware.md:70
