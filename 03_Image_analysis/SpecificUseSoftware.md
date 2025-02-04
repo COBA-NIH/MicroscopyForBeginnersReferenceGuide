@@ -30,7 +30,7 @@ Object {term}`segmentation`, most trained models are for cell {term}`segmentatio
 ```
 
 (content/ilastik)=
-## <img src="https://global.discourse-cdn.com/business4/uploads/imagej/original/3X/9/f/9f5be5e138c63bc6a50be0bb0027b8eef0194935.png" alt="logo" width="30px"> ilastik
+## <img src="https://us1.discourse-cdn.com/flex015/uploads/imagej/original/3X/9/f/9f5be5e138c63bc6a50be0bb0027b8eef0194935.png" alt="logo" width="30px"> ilastik
 
 [ilastik](https://www.ilastik.org/) {cite}`Berg2019-no` is a tool for interactive image classification, {term}`segmentation` and analysis. It leverages machine-learning algorithms to perform pixel and object-level classification. Using it requires no experience in {term}`image processing`.
 
@@ -64,7 +64,7 @@ For documentation examples and  tutorials.
 ```
 
 (content/piximi)=
-## <img src="https://global.discourse-cdn.com/business4/uploads/imagej/original/3X/3/f/3fe4d974194caabdb61a5574e24402db8484ab9b.png" alt="logo" width="30px"> Piximi
+## <img src="https://us1.discourse-cdn.com/flex015/uploads/imagej/original/3X/3/f/3fe4d974194caabdb61a5574e24402db8484ab9b.png" alt="logo" width="30px"> Piximi
 
 
 [Piximi](https://www.piximi.app/) is an application for annotation and classification that runs entirely from your browser and requires no installation and minimal setup. 

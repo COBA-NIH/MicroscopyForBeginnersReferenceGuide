@@ -306,7 +306,7 @@ msgid "🌐 [ImageJ basics](https://imagej.net/learn/)"
 msgstr ""
 
 #: ../../03_Image_analysis/GeneralUseSoftware.md:34
-msgid "<img src=\"https://global.discourse-cdn.com/business4/uploads/imagej/original/2X/b/bcdcd5ba157e07e74dd1964ec81765e708455ed9.png\" alt=\"logo\" width=\"30px\"> CellProfiler"
+msgid "<img src=\"https://us1.discourse-cdn.com/flex015/uploads/imagej/original/2X/b/bcdcd5ba157e07e74dd1964ec81765e708455ed9.png\" alt=\"logo\" width=\"30px\"> CellProfiler"
 msgstr ""
 
 #: ../../03_Image_analysis/GeneralUseSoftware.md:36
@@ -359,7 +359,7 @@ msgid "🎥 [Video tutorials and workshops](https://www.youtube.com/playlist?lis
 msgstr ""
 
 #: ../../03_Image_analysis/GeneralUseSoftware.md:66
-msgid "<img src=\"https://global.discourse-cdn.com/business4/uploads/imagej/optimized/3X/6/0/6039b2daa4b6b1c32943f63f464cf3c477898bfe_2_750x750.png\" alt=\"logo\" width=\"30px\"> QuPath"
+msgid "<img src=\"https://us1.discourse-cdn.com/flex015/uploads/imagej/optimized/3X/6/0/6039b2daa4b6b1c32943f63f464cf3c477898bfe_2_750x750.png\" alt=\"logo\" width=\"30px\"> QuPath"
 msgstr ""
 
 #: ../../03_Image_analysis/GeneralUseSoftware.md:68
@@ -415,7 +415,7 @@ msgid "🎥 [Bioimage analysis with Icy ](https://www.youtube.com/watch?v=myal9B
 msgstr ""
 
 #: ../../03_Image_analysis/GeneralUseSoftware.md:122
-msgid "<img src=\"https://global.discourse-cdn.com/business4/uploads/imagej/optimized/3X/7/4/74273a1f9a663b52053d44c9767ed49193f2170f_2_787x750.png\" alt=\"logo\" width=\"30px\"> MIB (Microscopy Image Browser)"
+msgid "<img src=\"https://us1.discourse-cdn.com/flex015/uploads/imagej/optimized/3X/7/4/74273a1f9a663b52053d44c9767ed49193f2170f_2_787x750.png\" alt=\"logo\" width=\"30px\"> MIB (Microscopy Image Browser)"
 msgstr ""
 
 #: ../../03_Image_analysis/GeneralUseSoftware.md:124
@@ -447,7 +447,7 @@ msgid "🎥 [Video tutorials](https://www.youtube.com/playlist?list=PLGkFvW985wz
 msgstr ""
 
 #: ../../03_Image_analysis/GeneralUseSoftware.md:152
-msgid "<img src=\"https://global.discourse-cdn.com/business4/uploads/imagej/optimized/3X/7/7/775e83f70639e1cb7cb299d8681d272e18718089_2_750x750.png\" alt=\"logo\" width=\"30px\"> napari"
+msgid "<img src=\"https://us1.discourse-cdn.com/flex015/uploads/imagej/optimized/3X/7/7/775e83f70639e1cb7cb299d8681d272e18718089_2_750x750.png\" alt=\"logo\" width=\"30px\"> napari"
 msgstr ""
 
 #: ../../03_Image_analysis/GeneralUseSoftware.md:154
@@ -930,7 +930,7 @@ msgid "🎥 [How to use tutorial](https://www.youtube.com/watch?v=5qANHWoubZU)"
 msgstr ""
 
 #: ../../03_Image_analysis/SpecificUseSoftware.md:33
-msgid "<img src=\"https://global.discourse-cdn.com/business4/uploads/imagej/original/3X/9/f/9f5be5e138c63bc6a50be0bb0027b8eef0194935.png\" alt=\"logo\" width=\"30px\"> ilastik"
+msgid "<img src=\"https://us1.discourse-cdn.com/flex015/uploads/imagej/original/3X/9/f/9f5be5e138c63bc6a50be0bb0027b8eef0194935.png\" alt=\"logo\" width=\"30px\"> ilastik"
 msgstr ""
 
 #: ../../03_Image_analysis/SpecificUseSoftware.md:35
@@ -962,7 +962,7 @@ msgid "🌐 [User guide](https://www.ilastik.org/documentation/index.html#user-d
 msgstr ""
 
 #: ../../03_Image_analysis/SpecificUseSoftware.md:67
-msgid "<img src=\"https://global.discourse-cdn.com/business4/uploads/imagej/original/3X/3/f/3fe4d974194caabdb61a5574e24402db8484ab9b.png\" alt=\"logo\" width=\"30px\"> Piximi"
+msgid "<img src=\"https://us1.discourse-cdn.com/flex015/uploads/imagej/original/3X/3/f/3fe4d974194caabdb61a5574e24402db8484ab9b.png\" alt=\"logo\" width=\"30px\"> Piximi"
 msgstr ""
 
 #: ../../03_Image_analysis/SpecificUseSoftware.md:70
