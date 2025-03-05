@@ -184,7 +184,7 @@ msgstr ""
 msgid ""
 "Tissues have more intact cell-cell interactions that are generally more "
 "representative of what happens _in vivo_ than in cell culture."
-msgstr "組織には細胞間相互作用がより無傷に保たれており、一般に細胞培養よりも生体内で起こることをよりよく表している。"
+msgstr "組織では細胞間の相互作用がより完全な状態にあり、これは一般に細胞培養よりも生体内で起こっていることをよりよく表しています。"
 
 #: ../../01_Sample_preparation/Considerations.md:53
 msgid ""
