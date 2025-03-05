@@ -204,7 +204,7 @@ msgstr ""
 msgid ""
 "Tissues harvested from a whole animal or plant require time for the "
 "development and growth of that specimen before harvesting."
-msgstr "動物や植物全体から採取された組織は、採取前にその標本の発育・成長のための時間を必要とする。"
+msgstr "動物や植物全体から採取した組織は、採取前にその標本が発達し成長する時間が必要です。"
 
 #: ../../01_Sample_preparation/Considerations.md:63
 msgid "**Whole organism / embryo**"
