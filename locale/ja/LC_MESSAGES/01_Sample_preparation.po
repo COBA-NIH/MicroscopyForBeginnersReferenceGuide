@@ -237,7 +237,8 @@ msgid ""
 "clearing`) of the sample to make its {term}`refractive index` match that of "
 "the imaging media and reduce absorption and scattering of light."
 msgstr ""
-"厚い試料のイメージングには、{term}`屈折率`をイメージング媒体の屈折率に一致させ、光の吸収や散乱を減らすために、試料の処理（{term}`組織クリアリング`）が必要になる場合がある。"
+"より厚い標本をイメージングする場合は、サンプルの {term}`屈折率` "
+"をイメージング媒体の屈折率と一致させ、光の吸収と散乱を減らすために、サンプルの処理 ({term}`組織透明化`) が必要になる場合があります。"
 
 #: ../../01_Sample_preparation/Considerations.md:75
 msgid ""
