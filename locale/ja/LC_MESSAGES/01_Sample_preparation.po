@@ -166,7 +166,7 @@ msgstr ""
 
 #: ../../01_Sample_preparation/Considerations.md:45
 msgid "**Tissue**"
-msgstr "**組織"
+msgstr "**組織**"
 
 #: ../../01_Sample_preparation/Considerations.md:47
 msgid ""
