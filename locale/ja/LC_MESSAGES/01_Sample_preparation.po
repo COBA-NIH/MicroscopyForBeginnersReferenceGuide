@@ -154,7 +154,8 @@ msgstr ""
 msgid ""
 "Organoids can take more complex resources and protocols to grow and can take"
 " more time than just growing cultured cells on glass or plastic."
-msgstr "オルガノイドを培養するには、より複雑なリソースとプロトコルが必要で、ガラスやプラスチックの上で培養細胞を育てるよりも時間がかかる。"
+msgstr ""
+"オルガノイドの成長にはより複雑なリソースとプロトコルが必要となり、ガラスやプラスチック上で培養細胞を成長させるだけの場合よりも時間がかかることがあります。"
 
 #: ../../01_Sample_preparation/Considerations.md:41
 msgid ""
