@@ -198,7 +198,7 @@ msgid ""
 "immortalized cell lines and can be more difficult to grow and may require "
 "specialized protocols depending on cell type."
 msgstr ""
-"プライマリー細胞や組織は、不死化細胞株よりも環境に敏感な傾向があり、増殖が難しく、細胞の種類によっては特殊なプロトコルが必要になることもある。"
+"初代培養細胞および組織は、不死化細胞株よりも環境に敏感な傾向があり、増殖がより困難になる可能性があり、細胞の種類に応じて特殊なプロトコルが必要になる場合があります。"
 
 #: ../../01_Sample_preparation/Considerations.md:59
 msgid ""
