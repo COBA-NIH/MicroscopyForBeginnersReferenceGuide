@@ -246,7 +246,8 @@ msgid ""
 "overseen by bioethical committees and needs to be approved by IACUC and/or "
 "other institutional committees."
 msgstr ""
-"イントラビタルイメージングはしばしば特殊な手術手技を必要とし、生命倫理委員会の監督を受け、IACUCおよび/または他の施設委員会の承認を得る必要がある。"
+"生体内イメージングには多くの場合、特定の外科手術の技術が必要であり、生命倫理委員会によって監督され、IACUC "
+"やその他の機関の委員会による承認が必要です。"
 
 #: ../../01_Sample_preparation/Considerations.md:0
 msgid "<span style=\"color: red\">⚠️</span> Where can things go wrong?"
