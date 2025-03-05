@@ -207,7 +207,7 @@ msgstr "動物や植物全体から採取された組織は、採取前にその
 
 #: ../../01_Sample_preparation/Considerations.md:63
 msgid "**Whole organism / embryo**"
-msgstr "**生物全体／胚"
+msgstr "**生物全体／胚**"
 
 #: ../../01_Sample_preparation/Considerations.md:65
 msgid ""
