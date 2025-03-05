@@ -163,7 +163,7 @@ msgid ""
 "widefield imaging and may require spinning disk or point-scanning confocal "
 "microscopy."
 msgstr ""
-"オルガノイドは3次元構造であるため、広視野イメージングができないことが多く、スピニングディスク顕微鏡やポイントスキャン共焦点顕微鏡が必要になることがある。"
+"オルガノイドは3次元構造であるため、広視野イメージングができないことが多く、スピニングディスク顕微鏡やポイントスキャン共焦点顕微鏡が必要になることがあります。"
 
 #: ../../01_Sample_preparation/Considerations.md:45
 msgid "**Tissue**"
