@@ -229,7 +229,7 @@ msgstr ""
 msgid ""
 "Imaging whole organisms or embyros provides the most possible intact "
 "biological context when studying a particular process or structure."
-msgstr "生物全体または胚の撮影により、特定のプロセスまたは構造を研究する際に、最も完全な生物学的コンテキストが得られます。"
+msgstr "生物全体または胚の撮影は、特定のプロセスまたは構造を研究する際に、最も完全に生物学的コンテキストが得られる方法です。"
 
 #: ../../01_Sample_preparation/Considerations.md:73
 msgid ""
