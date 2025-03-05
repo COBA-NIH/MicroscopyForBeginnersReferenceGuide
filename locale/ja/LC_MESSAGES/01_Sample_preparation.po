@@ -148,7 +148,7 @@ msgid ""
 " or animal samples, and thus can model disease processes specific to a given"
 " human donor."
 msgstr ""
-"オルガノイドは、ヒトや動物のサンプルから採取した人工多能性幹細胞（iPS細胞）から作ることができるため、特定のヒトドナーに特異的な疾患プロセスをモデル化することができる。"
+"オルガノイドは、ヒトや動物のサンプルから採取した人工多能性幹細胞（iPS細胞）から作ることができるため、あるドナーに特異的な疾患プロセスをモデル化できます。"
 
 #: ../../01_Sample_preparation/Considerations.md:39
 msgid ""
