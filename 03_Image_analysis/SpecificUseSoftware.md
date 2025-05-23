@@ -67,7 +67,7 @@ For documentation examples and  tutorials.
 ## <img src="https://us1.discourse-cdn.com/flex015/uploads/imagej/original/3X/3/f/3fe4d974194caabdb61a5574e24402db8484ab9b.png" alt="logo" width="30px"> Piximi
 
 
-[Piximi](https://www.piximi.app/) is an application for annotation and classification that runs entirely from your browser and requires no installation and minimal setup. 
+[Piximi](https://www.piximi.app/) {cite}`Moser2024-vt` is an application for annotation and classification that runs entirely from your browser and requires no installation and minimal setup. 
 
 
 ```{dropdown} What type of image analysis problem is it best at?
