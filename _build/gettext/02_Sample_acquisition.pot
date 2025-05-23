@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Python \n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2024-03-29 09:37-0400\n"
+"POT-Creation-Date: 2025-05-23 21:07+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -95,54 +95,58 @@ msgid "Practical considerations"
 msgstr ""
 
 #: ../../02_Sample_acquisition/Practical_considerations.md:3
-msgid "Objective selection"
+msgid "We recommend checking out [Microtutor](https://microtutor.globalbioimaging.org/) and [MyScope](https://myscope.training/) for interactive explanations of many of these concepts!"
 msgstr ""
 
 #: ../../02_Sample_acquisition/Practical_considerations.md:5
-msgid "Microscope objectives have a number of features that must be considered when deciding which objective is right for your experiment"
+msgid "Objective selection"
 msgstr ""
 
 #: ../../02_Sample_acquisition/Practical_considerations.md:7
+msgid "Microscope objectives have a number of features that must be considered when deciding which objective is right for your experiment"
+msgstr ""
+
+#: ../../02_Sample_acquisition/Practical_considerations.md:9
 msgid "Magnification and resolution: the higher the numerical aperture (NA) of the lens, the finer the resolution one can obtain in one's sample. The NA is calculated as {math}`NA=RI * sin(θ)`, relating both to the {term}`refractive index` of the sample, glass, and {term}`immersion media` as well as the range of angles of emitted light that can be collected into the lens. Unless special techniques are used, the typical limit of resultion is calculated as {math}`d = λ / 2NA`, meaning the resolution is set both by the NA of the lens but also by the wavelength of light used for imaging."
 msgstr ""
 
-#: ../../02_Sample_acquisition/Practical_considerations.md:16
+#: ../../02_Sample_acquisition/Practical_considerations.md:18
 msgid "microtubules imaged at 488nm and 647nm"
 msgstr ""
 
-#: ../../02_Sample_acquisition/Practical_considerations.md:16
+#: ../../02_Sample_acquisition/Practical_considerations.md:18
 msgid "**Decreased resolution at longer wavelengths of light**. Microtubules imaged at a shorter wavelength of light show higher resolution than those imaged at longer wavelengths. Adapted from Jonkman J., Brown C.M., Wright G.D _et al_. Tutorial: guidance for quantitative confocal microscopy. _Nat Prot_ **15**, (2020) {cite}`Jonkman2020-bo`"
 msgstr ""
 
-#: ../../02_Sample_acquisition/Practical_considerations.md:19
+#: ../../02_Sample_acquisition/Practical_considerations.md:21
 msgid "Color correction: When performing multicolor microscopy, it is important to choose an objective lens that is labeled as `Apo` or `Super Apo`, as such lenses are corrected to focus 3 to 6 colors in the same plane at the same time. `Fluor` lenses will typically focus two colors at once."
 msgstr ""
 
-#: ../../02_Sample_acquisition/Practical_considerations.md:20
+#: ../../02_Sample_acquisition/Practical_considerations.md:22
 msgid "Working distance: The working distance (WD) gives the distance in millimeters that the lens can focus into the sample. This distance includes the coverslip and mounting media as well. If imaging a thick sample, and/or if needing to image away from the surface of the sample, it is important to ensure the lens has a sufficient working distance."
 msgstr ""
 
-#: ../../02_Sample_acquisition/Practical_considerations.md:22
+#: ../../02_Sample_acquisition/Practical_considerations.md:24
 msgid "Filter sets"
 msgstr ""
 
-#: ../../02_Sample_acquisition/Practical_considerations.md:24
+#: ../../02_Sample_acquisition/Practical_considerations.md:26
 msgid "It is important to make sure that the microscope that you want to image on has the correct filter sets for the fluorphores you wish to use. See the [section on bleedthrough](content/bleedthrough) for more information."
 msgstr ""
 
-#: ../../02_Sample_acquisition/Practical_considerations.md:26
+#: ../../02_Sample_acquisition/Practical_considerations.md:28
 msgid "Z sampling"
 msgstr ""
 
-#: ../../02_Sample_acquisition/Practical_considerations.md:28
+#: ../../02_Sample_acquisition/Practical_considerations.md:30
 msgid "If you wish to capture multiple z sections, the spacing of these setions is important if you wish to be able to perform an accurate 3D reconstruction. SVI has a [fuller mathematical explanation of this](https://svi.nl/NyquistRate),as well as an easy-to-use [online calculator](https://svi.nl/NyquistCalculator) that you can use to calculate the optimal z section spacing for your imaging conditions."
 msgstr ""
 
-#: ../../02_Sample_acquisition/Practical_considerations.md:30
+#: ../../02_Sample_acquisition/Practical_considerations.md:32
 msgid "Acquisition power/speed"
 msgstr ""
 
-#: ../../02_Sample_acquisition/Practical_considerations.md:32
+#: ../../02_Sample_acquisition/Practical_considerations.md:34
 msgid "The amount of signal captured from any fluorophore will be related not just to the intrinsic brightness of the fluorophore, but also the amount of excitation light it is exposed to (due to duration, power, or both) as well as amount of time and signal multiplication that happens at the detector (typically a camera or a photomultiplier tube (PMT)). An optimal experiment is typically one that minimizes the amount of light hitting the sample (to reduce photobleaching and/or phototoxicity) while acheiving adequate fluorescent signal and in minimal time on the equipment. How exactly to balance these competing factors will depend on the exact biology being studied and the researcher's constraints."
 msgstr ""
 
@@ -175,110 +179,158 @@ msgid "Fundamentals of microscopy explained for beginners with lots of images an
 msgstr ""
 
 #: ../../02_Sample_acquisition/Resources.md:13
-msgid "📄 Seeing is believing? A beginners' guide to practical pitfalls in image acquisition {cite}`North2006-sb`"
+msgid "🌐 Microtutor"
 msgstr ""
 
 #: ../../02_Sample_acquisition/Resources.md:14
-msgid "[link](https://doi.org/10.1083/jcb.200507103)"
+msgid "[link](https://microtutor.globalbioimaging.org/)"
 msgstr ""
 
 #: ../../02_Sample_acquisition/Resources.md:15
-msgid "An overview of common concerns to check for during sample preparation and image acquisition"
+msgid "A fantastic interactive course on fluorescence microscopy, created by the team at [Harvard CITE](https://cite.hms.harvard.edu/)"
 msgstr ""
 
 #: ../../02_Sample_acquisition/Resources.md:16
-msgid "📄 Fluorescence microscopy - avoiding the pitfalls {cite}`Brown2007-ou`"
+msgid "🌐 MyScope"
 msgstr ""
 
 #: ../../02_Sample_acquisition/Resources.md:17
-msgid "[link](https://journals.biologists.com/jcs/article/120/10/1703/29404/Fluorescence-microscopy-avoiding-the-pitfalls)"
+msgid "[link](https://myscope.training/)"
 msgstr ""
 
 #: ../../02_Sample_acquisition/Resources.md:18
-msgid "Short overview of some of the most common pitfalls for beginners to fluorescence microscopy"
+msgid "An interactive microscope simulator and learning environment developed by MicroscopyAustralia, covering a number of types of microscopy."
 msgstr ""
 
 #: ../../02_Sample_acquisition/Resources.md:19
-msgid "📄 Tutorial: guidance for quantitative confocal microscopy {cite}`Jonkman2020-bo`"
+msgid "📖 Visualizing Cells Through Microscopy"
 msgstr ""
 
 #: ../../02_Sample_acquisition/Resources.md:20
-msgid "[link](https://doi.org/10.1038/s41596-020-0313-9)"
+msgid "[link](https://open.oregonstate.education/cellbiology/chapter/microscopy/)"
 msgstr ""
 
 #: ../../02_Sample_acquisition/Resources.md:21
-msgid "Step-by-step guidance on practical considerations for sample preparation, acquisition, and image analysis; primarily though not exclusively aimed at users of confocal microscopy"
+msgid "An open textbook chapter from the \"Fundamentals of Cell Biology\" book from Oregon State University, a great introductory guide to concepts in microscopy."
 msgstr ""
 
 #: ../../02_Sample_acquisition/Resources.md:22
-msgid "📄 Best practices and tools for reporting reproducible fluorescence microscopy methods {cite}`Montero_Llopis2021-nb`"
+msgid "📄 Seeing is believing? A beginners' guide to practical pitfalls in image acquisition {cite}`North2006-sb`"
 msgstr ""
 
 #: ../../02_Sample_acquisition/Resources.md:23
-msgid "[link](https://www.nature.com/articles/s41592-021-01156-w)"
+msgid "[link](https://doi.org/10.1083/jcb.200507103)"
 msgstr ""
 
 #: ../../02_Sample_acquisition/Resources.md:24
-msgid "Guidelines and resources for accurate reporting of the most common fluorescence light microscopy techniques, emphasizing the impact of accurate microscopy metadata on data interpretation.'"
+msgid "An overview of common concerns to check for during sample preparation and image acquisition"
 msgstr ""
 
 #: ../../02_Sample_acquisition/Resources.md:25
-msgid "🎥 iBiology Microscopy Short Course"
+msgid "📄 Fluorescence microscopy - avoiding the pitfalls {cite}`Brown2007-ou`"
 msgstr ""
 
 #: ../../02_Sample_acquisition/Resources.md:26
-msgid "[link](https://www.youtube.com/watch?v=4c5ILWQmqRY&list=PLQFc-Dxlf4pSRaEk8Xi9BzS0r8-LYmwRQ)"
+msgid "[link](https://journals.biologists.com/jcs/article/120/10/1703/29404/Fluorescence-microscopy-avoiding-the-pitfalls)"
 msgstr ""
 
 #: ../../02_Sample_acquisition/Resources.md:27
-msgid "An 8 hour video series consisting of 14 videos introducting major concepts in microscopy. A longer course with >70 videos is also available."
+msgid "Short overview of some of the most common pitfalls for beginners to fluorescence microscopy"
 msgstr ""
 
 #: ../../02_Sample_acquisition/Resources.md:28
-msgid "🎥 Microcourses"
+msgid "📄 Tutorial: guidance for quantitative confocal microscopy {cite}`Jonkman2020-bo`"
 msgstr ""
 
 #: ../../02_Sample_acquisition/Resources.md:29
-msgid "[link](https://www.youtube.com/@Microcourses)"
+msgid "[link](https://doi.org/10.1038/s41596-020-0313-9)"
 msgstr ""
 
 #: ../../02_Sample_acquisition/Resources.md:30
-msgid "Videos about microscopy from the microscopy cores at Harvard Medical School"
+msgid "Step-by-step guidance on practical considerations for sample preparation, acquisition, and image analysis; primarily though not exclusively aimed at users of confocal microscopy"
 msgstr ""
 
 #: ../../02_Sample_acquisition/Resources.md:31
-msgid "🌐 Advanced Imaging Center"
+msgid "📄 Best practices and tools for reporting reproducible fluorescence microscopy methods {cite}`Montero_Llopis2021-nb`"
 msgstr ""
 
 #: ../../02_Sample_acquisition/Resources.md:32
-msgid "[link](https://www.aicjanelia.org/apply)"
+msgid "[link](https://www.nature.com/articles/s41592-021-01156-w)"
 msgstr ""
 
 #: ../../02_Sample_acquisition/Resources.md:33
-msgid "Access to the state of the art microscopy instruments and imaging experts"
+msgid "Guidelines and resources for accurate reporting of the most common fluorescence light microscopy techniques, emphasizing the impact of accurate microscopy metadata on data interpretation."
 msgstr ""
 
 #: ../../02_Sample_acquisition/Resources.md:34
-msgid "🌐 Africa Microscopy Initiative"
+msgid "📄 Believing is seeing - the deceptive influence of bias in quantitative microscopy{cite}`Lee2024-zu`"
 msgstr ""
 
 #: ../../02_Sample_acquisition/Resources.md:35
-msgid "[link](https://www.microscopy.africa/ )"
+msgid "[link](https://doi.org/10.1242/jcs.261567)"
 msgstr ""
 
 #: ../../02_Sample_acquisition/Resources.md:36
-msgid "Access to advanced microscopes, molecular biology and cell culture equipment for scientists in Africa"
+msgid "Thoughtful review on technological and especially psychological factors that can lead to biased microscopy results"
 msgstr ""
 
 #: ../../02_Sample_acquisition/Resources.md:37
-msgid "🌐 Euro-Bioimaging"
+msgid "🎥 iBiology Microscopy Short Course"
 msgstr ""
 
 #: ../../02_Sample_acquisition/Resources.md:38
-msgid "[link](https://www.eurobioimaging.eu)"
+msgid "[link](https://www.youtube.com/watch?v=4c5ILWQmqRY&list=PLQFc-Dxlf4pSRaEk8Xi9BzS0r8-LYmwRQ)"
 msgstr ""
 
 #: ../../02_Sample_acquisition/Resources.md:39
+msgid "An 8 hour video series consisting of 14 videos introducting major concepts in microscopy. A longer course with >70 videos is also available."
+msgstr ""
+
+#: ../../02_Sample_acquisition/Resources.md:40
+msgid "🎥 Microcourses"
+msgstr ""
+
+#: ../../02_Sample_acquisition/Resources.md:41
+msgid "[link](https://www.youtube.com/@Microcourses)"
+msgstr ""
+
+#: ../../02_Sample_acquisition/Resources.md:42
+msgid "Videos about microscopy from the microscopy cores at Harvard Medical School"
+msgstr ""
+
+#: ../../02_Sample_acquisition/Resources.md:43
+msgid "🌐 Advanced Imaging Center"
+msgstr ""
+
+#: ../../02_Sample_acquisition/Resources.md:44
+msgid "[link](https://www.aicjanelia.org/apply)"
+msgstr ""
+
+#: ../../02_Sample_acquisition/Resources.md:45
+msgid "Access to the state of the art microscopy instruments and imaging experts"
+msgstr ""
+
+#: ../../02_Sample_acquisition/Resources.md:46
+msgid "🌐 Africa Microscopy Initiative"
+msgstr ""
+
+#: ../../02_Sample_acquisition/Resources.md:47
+msgid "[link](https://www.microscopy.africa/ )"
+msgstr ""
+
+#: ../../02_Sample_acquisition/Resources.md:48
+msgid "Access to advanced microscopes, molecular biology and cell culture equipment for scientists in Africa"
+msgstr ""
+
+#: ../../02_Sample_acquisition/Resources.md:49
+msgid "🌐 Euro-Bioimaging"
+msgstr ""
+
+#: ../../02_Sample_acquisition/Resources.md:50
+msgid "[link](https://www.eurobioimaging.eu)"
+msgstr ""
+
+#: ../../02_Sample_acquisition/Resources.md:51
 msgid "Access to microcopy instruments and training for scientists in Europe"
 msgstr ""
 
