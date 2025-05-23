@@ -1,20 +1,20 @@
 # SOME DESCRIPTIVE TITLE.
-# Copyright (C) 2023
+# Copyright (C) 2024
 # This file is distributed under the same license as the Python package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
 # 
 # Translators:
-# Beth Cimini, 2023
 # Martin Schätz, 2023
+# Beth Cimini, 2025
 # 
 #, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: Python\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2023-05-02 14:28-0400\n"
+"POT-Creation-Date: 2025-05-23 21:07+0000\n"
 "PO-Revision-Date: 2023-05-02 18:49+0000\n"
-"Last-Translator: Martin Schätz, 2023\n"
+"Last-Translator: Beth Cimini, 2025\n"
 "Language-Team: Czech (https://app.transifex.com/center-for-open-bioimage-analysis/teams/169123/cs/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -249,10 +249,22 @@ msgid "Practical considerations"
 msgstr "Praktické úvahy"
 
 #: ../../02_Sample_acquisition/Practical_considerations.md:3
+msgid ""
+"We recommend checking out "
+"[Microtutor](https://microtutor.globalbioimaging.org/) and "
+"[MyScope](https://myscope.training/) for interactive explanations of many of"
+" these concepts!"
+msgstr ""
+"Doporučujeme se podívat na "
+"[Microtutor](https://microtutor.globalbioimaging.org/) a "
+"[MyScope](https://myscope.training/), kde najdete interaktivní vysvětlení "
+"mnoha z těchto konceptů!"
+
+#: ../../02_Sample_acquisition/Practical_considerations.md:5
 msgid "Objective selection"
 msgstr "Objektivní výběr"
 
-#: ../../02_Sample_acquisition/Practical_considerations.md:5
+#: ../../02_Sample_acquisition/Practical_considerations.md:7
 msgid ""
 "Microscope objectives have a number of features that must be considered when"
 " deciding which objective is right for your experiment"
@@ -260,7 +272,7 @@ msgstr ""
 "Mikroskopické objektivy mají řadu vlastností, které je třeba vzít v úvahu "
 "při rozhodování, který objektiv je vhodný pro váš experiment."
 
-#: ../../02_Sample_acquisition/Practical_considerations.md:7
+#: ../../02_Sample_acquisition/Practical_considerations.md:9
 msgid ""
 "Magnification and resolution: the higher the numerical aperture (NA) of the "
 "lens, the finer the resolution one can obtain in one's sample. The NA is "
@@ -280,11 +292,11 @@ msgstr ""
 "nastaveno jak NA objektivu, tak i vlnovou délkou světla použitého pro "
 "zobrazování."
 
-#: ../../02_Sample_acquisition/Practical_considerations.md:16
+#: ../../02_Sample_acquisition/Practical_considerations.md:18
 msgid "microtubules imaged at 488nm and 647nm"
 msgstr "mikrotubuly zobrazené při 488nm a 647nm"
 
-#: ../../02_Sample_acquisition/Practical_considerations.md:16
+#: ../../02_Sample_acquisition/Practical_considerations.md:18
 msgid ""
 "**Decreased resolution at longer wavelengths of light**. Microtubules imaged"
 " at a shorter wavelength of light show higher resolution than those imaged "
@@ -299,7 +311,7 @@ msgstr ""
 "quantitative confocal microscopy. _Nat Prot_ **15**, (2020) "
 "{cite}`Jonkman2020-bo`"
 
-#: ../../02_Sample_acquisition/Practical_considerations.md:19
+#: ../../02_Sample_acquisition/Practical_considerations.md:21
 msgid ""
 "Color correction: When performing multicolor microscopy, it is important to "
 "choose an objective lens that is labeled as `Apo` or `Super Apo`, as such "
@@ -311,7 +323,7 @@ msgstr ""
 " čočky jsou korigovány tak, aby zaostřily 3 až 6 barev ve stejné rovině "
 "současně. \"Fluor\" čočky obvykle zaostří dvě barvy najednou."
 
-#: ../../02_Sample_acquisition/Practical_considerations.md:20
+#: ../../02_Sample_acquisition/Practical_considerations.md:22
 msgid ""
 "Working distance: The working distance (WD) gives the distance in "
 "millimeters that the lens can focus into the sample. This distance includes "
@@ -325,11 +337,11 @@ msgstr ""
 " pokud je potřeba zobrazovat mimo povrch vzorku, je důležité zajistit, aby "
 "čočka měla dostatečnou pracovní vzdálenost."
 
-#: ../../02_Sample_acquisition/Practical_considerations.md:22
+#: ../../02_Sample_acquisition/Practical_considerations.md:24
 msgid "Filter sets"
 msgstr "Sady filtrů"
 
-#: ../../02_Sample_acquisition/Practical_considerations.md:24
+#: ../../02_Sample_acquisition/Practical_considerations.md:26
 msgid ""
 "It is important to make sure that the microscope that you want to image on "
 "has the correct filter sets for the fluorphores you wish to use. See the "
@@ -339,11 +351,11 @@ msgstr ""
 "správné sady filtrů pro fluorfory, které chcete použít. Další informace "
 "naleznete v [části o bleedthrough](content/bleedthrough)."
 
-#: ../../02_Sample_acquisition/Practical_considerations.md:26
+#: ../../02_Sample_acquisition/Practical_considerations.md:28
 msgid "Z sampling"
 msgstr "Z-vzorkování"
 
-#: ../../02_Sample_acquisition/Practical_considerations.md:28
+#: ../../02_Sample_acquisition/Practical_considerations.md:30
 msgid ""
 "If you wish to capture multiple z sections, the spacing of these setions is "
 "important if you wish to be able to perform an accurate 3D reconstruction. "
@@ -359,11 +371,11 @@ msgstr ""
 "můžete použít abyste vypočítali optimální rozteč řezů z pro vaše zobrazovací"
 " podmínky."
 
-#: ../../02_Sample_acquisition/Practical_considerations.md:30
+#: ../../02_Sample_acquisition/Practical_considerations.md:32
 msgid "Acquisition power/speed"
 msgstr "Akviziční výkon/rychlost"
 
-#: ../../02_Sample_acquisition/Practical_considerations.md:32
+#: ../../02_Sample_acquisition/Practical_considerations.md:34
 msgid ""
 "The amount of signal captured from any fluorophore will be related not just "
 "to the intrinsic brightness of the fluorophore, but also the amount of "
@@ -420,6 +432,57 @@ msgstr ""
 "popisem pojmů používaných v mikroskopii"
 
 #: ../../02_Sample_acquisition/Resources.md:13
+msgid "🌐 Microtutor"
+msgstr "🌐 Mikrotutor"
+
+#: ../../02_Sample_acquisition/Resources.md:14
+msgid "[link](https://microtutor.globalbioimaging.org/)"
+msgstr "[odkaz](https://microtutor.globalbioimaging.org/)"
+
+#: ../../02_Sample_acquisition/Resources.md:15
+msgid ""
+"A fantastic interactive course on fluorescence microscopy, created by the "
+"team at [Harvard CITE](https://cite.hms.harvard.edu/)"
+msgstr ""
+"Fantastický interaktivní kurz fluorescenční mikroskopie, vytvořený týmem "
+"[Harvard CITE](https://cite.hms.harvard.edu/)"
+
+#: ../../02_Sample_acquisition/Resources.md:16
+msgid "🌐 MyScope"
+msgstr "🌐 MůjRozsah"
+
+#: ../../02_Sample_acquisition/Resources.md:17
+msgid "[link](https://myscope.training/)"
+msgstr "[odkaz](https://myscope.training/)"
+
+#: ../../02_Sample_acquisition/Resources.md:18
+msgid ""
+"An interactive microscope simulator and learning environment developed by "
+"MicroscopyAustralia, covering a number of types of microscopy."
+msgstr ""
+"Interaktivní simulátor mikroskopu a výukové prostředí vyvinuté společností "
+"MicroscopyAustralia, které zahrnuje řadu typů mikroskopie."
+
+#: ../../02_Sample_acquisition/Resources.md:19
+msgid "📖 Visualizing Cells Through Microscopy"
+msgstr "📖 Vizualizace buněk pomocí mikroskopie"
+
+#: ../../02_Sample_acquisition/Resources.md:20
+msgid ""
+"[link](https://open.oregonstate.education/cellbiology/chapter/microscopy/)"
+msgstr ""
+"[odkaz](https://open.oregonstate.education/cellbiology/chapter/microscopy/)"
+
+#: ../../02_Sample_acquisition/Resources.md:21
+msgid ""
+"An open textbook chapter from the \"Fundamentals of Cell Biology\" book from"
+" Oregon State University, a great introductory guide to concepts in "
+"microscopy."
+msgstr ""
+"Kapitola z otevřené učebnice z knihy „Základy buněčné biologie“ od Oregonské"
+" státní univerzity, skvělého úvodního průvodce koncepty v mikroskopii."
+
+#: ../../02_Sample_acquisition/Resources.md:22
 msgid ""
 "📄 Seeing is believing? A beginners' guide to practical pitfalls in image "
 "acquisition {cite}`North2006-sb`"
@@ -427,11 +490,11 @@ msgstr ""
 "📄 Seeing is believing? A beginners' guide to practical pitfalls in image "
 "acquisition {cite}`North2006-sb`"
 
-#: ../../02_Sample_acquisition/Resources.md:14
+#: ../../02_Sample_acquisition/Resources.md:23
 msgid "[link](https://doi.org/10.1083/jcb.200507103)"
 msgstr "[odkaz](https://doi.org/10.1083/jcb.200507103)"
 
-#: ../../02_Sample_acquisition/Resources.md:15
+#: ../../02_Sample_acquisition/Resources.md:24
 msgid ""
 "An overview of common concerns to check for during sample preparation and "
 "image acquisition"
@@ -439,12 +502,12 @@ msgstr ""
 "Přehled běžných problémů, kterým je třeba předejít během přípravy vzorku a "
 "pořízení snímku"
 
-#: ../../02_Sample_acquisition/Resources.md:16
+#: ../../02_Sample_acquisition/Resources.md:25
 msgid "📄 Fluorescence microscopy - avoiding the pitfalls {cite}`Brown2007-ou`"
 msgstr ""
 "📄 Fluorescence microscopy - avoiding the pitfalls {cite}`Brown2007-ou`"
 
-#: ../../02_Sample_acquisition/Resources.md:17
+#: ../../02_Sample_acquisition/Resources.md:26
 msgid ""
 "[link](https://journals.biologists.com/jcs/article/120/10/1703/29404/Fluorescence-"
 "microscopy-avoiding-the-pitfalls)"
@@ -452,7 +515,7 @@ msgstr ""
 "[odkaz](https://journals.biologists.com/jcs/article/120/10/1703/29404/Fluorescence-"
 "microscopy-avoiding-the-pitfalls)"
 
-#: ../../02_Sample_acquisition/Resources.md:18
+#: ../../02_Sample_acquisition/Resources.md:27
 msgid ""
 "Short overview of some of the most common pitfalls for beginners to "
 "fluorescence microscopy"
@@ -460,7 +523,7 @@ msgstr ""
 "Krátký přehled nejčastějších úskalí pro začátečníky ve fluorescenční "
 "mikroskopii"
 
-#: ../../02_Sample_acquisition/Resources.md:19
+#: ../../02_Sample_acquisition/Resources.md:28
 msgid ""
 "📄 Tutorial: guidance for quantitative confocal microscopy "
 "{cite}`Jonkman2020-bo`"
@@ -468,11 +531,11 @@ msgstr ""
 "📄 Tutorial: guidance for quantitative confocal microscopy "
 "{cite}`Jonkman2020-bo`"
 
-#: ../../02_Sample_acquisition/Resources.md:20
+#: ../../02_Sample_acquisition/Resources.md:29
 msgid "[link](https://doi.org/10.1038/s41596-020-0313-9)"
 msgstr "[odkaz](https://doi.org/10.1038/s41596-020-0313-9)"
 
-#: ../../02_Sample_acquisition/Resources.md:21
+#: ../../02_Sample_acquisition/Resources.md:30
 msgid ""
 "Step-by-step guidance on practical considerations for sample preparation, "
 "acquisition, and image analysis; primarily though not exclusively aimed at "
@@ -482,7 +545,7 @@ msgstr ""
 "analýze obrazu; primárně, i když ne výhradně, zaměřena na uživatele "
 "konfokální mikroskopie"
 
-#: ../../02_Sample_acquisition/Resources.md:22
+#: ../../02_Sample_acquisition/Resources.md:31
 msgid ""
 "📄 Best practices and tools for reporting reproducible fluorescence "
 "microscopy methods {cite}`Montero_Llopis2021-nb`"
@@ -490,25 +553,45 @@ msgstr ""
 "📄 Best practices and tools for reporting reproducible fluorescence "
 "microscopy methods {cite}`Montero_Llopis2021-nb`"
 
-#: ../../02_Sample_acquisition/Resources.md:23
+#: ../../02_Sample_acquisition/Resources.md:32
 msgid "[link](https://www.nature.com/articles/s41592-021-01156-w)"
 msgstr "[odkaz](https://www.nature.com/articles/s41592-021-01156-w)"
 
-#: ../../02_Sample_acquisition/Resources.md:24
+#: ../../02_Sample_acquisition/Resources.md:33
 msgid ""
 "Guidelines and resources for accurate reporting of the most common "
 "fluorescence light microscopy techniques, emphasizing the impact of accurate"
-" microscopy metadata on data interpretation.'"
+" microscopy metadata on data interpretation."
 msgstr ""
-"Pokyny a zdroje pro přesné podávání zpráv o nejběžnějších technikách "
-"fluorescenční světelné mikroskopie, zdůrazňující dopad přesných "
-"mikroskopických metadat na interpretaci dat.'"
+"Pokyny a zdroje pro přesné hlášení nejběžnějších technik fluorescenční "
+"světelné mikroskopie s důrazem na dopad přesných metadat mikroskopie na "
+"interpretaci dat."
 
-#: ../../02_Sample_acquisition/Resources.md:25
+#: ../../02_Sample_acquisition/Resources.md:34
+msgid ""
+"📄 Believing is seeing - the deceptive influence of bias in quantitative "
+"microscopy{cite}`Lee2024-zu`"
+msgstr ""
+"📄 Věřit znamená vidět - klamný vliv zkreslení v kvantitativní "
+"mikroskopii{cite}`Lee2024-zu`"
+
+#: ../../02_Sample_acquisition/Resources.md:35
+msgid "[link](https://doi.org/10.1242/jcs.261567)"
+msgstr "[odkaz](https://doi.org/10.1242/jcs.261567)"
+
+#: ../../02_Sample_acquisition/Resources.md:36
+msgid ""
+"Thoughtful review on technological and especially psychological factors that"
+" can lead to biased microscopy results"
+msgstr ""
+"Promyšlený přehled technologických a zejména psychologických faktorů, které "
+"mohou vést ke zkresleným výsledkům mikroskopie"
+
+#: ../../02_Sample_acquisition/Resources.md:37
 msgid "🎥 iBiology Microscopy Short Course"
 msgstr "🎥 iBiology Microscopy Short Course"
 
-#: ../../02_Sample_acquisition/Resources.md:26
+#: ../../02_Sample_acquisition/Resources.md:38
 msgid ""
 "[link](https://www.youtube.com/watch?v=4c5ILWQmqRY&list=PLQFc-"
 "Dxlf4pSRaEk8Xi9BzS0r8-LYmwRQ)"
@@ -516,7 +599,7 @@ msgstr ""
 "[odkaz](https://www.youtube.com/watch?v=4c5ILWQmqRY&list=PLQFc-"
 "Dxlf4pSRaEk8Xi9BzS0r8-LYmwRQ)"
 
-#: ../../02_Sample_acquisition/Resources.md:27
+#: ../../02_Sample_acquisition/Resources.md:39
 msgid ""
 "An 8 hour video series consisting of 14 videos introducting major concepts "
 "in microscopy. A longer course with >70 videos is also available."
@@ -524,44 +607,44 @@ msgstr ""
 "14-dílná 8-hodinová série videí představujících hlavní pojmy v mikroskopii. "
 "K dispozici je také delší kurz s více jak 70 videi."
 
-#: ../../02_Sample_acquisition/Resources.md:28
+#: ../../02_Sample_acquisition/Resources.md:40
 msgid "🎥 Microcourses"
 msgstr "🎥 Mikrokurzy"
 
-#: ../../02_Sample_acquisition/Resources.md:29
+#: ../../02_Sample_acquisition/Resources.md:41
 msgid "[link](https://www.youtube.com/@Microcourses)"
 msgstr "[odkaz](https://www.youtube.com/@Microcourses)"
 
-#: ../../02_Sample_acquisition/Resources.md:30
+#: ../../02_Sample_acquisition/Resources.md:42
 msgid ""
 "Videos about microscopy from the microscopy cores at Harvard Medical School"
 msgstr ""
 "Videa o mikroskopii z mikroskopických core facilit Harvard Medical School"
 
-#: ../../02_Sample_acquisition/Resources.md:31
+#: ../../02_Sample_acquisition/Resources.md:43
 msgid "🌐 Advanced Imaging Center"
 msgstr "🌐 Advanced Imaging Center"
 
-#: ../../02_Sample_acquisition/Resources.md:32
+#: ../../02_Sample_acquisition/Resources.md:44
 msgid "[link](https://www.aicjanelia.org/apply)"
 msgstr "[odkaz](https://www.aicjanelia.org/apply)"
 
-#: ../../02_Sample_acquisition/Resources.md:33
+#: ../../02_Sample_acquisition/Resources.md:45
 msgid ""
 "Access to the state of the art microscopy instruments and imaging experts"
 msgstr ""
 "Přístup k nejmodernějším mikroskopickým přístrojům a odborníkům na "
 "zobrazování"
 
-#: ../../02_Sample_acquisition/Resources.md:34
+#: ../../02_Sample_acquisition/Resources.md:46
 msgid "🌐 Africa Microscopy Initiative"
 msgstr "🌐 Africa Microscopy Initiative"
 
-#: ../../02_Sample_acquisition/Resources.md:35
+#: ../../02_Sample_acquisition/Resources.md:47
 msgid "[link](https://www.microscopy.africa/ )"
 msgstr "[link](https://www.microscopy.africa/ )"
 
-#: ../../02_Sample_acquisition/Resources.md:36
+#: ../../02_Sample_acquisition/Resources.md:48
 msgid ""
 "Access to advanced microscopes, molecular biology and cell culture equipment"
 " for scientists in Africa"
@@ -569,15 +652,15 @@ msgstr ""
 "Přístup k pokročilým mikroskopům, molekulární biologii a vybavení pro "
 "buněčnou kulturu pro vědce v Africe"
 
-#: ../../02_Sample_acquisition/Resources.md:37
+#: ../../02_Sample_acquisition/Resources.md:49
 msgid "🌐 Euro-Bioimaging"
 msgstr "🌐 Euro-Bioimaging"
 
-#: ../../02_Sample_acquisition/Resources.md:38
+#: ../../02_Sample_acquisition/Resources.md:50
 msgid "[link](https://www.eurobioimaging.eu)"
 msgstr "[odkaz](https://www.eurobioimaging.eu)"
 
-#: ../../02_Sample_acquisition/Resources.md:39
+#: ../../02_Sample_acquisition/Resources.md:51
 msgid "Access to microcopy instruments and training for scientists in Europe"
 msgstr "Přístup k mikroskopům a školení pro vědce v Evropě"
 
