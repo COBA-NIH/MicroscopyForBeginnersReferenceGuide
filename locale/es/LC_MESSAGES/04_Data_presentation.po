@@ -5,16 +5,16 @@
 # 
 # Translators:
 # Mariana De Niz, 2024
-# Beth Cimini, 2024
+# Beth Cimini, 2025
 # 
 #, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: Python\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2024-03-29 15:03+0000\n"
+"POT-Creation-Date: 2025-05-23 21:07+0000\n"
 "PO-Revision-Date: 2023-05-02 18:49+0000\n"
-"Last-Translator: Beth Cimini, 2024\n"
+"Last-Translator: Beth Cimini, 2025\n"
 "Language-Team: Spanish (https://app.transifex.com/center-for-open-bioimage-analysis/teams/169123/es/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -390,14 +390,14 @@ msgstr "¿Dónde puedo aprender más?"
 msgid ""
 "Check out _Creating clear and informative image-based figures for scientific"
 " publications_{cite}`Jambor2021-qe` and _Community-developed checklists for "
-"publishing images and image analysis_{cite}`Schmied2023-ad` for more tips "
+"publishing images and image analysis_{cite}`Schmied2024-et` for more tips "
 "and best practices for making image figures."
 msgstr ""
 "Consulte _Creación de figuras claras e informativas basadas en imágenes para"
 " publicaciones científicas_{cite}`Jambor2021-qe` y _Listas de verificación "
-"desarrolladas por la comunidad para publicar imágenes y análisis de "
-"imágenes_{cite}`Schmied2023-ad` para obtener más consejos y mejores "
-"prácticas para hacer figuras de imágenes. ."
+"desarrolladas por la comunidad para publicación de imágenes y análisis de "
+"imágenes_{cite}`Schmied2024-et` para obtener más sugerencias y mejores "
+"prácticas para crear figuras con imágenes."
 
 #: ../../04_Data_presentation/Presentation_images.md:114
 msgid ""
@@ -464,14 +464,14 @@ msgstr ""
 #: ../../04_Data_presentation/Resources.md:14
 msgid ""
 "📄 Community-developed checklists for publishing images and image analysis "
-"{cite}`Schmied2023-ad`"
+"{cite}`Schmied2024-et`"
 msgstr ""
-"📄 Listas de verificación desarrolladas por la comunidad para publicar "
-"imágenes y analizar imágenes {cite}`Schmied2023-ad`"
+"📄 Listas de verificación desarrolladas por la comunidad para la publicación "
+"de imágenes y el análisis de imágenes {cite}`Schmied2024-et`"
 
 #: ../../04_Data_presentation/Resources.md:15
-msgid "[link](https://arxiv.org/abs/2302.07005)"
-msgstr "[enlace](https://arxiv.org/abs/2302.07005)"
+msgid "[link](https://doi.org/10.1038/s41592-023-01987-9)"
+msgstr "[enlace](https://doi.org/10.1038/s41592-023-01987-9)"
 
 #: ../../04_Data_presentation/Resources.md:16
 msgid ""
