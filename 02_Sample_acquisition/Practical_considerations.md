@@ -1,5 +1,7 @@
 # Practical considerations
 
+We recommend checking out [Microtutor](https://microtutor.globalbioimaging.org/) and [MyScope](https://myscope.training/) for interactive explanations of many of these concepts!
+
 ## Objective selection
 
 Microscope objectives have a number of features that must be considered when deciding which objective is right for your experiment

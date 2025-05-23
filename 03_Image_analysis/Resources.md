@@ -10,6 +10,9 @@
 * - 🌐 Image.sc {cite}`Rueden2019-qp`
   - [link](https://forum.image.sc/)
   - Discussion forum for bioimage analysis software
+* - 🌐 GloBIAS Bioimage Analyst Database
+  - [link](https://www.globias.org/resources/bioimage-analyst-db)
+  - Find the friendly local bioimage analyst near you!
 * - 🌐 Peter Bankhead’s Intro to Bioimage Analysis
   - [link](https://bioimagebook.github.io/)
   - Guide for absolute beginners to image analysis, including embedded questions/answers, exercises with Python and ImageJ, and videos to check understanding
@@ -22,7 +25,7 @@
 * - 📄 Made to measure: an introduction to quantification in microscopy data 
   - [link](https://arxiv.org/abs/2302.01657#) {cite}`Culley2023-dj`
   - An article describing several common classes of measurements made in microscopy data, as well as technical factors that may affect the results
-* - 🌐 Metrics Reloaded
+* - 🌐 Metrics Reloaded {cite}`Maier-Hein2024-cp,Reinke2024-aj,reinke2023common`
   - [link](https://metrics-reloaded.dkfz.de/)
   - An interactive guide to choosing the right metric for your scientific question
 * - 📄 A Hitchhiker's guide through the bio-image analysis software universe {cite}`Haase2022-ad`
@@ -49,4 +52,7 @@
 * - 🌐 Bioimage Analysis Notebooks
   - [link](https://haesleinhuepf.github.io/BioImageAnalysisNotebooks/)
   - A collection of Python Jupyter notebooks for BioImageAnalysis, GPU-accelerated image processing, bio-image data science and more
+* - 📄 Believing is seeing - the deceptive influence of bias in quantitative microscopy{cite}`Lee2024-zu`
+  - [link](https://doi.org/10.1242/jcs.261567)
+  - Thoughtful review on technological and especially psychological factors that can lead to biased microscopy results
 ```
