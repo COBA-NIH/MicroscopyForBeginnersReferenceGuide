@@ -5,16 +5,16 @@
 # 
 # Translators:
 # Mario Costa Cruz, 2024
-# Beth Cimini, 2024
+# Beth Cimini, 2025
 # 
 #, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: Python\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2024-03-29 15:03+0000\n"
+"POT-Creation-Date: 2025-05-23 21:07+0000\n"
 "PO-Revision-Date: 2023-05-02 18:49+0000\n"
-"Last-Translator: Beth Cimini, 2024\n"
+"Last-Translator: Beth Cimini, 2025\n"
 "Language-Team: Portuguese (https://app.transifex.com/center-for-open-bioimage-analysis/teams/169123/pt/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -382,13 +382,13 @@ msgstr "Onde posso aprender mais?"
 msgid ""
 "Check out _Creating clear and informative image-based figures for scientific"
 " publications_{cite}`Jambor2021-qe` and _Community-developed checklists for "
-"publishing images and image analysis_{cite}`Schmied2023-ad` for more tips "
+"publishing images and image analysis_{cite}`Schmied2024-et` for more tips "
 "and best practices for making image figures."
 msgstr ""
 "Confira _Criando figuras claras e informativas baseadas em imagens para "
-"publicações científicas_{cite}`Jambor2021-qe` e _listas de verificação "
+"publicações científicas_{cite}`Jambor2021-qe` e _Listas de verificação "
 "desenvolvidas pela comunidade para publicação de imagens e análise de "
-"imagens_{cite}`Schmied2023-ad` para obter mais dicas e práticas recomendadas"
+"imagens_{cite}`Schmied2024-et` para obter mais dicas e práticas recomendadas"
 " para criar figuras de imagens."
 
 #: ../../04_Data_presentation/Presentation_images.md:114
@@ -456,14 +456,14 @@ msgstr ""
 #: ../../04_Data_presentation/Resources.md:14
 msgid ""
 "📄 Community-developed checklists for publishing images and image analysis "
-"{cite}`Schmied2023-ad`"
+"{cite}`Schmied2024-et`"
 msgstr ""
-"📄 Listas de checagem criadas pela comunidade para publicação e análise de "
-"imagens {cite}`Schmied2023-ad`"
+"📄 Listas de verificação desenvolvidas pela comunidade para publicação e "
+"análise de imagens {cite}`Schmied2024-et`"
 
 #: ../../04_Data_presentation/Resources.md:15
-msgid "[link](https://arxiv.org/abs/2302.07005)"
-msgstr "[link](https://arxiv.org/abs/2302.07005)"
+msgid "[link](https://doi.org/10.1038/s41592-023-01987-9)"
+msgstr "[link](https://doi.org/10.1038/s41592-023-01987-9)"
 
 #: ../../04_Data_presentation/Resources.md:16
 msgid ""
