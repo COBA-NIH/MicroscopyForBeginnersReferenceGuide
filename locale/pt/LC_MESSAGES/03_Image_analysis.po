@@ -12,7 +12,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Python\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2024-03-29 15:22+0000\n"
+"POT-Creation-Date: 2025-05-23 21:07+0000\n"
 "PO-Revision-Date: 2023-05-02 18:49+0000\n"
 "Last-Translator: Beth Cimini, 2025\n"
 "Language-Team: Portuguese (https://app.transifex.com/center-for-open-bioimage-analysis/teams/169123/pt/)\n"
@@ -1213,21 +1213,35 @@ msgid ""
 "begin, common pitfalls, and links to a few key resources to learn more. We "
 "encourage you to think about your analysis strategy even before beginning "
 "sample preparation. While not always possible, speaking with an image "
-"analysis expert in your local core facility or asking a question on the "
-"[image.sc](https://image.sc) forum _before you begin_ can save you a ton of "
-"time and headache when it comes to designing an image analysis strategy."
+"analysis expert{cite}`Cimini2024-uh` in your local core facility or asking a"
+" question on the [image.sc](https://image.sc) forum _before you begin_ can "
+"save you a ton of time and headache when it comes to designing an image "
+"analysis strategy. Some general concepts are also covered in a recent short "
+"review{cite}`."
 msgstr ""
 "As especificidades do seu fluxo de trabalho dependem da sua questão "
-"biológica. Abaixo apresentamos alguns tipos comuns de análise para "
-"experimentos de microscopia de fluorescência. Para cada um, explicaremos "
-"ideias-chave para entender antes de começar, dificuldades comuns e links "
-"para alguns recursos-chave para saber mais. Incentivamos você a pensar sobre"
-" sua estratégia de análise antes mesmo de iniciar a preparação da amostra. "
-"Embora nem sempre seja possível, falar com um especialista em análise de "
-"imagem na sua central local ou fazer uma pergunta no fórum "
+"biológica. Apresentamos abaixo alguns tipos comuns de análise para "
+"experimentos de microscopia de fluorescência. Para cada um, explicaremos as "
+"principais ideias que você precisa entender antes de começar, as armadilhas "
+"comuns e links para alguns recursos importantes para aprender mais. "
+"Incentivamos você a pensar sobre sua estratégia de análise antes mesmo de "
+"começar a preparação da amostra. Embora nem sempre seja possível, conversar "
+"com um especialista em análise de imagens{cite}`Cimini2024-uh` em sua "
+"unidade central local ou fazer uma pergunta no fórum "
 "[image.sc](https://image.sc) _antes de começar_ pode economizar muito tempo "
-"e dor de cabeça quando trata-se de projetar uma estratégia de análise de "
-"imagem."
+"e dor de cabeça na hora de elaborar uma estratégia de análise de imagens. "
+"Alguns conceitos gerais também são abordados em uma breve revisão "
+"recente{cite}`."
+
+#: ../../03_Image_analysis/Introduction.md:28
+msgid ""
+"Note that \"automated\" and \"quantified\" are not at all the same as "
+"\"accurate\" \"unbiased\" - see {cite}`Jost2019-nx` and {cite}`Lee2024-zu` "
+"for further treatment of these issues."
+msgstr ""
+"Observe que \"automatizado\" e \"quantificado\" não são a mesma coisa que "
+"\"preciso\" e \"imparcial\" - veja {cite}`Jost2019-nx` e {cite}`Lee2024-zu` "
+"para um tratamento mais aprofundado dessas questões."
 
 #: ../../03_Image_analysis/Resources.md:1
 msgid "Resources for learning more"
@@ -1258,14 +1272,26 @@ msgid "Discussion forum for bioimage analysis software"
 msgstr "Fórum de discussão de software de análise de bioimagem"
 
 #: ../../03_Image_analysis/Resources.md:13
+msgid "🌐 GloBIAS Bioimage Analyst Database"
+msgstr "🌐 Banco de dados de analistas de bioimagem GloBIAS"
+
+#: ../../03_Image_analysis/Resources.md:14
+msgid "[link](https://www.globias.org/resources/bioimage-analyst-db)"
+msgstr "[link](https://www.globias.org/resources/bioimage-analyst-db)"
+
+#: ../../03_Image_analysis/Resources.md:15
+msgid "Find the friendly local bioimage analyst near you!"
+msgstr "Encontre um analista de bioimagem local e simpático perto de você!"
+
+#: ../../03_Image_analysis/Resources.md:16
 msgid "🌐 Peter Bankhead’s Intro to Bioimage Analysis"
 msgstr "🌐 Introdução à análise de bioimagem de Peter Bankhead "
 
-#: ../../03_Image_analysis/Resources.md:14
+#: ../../03_Image_analysis/Resources.md:17
 msgid "[link](https://bioimagebook.github.io/)"
 msgstr "[link](https://bioimagebook.github.io/)"
 
-#: ../../03_Image_analysis/Resources.md:15
+#: ../../03_Image_analysis/Resources.md:18
 msgid ""
 "Guide for absolute beginners to image analysis, including embedded "
 "questions/answers, exercises with Python and ImageJ, and videos to check "
@@ -1275,17 +1301,17 @@ msgstr ""
 "perguntas/respostas, exercícios com Python e ImageJ e vídeos para checar a "
 "compreensão"
 
-#: ../../03_Image_analysis/Resources.md:16
+#: ../../03_Image_analysis/Resources.md:19
 msgid "📖 Bioimage Data Analysis {cite}`Miura2016-wq`"
 msgstr "📖 Análise de dados de bioimagem {cite}`Miura2016-wq`"
 
-#: ../../03_Image_analysis/Resources.md:17
+#: ../../03_Image_analysis/Resources.md:20
 msgid ""
 "[link](https://analyticalscience.wiley.com/do/10.1002/was.00050003/full/bioimagedataanalysis.pdf)"
 msgstr ""
 "[link](https://analyticalscience.wiley.com/do/10.1002/was.00050003/full/bioimagedataanalysis.pdf)"
 
-#: ../../03_Image_analysis/Resources.md:18
+#: ../../03_Image_analysis/Resources.md:21
 msgid ""
 "A free online textbook introducing various topics by Bioimage Analysis "
 "experts, edited by Kota Miura"
@@ -1293,15 +1319,15 @@ msgstr ""
 "Um livro online gratuito apresentando vários tópicos por especialistas em "
 "análise de bioimagem, editado por Kota Miura"
 
-#: ../../03_Image_analysis/Resources.md:19
+#: ../../03_Image_analysis/Resources.md:22
 msgid "📄 Reproducible image handling and analysis {cite}`Miura2021-mb`"
 msgstr "📄 Manuseio e análise de imagens reproduzíveis {cite}`Miura2021-mb`"
 
-#: ../../03_Image_analysis/Resources.md:20
+#: ../../03_Image_analysis/Resources.md:23
 msgid "[link](https://www.embopress.org/doi/full/10.15252/embj.2020105889)"
 msgstr "[link](https://www.embopress.org/doi/full/10.15252/embj.2020105889)"
 
-#: ../../03_Image_analysis/Resources.md:21
+#: ../../03_Image_analysis/Resources.md:24
 msgid ""
 "An article reviewing major pitfalls in image handling and how to avoid them "
 "and create reproducible analysis workflows"
@@ -1309,17 +1335,17 @@ msgstr ""
 "Um artigo analisando as principais dificuldades no manuseio de imagens e "
 "como evitá-las e criar fluxos de trabalho de análise reproduzíveis"
 
-#: ../../03_Image_analysis/Resources.md:22
+#: ../../03_Image_analysis/Resources.md:25
 msgid ""
 "📄 Made to measure: an introduction to quantification in microscopy data"
 msgstr ""
 "📄 Feito sob medida: uma introdução à quantificação em dados de microscopia"
 
-#: ../../03_Image_analysis/Resources.md:23
+#: ../../03_Image_analysis/Resources.md:26
 msgid "[link](https://arxiv.org/abs/2302.01657#) {cite}`Culley2023-dj`"
 msgstr "[link](https://arxiv.org/abs/2302.01657#) {cite}`Culley2023-dj`"
 
-#: ../../03_Image_analysis/Resources.md:24
+#: ../../03_Image_analysis/Resources.md:27
 msgid ""
 "An article describing several common classes of measurements made in "
 "microscopy data, as well as technical factors that may affect the results"
@@ -1327,22 +1353,25 @@ msgstr ""
 "Um artigo descrevendo várias classes comuns de medições feitas em dados de "
 "microscopia, bem como fatores técnicos que podem afetar os resultados"
 
-#: ../../03_Image_analysis/Resources.md:25
-msgid "🌐 Metrics Reloaded"
-msgstr "🌐 Métricas recarregadas"
+#: ../../03_Image_analysis/Resources.md:28
+msgid ""
+"🌐 Metrics Reloaded {cite}`Maier-Hein2024-cp,Reinke2024-aj,reinke2023common`"
+msgstr ""
+"🌐 Métricas recarregadas {cite}`Maier-"
+"Hein2024-cp,Reinke2024-aj,reinke2023common`"
 
-#: ../../03_Image_analysis/Resources.md:26
+#: ../../03_Image_analysis/Resources.md:29
 msgid "[link](https://metrics-reloaded.dkfz.de/)"
 msgstr "[link](https://metrics-reloaded.dkfz.de/)"
 
-#: ../../03_Image_analysis/Resources.md:27
+#: ../../03_Image_analysis/Resources.md:30
 msgid ""
 "An interactive guide to choosing the right metric for your scientific "
 "question"
 msgstr ""
 "Um guia interativo para escolher a métrica certa para sua questão científica"
 
-#: ../../03_Image_analysis/Resources.md:28
+#: ../../03_Image_analysis/Resources.md:31
 msgid ""
 "📄 A Hitchhiker's guide through the bio-image analysis software universe "
 "{cite}`Haase2022-ad`"
@@ -1350,13 +1379,13 @@ msgstr ""
 "📄 O guia do mochileiro através do universo dos softwares de análise de "
 "bioimagem {cite}`Haase2022-ad`"
 
-#: ../../03_Image_analysis/Resources.md:29
+#: ../../03_Image_analysis/Resources.md:32
 msgid ""
 "[link](https://febs.onlinelibrary.wiley.com/doi/full/10.1002/1873-3468.14451)"
 msgstr ""
 "[link](https://febs.onlinelibrary.wiley.com/doi/full/10.1002/1873-3468.14451)"
 
-#: ../../03_Image_analysis/Resources.md:30
+#: ../../03_Image_analysis/Resources.md:33
 msgid ""
 "An article that gives guidance and a glossary of available image analysis "
 "software and packages"
@@ -1364,15 +1393,15 @@ msgstr ""
 "Um artigo que fornece orientação e um glossário de softwares e pacotes de "
 "análise de imagem disponíveis"
 
-#: ../../03_Image_analysis/Resources.md:31
+#: ../../03_Image_analysis/Resources.md:34
 msgid "🌐 BioImage Informatics Index"
 msgstr "🌐  BioImage Informatics Index"
 
-#: ../../03_Image_analysis/Resources.md:32
+#: ../../03_Image_analysis/Resources.md:35
 msgid "[link](https://biii.eu/)"
 msgstr "[link](https://biii.eu/)"
 
-#: ../../03_Image_analysis/Resources.md:33
+#: ../../03_Image_analysis/Resources.md:36
 msgid ""
 "Repository platform for searching bioimage analysis tools and workflows "
 "based on the problem, method or software of choice"
@@ -1381,15 +1410,15 @@ msgstr ""
 "de bioimagem e fluxos de trabalho com base no problema, método ou software "
 "de escolha"
 
-#: ../../03_Image_analysis/Resources.md:34
+#: ../../03_Image_analysis/Resources.md:37
 msgid "🎥 iBiology Bioimage Analysis video series"
 msgstr "🎥 iBiology Série de vídeos de análise de bioimagem "
 
-#: ../../03_Image_analysis/Resources.md:35
+#: ../../03_Image_analysis/Resources.md:38
 msgid "[link](https://youtu.be/1xo4vi6Ub4I)"
 msgstr "[link](https://youtu.be/1xo4vi6Ub4I)"
 
-#: ../../03_Image_analysis/Resources.md:36
+#: ../../03_Image_analysis/Resources.md:39
 msgid ""
 "Video series that introduces Bioimage analysis, including overviews of "
 "{term}`image processing`, {term}`segmentation`, tracking, making and "
@@ -1399,15 +1428,15 @@ msgstr ""
 "gerais de {term}`processamento de imagem`, {term}`segmentação`, "
 "rastreamento, medições e interpretação de dados, dicas e obstáculos"
 
-#: ../../03_Image_analysis/Resources.md:37
+#: ../../03_Image_analysis/Resources.md:40
 msgid "🌐 Bioimage ANalysis Desktop (BAND)"
 msgstr "🌐 Bioimage ANalysis Desktop (BAND)"
 
-#: ../../03_Image_analysis/Resources.md:38
+#: ../../03_Image_analysis/Resources.md:41
 msgid "[link](https://band.embl.de)"
 msgstr "[link](https://band.embl.de)"
 
-#: ../../03_Image_analysis/Resources.md:39
+#: ../../03_Image_analysis/Resources.md:42
 msgid ""
 "Access to virtual desktops allowing access to bioimage analysis software "
 "from a browser"
@@ -1415,15 +1444,15 @@ msgstr ""
 "Acesso a desktops virtuais que permitem o acesso a software de análise de "
 "bioimagem a partir de um navegador"
 
-#: ../../03_Image_analysis/Resources.md:40
+#: ../../03_Image_analysis/Resources.md:43
 msgid "🌐 Galaxy Imaging Node"
 msgstr "🌐 Galaxy Imaging Node"
 
-#: ../../03_Image_analysis/Resources.md:41
+#: ../../03_Image_analysis/Resources.md:44
 msgid "[link](https://imaging.usegalaxy.eu/)"
 msgstr "[link](https://imaging.usegalaxy.eu/)"
 
-#: ../../03_Image_analysis/Resources.md:42
+#: ../../03_Image_analysis/Resources.md:45
 msgid ""
 "A Galaxy node prepopulated with a number of open-source image analysis tools"
 " and workflows, making it easy to create and share reproducible FAIR "
@@ -1433,15 +1462,15 @@ msgstr ""
 "de análise de imagem de código aberto, facilitando a criação e o "
 "compartilhamento de fluxos de trabalho respeitando os parametros FAIR "
 
-#: ../../03_Image_analysis/Resources.md:43
+#: ../../03_Image_analysis/Resources.md:46
 msgid "🌐 Image Analysis Training Resources"
 msgstr "🌐 Recursos de treinamento em análise de imagem"
 
-#: ../../03_Image_analysis/Resources.md:44
+#: ../../03_Image_analysis/Resources.md:47
 msgid "[link](https://neubias.github.io/training-resources/index.html)"
 msgstr "[link](https://neubias.github.io/training-resources/index.html)"
 
-#: ../../03_Image_analysis/Resources.md:45
+#: ../../03_Image_analysis/Resources.md:48
 msgid ""
 "Image analysis traning resources collected by NEUBIAS, styled based on The "
 "Carpentries"
@@ -1449,15 +1478,15 @@ msgstr ""
 "Recursos de treinamento em análise de imagem coletados por NEUBIAS, "
 "estilizados com base no The Carpentries"
 
-#: ../../03_Image_analysis/Resources.md:46
+#: ../../03_Image_analysis/Resources.md:49
 msgid "🌐 Bioimage Analysis AwesomeList"
 msgstr "🌐 Bioimage Analysis AwesomeList"
 
-#: ../../03_Image_analysis/Resources.md:47
+#: ../../03_Image_analysis/Resources.md:50
 msgid "[link](https://github.com/hallvaaw/awesome-biological-image-analysis)"
 msgstr "[link](https://github.com/hallvaaw/awesome-biological-image-analysis)"
 
-#: ../../03_Image_analysis/Resources.md:48
+#: ../../03_Image_analysis/Resources.md:51
 msgid ""
 "A curated [AwesomeList](https://github.com/sindresorhus/awesome) of "
 "resources related to bioimage analysis"
@@ -1465,15 +1494,15 @@ msgstr ""
 "Uma lista curada [AwesomeList](https://github.com/sindresorhus/awesome) de "
 "recursos relacionados à análise de bioimagem"
 
-#: ../../03_Image_analysis/Resources.md:49
+#: ../../03_Image_analysis/Resources.md:52
 msgid "🌐 Bioimage Analysis Notebooks"
 msgstr "🌐 Bioimage Analysis Notebooks"
 
-#: ../../03_Image_analysis/Resources.md:50
+#: ../../03_Image_analysis/Resources.md:53
 msgid "[link](https://haesleinhuepf.github.io/BioImageAnalysisNotebooks/)"
 msgstr "[link](https://haesleinhuepf.github.io/BioImageAnalysisNotebooks/)"
 
-#: ../../03_Image_analysis/Resources.md:51
+#: ../../03_Image_analysis/Resources.md:54
 msgid ""
 "A collection of Python Jupyter notebooks for BioImageAnalysis, GPU-"
 "accelerated image processing, bio-image data science and more"
@@ -1481,6 +1510,26 @@ msgstr ""
 "Uma coleção de notebooks no formato Python Jupyter para análise de "
 "bioimagens, processamento de imagem acelerado por GPU, ciência de dados em "
 "bioimagem bio-image e muito mais"
+
+#: ../../03_Image_analysis/Resources.md:55
+msgid ""
+"📄 Believing is seeing - the deceptive influence of bias in quantitative "
+"microscopy{cite}`Lee2024-zu`"
+msgstr ""
+"📄 Acreditar para ver - a influência enganosa do viés na microscopia "
+"quantitativa{cite}`Lee2024-zu`"
+
+#: ../../03_Image_analysis/Resources.md:56
+msgid "[link](https://doi.org/10.1242/jcs.261567)"
+msgstr "[link](https://doi.org/10.1242/jcs.261567)"
+
+#: ../../03_Image_analysis/Resources.md:57
+msgid ""
+"Thoughtful review on technological and especially psychological factors that"
+" can lead to biased microscopy results"
+msgstr ""
+"Revisão cuidadosa sobre fatores tecnológicos e especialmente psicológicos "
+"que podem levar a resultados de microscopia tendenciosos"
 
 #: ../../03_Image_analysis/Shape.md:1
 msgid "Size and Shape measurements"
@@ -1992,13 +2041,13 @@ msgstr ""
 
 #: ../../03_Image_analysis/SpecificUseSoftware.md:70
 msgid ""
-"[Piximi](https://www.piximi.app/) is an application for annotation and "
-"classification that runs entirely from your browser and requires no "
-"installation and minimal setup."
+"[Piximi](https://www.piximi.app/) {cite}`Moser2024-vt` is an application for"
+" annotation and classification that runs entirely from your browser and "
+"requires no installation and minimal setup."
 msgstr ""
-"[Piximi](https://www.piximi.app/) é um aplicativo para anotação e "
-"classificação que é executado inteiramente no seu navegador e não requer "
-"instalação e configuração mínima."
+"[Piximi](https://www.piximi.app/) {cite}`Moser2024-vt` é um aplicativo para "
+"anotação e classificação que roda inteiramente no seu navegador e não requer"
+" instalação e configuração mínima."
 
 #: ../../03_Image_analysis/SpecificUseSoftware.md:75
 msgid "Piximi can do image classification using machine learning"
