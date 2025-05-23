@@ -109,7 +109,7 @@ Missing explanations of image details/methods may result in non-reproducible dat
 
 ## Where can I learn more?
 
-Check out _Creating clear and informative image-based figures for scientific publications_{cite}`Jambor2021-qe` and _Community-developed checklists for publishing images and image analysis_{cite}`Schmied2023-ad` for more tips and best practices for making image figures. 
+Check out _Creating clear and informative image-based figures for scientific publications_{cite}`Jambor2021-qe` and _Community-developed checklists for publishing images and image analysis_{cite}`Schmied2024-et` for more tips and best practices for making image figures. 
 
 A cheat sheet on how to do basic image preparation with open source software: 
 
