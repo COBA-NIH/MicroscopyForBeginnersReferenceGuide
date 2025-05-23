@@ -27,6 +27,11 @@ jobs:
       run: |
         pip install -r requirements.txt
 
+    # Update the headers (redundant here, but for symmetry do it anyway)
+    - name: Update headers
+      run: |
+        python edit_headers.py en
+
     # Build the book
     - name: Build the book
       run: |
