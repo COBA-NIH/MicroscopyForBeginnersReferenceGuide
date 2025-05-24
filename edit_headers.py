@@ -7,31 +7,31 @@ def edit_headers(target_language = "en"):
             "en":"Sample Preparation",
             "es":"Sample Preparation",
             "pt":"Sample Preparation",
-            "cs":"Sample Preparation",
+            "cs":"Příprava vzorku",
         },
         "Sample Acquisition":{
             "en":"Sample Acquisition",
             "es":"Sample Acquisition",
             "pt":"Sample Acquisition",
-            "cs":"Sample Acquisition",
+            "cs":"Snímání vzorku",
         },
         "Image Analysis and Data Handling":{
             "en":"Image Analysis and Data Handling",
             "es":"Image Analysis and Data Handling",
             "pt":"Image Analysis and Data Handling",
-            "cs":"Image Analysis and Data Handling",
+            "cs":"Analýza obrazu a práce s daty",
         },
         "Data Interpretation":{
             "en":"Data Interpretation",
             "es":"Data Interpretation",
             "pt":"Data Interpretation",
-            "cs":"Data Interpretation",
+            "cs":"Interpretace dat",
         },
         "Additional Resources":{
             "en":"Additional Resources",
             "es":"Additional Resources",
             "pt":"Additional Resources",
-            "cs":"Additional Resources",
+            "cs":"Další zdroje",
         },
     }
 
