@@ -35,7 +35,7 @@ def edit_headers(target_language = "en"):
         },
     }
 
-    lines = open("_toc.yml", "r").readlines()
+    lines = open(os.path.join(os.path.abspath(os.curdir),"_toc.yml",) "r").readlines()
     newlines = []
     for line in lines:
         for caption in translation_dict.keys():
