@@ -5,31 +5,31 @@ def edit_headers(target_language = "en"):
     translation_dict = {
         "Sample Preparation":{
             "en":"Sample Preparation",
-            "es":"Sample Preparation",
+            "es":"Preparación de la muestra",
             "pt":"Preparação da amostra",
             "cs":"Příprava vzorku",
         },
         "Sample Acquisition":{
             "en":"Sample Acquisition",
-            "es":"Sample Acquisition",
+            "es":"Adquisición de muestras",
             "pt":"Aquisição da amostra",
             "cs":"Snímání vzorku",
         },
         "Image Analysis and Data Handling":{
             "en":"Image Analysis and Data Handling",
-            "es":"Image Analysis and Data Handling",
+            "es":"Análisis de Imágenes y Manejo de Datos",
             "pt":"Análise de imagens e tratamento de dados",
             "cs":"Analýza obrazu a práce s daty",
         },
         "Data Interpretation":{
             "en":"Data Interpretation",
-            "es":"Data Interpretation",
+            "es":"Interpretación de Datos",
             "pt":"Interpretação de dados",
             "cs":"Interpretace dat",
         },
         "Additional Resources":{
             "en":"Additional Resources",
-            "es":"Additional Resources",
+            "es":"Recursos Adicionales",
             "pt":"Recursos Adicionais",
             "cs":"Další zdroje",
         },
