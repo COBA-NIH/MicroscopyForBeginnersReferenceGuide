@@ -41,7 +41,7 @@ parts:
   - file: 04_Data_presentation/Presentation_images
   - file: 04_Data_presentation/Statistics
   - file: 04_Data_presentation/Resources
-- caption:  Additional Resources
+- caption: Additional Resources
   chapters:
   - file: community_resources
   - file: contributors
