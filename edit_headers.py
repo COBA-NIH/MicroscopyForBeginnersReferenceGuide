@@ -34,16 +34,25 @@ def edit_headers(target_language = "en"):
             "cs":"Další zdroje",
         },
     }
-
-    lines = open(os.path.join(os.path.abspath(os.curdir),"_toc.yml"), "r").readlines()
+    try:
+        lines = open(os.path.join(os.path.abspath(os.curdir),"_toc.yml"), "r").readlines()
+        book_subfolder = False
+    except:
+        lines = open(os.path.join(os.path.abspath(os.curdir),"book","_toc.yml"), "r").readlines()
+        book_subfolder = True
     newlines = []
     for line in lines:
         for caption in translation_dict.keys():
             if line == f"- caption: {caption}\n":
                 line=line.replace(caption,translation_dict[caption][target_language])
         newlines.append(line)
+
+    if book_subfolder:
+        toc_location = os.path.join(os.path.abspath(os.curdir),"book","_toc.yml")
+    else:
+        toc_lcoation = os.path.join(os.path.abspath(os.curdir),"_toc.yml")
     
-    with open("_toc.yml","w") as toc:
+    with open(toc_location,"w") as toc:
         toc.writelines(newlines)
 
 
