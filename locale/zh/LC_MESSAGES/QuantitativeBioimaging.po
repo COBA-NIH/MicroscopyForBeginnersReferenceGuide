@@ -1,0 +1,102 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2024
+# This file is distributed under the same license as the Python package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+# 
+# Translators:
+# Beth Cimini, 2025
+# 
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Python\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-03-29 09:37-0400\n"
+"PO-Revision-Date: 2023-05-02 18:49+0000\n"
+"Last-Translator: Beth Cimini, 2025\n"
+"Language-Team: Chinese (https://app.transifex.com/center-for-open-bioimage-analysis/teams/169123/zh/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: zh\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+#: ../../QuantitativeBioimaging.md:1
+msgid "Quantitative Bioimaging"
+msgstr "定量生物成像"
+
+#: ../../QuantitativeBioimaging.md:3
+msgid "What do we mean by quantitative bioimaging?"
+msgstr "定量生物成像指的是什么？"
+
+#: ../../QuantitativeBioimaging.md:5
+msgid ""
+"While microscopy was by necessity a qualitative science for most of its "
+"history, we now live in an era where microscope images can be used to "
+"precisely quantify observable phenotypes."
+msgstr "虽然显微镜技术在其发展的大部分历史时期都必然是一门定性科学，但我们现在生活在一个显微镜图像可以用来精确量化可观察表型的时代。"
+
+#: ../../QuantitativeBioimaging.md:7
+msgid ""
+"The ability to draw accurate quantitative answers from these experiments "
+"relies on certain best practices being followed. If one can confidently say "
+"\"Yes\" to each of the following 4 questions, one is likely to be able to "
+"quantify their sample."
+msgstr "从这些实验中得出准确的定量答案取决于是否遵循某些最佳实践。如果能够自信地对以下四个问题都回答“是”，那么就很有可能能够对其样本进行量化。"
+
+#: ../../QuantitativeBioimaging.md:9
+msgid ""
+"Have I prepared my sample in a way that minimizes technical artifacts and "
+"lets me understand exactly which molecule(s) I am observing?"
+msgstr "我是否以最大程度减少技术误差并让我准确了解我观察到的分子的方式制备了我的样品？"
+
+#: ../../QuantitativeBioimaging.md:10
+msgid ""
+"Have I conducted my microscopy so that I minimize technical artifacts and am"
+" in the quantitative range of the detector attached to my microscope?"
+msgstr "我进行显微镜观察时，是否尽量减少了技术误差，并且观察范围在显微镜探测器的定量范围内？"
+
+#: ../../QuantitativeBioimaging.md:11
+msgid ""
+"Have I selected analysis metric(s) that truly answer my biological question "
+"and measured them in a way that minimizes technical artifacts?"
+msgstr "我是否选择了能够真正回答我的生物学问题的分析指标，并且以最大限度减少技术误差的方式对其进行了测量？"
+
+#: ../../QuantitativeBioimaging.md:12
+msgid ""
+"Have I chosen appropriate statistical comparisons and data presentation "
+"approaches so that the distribution of my metric(s) can be fairly compared "
+"across samples, answering my biolgical question?"
+msgstr "我是否选择了合适的统计比较和数据呈现方法，以便能够公平地比较不同样本的指标分布，从而回答我的生物学问题？"
+
+#: ../../QuantitativeBioimaging.md:14
+msgid ""
+"Answering each of these questions requires thought, expertise, and often a "
+"fair amount of trial and error; it can feel overwhelming to grapple with all"
+" the technical aspects and caveats present in a bioimaging experiment. These"
+" questions **_can_** be answered, however, though often not in a single pass"
+" - [continuous optimization through multiple rounds of answering these "
+"questions](qb-decision-cycle) is typically needed for best results."
+msgstr ""
+"回答这些问题需要思考、专业知识，而且往往需要大量的反复试验；要应对生物成像实验中所有技术细节和注意事项，可能会让人感到不知所措。然而，这些问题**_是__能够得到解答的，尽管通常无法一次性解决——为了获得最佳结果，通常需要通过多轮解答这些问题进行持续优化。"
+
+#: ../../QuantitativeBioimaging.md:16
+msgid ""
+"The resources linked in this guide are designed to help a reader develop "
+"skills in each or all of these areas, helping them get the most from their "
+"microscopy data."
+msgstr "本指南中提供的资源旨在帮助读者培养在这些领域中的一项或多项技能，从而帮助他们最大限度地利用显微镜数据。"
+
+#: ../../QuantitativeBioimaging.md:25
+msgid "cycle"
+msgstr "循环"
+
+#: ../../QuantitativeBioimaging.md:25
+msgid ""
+"**The decision cycle of quantitative bioimaging {cite}`Senft2023-zy`** "
+"Reproduced from Senft and Diaz-Rohrer et al, [**_A biologist’s guide to "
+"planning and performing quantitative bioimaging "
+"experiments_**](https://doi.org/10.1371/journal.pbio.3002167)."
+msgstr ""
+"**定量生物成像的决策周期 {cite}`Senft2023-zy`** 摘自 Senft 和 Diaz-Rohrer "
+"等人，[**_生物学家规划和执行定量生物成像实验指南_**](https://doi.org/10.1371/journal.pbio.3002167)。"
