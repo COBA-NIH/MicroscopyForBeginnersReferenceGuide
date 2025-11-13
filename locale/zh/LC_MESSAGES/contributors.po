@@ -1,0 +1,150 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2024
+# This file is distributed under the same license as the Python package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+# 
+# Translators:
+# Beth Cimini, 2025
+# 
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Python\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-03-29 15:22+0000\n"
+"PO-Revision-Date: 2023-05-02 18:49+0000\n"
+"Last-Translator: Beth Cimini, 2025\n"
+"Language-Team: Chinese (https://app.transifex.com/center-for-open-bioimage-analysis/teams/169123/zh/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: zh\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+#: ../../contributors.md:1
+msgid "Contributing to this guide"
+msgstr "为本指南做出贡献"
+
+#: ../../contributors.md:3
+msgid "Contributors"
+msgstr "贡献者"
+
+#: ../../contributors.md:5
+msgid ""
+"The original material for this book was created as part of the paper \"[**_A"
+" biologist’s guide to planning and performing quantitative bioimaging "
+"experiments_**](https://doi.org/10.1371/journal.pbio.3002167)\" "
+"{cite}`Senft2023-zy`. by Rebecca A. Senft*, Barbara Diaz-Rohrer*, Pina "
+"Colarusso, Lucy Swift, Nasim Jamali, Helena Jambor, Thomas Pengo, Craig "
+"Brideau, Paula Montero Llopis, Virginie Uhlmann, Jason Kirk, Kevin Andrew "
+"Gonzales, Peter Bankhead, Edward L. Evans III, Kevin W Eliceiri and Beth A. "
+"Cimini."
+msgstr ""
+"本书的原始材料是论文“生物学家规划和执行定量生物成像实验指南”（https://doi.org/10.1371/journal.pbio.3002167）的一部分。作者包括"
+" Rebecca A. Senft*、Barbara Diaz-Rohrer*、Pina Colarusso、Lucy Swift、Nasim "
+"Jamali、Helena Jambor、Thomas Pengo、Craig Brideau、Paula Montero "
+"Llopis、Virginie Uhlmann、Jason Kirk、Kevin Andrew Gonzales、Peter "
+"Bankhead、Edward L. Evans III、Kevin W Eliceiri 和 Beth A. Cimini。"
+
+#: ../../contributors.md:7
+msgid ""
+"This project was initiated by the [Center for Open Bioimage "
+"Analysis](https://openbioimageanalysis.org/) .We are grateful to [Bioimaging"
+" North America](https://www.bioimagingnorthamerica.org/) (especially its "
+"[Image Informatics](https://www.bioimagingnorthamerica.org/image-"
+"informatics-wg/) and [Training and "
+"Education](https://www.bioimagingnorthamerica.org/te-wg/) Working Groups) "
+"for both initial and ongoing support of this project."
+msgstr ""
+"本项目由[开放生物图像分析中心](https://openbioimageanalysis.org/)发起。我们衷心感谢[北美生物成像协会](https://www.bioimagingnorthamerica.org/)（特别是其[图像信息学](https://www.bioimagingnorthamerica.org/image-"
+"informatics-wg/)和[培训与教育](https://www.bioimagingnorthamerica.org/te-"
+"wg/)工作组）对本项目的初期和持续支持。"
+
+#: ../../contributors.md:9
+msgid ""
+"Since this guide has become available, we gratefully acknowledge "
+"contributions from the following members of the microscopy and bioimage "
+"analysis community!"
+msgstr "本指南发布以来，我们衷心感谢以下显微镜和生物图像分析领域成员的贡献！"
+
+#: ../../contributors.md:10
+msgid "William Giang"
+msgstr "威廉·江"
+
+#: ../../contributors.md:11
+msgid "Robert Haase"
+msgstr "罗伯特·哈斯"
+
+#: ../../contributors.md:13
+msgid ""
+"Improvements to the build and maintenance system for this book have come "
+"from"
+msgstr "本书的构建和维护系统的改进来自"
+
+#: ../../contributors.md:14
+msgid "Pete Bankhead"
+msgstr "皮特·班克黑德"
+
+#: ../../contributors.md:16
+msgid "How can I become a contributor?"
+msgstr "我如何才能成为投稿人？"
+
+#: ../../contributors.md:18
+msgid ""
+"Please feel free to open an "
+"[issue](https://github.com/broadinstitute/MicroscopyForBeginnersReferenceGuide/issues)"
+" or pull request to contribute! We hope for this to be a living document "
+"reflecting the best practices and resources available."
+msgstr ""
+"欢迎您提交[issue](https://github.com/broadinstitute/MicroscopyForBeginnersReferenceGuide/issues)或pull"
+" request来贡献代码！我们希望这份文档能够不断更新，反映最佳实践和可用资源。"
+
+#: ../../contributors.md:20
+msgid ""
+"We currently also offer a [Google "
+"Form](https://docs.google.com/forms/d/e/1FAIpQLScWQbemviI2OkvVkeTKUOozAzKNndcZpXIB_nE0qFMl72lqvQ/viewform)"
+" for contributions, though note these may be responded to more slowly than "
+"direct contributions to the GitHub repository."
+msgstr ""
+"我们目前还提供 [Google "
+"表单](https://docs.google.com/forms/d/e/1FAIpQLScWQbemviI2OkvVkeTKUOozAzKNndcZpXIB_nE0qFMl72lqvQ/viewform)"
+" 供大家贡献，但请注意，这些表单的回复速度可能比直接向 GitHub 存储库贡献要慢。"
+
+#: ../../contributors.md:23
+msgid "Translation"
+msgstr "翻译"
+
+#: ../../contributors.md:25
+msgid ""
+"This guide is available in [English](https://www.bioimagingguide.org) as "
+"well as [Czech](https://cs.bioimagingguide.org), "
+"[Portuguese](https://pt.bioimagingguide.org), and "
+"[Spanish](https://es.bioimagingguide.org)."
+msgstr ""
+"本指南提供[英文](https://www.bioimagingguide.org)、[捷克语](https://cs.bioimagingguide.org)、[葡萄牙语](https://pt.bioimagingguide.org)和[西班牙语](https://es.bioimagingguide.org)版本。"
+
+#: ../../contributors.md:27
+msgid ""
+"Work is underway to translate this guide into other languages - translation "
+"is planned or has begun in French, German, Finnish, Italian, Japanese, "
+"Polish, and Farsi. To help translate into one of these languages, or another"
+" language not listed here, please contact bcimini AT broadinstitute DOT org."
+msgstr ""
+"我们正在努力将本指南翻译成其他语言——法语、德语、芬兰语、意大利语、日语、波兰语和波斯语的翻译工作已经启动或正在筹备中。如果您想协助翻译成上述语言或其他未列出的语言，请联系"
+" bcimini AT broadinstitute DOT org。"
+
+#: ../../contributors.md:29
+msgid "Translations are gratefully acknowledged from:"
+msgstr "谨此感谢以下译者："
+
+#: ../../contributors.md:31
+msgid "Czech : Martin Schätz"
+msgstr "捷克语：马丁·沙茨"
+
+#: ../../contributors.md:32
+msgid "Portuguese: Mario Costa Cruz"
+msgstr "葡萄牙语：马里奥·科斯塔·克鲁兹"
+
+#: ../../contributors.md:33
+msgid "Spanish: Mariana De Niz"
+msgstr "西班牙语：玛丽安娜·德·尼兹"

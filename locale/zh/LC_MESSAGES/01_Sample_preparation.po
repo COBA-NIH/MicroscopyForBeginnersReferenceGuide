@@ -1,0 +1,741 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2024
+# This file is distributed under the same license as the Python package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+# 
+# Translators:
+# Beth Cimini, 2025
+# 
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Python\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-03-29 09:37-0400\n"
+"PO-Revision-Date: 2023-05-02 18:49+0000\n"
+"Last-Translator: Beth Cimini, 2025\n"
+"Language-Team: Chinese (https://app.transifex.com/center-for-open-bioimage-analysis/teams/169123/zh/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: zh\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+#: ../../01_Sample_preparation/Considerations.md:1
+msgid "Considerations for different sample types"
+msgstr "不同样本类型的注意事项"
+
+#: ../../01_Sample_preparation/Considerations.md:3
+msgid ""
+"There are many different options for types of samples to image, and advances"
+" in sample preparation techniques and imaging modalities are continually "
+"enabling the imaging of more diverse and complex biological specimens. As "
+"with many other aspects of experimental design, sample type selection comes "
+"with tradeoffs. Samples that are amenable to simple preparation and imaging "
+"tend to be small, thin, and relatively clear, like a monolayer of cultured "
+"cells. Such samples have obvious advantages and can be imaged in a high-"
+"throughput manner, but they're not suitable for every biological question. "
+"Sometimes a thicker specimen, like an organoid, or whole or sectioned tissue"
+" is needed, especially when the biological question involves interactions "
+"between different types of cells. Carefully consider what biological context"
+" is appropriate for your question and what measurements you'd ultimately "
+"like to be able to make. Below, we summarize some common sample types"
+msgstr ""
+"可用于成像的样本类型多种多样，样本制备技术和成像方式的不断进步使得对更多样化、更复杂的生物样本进行成像成为可能。与实验设计的许多其他方面一样，样本类型的选择也存在权衡取舍。易于制备和成像的样本通常体积小、厚度薄且相对透明，例如单层培养细胞。这类样本具有明显的优势，可以进行高通量成像，但并非适用于所有生物学问题。有时需要较厚的样本，例如类器官，或完整或切片的组织，尤其当生物学问题涉及不同类型细胞之间的相互作用时。仔细考虑适合您研究问题的生物学背景以及您最终希望进行的测量。以下，我们将总结一些常见的样本类型。"
+
+#: ../../01_Sample_preparation/Considerations.md:0
+msgid "🤔 What are my options?"
+msgstr "🤔 我有哪些选择？"
+
+#: ../../01_Sample_preparation/Considerations.md:7
+msgid ""
+"Here we present some major categories for sample types. Note that there are "
+"not hard boundaries between these different categories (e.g., both cells and"
+" organoids can be cultured in 3D, many of these specimens can be imaged live"
+" or after {term}`fixation`), but some general advantages and disadvantages "
+"are summarized below."
+msgstr ""
+"这里我们介绍一些主要的样本类型。需要注意的是，这些不同类别之间并没有严格的界限（例如，细胞和类器官都可以进行三维培养，许多样本可以进行活体成像或固定后成像），但下面总结了一些常见的优缺点。"
+
+#: ../../01_Sample_preparation/Considerations.md:11
+msgid "**Cultured cells**"
+msgstr "培养细胞"
+
+#: ../../01_Sample_preparation/Considerations.md:13
+msgid ""
+"Many different types of cells can be cultured, or grown in a dish. Cells can"
+" be grown in a monoculture, with only one cell type, or in a co-culture with"
+" multiple cell types."
+msgstr "许多不同类型的细胞都可以在培养皿中进行培养。细胞可以进行单培养（仅一种细胞类型），也可以进行共培养（多种细胞类型）。"
+
+#: ../../01_Sample_preparation/Considerations.md:15
+#: ../../01_Sample_preparation/Considerations.md:31
+#: ../../01_Sample_preparation/Considerations.md:49
+#: ../../01_Sample_preparation/Considerations.md:67
+msgid "_Advantages_"
+msgstr "优势"
+
+#: ../../01_Sample_preparation/Considerations.md:17
+msgid ""
+"Cultured cells tend to be relatively simple to image and for many questions "
+"can be imaged with widefield microscopy (see "
+"[Acquisition](content/microscope_selection)), which is faster and more "
+"accessible than confocal or superresolution methods. Additionally, high-"
+"throughput microscopes integrated with robotics can enable automation of "
+"experiments and imaging with cultured cells."
+msgstr ""
+"培养细胞的成像相对简单，许多问题都可以用宽场显微镜进行成像（参见[采集](content/microscope_selection)），这种方法比共聚焦或超分辨率方法更快、更易于操作。此外，集成机器人技术的高通量显微镜可以实现培养细胞实验和成像的自动化。"
+
+#: ../../01_Sample_preparation/Considerations.md:19
+msgid ""
+"Cells can be frozen, thawed, and grown much faster than work with more "
+"complex specimens like organoids or whole organisms, compressing the "
+"timeline to perform an experiment"
+msgstr "细胞的冷冻、解冻和培养速度远快于处理类器官或完整生物体等更复杂的样本，从而大大缩短了实验时间。"
+
+#: ../../01_Sample_preparation/Considerations.md:21
+#: ../../01_Sample_preparation/Considerations.md:37
+#: ../../01_Sample_preparation/Considerations.md:55
+#: ../../01_Sample_preparation/Considerations.md:71
+msgid "_Disadvantages_"
+msgstr "缺点"
+
+#: ../../01_Sample_preparation/Considerations.md:23
+msgid ""
+"Most applications in microscopy require imaging through a glass coverslip of"
+" a specific thickness and tolerance. However, many cell types do not survive"
+" or cannot grow on glass and require additional coatings and manipulations "
+"of the coverslip to ensure the health of the sample. As an alternative some "
+"companies manufacture imaging chambers (multi well plates, 35 mm dishes…) "
+"with proprietary polymers that have similar properties to glass (optical "
+"polymers), thus enabling high resolution imaging. It is imperative to "
+"understand whether the immersion oil used during imaging affects the "
+"integrity of these polymers, as the solvents in some immersion media can "
+"crack or dissolve the polymer layer."
+msgstr ""
+"大多数显微镜应用都需要通过特定厚度和公差的玻璃盖玻片进行成像。然而，许多细胞类型无法在玻璃上存活或生长，因此需要对盖玻片进行额外的涂层处理和操作，以确保样本的健康。作为一种替代方案，一些公司生产采用专有聚合物（光学聚合物）制成的成像腔（多孔板、35毫米培养皿等），这些聚合物具有与玻璃相似的特性，从而能够实现高分辨率成像。必须了解成像过程中使用的浸油是否会影响这些聚合物的完整性，因为某些浸油中的溶剂会使聚合物层开裂或溶解。"
+
+#: ../../01_Sample_preparation/Considerations.md:27
+msgid "**Organoids**"
+msgstr "类器官"
+
+#: ../../01_Sample_preparation/Considerations.md:29
+msgid ""
+"Organoids are cultured cells that are grown in 3D to mimic the structure and"
+" sometimes functions of organs. Organoids are typically grown from stem "
+"cells that self-organize into a more complex structure, including "
+"differentiating into different cell types. Organoids are well suited to "
+"questions of development, modeling disease, and for understanding tissue and"
+" organ regeneration."
+msgstr ""
+"类器官是在三维环境下培养的细胞，用于模拟器官的结构，有时还能模拟器官的功能。类器官通常由干细胞培养而成，这些干细胞能够自组织成更复杂的结构，包括分化成不同的细胞类型。类器官非常适用于研究发育、疾病建模以及理解组织和器官再生等问题。"
+
+#: ../../01_Sample_preparation/Considerations.md:33
+msgid ""
+"Because organoids contain multiple cell types and reflect some structure and"
+" cell relationships seen in organs _in vivo_, they are well-suited to more "
+"complex questions about disease and cell-cell interactions. They can also be"
+" used to model processes and structures that are necessarily 3D and not "
+"recapitulated well in a flat layer of cells, like many developmental "
+"processes."
+msgstr ""
+"由于类器官包含多种细胞类型，并反映了体内器官的一些结构和细胞关系，因此它们非常适合研究有关疾病和细胞间相互作用的更复杂的问题。它们还可以用于模拟那些必然是三维的、无法用扁平细胞层很好地重现的过程和结构，例如许多发育过程。"
+
+#: ../../01_Sample_preparation/Considerations.md:35
+msgid ""
+"Organoids can be made from induced pluripotent stem cells (iPSCs) from human"
+" or animal samples, and thus can model disease processes specific to a given"
+" human donor."
+msgstr "类器官可由人类或动物样本中的诱导多能干细胞 (iPSC) 制成，因此可以模拟特定人类供体的疾病过程。"
+
+#: ../../01_Sample_preparation/Considerations.md:39
+msgid ""
+"Organoids can take more complex resources and protocols to grow and can take"
+" more time than just growing cultured cells on glass or plastic."
+msgstr "类器官的生长需要更复杂的资源和方案，而且比在玻璃或塑料上培养细胞需要更长的时间。"
+
+#: ../../01_Sample_preparation/Considerations.md:41
+msgid ""
+"Because organoids are 3D structures, they often are not amenable to "
+"widefield imaging and may require spinning disk or point-scanning confocal "
+"microscopy."
+msgstr "由于类器官是三维结构，因此通常不适用于宽场成像，可能需要旋转盘或点扫描共聚焦显微镜。"
+
+#: ../../01_Sample_preparation/Considerations.md:45
+msgid "**Tissue**"
+msgstr "**组织**"
+
+#: ../../01_Sample_preparation/Considerations.md:47
+msgid ""
+"Tissues are formed when cells act together to perform a specific function. "
+"Tissues can be cultured by taking a piece of an animal or plant and allowing"
+" it to continue to survive and grow in a dish. Tissues can also be harvested"
+" from plants or animals and stained for the presence of different molecules."
+" Tissues are typically cut into pieces (aka {term}`tissue sectioning`), and "
+"can be fixed, fresh, or frozen, or even alive in {term}`ex-vivo imaging`."
+msgstr ""
+"组织是由细胞协同作用执行特定功能而形成的。组织可以通过取动物或植物的一小部分，使其在培养皿中继续存活和生长来培养。组织也可以从动植物中获取，并进行染色以检测不同分子的存在。组织通常被切成小块（即组织切片），可以进行固定、新鲜或冷冻，甚至可以进行活体成像。"
+
+#: ../../01_Sample_preparation/Considerations.md:51
+msgid ""
+"Tissues have more intact cell-cell interactions that are generally more "
+"representative of what happens _in vivo_ than in cell culture."
+msgstr "组织具有更完整的细胞间相互作用，通常比细胞培养更能代表体内发生的情况。"
+
+#: ../../01_Sample_preparation/Considerations.md:53
+msgid ""
+"Repositories of donated human tissues enable biomedical research to study a "
+"diverse sample of patients with a particular disease."
+msgstr "捐赠的人体组织库使生物医学研究能够对患有特定疾病的各种患者样本进行研究。"
+
+#: ../../01_Sample_preparation/Considerations.md:57
+msgid ""
+"Primary cells and tissues tend to be sensitive to environment than "
+"immortalized cell lines and can be more difficult to grow and may require "
+"specialized protocols depending on cell type."
+msgstr "与永生化细胞系相比，原代细胞和组织对环境更为敏感，培养难度更大，并且可能需要根据细胞类型采用专门的培养方案。"
+
+#: ../../01_Sample_preparation/Considerations.md:59
+msgid ""
+"Tissues harvested from a whole animal or plant require time for the "
+"development and growth of that specimen before harvesting."
+msgstr "从整个动物或植物上采集的组织需要时间让该标本发育和生长，然后再进行采集。"
+
+#: ../../01_Sample_preparation/Considerations.md:63
+msgid "**Whole organism / embryo**"
+msgstr "**整个生物体/胚胎**"
+
+#: ../../01_Sample_preparation/Considerations.md:65
+msgid ""
+"Some whole organisms are thin and transparent enough to image. Some animals "
+"also have near-transparent embryonic stages, like the zebrafish. "
+"Additionally, {term}`intravital imaging` is the imaging of cellular "
+"structures or biological processes inside a live animal in real time, "
+"without extracting the organs or fixing the sample. In general, it requires "
+"specific instrumentation or modalities with improved light penetration, such"
+" as multiphoton microscopy and is limited to the ability to access the "
+"specific organ, often through optical windows."
+msgstr ""
+"有些生物体足够薄且透明，可以进行成像。有些动物的胚胎发育阶段也近乎透明，例如斑马鱼。此外，活体成像是指在不取出器官或固定样本的情况下，实时对活体动物体内的细胞结构或生物过程进行成像。通常，活体成像需要特定的仪器或具有更高光穿透力的技术，例如多光子显微镜，并且受限于能否进入特定器官，通常是通过光学窗口。"
+
+#: ../../01_Sample_preparation/Considerations.md:69
+msgid ""
+"Imaging whole organisms or embyros provides the most possible intact "
+"biological context when studying a particular process or structure."
+msgstr "对整个生物体或胚胎进行成像，可以在研究特定过程或结构时提供最完整的生物学背景。"
+
+#: ../../01_Sample_preparation/Considerations.md:73
+msgid ""
+"Imaging of thicker specimens may require processing ({term}`tissue "
+"clearing`) of the sample to make its {term}`refractive index` match that of "
+"the imaging media and reduce absorption and scattering of light."
+msgstr ""
+"对较厚的样本进行成像可能需要对样本进行处理（{term}`组织透明化`），使其{term}`折射率`与成像介质的折射率相匹配，从而减少光的吸收和散射。"
+
+#: ../../01_Sample_preparation/Considerations.md:75
+msgid ""
+"Intravital imaging often requires specific surgical techniques and is "
+"overseen by bioethical committees and needs to be approved by IACUC and/or "
+"other institutional committees."
+msgstr "活体成像通常需要特定的外科手术技术，并由生物伦理委员会监督，需要获得 IACUC 和/或其他机构委员会的批准。"
+
+#: ../../01_Sample_preparation/Considerations.md:0
+msgid "<span style=\"color: red\">⚠️</span> Where can things go wrong?"
+msgstr "<span style=\"color: red\">⚠️</span> 哪里会出错？"
+
+#: ../../01_Sample_preparation/Considerations.md:80
+msgid ""
+"**Photobleaching and phototoxicity** - Photobleaching can be defined as the "
+"irreversible destruction of a fluorophore in its excited state, meaning, "
+"that fluorophore will not be able to emit more light and the fluorescence "
+"signal will therefore degrade over time, affecting signal to noise ratio and"
+" intensity measurements. In order to minimize photobleaching during "
+"acquisition, there are a number of photobleaching reagent agents that can be"
+" added to the media. These agents minimize photobleaching of fluorophores to"
+" a different extent, and therefore it is important to contact the "
+"manufacturer to ensure they are optimal for the specific fluorophore. For "
+"example addition of oxygen scavengers to the imaging media such as glucose "
+"oxidase or pyranose 2-oxidase can significantly reduce photobleaching. It is"
+" important to understand that the use of {term}`oxygen scavengers` may "
+"affect live cell imaging, as these scavengers can affect the ATP and oxygen "
+"levels within the sample, compromising its health and therefore biological "
+"function."
+msgstr ""
+"**光漂白和光毒性** - "
+"光漂白是指荧光团在其激发态的不可逆破坏，这意味着荧光团将无法发射更多光，荧光信号会随时间推移而衰减，从而影响信噪比和强度测量。为了最大限度地减少采集过程中的光漂白，可以在成像介质中添加多种光漂白剂。这些试剂对荧光团光漂白的抑制程度各不相同，因此务必联系制造商，确保其适用于特定的荧光团。例如，在成像介质中添加葡萄糖氧化酶或吡喃糖-2-氧化酶等氧清除剂可以显著降低光漂白。需要注意的是，使用{term}`氧清除剂`可能会影响活细胞成像，因为这些清除剂会影响样本内的"
+" ATP 和氧气水平，从而损害其健康并影响其生物功能。"
+
+#: ../../01_Sample_preparation/Considerations.md:82
+msgid ""
+"**Cells are dying** - Fluorescent light induces DNA damage and oxidation of "
+"cellular components (phototoxicity). In addition, fluorophore photobleaching"
+" can further induce phototoxicity by creating reactive oxygen species (ROS)."
+" The addition of antioxidants and removal of certain molecules (e.g., "
+"riboflavin) from the imaging media can reduce the ROS produced during "
+"imaging, improving the health of the sample.{cite}`Stockley2017`"
+msgstr ""
+"**细胞正在死亡** - "
+"荧光会诱导DNA损伤和细胞成分氧化（光毒性）。此外，荧光团的光漂白会产生活性氧（ROS），从而进一步诱导光毒性。在成像介质中添加抗氧化剂并去除某些分子（例如核黄素）可以减少成像过程中产生的ROS，从而改善样本的健康状况。{cite}`Stockley2017`"
+
+#: ../../01_Sample_preparation/Considerations.md:85
+msgid ""
+"**My fixed cells don't looked as expected** - Fixation can change the "
+"localization and fluorescence of different proteins. Where possible, always "
+"compare the distribution of a protein or molecule of interest with and "
+"without fixation. Also consider whether a different {term}`fixation` method "
+"may be more appropriate for your specimen."
+msgstr ""
+"**我的固定细胞看起来与预期不符** - "
+"固定会改变不同蛋白质的定位和荧光特性。尽可能比较固定前后目标蛋白质或分子的分布情况。此外，还要考虑是否应该采用其他更适合您样本的{term}`固定`方法。"
+
+#: ../../01_Sample_preparation/Considerations.md:88
+msgid ""
+"**My sample is too opaque** - Thicker specimens, like thick tissue sections,"
+" pigmented cells, or whole organisms can be challenging to image due to "
+"light absorption and scattering induced by the inhomogeneities in "
+"{term}`refractive index` within the tissue itself, resulting in poor light "
+"penetration. To facilitate imaging of tissues, researchers often cut thick "
+"tissues into slices of different thicknesses. This process is called tissue "
+"sectioning. In most cases the samples are fixed and embedded in paraffin or "
+"frozen in tissue freezing medium and later cut into thin slices by a machine"
+" like a cryostat, microtome, or vibratome and sections collected into a tube"
+" or onto a slide. Alternatively, most components in any complex biological "
+"system such as an organ are not contained within this two-dimensional "
+"volume, and therefore, this approach compromises the understanding of the "
+"spatial relationships among cellular components. Tissue clearing focused on "
+"reducing the inhomogeneities in the tissue by equilibrating the "
+"{term}`refractive index` throughout the sample. This allows light to pass "
+"through the tissue and therefore enables high resolution, volumetric imaging"
+" of whole organs and tissues using conventional microscopy techniques such "
+"as confocal microscopy without the need to physically section the sample."
+msgstr ""
+"**我的样本太不透明** - "
+"由于组织内部折射率的不均匀性导致光吸收和散射，较厚的样本（例如厚的组织切片、色素细胞或整个生物体）成像会比较困难，因为光穿透力差。为了便于组织成像，研究人员通常会将厚组织切成不同厚度的切片。这个过程称为组织切片。大多数情况下，样本会被固定并包埋在石蜡中，或冷冻在组织冷冻介质中，然后使用冷冻切片机、切片机或振动切片机等设备切成薄片，并将切片收集到试管或载玻片上。然而，任何复杂生物系统（例如器官）中的大多数成分并不包含在这种二维空间内，因此，这种方法会影响我们对细胞成分之间空间关系的理解。组织透明化技术旨在通过平衡整个样本的折射率来减少组织内部的不均匀性。这使得光线能够穿过组织，从而可以使用共聚焦显微镜等传统显微镜技术对整个器官和组织进行高分辨率的体积成像，而无需对样本进行物理切片。"
+
+#: ../../01_Sample_preparation/Considerations.md:0
+msgid "📚🤷‍♀️ Where can I learn more?"
+msgstr "📚🤷‍♀️ 我在哪里可以了解更多信息？"
+
+#: ../../01_Sample_preparation/Considerations.md:94
+msgid ""
+"📄 [Organoids "
+"Primer](https://www.nature.com/articles/s43586-022-00174-y#:~:text=An%20organoid%20is%20a%20self,%2C9%2C10%2C11.)"
+" {cite}`Zhao2022-rm`"
+msgstr ""
+"📄 "
+"[类器官入门](https://www.nature.com/articles/s43586-022-00174-y#:~:text=An%20organoid%20is%20a%20self,%2C9%2C10%2C11.)"
+" {cite}`Zhao2022-rm`"
+
+#: ../../01_Sample_preparation/Considerations.md:95
+msgid ""
+"📄 [Tutorial: guidance for quantitative confocal "
+"microscopy](https://doi.org/10.1038/s41596-020-0313-9) "
+"{cite}`Jonkman2020-bo`"
+msgstr ""
+"📄 [教程：定量共聚焦显微镜指南](https://doi.org/10.1038/s41596-020-0313-9) "
+"{cite}`Jonkman2020-bo`"
+
+#: ../../01_Sample_preparation/Considerations.md:96
+msgid ""
+"📄 [Hypothesis-driven quantitative fluorescence microscopy - the importance "
+"of reverse-thinking in experimental "
+"design](https://pubmed.ncbi.nlm.nih.gov/33154172/) {cite}`Wait2020-gq`"
+msgstr ""
+"📄 [假设驱动的定量荧光显微镜——实验设计中逆向思维的重要性](https://pubmed.ncbi.nlm.nih.gov/33154172/) "
+"{cite}`Wait2020-gq`"
+
+#: ../../01_Sample_preparation/Experimental_design.md:1
+msgid "Experimental design decisions"
+msgstr "实验设计决策"
+
+#: ../../01_Sample_preparation/Experimental_design.md:3
+msgid ""
+"A number of critical decisions must be made when designing a quantitative "
+"bioimaging experiment. Many of these decisions will be deeply dependent on "
+"what is possible given the biology you wish to study, for example:"
+msgstr "设计定量生物成像实验时，必须做出许多关键决策。其中许多决策将很大程度上取决于你所研究的生物学特性，例如："
+
+#: ../../01_Sample_preparation/Experimental_design.md:4
+msgid ""
+"You will always prefer live imaging to fixed imaging if it is important to "
+"assess the dynamics of a given process"
+msgstr "如果评估特定过程的动态特性至关重要，那么您始终会优先选择实时成像而非固定成像。"
+
+#: ../../01_Sample_preparation/Experimental_design.md:5
+msgid ""
+"You may need to perform special processes such as tissue clearing if it is "
+"important to image deep into a relatively opaque specimen"
+msgstr "如果对相对不透明的标本进行深层成像非常重要，则可能需要执行一些特殊处理，例如组织透明化。"
+
+#: ../../01_Sample_preparation/Experimental_design.md:6
+msgid ""
+"You cannot rely on genetic tagging with fluorescent proteins if your model "
+"system is not genetically tractable to such manipulations"
+msgstr "如果你的模型系统在遗传操作上不具备可行性，无法进行此类操作，那么你就不能依赖荧光蛋白进行基因标记。"
+
+#: ../../01_Sample_preparation/Experimental_design.md:7
+msgid ""
+"You have to image at a particularly high resolution to confidently assess "
+"interactions between two molecules imaged in the same system"
+msgstr "要准确评估同一系统中成像的两个分子之间的相互作用，必须使用特别高的分辨率进行成像。"
+
+#: ../../01_Sample_preparation/Experimental_design.md:9
+msgid ""
+"It is therefore _**extremely**_ important to think through all of the "
+"aspects of your biological question before ever picking up a pipette or a "
+"slide. Many sample preparation decisions are deeply entwined with the "
+"availability and suitability of particular microscopes; see [that "
+"section](content/microscope_selection) for more information."
+msgstr ""
+"因此，在拿起移液器或载玻片之前，仔细考虑生物学问题的各个方面至关重要。许多样品制备决策都与特定显微镜的可用性和适用性密切相关；更多信息请参见[该部分](content/microscope_selection)。"
+
+#: ../../01_Sample_preparation/Experimental_design.md:11
+msgid "Mounting"
+msgstr "安装"
+
+#: ../../01_Sample_preparation/Experimental_design.md:13
+msgid "Glass coverslips"
+msgstr "玻璃盖玻片"
+
+#: ../../01_Sample_preparation/Experimental_design.md:15
+msgid ""
+"Many imaging applications involve mounting on glass coverslips, either "
+"directly or using a coverslip mounted into a dish. While there is a wide "
+"range of coverslip sizes and shapes, the most important attribute is the "
+"coverslip thickness. Coverslip grade dictates the expected thickness and "
+"tolerance. These factors are important because most microscope manufacturers"
+" assume a specific coverslip thickness (0.17mm) in the design of objective "
+"lenses to minimize aberrations. These aberrations tend to affect the "
+"brightness and axial resolution, reducing signal to noise ratio, sharpness, "
+"and resolution. The tolerance of the coverslip (to minimize the variability "
+"in thickness) is essential for super-resolution techniques or intensity "
+"measurements in images collected with high numerical aperture objectives. "
+"Other applications do not require the mounting of samples onto glass or "
+"plastic but instead have the sample and the objective lens immersed in the "
+"same medium."
+msgstr ""
+"许多成像应用都需要将样品固定在玻璃盖玻片上，可以直接固定，也可以使用预先安装在培养皿中的盖玻片。虽然盖玻片的尺寸和形状多种多样，但最重要的属性是盖玻片的厚度。盖玻片的等级决定了其预期厚度和公差。这些因素至关重要，因为大多数显微镜制造商在设计物镜时都会假定特定的盖玻片厚度（0.17毫米），以最大限度地减少像差。这些像差往往会影响亮度和轴向分辨率，从而降低信噪比、清晰度和分辨率。对于使用高数值孔径物镜采集的图像，盖玻片的公差（以最大限度地减少厚度变化）对于超分辨率技术或强度测量至关重要。其他一些应用则不需要将样品固定在玻璃或塑料上，而是将样品和物镜浸入同一介质中。"
+
+#: ../../01_Sample_preparation/Experimental_design.md:17
+msgid "Comparison of coverslip grades"
+msgstr "盖玻片等级比较"
+
+#: ../../01_Sample_preparation/Experimental_design.md:21
+msgid "Grade"
+msgstr "年级"
+
+#: ../../01_Sample_preparation/Experimental_design.md:22
+msgid "Nominal thickness [mm]"
+msgstr "标称厚度 [mm]"
+
+#: ../../01_Sample_preparation/Experimental_design.md:23
+msgid "Thickness range [mm]"
+msgstr "厚度范围 [毫米]"
+
+#: ../../01_Sample_preparation/Experimental_design.md:24
+msgid "#1.5"
+msgstr "1.5"
+
+#: ../../01_Sample_preparation/Experimental_design.md:25
+#: ../../01_Sample_preparation/Experimental_design.md:28
+msgid "0.17"
+msgstr "0.17"
+
+#: ../../01_Sample_preparation/Experimental_design.md:26
+msgid "0.16 - 0.19"
+msgstr "0.16 - 0.19"
+
+#: ../../01_Sample_preparation/Experimental_design.md:27
+msgid "#1.5H"
+msgstr "1.5H"
+
+#: ../../01_Sample_preparation/Experimental_design.md:29
+msgid "0.165 - 0.175"
+msgstr "0.165 - 0.175"
+
+#: ../../01_Sample_preparation/Experimental_design.md:32
+msgid "Mounting media"
+msgstr "安装介质"
+
+#: ../../01_Sample_preparation/Experimental_design.md:34
+msgid ""
+"The {term}`refractive index` the sample is placed in, as well as the "
+"refractive index of the glass and the medium between the objective and the "
+"sample are all critical to determining the achievable resolution. The "
+"{term}`mounting media` can have other important optical and/or experimental "
+"properties; it is important to use the correct mounting media for experiment"
+" planned."
+msgstr ""
+"样品所处介质的折射率，以及物镜与样品之间玻璃和介质的折射率，都对最终可达到的分辨率至关重要。此外，载玻片的折射率也可能具有其他重要的光学和/或实验特性；因此，根据实验计划选择合适的载玻片至关重要。"
+
+#: ../../01_Sample_preparation/Experimental_design.md:43
+msgid "effects of mounting media"
+msgstr "覆膜的影响"
+
+#: ../../01_Sample_preparation/Experimental_design.md:43
+msgid ""
+"**Effects of mounting media on staining with various fluorophores**. Adapted"
+" from Jonkman J., Brown C.M., Wright G.D _et al_. Tutorial: guidance for "
+"quantitative confocal microscopy. _Nat Prot_ **15**, (2020) "
+"{cite}`Jonkman2020-bo`"
+msgstr ""
+"**封片剂对各种荧光染料染色效果的影响**。改编自 Jonkman J.、Brown C.M.、Wright G.D. "
+"等人的教程：定量共聚焦显微镜操作指南。《自然·蛋白质》15，(2020) {cite}`Jonkman2020-bo`"
+
+#: ../../01_Sample_preparation/Experimental_design.md:46
+msgid "Fluorophore selection"
+msgstr "荧光团选择"
+
+#: ../../01_Sample_preparation/Experimental_design.md:48
+msgid ""
+"Fluorophores are molecules that are able to emit light upon absorption of a "
+"photon, typically of shorter wavelength. The fluorophores relevant to "
+"biomedical research can be small molecules organic dyes (FITC, Alexa Fluor "
+"488) that bind specific cell structure (e.g., DAPI, MitoTracker), "
+"fluorescent analogues of small molecules (e.g., phalloidin, fluorescent "
+"amino acids) or fluorescent proteins. Some of the important properties to "
+"consider when choosing fluorophores are listed below:"
+msgstr ""
+"荧光团是能够吸收光子（通常为短波长光子）后发射光的分子。与生物医学研究相关的荧光团可以是与特定细胞结构结合的小分子有机染料（例如 FITC、Alexa "
+"Fluor 488）、小分子荧光类似物（例如鬼笔环肽、荧光氨基酸）或荧光蛋白。选择荧光团时需要考虑的一些重要特性如下："
+
+#: ../../01_Sample_preparation/Experimental_design.md:50
+msgid "Excitation/emission spectra of each fluorophore"
+msgstr "各荧光团的激发/发射光谱"
+
+#: ../../01_Sample_preparation/Experimental_design.md:51
+msgid "Brightness (dyes tend to be brighter than proteins)"
+msgstr "亮度（染料通常比蛋白质更亮）"
+
+#: ../../01_Sample_preparation/Experimental_design.md:52
+msgid "Photostability"
+msgstr "光稳定性"
+
+#: ../../01_Sample_preparation/Experimental_design.md:53
+msgid "Propensity to oligomerize (in the case of fluorescent proteins)"
+msgstr "（以荧光蛋白为例）寡聚化倾向"
+
+#: ../../01_Sample_preparation/Experimental_design.md:54
+msgid "Phototoxicity (when imaging in live samples)"
+msgstr "光毒性（在活体样本成像时）"
+
+#: ../../01_Sample_preparation/Experimental_design.md:56
+msgid ""
+"Understanding fluorophores, microscope specifications (light source, "
+"filters, detector), and analysis goals are key in selecting the appropriate "
+"fluorophore(s) to address a scientific question. See the section on "
+"[reproducibility](content/reproducibility) for more information."
+msgstr ""
+"了解荧光染料、显微镜规格（光源、滤光片、检测器）以及分析目标是选择合适的荧光染料来解决科学问题的关键。更多信息请参见[可重复性](内容/可重复性)部分。"
+
+#: ../../01_Sample_preparation/Introduction.md:1
+msgid "Introduction"
+msgstr "介绍"
+
+#: ../../01_Sample_preparation/Introduction.md:3
+msgid ""
+"A good image starts at the bench. The best performing instrument will not "
+"produce rigorous, reproducible or high quality data unless sample "
+"preparation has been optimized. To design a rigorous and reproducible "
+"microscopy experiment, it is critical to identify the goal of the experiment"
+" and understand the factors that impact the image. This information informs "
+"researchers about how to prepare the sample, what minimal controls and "
+"corrections are needed, how to choose the appropriate instrumentation, "
+"optimize acquisition, analyze and present microscopy data."
+msgstr ""
+"好的显微镜图像始于实验台。即使是性能最佳的仪器，如果样品制备过程没有优化，也无法产生严谨、可重复且高质量的数据。为了设计严谨且可重复的显微镜实验，至关重要的是明确实验目标并了解影响图像的各种因素。这些信息能够指导研究人员如何制备样品、需要哪些必要的对照和校正措施、如何选择合适的仪器、如何优化采集、如何分析和展示显微镜数据。"
+
+#: ../../01_Sample_preparation/Introduction.md:5
+msgid ""
+"Here we will discuss some of the key choices you will make during sample "
+"preparation, including selecting your sample type and fluorophore (if you're"
+" performing fluorescence microscopy). We also discuss some minimal controls "
+"necessary for interpreting your results."
+msgstr ""
+"本文将探讨样品制备过程中的一些关键选择，包括样品类型和荧光染料（如果您进行荧光显微镜观察）。此外，我们还将讨论一些解释结果所必需的基本对照实验。"
+
+#: ../../01_Sample_preparation/Reproducibility.md:1
+msgid "Reproducibility"
+msgstr "可重复性"
+
+#: ../../01_Sample_preparation/Reproducibility.md:5
+msgid ""
+"A number of factors are critical in designing a reproducible microscopy "
+"experiment. A few critical factors are laid out here; see other works such "
+"as {cite}`Jost2019-nx`"
+msgstr "设计可重复的显微镜实验需要考虑诸多关键因素。这里列举几个关键因素；另请参阅其他文献，例如{cite}`Jost2019-nx`"
+
+#: ../../01_Sample_preparation/Reproducibility.md:7
+msgid "Antibody validation"
+msgstr "抗体验证"
+
+#: ../../01_Sample_preparation/Reproducibility.md:9
+msgid ""
+"While in a perfect world, antibodies would always be specific to a "
+"particular target, unfortunately, this cannot always be relied upon when "
+"performing {term}`immunolabeling`. {cite}`Uhlen2016-wy` When possible, one "
+"should perform knockout and/or knockdown controls to confirm antibody "
+"specificity; where not, look for availability of another antibody to a "
+"different part of the target molecule (sometimes called the _epitope_) and "
+"confirm you get consistent localization."
+msgstr ""
+"理想情况下，抗体应该始终特异性地针对特定靶点，但遗憾的是，在进行免疫标记时，这一点并非总是可靠的。如果条件允许，应进行基因敲除和/或基因敲低对照实验以确认抗体的特异性；如果无法进行此类实验，则应寻找针对靶分子不同部分（有时称为表位）的另一种抗体，并确认其定位结果是否一致。"
+
+#: ../../01_Sample_preparation/Reproducibility.md:11
+msgid ""
+"Optimizing your {term}`blocking` and {term}`permeabilization` conditions for"
+" the particular antibody and protocol can reduce non-specific background. "
+"No-primary-antibody controls should always be performed as well, as they are"
+" essential for validating signal specificity."
+msgstr ""
+"针对特定抗体和实验方案优化{term}的“封闭”和“透化”条件可以降低非特异性背景。此外，还应始终进行无一抗对照实验，因为这对于验证信号特异性至关重要。"
+
+#: ../../01_Sample_preparation/Reproducibility.md:13
+msgid "Fluorescent protein localization validation"
+msgstr "荧光蛋白定位验证"
+
+#: ../../01_Sample_preparation/Reproducibility.md:15
+msgid ""
+"Expression of fluorescently-tagged proteins can make localization of a "
+"molecule or structure possible, especially when no good antibody exist for "
+"immunolabeling and/or it will be helpful to observe the molecule's behavior "
+"in live cells. While a study comparing overlap between the same molecular "
+"targets with fluorescent proteins vs antibodies found 80% overlap, they also"
+" found that some considerations (such as whether the C- or N- terminus of a "
+"protein is tagged) may cause changes in localization. {cite}`Stadler2013`. A"
+" recent paper {cite}`Sittewelle2023` surveys considerations for genetic "
+"tagging of molecules for live microscopy."
+msgstr ""
+"荧光标记蛋白的表达可以实现分子或结构的定位，尤其是在缺乏合适的免疫标记抗体，或需要观察分子在活细胞中的行为时。一项比较荧光蛋白和抗体对相同分子靶标定位重叠度的研究发现，二者重叠度高达80%。然而，该研究也发现，一些因素（例如标记的是蛋白质的C端还是N端）可能会导致定位结果发生变化。{cite}`Stadler2013`。最近一篇论文{cite}`Sittewelle2023`综述了用于活细胞显微镜的分子基因标记的相关考虑因素。"
+
+#: ../../01_Sample_preparation/Reproducibility.md:18
+msgid "Bleedthrough"
+msgstr "渗漏"
+
+#: ../../01_Sample_preparation/Reproducibility.md:20
+msgid ""
+"When performing multicolor fluorescence microscopy, it is critical to choose"
+" fluorophores with sufficiently distinct excitation and emission spectra; "
+"online tools such as FPbase {cite}`Lambert2019-xl` can help with such "
+"selections, especially if you know the various optical components of the "
+"microscope on which you will be imaging your samples (these configurations "
+"can be saved and shared on FPbase; ask the maintainer of the microscope you "
+"plan to use if such a configuration file is already online). Even if you "
+"believe your fluorophores are sufficiently separated, it is critical to "
+"check single-color fluorescent controls using the same imaging conditions "
+"(and preferably on the same day) as your multicolor controls to be certain "
+"no bleedthrough is occurring; it is _mandatory_ to do this if you are "
+"planning to measure [colocalization](content/colocalization)."
+msgstr ""
+"进行多色荧光显微镜成像时，选择激发光谱和发射光谱差异足够大的荧光染料至关重要；在线工具如 FPbase {cite}`Lambert2019-xl` "
+"可以帮助您进行此类选择，尤其是在您了解将要成像的显微镜的各种光学组件的情况下（这些配置可以保存并共享到 FPbase "
+"上；请咨询您计划使用的显微镜的维护人员，看看是否已有此类配置文件在线）。即使您认为您选择的荧光染料之间的差异足够大，也必须使用与多色对照相同的成像条件（最好在同一天）检查单色荧光对照，以确保没有发生串色；如果您计划测量共定位，则必须执行此操作。"
+
+#: ../../01_Sample_preparation/Resources.md:1
+msgid "Resources for learning more"
+msgstr "更多学习资源"
+
+#: ../../01_Sample_preparation/Resources.md:8
+msgid "**Resource Name**"
+msgstr "资源名称"
+
+#: ../../01_Sample_preparation/Resources.md:9
+msgid "**Link**"
+msgstr "**关联**"
+
+#: ../../01_Sample_preparation/Resources.md:10
+msgid "**Brief description**"
+msgstr "**简要描述**"
+
+#: ../../01_Sample_preparation/Resources.md:11
+msgid "🌐 Microforum"
+msgstr "🌐 微型论坛"
+
+#: ../../01_Sample_preparation/Resources.md:12
+msgid "[link](https://forum.microlist.org/)"
+msgstr "[链接](https://forum.microlist.org/)"
+
+#: ../../01_Sample_preparation/Resources.md:13
+msgid ""
+"An online forum for discussing issues with and getting advice on sample "
+"preparation and microscopy"
+msgstr "一个用于讨论样品制备和显微镜相关问题并获取建议的在线论坛"
+
+#: ../../01_Sample_preparation/Resources.md:14
+msgid "🌐 FPbase {cite}`Lambert2019-xl`"
+msgstr "🌐 FPbase {cite}`Lambert2019-xl`"
+
+#: ../../01_Sample_preparation/Resources.md:15
+msgid "[link](https://www.fpbase.org/)"
+msgstr "[链接](https://www.fpbase.org/)"
+
+#: ../../01_Sample_preparation/Resources.md:16
+msgid ""
+"Database for identifying fluorophores by brightness, spectra and assessing "
+"compatibility with other fluorophores and with microscope filters"
+msgstr "用于通过亮度、光谱识别荧光染料并评估其与其他荧光染料及显微镜滤光片兼容性的数据库"
+
+#: ../../01_Sample_preparation/Resources.md:17
+msgid "🌐 Bio-protocol"
+msgstr "🌐 生物协议"
+
+#: ../../01_Sample_preparation/Resources.md:18
+msgid "[link](https://bio-protocol.org/en/about )"
+msgstr "[链接](https://bio-protocol.org/en/about)"
+
+#: ../../01_Sample_preparation/Resources.md:19
+msgid ""
+"Website to search for protocols across biological disciplines, including "
+"protocols associated with work published elsewhere. All protocols are "
+"available under an open access license (CC BY or CC BY-NC)"
+msgstr "本网站用于搜索生物学各学科的实验方案，包括已发表论文中的相关方案。所有方案均以开放获取许可（CC BY 或 CC BY-NC）发布。"
+
+#: ../../01_Sample_preparation/Resources.md:20
+msgid "🌐 protocols.io"
+msgstr "🌐 protocols.io"
+
+#: ../../01_Sample_preparation/Resources.md:21
+msgid "[link](https://www.protocols.io/)"
+msgstr "[链接](https://www.protocols.io/)"
+
+#: ../../01_Sample_preparation/Resources.md:22
+msgid "A secure platform for developing and sharing reproducible methods"
+msgstr "一个用于开发和共享可复现方法的安全平台"
+
+#: ../../01_Sample_preparation/Resources.md:23
+msgid ""
+"📄 Designing a rigorous microscopy experiment: Validating methods and "
+"avoiding bias {cite}`Jost2019-nx`"
+msgstr "📄 设计严谨的显微镜实验：验证方法并避免偏差 {cite}`Jost2019-nx`"
+
+#: ../../01_Sample_preparation/Resources.md:24
+msgid ""
+"[link](https://rupress.org/jcb/article/218/5/1452/120908/Designing-a-"
+"rigorous-microscopy-experiment)"
+msgstr ""
+"[链接](https://rupress.org/jcb/article/218/5/1452/120908/Designing-a-rigorous-"
+"microscopy-experiment)"
+
+#: ../../01_Sample_preparation/Resources.md:25
+msgid ""
+"Review of aspects of designing a rigorous light microscopy experiment, "
+"including validation of samples and imaging, identification and correction "
+"of errors, and strategies to avoid biases"
+msgstr "对设计严谨的光学显微镜实验的各个方面进行回顾，包括样本和成像的验证、错误的识别和纠正以及避免偏差的策略。"
+
+#: ../../01_Sample_preparation/Resources.md:26
+msgid ""
+"📄 Tutorial: guidance for quantitative confocal microscopy "
+"{cite}`Jonkman2020-bo`"
+msgstr "📄教程：定量共聚焦显微镜指南 {cite}`Jonkman2020-bo`"
+
+#: ../../01_Sample_preparation/Resources.md:27
+msgid "[link](https://doi.org/10.1038/s41596-020-0313-9)"
+msgstr "[链接](https://doi.org/10.1038/s41596-020-0313-9)"
+
+#: ../../01_Sample_preparation/Resources.md:28
+msgid ""
+"Step-by-step guidance on practical considerations for sample preparation, "
+"acquisition, and image analysis; primarily though not exclusively aimed at "
+"users of confocal microscopy"
+msgstr "针对共聚焦显微镜用户，提供样品制备、采集和图像分析等实用步骤的指导。"

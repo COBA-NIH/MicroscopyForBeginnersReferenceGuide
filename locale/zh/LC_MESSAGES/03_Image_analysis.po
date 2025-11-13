@@ -1,0 +1,1807 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2024
+# This file is distributed under the same license as the Python package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+# 
+# Translators:
+# Beth Cimini, 2025
+# 
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Python\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-05-23 21:07+0000\n"
+"PO-Revision-Date: 2023-05-02 18:49+0000\n"
+"Last-Translator: Beth Cimini, 2025\n"
+"Language-Team: Chinese (https://app.transifex.com/center-for-open-bioimage-analysis/teams/169123/zh/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: zh\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+#: ../../03_Image_analysis/Classification.md:1
+msgid "Object classification"
+msgstr "对象分类"
+
+#: ../../03_Image_analysis/Classification.md:3
+msgid "What is classification?"
+msgstr "什么是分类？"
+
+#: ../../03_Image_analysis/Classification.md:4
+msgid ""
+"Simply put, phenotypic classification is about categorizing objects into "
+"different groups based on their features (aka measurements)."
+msgstr "简而言之，表型分类是根据物体的特征（即测量值）将物体分类到不同的组中。"
+
+#: ../../03_Image_analysis/Classification.md:0
+#: ../../03_Image_analysis/Colocalization.md:0
+#: ../../03_Image_analysis/Intensity.md:0 ../../03_Image_analysis/Shape.md:0
+#: ../../03_Image_analysis/Tracking.md:0
+msgid "📏 How do I measure it?"
+msgstr "📏 我该如何测量？"
+
+#: ../../03_Image_analysis/Classification.md:10
+msgid ""
+"Phenotypic classification can be performed a few different ways. One way to "
+"break this down is by unsupervised vs. supervised classification."
+msgstr "表型分类可以通过几种不同的方式进行。其中一种分类方法是按无监督分类和有监督分类进行划分。"
+
+#: ../../03_Image_analysis/Classification.md:12
+msgid ""
+"In **supervised classification**, a human also provides information on what "
+"the different groups of objects should look like by providing representative"
+" examples of each group in a training dataset. The computer then learns how "
+"to assign objects to groups based on their measurements by testing models "
+"against the ground truth training dataset."
+msgstr ""
+"在**监督分类**中，人类会提供不同对象组的代表性示例，以此来描述这些对象组应该是什么样子。然后，计算机通过将模型与真实训练数据集进行比对，学习如何根据对象的尺寸将其分配到不同的组别中。"
+
+#: ../../03_Image_analysis/Classification.md:14
+msgid ""
+"For example, you could classify cells based on a visual phenotype and train "
+"a machine learning classifier to derive which measurement ranges are "
+"associated with different classes. This is supervised classification because"
+" a person is providing instruction of how many classes there should be and "
+"examples of what each class should look like for the computer to learn from."
+" An example of this could be annotating a subset of cells that are in "
+"different stages of mitosis and training a classifier to use your labels to "
+"find other cells in those stages."
+msgstr ""
+"例如，您可以根据视觉表型对细胞进行分类，并训练机器学习分类器来确定哪些测量范围与不同的类别相关联。这属于监督分类，因为需要人为地提供类别数量以及每个类别的示例供计算机学习。例如，您可以标注处于不同有丝分裂阶段的细胞子集，并训练分类器使用这些标签来查找处于这些阶段的其他细胞。"
+
+#: ../../03_Image_analysis/Classification.md:16
+msgid ""
+"In **unsupervised classification**, you group objects based on their "
+"measurements, but without any top-down human-defined guidance into how many "
+"groups there are or what the groups should look like."
+msgstr "在**无监督分类**中，您可以根据对象的测量值对对象进行分组，但没有任何自上而下的人类定义指导，来决定有多少组或组应该是什么样子。"
+
+#: ../../03_Image_analysis/Classification.md:18
+msgid ""
+"For example, you could measure hundreds or thousands of features of cells "
+"from many treatments, as is typical in large-scale cell profiling "
+"experiments. Next you could let the computer cluster the cells into some "
+"number of different groups based on having similar measurements. This is a "
+"form of unsupervised clustering, where you observe what groups emerge from a"
+" computer considering their measurements only, and not class labels we "
+"impose as researchers. These sorts of clustering experiments can provide "
+"novel results but may also be harder to interpret; see this "
+"protocol{cite}`GarciaFossaCruz2023` for more information."
+msgstr ""
+"例如，您可以测量来自多种处理的细胞的数百或数千个特征，这在大规模细胞分析实验中很常见。接下来，您可以让计算机根据相似的测量结果将细胞聚类成若干不同的组。这是一种无监督聚类方法，您可以观察计算机仅考虑测量结果（而非我们研究人员设定的类别标签）后产生的组。这类聚类实验可以提供新颖的结果，但也可能更难解释；更多信息请参阅此协议{cite}`GarciaFossaCruz2023`。"
+
+#: ../../03_Image_analysis/Classification.md:0
+#: ../../03_Image_analysis/Colocalization.md:0
+#: ../../03_Image_analysis/Data_management.md:0
+#: ../../03_Image_analysis/Intensity.md:0 ../../03_Image_analysis/Shape.md:0
+#: ../../03_Image_analysis/Tracking.md:0
+msgid "<span style=\"color: red\">⚠️</span> Where can things go wrong?"
+msgstr "<span style=\"color: red\">⚠️</span> 哪里会出错？"
+
+#: ../../03_Image_analysis/Classification.md:23
+msgid ""
+"**Valid measurements are still important** Classification can be simple or "
+"complex, but results always depend on the validity of your measurements. For"
+" this reason, all the caveats of earlier measurement sections also apply "
+"here."
+msgstr "**有效测量仍然至关重要** 分类方法可简可繁，但结果始终取决于测量的有效性。因此，之前测量章节中提到的所有注意事项同样适用于此。"
+
+#: ../../03_Image_analysis/Classification.md:24
+msgid ""
+"**Machines are lazy** Machine learning classifiers aren’t necessarily going "
+"to learn the biologically relevant features that distinguish objects from "
+"distinct groups. Confounding features, or features that vary with your "
+"phenotype but are not biologically related to it, can limit the usefulness "
+"of your classifier and lead to incorrect conclusions. For instance, if "
+"clinicians often put rulers next to malignant looking moles and not next to "
+"benign moles and try to train a machine learning classifier to distinguish "
+"malignant vs. benign, the model might learn to classify images with rulers "
+"as malignant without tapping into any of the relevant features of the moles."
+" This is a [real example](https://pubmed.ncbi.nlm.nih.gov/30244720/) "
+"{cite}`Narla2018-qh`. If possible, examining which features your model is "
+"relying on to classify objects can be a way to check for this. It’s also "
+"important to standardize how you capture images of your different classes of"
+" objects and include a large enough training set with images with lots of "
+"variation. You wouldn’t want all your positive cells to come from samples "
+"you imaged in March and all your negative cells from samples you imaged in "
+"January, for example."
+msgstr ""
+"**机器也有惰性** "
+"机器学习分类器未必能学习到区分不同类别物体的生物学相关特征。混淆特征，即那些随表型变化但与表型本身没有生物学关联的特征，会限制分类器的效用，并导致错误的结论。例如，如果临床医生经常在看起来像恶性的痣旁边放置尺子，而不是在良性痣旁边放置尺子，并试图训练一个机器学习分类器来区分恶性和良性痣，那么模型可能会学习将带有尺子的图像分类为恶性，而忽略了痣的任何相关特征。这是一个[真实案例](https://pubmed.ncbi.nlm.nih.gov/30244720/)"
+" "
+"{cite}`Narla2018-qh`。如果可能，检查模型用于对象分类的特征是检查此问题的一种方法。此外，标准化不同类别对象的图像采集方式，并包含足够大的、具有丰富变化的图像训练集也至关重要。例如，您肯定不希望所有阳性细胞都来自三月份拍摄的样本，而所有阴性细胞都来自一月份拍摄的样本。"
+
+#: ../../03_Image_analysis/Classification.md:25
+msgid ""
+"**Violating model assumptions** If using a machine learning classifier, "
+"different models come with different baked-in assumptions. If you’re "
+"starting out, it can be difficult to know which to pick. There are "
+"interactive tools such as [CellProfiler "
+"Analyst](https://academic.oup.com/bioinformatics/article/32/20/3210/2196630)"
+" {cite}`Stirling2021-ov` and [Piximi](https://www.piximi.app/) that make "
+"training a classifier easier, especially if you don’t know how to code."
+msgstr ""
+"**违反模型假设** 如果使用机器学习分类器，不同的模型会带有不同的内置假设。对于初学者来说，选择合适的模型可能比较困难。有一些交互式工具，例如 "
+"CellProfiler Analyst 和 Piximi，可以简化分类器的训练过程，尤其适合不懂编程的用户。"
+
+#: ../../03_Image_analysis/Classification.md:26
+msgid ""
+"**Messy boundaries** Most methods of supervised classification, where the "
+"user assigns objects to a score or to a bin, ultimately treat each bin as a "
+"totally separate entity; biology is rarely so neat. For example, a "
+"supervised classifier for cell cycle phase must assign a cell to one phase, "
+"but in fact progression through the cell cycle is not a perfectly switch-"
+"like process, as can be visualized by measurements of individual cells "
+"(colored by their class given by a human observer). More sophisticated "
+"methods may be needed to classify more continuous phenotypes"
+msgstr ""
+"**边界模糊** "
+"大多数监督分类方法（用户将对象分配到某个分数或类别）最终将每个类别视为完全独立的实体；而生物学很少如此泾渭分明。例如，用于细胞周期阶段的监督分类器必须将细胞分配到某个阶段，但实际上，细胞周期的进程并非一个完美的开关式过程，这一点可以通过对单个细胞的测量（根据人类观察者给出的类别着色）来可视化。对更连续的表型进行分类可能需要更复杂的方法。"
+
+#: ../../03_Image_analysis/Classification.md:0
+msgid "a continuous distribution of cell cycle states"
+msgstr "细胞周期状态的连续分布"
+
+#: ../../03_Image_analysis/Classification.md:35
+msgid ""
+"**Strict division into supervised classes can be tricky for continuous "
+"biological processes**. Adapted from Eulenberg, P., Köhler, N., Blasi, T. "
+"_et al_. Reconstructing cell cycle and disease progression using deep "
+"learning. _Nat Commun_ **8**, 463 (2017) {cite}`Eulenberg2017-ax`"
+msgstr ""
+"**对于连续的生物过程，严格划分为监督类别可能比较棘手**。改编自 Eulenberg, P., Köhler, N., Blasi, T. "
+"等人。利用深度学习重建细胞周期和疾病进展。《自然通讯》8, 463 (2017) {cite}`Eulenberg2017-ax`"
+
+#: ../../03_Image_analysis/Classification.md:0
+#: ../../03_Image_analysis/Colocalization.md:0
+#: ../../03_Image_analysis/Data_management.md:0
+#: ../../03_Image_analysis/Intensity.md:0 ../../03_Image_analysis/Shape.md:0
+#: ../../03_Image_analysis/Tracking.md:0
+msgid "📚🤷‍♀️ Where can I learn more?"
+msgstr "📚🤷‍♀️ 我在哪里可以了解更多信息？"
+
+#: ../../03_Image_analysis/Classification.md:41
+msgid ""
+"📄 [Data-analysis strategies for image-based cell "
+"profiling](https://www.nature.com/articles/nmeth.4397) "
+"{cite}`Caicedo2017-ks`"
+msgstr ""
+"📄 [基于图像的细胞分析数据分析策略](https://www.nature.com/articles/nmeth.4397) "
+"{cite}`Caicedo2017-ks`"
+
+#: ../../03_Image_analysis/Classification.md:42
+msgid ""
+"📄 [Scoring diverse cellular morphologies in image-based screens with "
+"iterative feedback and machine "
+"learning](https://www.pnas.org/doi/10.1073/pnas.0808843106) "
+"{cite}`Jones2009-zz`"
+msgstr ""
+"📄 "
+"[利用迭代反馈和机器学习对基于图像的筛选中的各种细胞形态进行评分](https://www.pnas.org/doi/10.1073/pnas.0808843106)"
+" {cite}`Jones2009-zz`"
+
+#: ../../03_Image_analysis/Classification.md:43
+msgid ""
+"🎥 [iBiology video series: Measurement and Phenotype "
+"Classification](https://www.youtube.com/watch?v=Odi9pIerT7I)"
+msgstr ""
+"🎥 [iBiology 视频系列：测量和表型分类](https://www.youtube.com/watch?v=Odi9pIerT7I)"
+
+#: ../../03_Image_analysis/Classification.md:44
+msgid ""
+"📄 [Interpreting Image-based Profiles using Similarity Clustering and Single-"
+"Cell Visualization](https://doi.org/10.1002/cpz1.713) "
+"{cite}`GarciaFossaCruz2023`"
+msgstr ""
+"📄 [利用相似性聚类和单细胞可视化解读基于图像的谱图](https://doi.org/10.1002/cpz1.713) "
+"{cite}`GarciaFossaCruz2023`"
+
+#: ../../03_Image_analysis/Colocalization.md:1
+msgid "Colocalization"
+msgstr "共定位"
+
+#: ../../03_Image_analysis/Colocalization.md:4
+msgid "What is colocalization?"
+msgstr "什么是共定位？"
+
+#: ../../03_Image_analysis/Colocalization.md:6
+msgid ""
+"Colocalization is when two or more different labels (e.g., eGFP and mCherry)"
+" spatially overlap in your image (also called co-occurrence). Another "
+"component of colocalization is that the fluorescent labels often correlate "
+"in intensity (i.e., pixels with brighter eGFP also have brighter mCherry). "
+"It is very important to measure colocalization quantitatively–**do not just "
+"trust your eyes!**"
+msgstr ""
+"共定位是指两种或多种不同的标记物（例如 eGFP 和 "
+"mCherry）在图像中空间重叠（也称为共现）。共定位的另一个特征是荧光标记物的强度通常相关（即，eGFP 较亮的像素也对应较亮的 "
+"mCherry）。定量测量共定位非常重要——**不要仅仅依靠肉眼观察！**"
+
+#: ../../03_Image_analysis/Colocalization.md:8
+msgid ""
+"It is also important to recognize that co-ocurrence does not _necessarily_ "
+"imply interaction."
+msgstr "同样重要的是要认识到，共现并不一定意味着相互作用。"
+
+#: ../../03_Image_analysis/Colocalization.md:11
+msgid ""
+"As an example, it is possible for two people to work in the same building "
+"and never interact."
+msgstr "例如，两个人可能在同一栋楼里工作，但从未有过任何互动。"
+
+#: ../../03_Image_analysis/Colocalization.md:21
+msgid "degrees of colocalization"
+msgstr "共定位程度"
+
+#: ../../03_Image_analysis/Colocalization.md:21
+msgid "**Colocalization is about intensity and spatial overlap of labels**"
+msgstr "**共定位是指标签的强度和空间重叠情况**"
+
+#: ../../03_Image_analysis/Colocalization.md:28
+msgid ""
+"There are two main branches for how to look at colocalization: Object-based "
+"and correlation-based."
+msgstr "研究共定位主要有两种方法：基于对象的方法和基于相关性的方法。"
+
+#: ../../03_Image_analysis/Colocalization.md:30
+msgid ""
+"**Object-based colocalization** is appropriate when you want to be able to "
+"say something about a fraction of objects being positive for multiple labels"
+" (e.g., 99% of eGFP+ cells were also mCherry+). Here’s a sample workflow:"
+msgstr ""
+"当您想要描述一部分对象同时表达多个标记（例如，99% 的 eGFP+ 细胞也表达 "
+"mCherry）时，基于对象的共定位分析是合适的。以下是一个示例工作流程："
+
+#: ../../03_Image_analysis/Colocalization.md:51
+msgid ""
+"**Correlation-based colocalization** is more appropriate when the labels "
+"you’re measuring are not found in discrete objects or when you predict that "
+"the signal in the labels should correlate. Correlation-based colocalization "
+"is simpler to measure as it does not require any {term}`segmentation` of "
+"objects. Pearson correlation coefficients are readily measurable in most "
+"image analysis softwares (e.g., FIJI, CellProfiler, etc.)."
+msgstr ""
+"当待测标签并非存在于离散对象中，或者预测标签中的信号存在相关性时，基于相关性的共定位分析更为适用。基于相关性的共定位分析测量起来更简单，因为它不需要对对象进行任何分割。大多数图像分析软件（例如"
+" FIJI、CellProfiler 等）都可以轻松计算 Pearson 相关系数。"
+
+#: ../../03_Image_analysis/Colocalization.md:55
+msgid ""
+"**Not having adequate controls** (e.g., single label controls where only one"
+" fluorescent label is present). Noise, uneven illumination, and other "
+"technical artifacts can cause correlation between two channels"
+msgstr "**缺乏充分的对照**（例如，仅存在一种荧光标记的单标记对照）。噪声、光照不均和其他技术因素都可能导致两个通道之间出现相关性。"
+
+#: ../../03_Image_analysis/Colocalization.md:56
+msgid ""
+"**Not correcting for shift between channels** It’s common to have some "
+"degree of shift between different imaging channels due to differences in "
+"optics (e.g., different filter cubes). Not correcting for this shift (e.g., "
+"by measuring it and applying the corresponding correction to the channels) "
+"can limit your ability to detect colocalization."
+msgstr ""
+"**未校正通道间偏移** "
+"由于光学器件（例如，不同的滤光片组）的差异，不同成像通道之间通常存在一定程度的偏移。如果不校正这种偏移（例如，通过测量偏移量并对通道应用相应的校正），可能会限制您检测共定位的能力。"
+
+#: ../../03_Image_analysis/Colocalization.md:57
+msgid ""
+"**Bleedthrough** Sometimes signal from one fluorescent channel bleeds into "
+"another, which can falsely increase your detected colocalization. This "
+"happens most commonly with fluorophores that are similar in spectra (e.g., "
+"GFP and YFP). This is caused by fluorophore in one channel being weakly "
+"excited by light used to excite a different fluorophore and the resulting "
+"emitted fluorescence makes it through the emission filter (e.g., your green "
+"objects show up in the yellow channel as well). Assess this with single "
+"label controls."
+msgstr ""
+"**串扰** 有时，一个荧光通道的信号会串扰到另一个通道，这会导致检测到的共定位数量虚高。这种情况最常发生在光谱相似的荧光团之间（例如，GFP 和 "
+"YFP）。这是因为一个通道中的荧光团被用于激发另一个荧光团的光微弱激发，导致产生的荧光穿过发射滤光片（例如，绿色物体也会出现在黄色通道中）。使用单标记对照来评估这种情况。"
+
+#: ../../03_Image_analysis/Colocalization.md:58
+msgid ""
+"**Improper interpretation of your colocalization metric** The details of the"
+" metric chosen here are very important - they vary widely in terms of their "
+"inclusion of background pixels, their sensitivity to signal-to-noise, etc. "
+"Consultation with an expert and the inclusion of proper controls can help "
+"you be assured that your measurement is truly what you think it is."
+msgstr ""
+"**对共定位指标的解读不当** "
+"此处选择的指标细节非常重要——它们在是否包含背景像素、对信噪比的敏感度等方面差异很大。咨询专家并加入适当的对照实验可以帮助您确保您的测量结果真正符合您的预期。"
+
+#: ../../03_Image_analysis/Colocalization.md:63
+msgid ""
+"🔢 [Theoretical background on "
+"colocalization](https://svi.nl/ColocalizationTheory)"
+msgstr "🔢 [共定位的理论背景](https://svi.nl/ColocalizationTheory)"
+
+#: ../../03_Image_analysis/Colocalization.md:64
+msgid ""
+"📄 [Image co-localization - co-occurrence versus "
+"correlation](https://journals.biologists.com/jcs/article/131/3/jcs211847/77151/Image-"
+"co-localization-co-occurrence-versus) {cite}`Aaron2018-qi`"
+msgstr ""
+"📄 [图像共定位 - "
+"共现与相关性](https://journals.biologists.com/jcs/article/131/3/jcs211847/77151/Image-"
+"co-localization-co-occurrence-versus) {cite}`Aaron2018-qi`"
+
+#: ../../03_Image_analysis/Common_types_of_analysis.md:1
+#: ../../03_Image_analysis/Software.md:1
+msgid "Default Caption"
+msgstr "默认字幕"
+
+#: ../../03_Image_analysis/Common_types_of_analysis.md:1
+msgid "Common types of analysis"
+msgstr "常见分析类型"
+
+#: ../../03_Image_analysis/Common_types_of_analysis.md:3
+msgid ""
+"In this section,  we detail information and tips about some common, very "
+"useful types of image analysis. We first describe two aspects of "
+"morphological analysis. **Morphology** is the study of the appearance, form,"
+" and structure of an object and morphological measurements include those "
+"based on object **shape** (e.g. cell area) as well as **intensity** (e.g. "
+"mean brightness of GFP). After describing shape-based and intensity-based "
+"analyses, we also present tips for measuring **colocalization**, **tracking "
+"objects**, and **classifying objects**."
+msgstr ""
+"本节详细介绍一些常见且非常实用的图像分析方法和技巧。首先，我们将介绍形态学分析的两个方面。**形态学**是对物体外观、形状和结构的研究，形态学测量包括基于物体**形状**（例如细胞面积）以及**强度**（例如GFP的平均亮度）的测量。在介绍基于形状和基于强度的分析之后，我们还将提供测量**共定位**、**追踪物体**和**分类物体**的技巧。"
+
+#: ../../03_Image_analysis/Data_management.md:1
+msgid "Data management and sharing"
+msgstr "数据管理与共享"
+
+#: ../../03_Image_analysis/Data_management.md:3
+msgid "What is it?"
+msgstr "那是什么？"
+
+#: ../../03_Image_analysis/Data_management.md:5
+msgid ""
+"Both journals and scientific funders have placed more emphasis in recent "
+"years on the fact that it is critical to save both the raw data generated "
+"during the course of scientific discovery as well as the workflows used to "
+"process such data. While mandates to publicly deposit raw image data have "
+"recently gone into place in several countries, it can be difficult for "
+"researchers to know where to store images, code, and metadata associated "
+"with their bioimaging experiments."
+msgstr ""
+"近年来，期刊和科研资助机构都更加重视保存科学发现过程中产生的原始数据以及处理这些数据的工作流程。虽然一些国家最近已强制要求公开原始图像数据，但研究人员仍然难以确定生物成像实验相关的图像、代码和元数据应该存储在哪里。"
+
+#: ../../03_Image_analysis/Data_management.md:0
+msgid "🤔 What are my options?"
+msgstr "🤔 我有哪些选择？"
+
+#: ../../03_Image_analysis/Data_management.md:9
+msgid ""
+"There are many options for storing image data in online repositories. These "
+"services make it easy to share and reuse data. The best option will depend "
+"on the size of the dataset, the budget for storage, whether there is related"
+" non-image data, and how much metadata is available for the dataset. Some "
+"options are summarized below:"
+msgstr ""
+"在线存储库提供了多种图像数据存储方案。这些服务使得数据共享和重用变得轻松便捷。最佳方案取决于数据集的大小、存储预算、是否存在相关的非图像数据以及数据集的元数据量。以下总结了一些方案："
+
+#: ../../03_Image_analysis/Data_management.md:0
+msgid "Comparison of various data respositories"
+msgstr "各种数据存储库的比较"
+
+#: ../../03_Image_analysis/Data_management.md:18
+msgid ""
+"**Options for storing bioimaging data** Figure by Beth Cimini (2023) "
+"[Source](https://doi.org/10.5281/zenodo.7628604)"
+msgstr ""
+"**生物成像数据存储方案** 图表由 Beth Cimini (2023) 提供 "
+"[来源](https://doi.org/10.5281/zenodo.7628604)"
+
+#: ../../03_Image_analysis/Data_management.md:24
+msgid ""
+"**Not storing original versions of images**. It is critical that the raw "
+"image data be saved and stored. It is very important that these files are "
+"not compressed formats (e.g., '.jpeg') or modified from the original files "
+"on which analysis was performed. If files are modified, measurements will "
+"change and the analysis pipeline will not be reproducible to anyone else."
+msgstr ""
+"**请勿存储图像的原始版本**。保存原始图像数据至关重要。这些文件必须保持未压缩格式（例如“.jpeg”），且不得修改用于分析的原始文件。如果文件被修改，测量结果将会改变，其他人将无法复现分析流程。"
+
+#: ../../03_Image_analysis/Data_management.md:26
+msgid ""
+"**Necessary imaging metadata is unavailable**. In order to properly "
+"calibrate measurement data, it's critical that information like pixel size "
+"(e.g., in microns), the microscope manufacturer and model, and acquisition "
+"settings are included alongside the data. If this isn't included, it will be"
+" very difficult to reproduce results or use the combine the data with other "
+"datasets."
+msgstr ""
+"**必要的图像元数据不可用**。为了正确校准测量数据，必须包含像素尺寸（例如，以微米为单位）、显微镜制造商和型号以及采集设置等信息。如果缺少这些信息，将很难重现结果或将数据与其他数据集合并使用。"
+
+#: ../../03_Image_analysis/Data_management.md:32
+msgid "🌐 [Zenodo](https://zenodo.org/)"
+msgstr "🌐 [Zenodo](https://zenodo.org/)"
+
+#: ../../03_Image_analysis/Data_management.md:33
+msgid "🌐 [Figshare](https://figshare.com)"
+msgstr "🌐 [Figshare](https://figshare.com)"
+
+#: ../../03_Image_analysis/Data_management.md:34
+msgid "🌐 [Dryad](https://datadryad.org)"
+msgstr "🌐 [Dryad](https://datadryad.org)"
+
+#: ../../03_Image_analysis/Data_management.md:35
+msgid ""
+"🌐 [Bioimage Archive](https://www.ebi.ac.uk/bioimage-archive/) "
+"{cite}`Hartley2022-mt`"
+msgstr ""
+"🌐 [生物图像存档](https://www.ebi.ac.uk/bioimage-archive/) {cite}`Hartley2022-mt`"
+
+#: ../../03_Image_analysis/Data_management.md:36
+msgid ""
+"🌐 [Image Data Resource (IDR)](https://idr.openmicroscopy.org/) "
+"{cite}`Williams2017-yy`"
+msgstr ""
+"🌐 [图像数据资源 (IDR)](https://idr.openmicroscopy.org/) {cite}`Williams2017-yy`"
+
+#: ../../03_Image_analysis/Data_management.md:37
+msgid "🌐 [BBBC](https://bbbc.broadinstitute.org/) {cite}`Ljosa2012-fr`"
+msgstr "🌐 [BBBC](https://bbbc.broadinstitute.org/) {cite}`Ljosa2012-fr`"
+
+#: ../../03_Image_analysis/Data_management.md:38
+msgid ""
+"🌐 [Cell Painting Gallery](https://registry.opendata.aws/cellpainting-"
+"gallery/)"
+msgstr "🌐 [细胞绘画画廊](https://registry.opendata.aws/cellpainting-gallery/)"
+
+#: ../../03_Image_analysis/GeneralUseSoftware.md:1
+msgid "General Use Software"
+msgstr "通用软件"
+
+#: ../../03_Image_analysis/GeneralUseSoftware.md:3
+msgid ""
+"Tools on this page tend to be relatively multipurpose across a lot of kinds "
+"of analyses and/or images. For tools that specialize in certain analysis "
+"steps, see the [Specific Use Software](./SpecificUseSoftware.md) page."
+msgstr ""
+"本页上的工具通常用途较为广泛，适用于多种类型的分析和/或图像。如需使用专门针对特定分析步骤的工具，请参阅[专用软件](./SpecificUseSoftware.md)页面。"
+
+#: ../../03_Image_analysis/GeneralUseSoftware.md:6
+msgid ""
+"<img src=\"https://imagej.net/media/icons/imagej2.png\" alt=\"logo\" "
+"width=\"30px\"> ImageJ"
+msgstr ""
+"<img src=\"https://imagej.net/media/icons/imagej2.png\" alt=\"logo\" "
+"width=\"30px\"> ImageJ"
+
+#: ../../03_Image_analysis/GeneralUseSoftware.md:9
+msgid ""
+"[ImageJ](https://imagej.net/) "
+"{cite}`Schneider2012-gs,Schindelin2012-kk,Rueden2017-ku` is an imaging "
+"processing program that is capable of operating on a variety of images "
+"including multichannel, 3D and time series. It provides a variety of basic "
+"imaging processing operations, but it can be complemented with a variety of "
+"plugins for more complex tasks."
+msgstr ""
+"ImageJ（https://imagej.net/）是一款图像处理程序，能够处理包括多通道图像、3D图像和时间序列图像在内的各种图像。它提供多种基本图像处理操作，还可以通过各种插件来增强其功能，以完成更复杂的任务。"
+
+#: ../../03_Image_analysis/GeneralUseSoftware.md:0
+#: ../../03_Image_analysis/SpecificUseSoftware.md:0
+msgid "What are its disadvantages?"
+msgstr "它的缺点是什么？"
+
+#: ../../03_Image_analysis/GeneralUseSoftware.md:14
+msgid ""
+"Imaging processing operations are done one at a time, while it has the "
+"capability of batch processing and creating macros it does require some "
+"understanding of coding."
+msgstr "图像处理操作是逐个进行的，虽然它具有批量处理和创建宏的功能，但确实需要一些编程知识。"
+
+#: ../../03_Image_analysis/GeneralUseSoftware.md:15
+msgid ""
+"But while it can open large images, there is a size limit to the size it can"
+" handle based on the available memory. And even if it can open large images "
+"it can slow down performance."
+msgstr "虽然它可以打开大型图像，但其处理图像的大小受可用内存的限制。即使可以打开大型图像，也会降低性能。"
+
+#: ../../03_Image_analysis/GeneralUseSoftware.md:0
+#: ../../03_Image_analysis/SpecificUseSoftware.md:0
+msgid "How to download/install and learn more?"
+msgstr "如何下载/安装并了解更多信息？"
+
+#: ../../03_Image_analysis/GeneralUseSoftware.md:20
+msgid "To download ImageJ or its “batteries-included” distribution Fiji go to"
+msgstr "要下载 ImageJ 或其“内置电池”发行版 Fiji，请访问："
+
+#: ../../03_Image_analysis/GeneralUseSoftware.md:24
+msgid "🌐 [ImageJ download](https://imagej.net/downloads)"
+msgstr "🌐 [ImageJ 下载](https://imagej.net/downloads)"
+
+#: ../../03_Image_analysis/GeneralUseSoftware.md:26
+msgid ""
+"For documentation and tutorials on how to use ImageJ as well as a list of "
+"available plugins"
+msgstr "有关 ImageJ 的使用文档和教程以及可用插件列表，请访问[此处插入链接]。"
+
+#: ../../03_Image_analysis/GeneralUseSoftware.md:30
+msgid "🌐 [ImageJ basics](https://imagej.net/learn/)"
+msgstr "🌐 [ImageJ 基础知识](https://imagej.net/learn/)"
+
+#: ../../03_Image_analysis/GeneralUseSoftware.md:34
+msgid ""
+"<img src=\"https://us1.discourse-"
+"cdn.com/flex015/uploads/imagej/original/2X/b/bcdcd5ba157e07e74dd1964ec81765e708455ed9.png\""
+" alt=\"logo\" width=\"30px\"> CellProfiler"
+msgstr ""
+"<img src=\"https://us1.discourse-"
+"cdn.com/flex015/uploads/imagej/original/2X/b/bcdcd5ba157e07e74dd1964ec81765e708455ed9.png\""
+" alt=\"logo\" width=\"30px\"> CellProfiler"
+
+#: ../../03_Image_analysis/GeneralUseSoftware.md:36
+msgid ""
+"[CellProfiler](https://cellprofiler.org/) {cite}`Stirling2021-sg` is a "
+"software designed for biologists by biologists; it creates a bridge between "
+"image analysis and scientist with no need of computational expertise. It was"
+" designed with the idea of an image analysis pipeline in mind: it allows you"
+" to take a series of interoperable modules to design your own custom "
+"analysis pipeline that can be applied to one or thousands of images, making "
+"it suitable for high throughput image analysis."
+msgstr ""
+"CellProfiler（https://cellprofiler.org/）{cite}`Stirling2021-sg` "
+"是一款由生物学家为生物学家设计的软件；它搭建了图像分析与科研人员之间的桥梁，无需任何计算专业知识。其设计理念源于图像分析流程：它允许用户使用一系列可互操作的模块来构建自定义分析流程，该流程可应用于一张或数千张图像，使其适用于高通量图像分析。"
+
+#: ../../03_Image_analysis/GeneralUseSoftware.md:42
+msgid ""
+"CellProfiler can’t handle large images, like whole tissue sections from "
+"histology experiments. The image size is currently limited by the available "
+"memory on your computer."
+msgstr "CellProfiler 无法处理大型图像，例如组织学实验中的完整组织切片。目前，图像大小受限于计算机的可用内存。"
+
+#: ../../03_Image_analysis/GeneralUseSoftware.md:43
+msgid ""
+"While CellProfiler can perform analysis on 3D images the visualization is "
+"limited to a one z-plane at a time via a slider on the viewing window."
+msgstr "虽然 CellProfiler 可以对 3D 图像进行分析，但可视化一次只能通过查看窗口上的滑块显示一个 z 平面。"
+
+#: ../../03_Image_analysis/GeneralUseSoftware.md:44
+msgid ""
+"Also several features of CellProfiler are only available for 2D images."
+msgstr "此外，CellProfiler 的几个功能仅适用于 2D 图像。"
+
+#: ../../03_Image_analysis/GeneralUseSoftware.md:49
+msgid "To download CellProfiler"
+msgstr "下载 CellProfiler"
+
+#: ../../03_Image_analysis/GeneralUseSoftware.md:53
+msgid "🌐 [CellProfiler download](https://cellprofiler.org/releases)"
+msgstr "🌐 [CellProfiler 下载](https://cellprofiler.org/releases)"
+
+#: ../../03_Image_analysis/GeneralUseSoftware.md:55
+#: ../../03_Image_analysis/GeneralUseSoftware.md:84
+#: ../../03_Image_analysis/GeneralUseSoftware.md:113
+#: ../../03_Image_analysis/GeneralUseSoftware.md:142
+#: ../../03_Image_analysis/GeneralUseSoftware.md:172
+#: ../../03_Image_analysis/SpecificUseSoftware.md:59
+msgid "For documentation examples and  tutorials."
+msgstr "文档示例和教程。"
+
+#: ../../03_Image_analysis/GeneralUseSoftware.md:59
+msgid ""
+"🌐 [CellProfiler user manual](https://cellprofiler-"
+"manual.s3.amazonaws.com/CellProfiler-4.2.6/index.html)"
+msgstr ""
+"🌐 [CellProfiler 用户手册](https://cellprofiler-"
+"manual.s3.amazonaws.com/CellProfiler-4.2.6/index.html)"
+
+#: ../../03_Image_analysis/GeneralUseSoftware.md:60
+msgid "🌐 [Examples](https://cellprofiler.org/examples)"
+msgstr "🌐 [示例](https://cellprofiler.org/examples)"
+
+#: ../../03_Image_analysis/GeneralUseSoftware.md:61
+msgid "🌐 [Tutorials](https://tutorials.cellprofiler.org/)"
+msgstr "🌐 [教程](https://tutorials.cellprofiler.org/)"
+
+#: ../../03_Image_analysis/GeneralUseSoftware.md:62
+msgid ""
+"🎥 [Video tutorials and "
+"workshops](https://www.youtube.com/playlist?list=PLXSm9cHbSZBBy7JkChB32_e3lURUcT3RL)"
+msgstr ""
+"🎥 "
+"[视频教程和研讨会](https://www.youtube.com/playlist?list=PLXSm9cHbSZBBy7JkChB32_e3lURUcT3RL)"
+
+#: ../../03_Image_analysis/GeneralUseSoftware.md:66
+msgid ""
+"<img src=\"https://us1.discourse-"
+"cdn.com/flex015/uploads/imagej/optimized/3X/6/0/6039b2daa4b6b1c32943f63f464cf3c477898bfe_2_750x750.png\""
+" alt=\"logo\" width=\"30px\"> QuPath"
+msgstr ""
+"<img src=\"https://us1.discourse-"
+"cdn.com/flex015/uploads/imagej/optimized/3X/6/0/6039b2daa4b6b1c32943f63f464cf3c477898bfe_2_750x750.png\""
+" alt=\"logo\" width=\"30px\"> QuPath"
+
+#: ../../03_Image_analysis/GeneralUseSoftware.md:68
+msgid ""
+"[QuPath](https://qupath.github.io/) {cite}`Bankhead2017-kz` offers a wide "
+"set of image analysis tools that can be applied to whole slide images. For "
+"that reason it is widely utilized with pathology images, but it can be used "
+"with other images as well. QuPath also contains pixel classification tools "
+"and can integrate with ImageJ (e.g., for sending {term}`ROIs` between the "
+"programs, or for accessing ImageJ plugins)."
+msgstr ""
+"[QuPath](https://qupath.github.io/) {cite}`Bankhead2017-kz` "
+"提供了一套丰富的图像分析工具，可应用于全切片图像。因此，它被广泛用于病理图像分析，但也可用于其他类型的图像。QuPath 还包含像素分类工具，并且可以与"
+" ImageJ 集成（例如，用于在程序之间发送 {term}`ROI`，或访问 ImageJ 插件）。"
+
+#: ../../03_Image_analysis/GeneralUseSoftware.md:73
+msgid ""
+"To get the most out of QuPath (especially when analyzing many images), some "
+"scripting and knowledge of coding (or adapting other’s code) is necessary"
+msgstr "要充分发挥 QuPath 的性能（尤其是在分析大量图像时），需要一些脚本编写和编程知识（或改编他人的代码）。"
+
+#: ../../03_Image_analysis/GeneralUseSoftware.md:78
+msgid "To download QuPath"
+msgstr "下载 QuPath"
+
+#: ../../03_Image_analysis/GeneralUseSoftware.md:82
+msgid "🌐 [QuPath download](https://qupath.github.io/)"
+msgstr "🌐 [QuPath 下载](https://qupath.github.io/)"
+
+#: ../../03_Image_analysis/GeneralUseSoftware.md:88
+msgid "🌐 [QuPath user manual](https://qupath.readthedocs.io/en/stable/)"
+msgstr "🌐 [QuPath 用户手册](https://qupath.readthedocs.io/en/stable/)"
+
+#: ../../03_Image_analysis/GeneralUseSoftware.md:89
+msgid "🎥 [Video tutorials and workshops](https://www.youtube.com/c/qupath)"
+msgstr "🎥 [视频教程和研讨会](https://www.youtube.com/c/qupath)"
+
+#: ../../03_Image_analysis/GeneralUseSoftware.md:93
+msgid ""
+"<img src=\"https://icy.bioimageanalysis.org/wp-"
+"content/uploads/2018/07/logo_full_notext600px.png\" alt=\"logo\" "
+"width=\"30px\"> Icy"
+msgstr ""
+"<img src=\"https://icy.bioimageanalysis.org/wp-"
+"content/uploads/2018/07/logo_full_notext600px.png\" alt=\"logo\" "
+"width=\"30px\"> 冰冷"
+
+#: ../../03_Image_analysis/GeneralUseSoftware.md:95
+msgid ""
+"[Icy](https://icy.bioimageanalysis.org/) {cite}`De_Chaumont2012-pe` is an "
+"out of the box image analysis tools, it utilizes plugins to create visual "
+"image analysis protocols that can be shared with other users."
+msgstr ""
+"[Icy](https://icy.bioimageanalysis.org/) {cite}`De_Chaumont2012-pe` "
+"是一款开箱即用的图像分析工具，它利用插件创建可与其他用户共享的可视化图像分析协议。"
+
+#: ../../03_Image_analysis/GeneralUseSoftware.md:102
+msgid "Icy interoperability with other softwares is limited to ImageJ"
+msgstr "Icy 与其他软件的互操作性仅限于 ImageJ。"
+
+#: ../../03_Image_analysis/GeneralUseSoftware.md:107
+msgid "To download Icy"
+msgstr "下载 Icy"
+
+#: ../../03_Image_analysis/GeneralUseSoftware.md:111
+msgid "🌐 [Icy download](https://icy.bioimageanalysis.org/download/)"
+msgstr "🌐 [Icy 下载](https://icy.bioimageanalysis.org/download/)"
+
+#: ../../03_Image_analysis/GeneralUseSoftware.md:117
+msgid ""
+"🌐 [Icy course and tutorial](https://icy.bioimageanalysis.org/trainings/)"
+msgstr "🌐 [Icy 课程和教程](https://icy.bioimageanalysis.org/trainings/)"
+
+#: ../../03_Image_analysis/GeneralUseSoftware.md:118
+msgid ""
+"🎥 [Bioimage analysis with Icy ](https://www.youtube.com/watch?v=myal9BD6J-k)"
+msgstr "🎥 [使用 Icy 进行生物图像分析](https://www.youtube.com/watch?v=myal9BD6J-k)"
+
+#: ../../03_Image_analysis/GeneralUseSoftware.md:122
+msgid ""
+"<img src=\"https://us1.discourse-"
+"cdn.com/flex015/uploads/imagej/optimized/3X/7/4/74273a1f9a663b52053d44c9767ed49193f2170f_2_787x750.png\""
+" alt=\"logo\" width=\"30px\"> MIB (Microscopy Image Browser)"
+msgstr ""
+"<img src=\"https://us1.discourse-"
+"cdn.com/flex015/uploads/imagej/optimized/3X/7/4/74273a1f9a663b52053d44c9767ed49193f2170f_2_787x750.png\""
+" alt=\"logo\" width=\"30px\"> MIB（显微镜图像浏览器）"
+
+#: ../../03_Image_analysis/GeneralUseSoftware.md:124
+msgid ""
+"[MIB](http://mib.helsinki.fi/index.html) {cite}`Belevich2016-vi` is a user-"
+"friendly software for image analysis of multidimensional datasets for both "
+"light and electron microscopy. It allows you to use the whole acquired data "
+"for its analysis and extraction of morphological features."
+msgstr ""
+"[MIB](http://mib.helsinki.fi/index.html) {cite}`Belevich2016-vi` "
+"是一款用户友好的软件，用于分析光学显微镜和电子显微镜的多维数据集图像。它允许您使用所有采集的数据进行分析并提取形态特征。"
+
+#: ../../03_Image_analysis/GeneralUseSoftware.md:131
+msgid ""
+"It was created using MATLAB, a standalone packaged version exist, but they "
+"do not use the most up-to-date MATLAB releases"
+msgstr "它是用MATLAB创建的，虽然有独立的软件包版本，但它们使用的并非最新的MATLAB版本。"
+
+#: ../../03_Image_analysis/GeneralUseSoftware.md:136
+msgid "To download MIB"
+msgstr "下载 MIB"
+
+#: ../../03_Image_analysis/GeneralUseSoftware.md:140
+msgid "🌐 [MIB download](http://mib.helsinki.fi/downloads.html)"
+msgstr "🌐 [MIB 下载](http://mib.helsinki.fi/downloads.html)"
+
+#: ../../03_Image_analysis/GeneralUseSoftware.md:146
+msgid ""
+"🌐 [MIB user "
+"guide](http://mib.helsinki.fi/help/main2/im_browser_user_guide.html)"
+msgstr ""
+"🌐 [MIB 用户指南](http://mib.helsinki.fi/help/main2/im_browser_user_guide.html)"
+
+#: ../../03_Image_analysis/GeneralUseSoftware.md:147
+msgid "🌐 [Tutorials](http://mib.helsinki.fi/tutorials.html)"
+msgstr "🌐 [教程](http://mib.helsinki.fi/tutorials.html)"
+
+#: ../../03_Image_analysis/GeneralUseSoftware.md:148
+msgid ""
+"🎥 [Video "
+"tutorials](https://www.youtube.com/playlist?list=PLGkFvW985wz8cj8CWmXOFkXpvoX_HwXzj)"
+msgstr ""
+"🎥 "
+"[视频教程](https://www.youtube.com/playlist?list=PLGkFvW985wz8cj8CWmXOFkXpvoX_HwXzj)"
+
+#: ../../03_Image_analysis/GeneralUseSoftware.md:152
+msgid ""
+"<img src=\"https://us1.discourse-"
+"cdn.com/flex015/uploads/imagej/optimized/3X/7/7/775e83f70639e1cb7cb299d8681d272e18718089_2_750x750.png\""
+" alt=\"logo\" width=\"30px\"> napari"
+msgstr ""
+"<img src=\"https://us1.discourse-"
+"cdn.com/flex015/uploads/imagej/optimized/3X/7/7/775e83f70639e1cb7cb299d8681d272e18718089_2_750x750.png\""
+" alt=\"logo\" width=\"30px\"> 纳帕里"
+
+#: ../../03_Image_analysis/GeneralUseSoftware.md:154
+msgid ""
+"[napari](https://napari.org/) {cite}`Sofroniew2022-nd` is being developed as"
+" a multi-dimensional image viewer that can be expanded via a variety of "
+"plugins to perform basic and complex image analysis tasks."
+msgstr ""
+"[napari](https://napari.org/) {cite}`Sofroniew2022-nd` "
+"正在开发为一个多维图像查看器，可以通过各种插件进行扩展，以执行基本和复杂的图像分析任务。"
+
+#: ../../03_Image_analysis/GeneralUseSoftware.md:161
+msgid ""
+"napari is still in the development stages, but it is a very popular platform"
+" and already has a variety of plugins and use cases with tutorials "
+"available."
+msgstr "Napari 目前仍处于开发阶段，但它是一个非常受欢迎的平台，已经拥有各种插件和用例，并提供了教程。"
+
+#: ../../03_Image_analysis/GeneralUseSoftware.md:166
+msgid "To download napari"
+msgstr "要下载 napari"
+
+#: ../../03_Image_analysis/GeneralUseSoftware.md:170
+msgid ""
+"🌐 [napari bundled app download "
+"](https://napari.org/stable/tutorials/fundamentals/installation.html#install-"
+"as-a-bundled-app)"
+msgstr ""
+"🌐 [napari "
+"捆绑应用程序下载](https://napari.org/stable/tutorials/fundamentals/installation.html#install-"
+"as-a-bundled-app)"
+
+#: ../../03_Image_analysis/GeneralUseSoftware.md:176
+msgid ""
+"🌐 [New to napari guide "
+"](https://napari.org/stable/tutorials/fundamentals/getting_started.html)"
+msgstr ""
+"🌐 [napari "
+"新手指南](https://napari.org/stable/tutorials/fundamentals/getting_started.html)"
+
+#: ../../03_Image_analysis/GeneralUseSoftware.md:177
+msgid "🌐 [Tutorials](https://napari.org/stable/tutorials/index.html)"
+msgstr "🌐 [教程](https://napari.org/stable/tutorials/index.html)"
+
+#: ../../03_Image_analysis/GeneralUseSoftware.md:178
+msgid ""
+"🌐 [Bioimage Analysis with Napari - A FocalPlane blog "
+"series](https://focalplane.biologists.com/category/blog-series/bio-image-"
+"analysis-with-napari/)"
+msgstr ""
+"🌐 [使用 Napari 进行生物图像分析 - FocalPlane "
+"博客系列](https://focalplane.biologists.com/category/blog-series/bio-image-"
+"analysis-with-napari/)"
+
+#: ../../03_Image_analysis/Intensity.md:1
+msgid "Intensity measurements"
+msgstr "强度测量"
+
+#: ../../03_Image_analysis/Intensity.md:3
+msgid "What are intensity measurements?"
+msgstr "什么是强度测量？"
+
+#: ../../03_Image_analysis/Intensity.md:4
+msgid ""
+"Intensity refers to the brightness of signal for a fluorescent label. Using "
+"intensity measurements, we can infer a relative amount of fluorophore or "
+"stain. So for instance, if you have a protein tagged with a fluorophore, you"
+" can measure the intensity of that fluorophore to get a relative measure of "
+"how much protein is present in your sample. Intensity measurements include "
+"the following (non-exhaustive) and can be measured within an image, in a "
+"object like a cell, in subregions of an object:"
+msgstr ""
+"强度是指荧光标记信号的亮度。通过强度测量，我们可以推断荧光团或染料的相对含量。例如，如果蛋白质被荧光团标记，可以通过测量该荧光团的强度来估算样品中蛋白质的相对含量。强度测量包括以下几种（并非全部），可以在图像内、细胞等物体内以及物体的子区域内进行测量："
+
+#: ../../03_Image_analysis/Intensity.md:5
+msgid "**Mean intensity**: the average intensity across all pixels"
+msgstr "**平均强度**：所有像素的平均强度"
+
+#: ../../03_Image_analysis/Intensity.md:6
+msgid ""
+"**Integrated intensity**: the sum of pixel intensities, a proxy for the "
+"total amount of that marker in an object"
+msgstr "**积分强度**：像素强度的总和，可近似表示物体中该标记的总量。"
+
+#: ../../03_Image_analysis/Intensity.md:7
+msgid "**Texture measurements**: the smoothness of the intensities"
+msgstr "**纹理测量**：强度平滑度"
+
+#: ../../03_Image_analysis/Intensity.md:13
+msgid ""
+"Intensity is relatively straightforward to measure, but can be quite tricky "
+"to do _correctly_ (see below). We strongly suggest you contact an image "
+"analysis expert before proceeding with this type of analysis because there "
+"are so many places things can go wrong. In general, you want to measure on "
+"either raw images, or illumination-corrected images, but in general with "
+"minimal {term}`image processing`. Illumination-correction is a form of "
+"{term}`image processing` to compensate for the uneven pattern of "
+"illumination produced by most light sources where the middle of the field of"
+" illumination is brighter than the edges. Then intensity measurements can be"
+" made in any standard image analysis software, either across the whole image"
+" or in identified objects. See below for an example workflow:"
+msgstr ""
+"强度测量相对简单，但要正确测量却相当棘手（见下文）。我们强烈建议您在进行此类分析之前咨询图像分析专家，因为其中有很多环节都可能出错。通常，您需要对原始图像或经过光照校正的图像进行测量，但一般情况下，应尽量减少图像处理。光照校正是一种图像处理，用于补偿大多数光源产生的不均匀光照模式，即光照区域中心比边缘更亮。之后，您可以使用任何标准图像分析软件进行强度测量，既可以测量整幅图像，也可以测量已识别的物体。以下是一个示例工作流程："
+
+#: ../../03_Image_analysis/Intensity.md:35
+msgid ""
+"To understand saturation another way, imagine you’re trying to measure "
+"average male height with a 2 meter tape measure. If our sample contains men "
+"that are taller than 2 meters, we can’t tell _how much taller_ than 6 feet "
+"they are; they’re like saturated pixels that exceed the intensity we can "
+"detect. This saturation of our measurement tool means we can’t accurately "
+"report average height."
+msgstr ""
+"换个角度理解饱和度，想象一下你正试图用2米长的卷尺测量男性平均身高。如果我们的样本中包含身高超过2米的男性，我们就无法判断他们比6英尺高多少；他们就像饱和的像素，超过了我们能检测到的强度。这种测量工具的饱和意味着我们无法准确报告平均身高。"
+
+#: ../../03_Image_analysis/Intensity.md:38
+msgid ""
+"**Saturation** Saturated pixels are so bright their intensity values max out"
+" our detector (camera). If you have saturated pixels in the cells you’re "
+"trying to measure, you really can’t do most intensity measurements. This is "
+"because for saturated pixels, you don’t know how bright they really are, "
+"just that they’re brighter than you can detect. There are some intensity "
+"measurements that are robust to some saturation. For example, the median "
+"intensity of an image won’t be affected by saturation unless you have >½ the"
+" image saturated. But measurements like mean intensity will be affected by "
+"saturation."
+msgstr ""
+"**饱和度** "
+"饱和像素亮度极高，其强度值会超出探测器（相机）的检测范围。如果待测单元格中存在饱和像素，则大多数强度测量都无法进行。这是因为对于饱和像素，我们无法确定它们的真实亮度，只能确定它们比我们能检测到的亮度更高。某些强度测量方法对饱和度具有一定的鲁棒性。例如，图像的中值强度不会受到饱和度的影响，除非图像中超过一半的区域处于饱和状态。但像平均强度这样的测量方法则会受到饱和度的影响。"
+
+#: ../../03_Image_analysis/Intensity.md:40
+msgid ""
+"**Inadequate controls** In most cases, the exact intensity measures you get "
+"don’t mean anything biologically in isolation. It’s only by comparison of "
+"conditions that we can generate some biological insight. A control condition"
+" is therefore **very** important to compare to your experimental condition."
+msgstr ""
+"**对照不足** "
+"在大多数情况下，单独测量得到的强度值本身并没有生物学意义。只有通过比较不同条件下的结果，我们才能获得一些生物学见解。因此，设置对照条件与实验条件进行比较**非常**重要。"
+
+#: ../../03_Image_analysis/Intensity.md:42
+msgid ""
+"**Not matching imaging conditions across experimental conditions** Because "
+"intensity measures are affected by exposure time, light source intensity, "
+"and other factors, it’s very important to match imaging settings across your"
+" samples. Relatedly, you should make sure you don’t separate imaging your "
+"experimental and control conditions to different days if this can be in any "
+"way avoided. Fluorophores can become dimmer over time in samples, which "
+"complicates interpretation if different sample types were imaged on "
+"different days."
+msgstr ""
+"**实验条件下成像条件不匹配** "
+"由于强度测量受曝光时间、光源强度和其他因素的影响，因此确保所有样本的成像设置一致至关重要。此外，应尽可能避免将实验组和对照组的成像安排在不同的日期。荧光团在样本中会随着时间推移而变暗，如果不同类型的样本在不同日期成像，则会使结果解读变得复杂。"
+
+#: ../../03_Image_analysis/Intensity.md:48
+msgid ""
+"🎓 [Neubias training resource on intensity "
+"measures](https://neubias.github.io/training-"
+"resources/measure_intensities/index.html)"
+msgstr ""
+"🎓 [Neubias 强度测量培训资源](https://neubias.github.io/training-"
+"resources/measure_intensities/index.html)"
+
+#: ../../03_Image_analysis/Introduction.md:1
+#: ../../03_Image_analysis/Software.md:3
+#: ../../03_Image_analysis/_notinyet_Image_processing.md:3
+#: ../../03_Image_analysis/_notinyet_Image_segmentation.md:3
+msgid "Introduction"
+msgstr "介绍"
+
+#: ../../03_Image_analysis/Introduction.md:3
+msgid ""
+"Microscopy images are inherently quantitative, which makes them a very "
+"powerful data source. As a biologist, image analysis allows you to translate"
+" these numbers into insights that answer biological questions. For our "
+"purposes, **image analysis** is the process of measuring aspects of "
+"biological phenomena captured in microscopy images. Microscopy images are "
+"already _inherently quantitative_ in that they are matrices (i.e., grids) of"
+" numbers. However, image analysis is the process of turning these raw "
+"numbers into biologically interpretable measurements. Image analysis "
+"typically involves a series of steps that can be collected into a pipeline "
+"or analysis workflow. A simple example workflow is shown below:"
+msgstr ""
+"显微图像本身就具有定量性，这使其成为非常强大的数据源。作为生物学家，图像分析能够将这些数字转化为能够解答生物学问题的洞见。就本文而言，**图像分析**是指测量显微图像中捕捉到的生物现象各个方面的过程。显微图像本身就具有定量性，因为它们是由数字组成的矩阵（即网格）。然而，图像分析是将这些原始数字转化为生物学上可解释的测量结果的过程。图像分析通常包含一系列步骤，这些步骤可以整合到一个流程或分析工作流中。下面展示了一个简单的示例工作流："
+
+#: ../../03_Image_analysis/Introduction.md:26
+msgid ""
+"The specifics of your workflow depend on your biological question. Below we "
+"present a few common types of analysis for fluorescence microscopy "
+"experiments. For each, we’ll explain key ideas to understand before you "
+"begin, common pitfalls, and links to a few key resources to learn more. We "
+"encourage you to think about your analysis strategy even before beginning "
+"sample preparation. While not always possible, speaking with an image "
+"analysis expert{cite}`Cimini2024-uh` in your local core facility or asking a"
+" question on the [image.sc](https://image.sc) forum _before you begin_ can "
+"save you a ton of time and headache when it comes to designing an image "
+"analysis strategy. Some general concepts are also covered in a recent short "
+"review{cite}`."
+msgstr ""
+"您的具体工作流程取决于您的生物学问题。以下我们介绍几种常见的荧光显微镜实验分析类型。对于每种类型，我们将解释您在开始之前需要了解的关键概念、常见的陷阱以及一些重要资源的链接，以便您深入了解。我们鼓励您在开始样品制备之前就考虑好您的分析策略。虽然并非总是可行，但在开始之前与您所在核心实验室的图像分析专家交流，或在"
+" image.sc 论坛上提问，可以为您节省大量时间和精力，尤其是在设计图像分析策略方面。最近的一篇简短综述也涵盖了一些通用概念。"
+
+#: ../../03_Image_analysis/Introduction.md:28
+msgid ""
+"Note that \"automated\" and \"quantified\" are not at all the same as "
+"\"accurate\" \"unbiased\" - see {cite}`Jost2019-nx` and {cite}`Lee2024-zu` "
+"for further treatment of these issues."
+msgstr ""
+"请注意，“自动化”和“量化”与“准确”和“无偏”完全不同——有关这些问题的进一步处理，请参阅{cite}`Jost2019-nx`和{cite}`Lee2024-zu`。"
+
+#: ../../03_Image_analysis/Resources.md:1
+msgid "Resources for learning more"
+msgstr "更多学习资源"
+
+#: ../../03_Image_analysis/Resources.md:7
+msgid "**Resource Name**"
+msgstr "资源名称"
+
+#: ../../03_Image_analysis/Resources.md:8
+msgid "**Link**"
+msgstr "**关联**"
+
+#: ../../03_Image_analysis/Resources.md:9
+msgid "**Brief description**"
+msgstr "**简要描述**"
+
+#: ../../03_Image_analysis/Resources.md:10
+msgid "🌐 Image.sc {cite}`Rueden2019-qp`"
+msgstr "🌐 Image.sc {cite}`Rueden2019-qp`"
+
+#: ../../03_Image_analysis/Resources.md:11
+msgid "[link](https://forum.image.sc/)"
+msgstr "[链接](https://forum.image.sc/)"
+
+#: ../../03_Image_analysis/Resources.md:12
+msgid "Discussion forum for bioimage analysis software"
+msgstr "生物图像分析软件讨论论坛"
+
+#: ../../03_Image_analysis/Resources.md:13
+msgid "🌐 GloBIAS Bioimage Analyst Database"
+msgstr "🌐 GloBIAS 生物图像分析数据库"
+
+#: ../../03_Image_analysis/Resources.md:14
+msgid "[link](https://www.globias.org/resources/bioimage-analyst-db)"
+msgstr "[链接](https://www.globias.org/resources/bioimage-analyst-db)"
+
+#: ../../03_Image_analysis/Resources.md:15
+msgid "Find the friendly local bioimage analyst near you!"
+msgstr "找到您附近的友好本地生物影像分析师！"
+
+#: ../../03_Image_analysis/Resources.md:16
+msgid "🌐 Peter Bankhead’s Intro to Bioimage Analysis"
+msgstr "🌐 Peter Bankhead 的《生物图像分析入门》"
+
+#: ../../03_Image_analysis/Resources.md:17
+msgid "[link](https://bioimagebook.github.io/)"
+msgstr "[链接](https://bioimagebook.github.io/)"
+
+#: ../../03_Image_analysis/Resources.md:18
+msgid ""
+"Guide for absolute beginners to image analysis, including embedded "
+"questions/answers, exercises with Python and ImageJ, and videos to check "
+"understanding"
+msgstr "面向图像分析零基础初学者的指南，包含嵌入式问答、Python 和 ImageJ 练习以及用于检验理解程度的视频。"
+
+#: ../../03_Image_analysis/Resources.md:19
+msgid "📖 Bioimage Data Analysis {cite}`Miura2016-wq`"
+msgstr "📖 生物图像数据分析 {cite}`Miura2016-wq`"
+
+#: ../../03_Image_analysis/Resources.md:20
+msgid ""
+"[link](https://analyticalscience.wiley.com/do/10.1002/was.00050003/full/bioimagedataanalysis.pdf)"
+msgstr ""
+"[链接](https://analyticalscience.wiley.com/do/10.1002/was.00050003/full/bioimagedataanalysis.pdf)"
+
+#: ../../03_Image_analysis/Resources.md:21
+msgid ""
+"A free online textbook introducing various topics by Bioimage Analysis "
+"experts, edited by Kota Miura"
+msgstr "由生物图像分析专家撰写，三浦浩太编辑的免费在线教科书，介绍了生物图像分析领域的各种主题。"
+
+#: ../../03_Image_analysis/Resources.md:22
+msgid "📄 Reproducible image handling and analysis {cite}`Miura2021-mb`"
+msgstr "📄 可复现的图像处理和分析 {cite}`Miura2021-mb`"
+
+#: ../../03_Image_analysis/Resources.md:23
+msgid "[link](https://www.embopress.org/doi/full/10.15252/embj.2020105889)"
+msgstr "[链接](https://www.embopress.org/doi/full/10.15252/embj.2020105889)"
+
+#: ../../03_Image_analysis/Resources.md:24
+msgid ""
+"An article reviewing major pitfalls in image handling and how to avoid them "
+"and create reproducible analysis workflows"
+msgstr "本文回顾了图像处理中的主要陷阱以及如何避免这些陷阱并创建可复现的分析工作流程。"
+
+#: ../../03_Image_analysis/Resources.md:25
+msgid ""
+"📄 Made to measure: an introduction to quantification in microscopy data"
+msgstr "📄量身定制：显微镜数据定量分析入门"
+
+#: ../../03_Image_analysis/Resources.md:26
+msgid "[link](https://arxiv.org/abs/2302.01657#) {cite}`Culley2023-dj`"
+msgstr "[链接](https://arxiv.org/abs/2302.01657#) {cite}`Culley2023-dj`"
+
+#: ../../03_Image_analysis/Resources.md:27
+msgid ""
+"An article describing several common classes of measurements made in "
+"microscopy data, as well as technical factors that may affect the results"
+msgstr "本文介绍了显微镜数据中几种常见的测量类型，以及可能影响结果的技术因素。"
+
+#: ../../03_Image_analysis/Resources.md:28
+msgid ""
+"🌐 Metrics Reloaded {cite}`Maier-Hein2024-cp,Reinke2024-aj,reinke2023common`"
+msgstr "🌐 指标重载 {cite}`Maier-Hein2024-cp,Reinke2024-aj,reinke2023common`"
+
+#: ../../03_Image_analysis/Resources.md:29
+msgid "[link](https://metrics-reloaded.dkfz.de/)"
+msgstr "[链接](https://metrics-reloaded.dkfz.de/)"
+
+#: ../../03_Image_analysis/Resources.md:30
+msgid ""
+"An interactive guide to choosing the right metric for your scientific "
+"question"
+msgstr "为您的科学问题选择合适指标的交互式指南"
+
+#: ../../03_Image_analysis/Resources.md:31
+msgid ""
+"📄 A Hitchhiker's guide through the bio-image analysis software universe "
+"{cite}`Haase2022-ad`"
+msgstr "📄 生物图像分析软件世界漫游指南 {cite}`Haase2022-ad`"
+
+#: ../../03_Image_analysis/Resources.md:32
+msgid ""
+"[link](https://febs.onlinelibrary.wiley.com/doi/full/10.1002/1873-3468.14451)"
+msgstr ""
+"[链接](https://febs.onlinelibrary.wiley.com/doi/full/10.1002/1873-3468.14451)"
+
+#: ../../03_Image_analysis/Resources.md:33
+msgid ""
+"An article that gives guidance and a glossary of available image analysis "
+"software and packages"
+msgstr "本文提供图像分析软件和软件包的使用指南和术语表。"
+
+#: ../../03_Image_analysis/Resources.md:34
+msgid "🌐 BioImage Informatics Index"
+msgstr "🌐 生物图像信息学索引"
+
+#: ../../03_Image_analysis/Resources.md:35
+msgid "[link](https://biii.eu/)"
+msgstr "[链接](https://biii.eu/)"
+
+#: ../../03_Image_analysis/Resources.md:36
+msgid ""
+"Repository platform for searching bioimage analysis tools and workflows "
+"based on the problem, method or software of choice"
+msgstr "基于问题、方法或所选软件，用于搜索生物图像分析工具和工作流程的存储库平台。"
+
+#: ../../03_Image_analysis/Resources.md:37
+msgid "🎥 iBiology Bioimage Analysis video series"
+msgstr "🎥 iBiology 生物图像分析视频系列"
+
+#: ../../03_Image_analysis/Resources.md:38
+msgid "[link](https://youtu.be/1xo4vi6Ub4I)"
+msgstr "[链接](https://youtu.be/1xo4vi6Ub4I)"
+
+#: ../../03_Image_analysis/Resources.md:39
+msgid ""
+"Video series that introduces Bioimage analysis, including overviews of "
+"{term}`image processing`, {term}`segmentation`, tracking, making and "
+"interpreting measurements, tips and pitfalls"
+msgstr "本系列视频介绍生物图像分析，内容包括图像处理、分割、跟踪、测量和结果解读的概述，以及一些技巧和注意事项。"
+
+#: ../../03_Image_analysis/Resources.md:40
+msgid "🌐 Bioimage ANalysis Desktop (BAND)"
+msgstr "🌐 生物图像分析桌面版 (BAND)"
+
+#: ../../03_Image_analysis/Resources.md:41
+msgid "[link](https://band.embl.de)"
+msgstr "[链接](https://band.embl.de)"
+
+#: ../../03_Image_analysis/Resources.md:42
+msgid ""
+"Access to virtual desktops allowing access to bioimage analysis software "
+"from a browser"
+msgstr "可通过浏览器访问虚拟桌面，从而访问生物图像分析软件。"
+
+#: ../../03_Image_analysis/Resources.md:43
+msgid "🌐 Galaxy Imaging Node"
+msgstr "🌐 星系成像节点"
+
+#: ../../03_Image_analysis/Resources.md:44
+msgid "[link](https://imaging.usegalaxy.eu/)"
+msgstr "[链接](https://imaging.usegalaxy.eu/)"
+
+#: ../../03_Image_analysis/Resources.md:45
+msgid ""
+"A Galaxy node prepopulated with a number of open-source image analysis tools"
+" and workflows, making it easy to create and share reproducible FAIR "
+"workflows"
+msgstr "Galaxy节点预装了许多开源图像分析工具和工作流程，使得创建和共享可复现的FAIR工作流程变得容易。"
+
+#: ../../03_Image_analysis/Resources.md:46
+msgid "🌐 Image Analysis Training Resources"
+msgstr "🌐 图像分析培训资源"
+
+#: ../../03_Image_analysis/Resources.md:47
+msgid "[link](https://neubias.github.io/training-resources/index.html)"
+msgstr "[链接](https://neubias.github.io/training-resources/index.html)"
+
+#: ../../03_Image_analysis/Resources.md:48
+msgid ""
+"Image analysis traning resources collected by NEUBIAS, styled based on The "
+"Carpentries"
+msgstr "NEUBIAS收集的图像分析培训资源，风格基于The Carpentries。"
+
+#: ../../03_Image_analysis/Resources.md:49
+msgid "🌐 Bioimage Analysis AwesomeList"
+msgstr "🌐 生物图像分析精选列表"
+
+#: ../../03_Image_analysis/Resources.md:50
+msgid "[link](https://github.com/hallvaaw/awesome-biological-image-analysis)"
+msgstr "[链接](https://github.com/hallvaaw/awesome-biological-image-analysis)"
+
+#: ../../03_Image_analysis/Resources.md:51
+msgid ""
+"A curated [AwesomeList](https://github.com/sindresorhus/awesome) of "
+"resources related to bioimage analysis"
+msgstr "精选的生物图像分析相关资源[AwesomeList](https://github.com/sindresorhus/awesome)"
+
+#: ../../03_Image_analysis/Resources.md:52
+msgid "🌐 Bioimage Analysis Notebooks"
+msgstr "🌐 生物图像分析笔记本"
+
+#: ../../03_Image_analysis/Resources.md:53
+msgid "[link](https://haesleinhuepf.github.io/BioImageAnalysisNotebooks/)"
+msgstr "[链接](https://haesleinhuepf.github.io/BioImageAnalysisNotebooks/)"
+
+#: ../../03_Image_analysis/Resources.md:54
+msgid ""
+"A collection of Python Jupyter notebooks for BioImageAnalysis, GPU-"
+"accelerated image processing, bio-image data science and more"
+msgstr "一系列用于生物图像分析、GPU加速图像处理、生物图像数据科学等方面的Python Jupyter笔记本。"
+
+#: ../../03_Image_analysis/Resources.md:55
+msgid ""
+"📄 Believing is seeing - the deceptive influence of bias in quantitative "
+"microscopy{cite}`Lee2024-zu`"
+msgstr "📄 眼见为实——定量显微镜中偏见的欺骗性影响{cite}`Lee2024-zu`"
+
+#: ../../03_Image_analysis/Resources.md:56
+msgid "[link](https://doi.org/10.1242/jcs.261567)"
+msgstr "[链接](https://doi.org/10.1242/jcs.261567)"
+
+#: ../../03_Image_analysis/Resources.md:57
+msgid ""
+"Thoughtful review on technological and especially psychological factors that"
+" can lead to biased microscopy results"
+msgstr "对可能导致显微镜检查结果偏差的技术因素，尤其是心理因素，进行了深入的探讨。"
+
+#: ../../03_Image_analysis/Shape.md:1
+msgid "Size and Shape measurements"
+msgstr "尺寸和形状测量"
+
+#: ../../03_Image_analysis/Shape.md:3
+msgid "What are size measurements?"
+msgstr "什么是尺寸测量？"
+
+#: ../../03_Image_analysis/Shape.md:4
+msgid ""
+"Size measurements describe the dimensions of objects in your image. Common "
+"size measurements include:"
+msgstr "尺寸测量用于描述图像中物体的尺寸。常见的尺寸测量包括："
+
+#: ../../03_Image_analysis/Shape.md:6
+msgid ""
+"**Area**: the 2D space an object takes up in the image or the 3D surface "
+"area of an object"
+msgstr "面积：物体在图像中占据的二维空间或物体的三维表面积。"
+
+#: ../../03_Image_analysis/Shape.md:7
+msgid "**Volume**: the 3D space an object takes up in a 3D image"
+msgstr "**体积**：物体在三维图像中所占据的三维空间。"
+
+#: ../../03_Image_analysis/Shape.md:8
+msgid "**Perimeter**: the distance around the edge of an object"
+msgstr "周长：物体边缘周围的距离。"
+
+#: ../../03_Image_analysis/Shape.md:10
+msgid "What are shape measurements?"
+msgstr "什么是形状测量？"
+
+#: ../../03_Image_analysis/Shape.md:11
+msgid ""
+"Shape measurements describe the 2D or 3D form of objects in our sample. "
+"Common shape measurements include:"
+msgstr "形状测量用于描述样本中物体的二维或三维形态。常见的形状测量包括："
+
+#: ../../03_Image_analysis/Shape.md:13
+msgid ""
+"**Circularity**: How round vs. elongated an object is. Formally defined as "
+"$circularity = 4pi*{area}/{perimeter}^2$ where 1 is a perfect circle and "
+"circularity <1 is a more elongated polygon."
+msgstr ""
+"**圆度**：物体的圆形程度与长方形程度。正式定义为 $circularity = 4pi*{area}/{perimeter}^2$，其中 1 "
+"表示完美的圆，圆度 <1 表示更细长的多边形。"
+
+#: ../../03_Image_analysis/Shape.md:14
+msgid ""
+"**Solidity**: how dense vs. wispy/holey an object is. Formally defined as "
+"$solidity = area/convex area$ where _convex area_ is akin to the area inside"
+" a shape formed by stretching a rubber band around the object."
+msgstr ""
+"**实心性**：物体的致密程度，与物体的疏松程度（例如，密度、密度和孔隙度）。正式定义为：实心性 = 面积 / "
+"凸面积，其中凸面积类似于用橡皮筋环绕物体所形成的图形内部的面积。"
+
+#: ../../03_Image_analysis/Shape.md:20
+msgid ""
+"After segmenting an image to locate the pixels belonging to different "
+"objects, morphology can be measured readily in many image analysis "
+"softwares, like FIJI and CellProfiler. For example, in {term}`Fiji`, after "
+"identifying your objects as {term}`ROIs`, be sure to **Analyze > Set "
+"Measurements…** and select “Shape Descriptors” then simply measure your "
+"{term}`ROIs` with **Analyze > Measure**. In CellProfiler, this is "
+"accomplished using the module MeasureObjectSizeShape."
+msgstr ""
+"在对图像进行分割以确定属于不同对象的像素后，许多图像分析软件（例如 FIJI 和 CellProfiler）可以轻松测量形态。例如，在 FIJI "
+"中，将对象识别为 ROI 后，请务必选择“分析 > 设置测量…”并选择“形状描述符”，然后使用“分析 > 测量”即可测量 ROI。在 "
+"CellProfiler 中，可以使用 MeasureObjectSizeShape 模块来实现此操作。"
+
+#: ../../03_Image_analysis/Shape.md:25
+msgid ""
+"**Not understanding the limitations of your images**. All biological "
+"structures are 3D, but we often analyze 2D images. Often this is still very "
+"useful! But the larger and more complex your objects (e.g., neurons in a "
+"tissue section), the more limited a 2D view becomes."
+msgstr ""
+"**不了解图像的局限性**。所有生物结构都是三维的，但我们通常分析的是二维图像。虽然很多时候二维图像仍然非常有用！但是，对象越大越复杂（例如，组织切片中的神经元），二维视图的局限性就越大。"
+
+#: ../../03_Image_analysis/Shape.md:26
+msgid ""
+"**Failing to use calibrated units**. Be sure to properly calibrate your "
+"images and present final measurements in microns (or similar units). If "
+"measuring 3D images, be sure to take into account the z-step, which is "
+"likely larger than the xy pixel size."
+msgstr ""
+"**未使用校准单位**。请务必正确校准图像，并以微米（或类似单位）呈现最终测量结果。如果测量的是 3D 图像，请务必考虑 z 轴步长，它通常大于 xy "
+"像素尺寸。"
+
+#: ../../03_Image_analysis/Shape.md:31
+msgid ""
+"📄 [Current Methods and Pipelines for Image-Based Quantitation of Nuclear "
+"Shape and Nuclear Envelope "
+"Abnormalities](https://www.mdpi.com/2073-4409/11/3/347/htm) "
+"{cite}`Janssen2022-bm`"
+msgstr ""
+"📄 [基于图像的核形状和核膜异常定量分析的当前方法和流程](https://www.mdpi.com/2073-4409/11/3/347/htm) "
+"{cite}`Janssen2022-bm`"
+
+#: ../../03_Image_analysis/Shape.md:32
+msgid ""
+"🌐 [Description of morphological measurements made by "
+"CellProfiler](https://cellprofiler-"
+"manual.s3.amazonaws.com/CellProfiler-4.2.4/modules/measurement.html#id20)"
+msgstr ""
+"🌐 [CellProfiler 形态学测量说明](https://cellprofiler-"
+"manual.s3.amazonaws.com/CellProfiler-4.2.4/modules/measurement.html#id20)"
+
+#: ../../03_Image_analysis/Shape.md:33
+msgid ""
+"🎓 [Plain language description of various morphological measures by Michael "
+"Wirth](http://www.cyto.purdue.edu/cdroms/micro2/content/education/wirth10.pdf)"
+msgstr ""
+"🎓 [Michael Wirth "
+"对各种形态学测量方法的通俗语言描述](http://www.cyto.purdue.edu/cdroms/micro2/content/education/wirth10.pdf)"
+
+#: ../../03_Image_analysis/Software.md:1
+msgid "Open source software"
+msgstr "开源软件"
+
+#: ../../03_Image_analysis/Software.md:5
+msgid ""
+"When it comes time to select a software program for your image analysis, "
+"there are many options, some more general and others highly specialized to "
+"specific image modalities or types of experiments. In general, a good place "
+"to start exploring is by examining papers in your field and seeing what "
+"others have used to analyze similar experiments to your own. It’s important "
+"to note that there isn’t one correct answer to \"Which program should I "
+"use?\" Depending on your biological question, your images, and your own "
+"comfort with coding, there are many options available."
+msgstr ""
+"在选择图像分析软件时，有很多选择，有些比较通用，有些则高度专业化，专门针对特定的图像模式或实验类型。一般来说，一个好的起点是查阅你所在领域的论文，看看其他人用什么软件分析过与你类似的实验。需要注意的是，“我应该使用哪个软件？”这个问题并没有唯一的正确答案。根据你的生物学问题、图像类型以及你自身的编程能力，有很多选择。"
+
+#: ../../03_Image_analysis/Software.md:7
+msgid ""
+"Below, we summarize the use-cases and limitations of some of the most "
+"common, free and open-source software for image analysis, this is a small "
+"list and more extensive ones exist like the [A Hitchhiker's guide through "
+"the bio-image analysis software "
+"universe](https://febs.onlinelibrary.wiley.com/doi/full/10.1002/1873-3468.14451)"
+" {cite}`Haase2022-ad` and the [BioImage Informatics Index](https://biii.eu) "
+"{cite}`Paul-Gilloteaux2021-vw`."
+msgstr ""
+"下面，我们总结了一些最常用、免费和开源的图像分析软件的使用案例和局限性。这只是一个简短的列表，还有更全面的指南，例如《生物图像分析软件世界漫游指南》（Haase2022-ad）和《生物图像信息学索引》（Paul-"
+"Gilloteaux2021-vw）。"
+
+#: ../../03_Image_analysis/Software.md:9
+msgid ""
+"Whatever software you choose, be sure to include a detailed description of "
+"your analysis in your methods, with pipeline or workflow files if possible, "
+"so others can reproduce your work. Also be sure to cite the analysis "
+"software you use! This helps developers of the software get grant funding "
+"and helps others find useful tools."
+msgstr ""
+"无论你选择哪种软件，务必在方法部分详细描述你的分析过程，如果可能，最好附上流程或工作流文件，以便其他人能够复现你的工作。此外，请务必注明你使用的分析软件！这有助于软件开发者获得资助，也能帮助其他人找到有用的工具。"
+
+#: ../../03_Image_analysis/Software.md:17
+#: ../../03_Image_analysis/Software.md:26
+#: ../../03_Image_analysis/Software.md:35
+#: ../../03_Image_analysis/Software.md:44
+#: ../../03_Image_analysis/Software.md:53
+#: ../../03_Image_analysis/Software.md:62
+#: ../../03_Image_analysis/Software.md:71
+#: ../../03_Image_analysis/Software.md:80
+#: ../../03_Image_analysis/Software.md:89
+msgid "card-img-top"
+msgstr "卡片图片顶部"
+
+#: ../../03_Image_analysis/Software.md:0
+msgid "ImageJ"
+msgstr "ImageJ"
+
+#: ../../03_Image_analysis/Software.md:21
+msgid ""
+"[ImageJ](https://imagej.net/) is an imaging processing program that is "
+"capable of operating on a variety of images including multichannel, 3D and "
+"time series. It provides basic imaging processing operations and has a "
+"variety of plugins for more complex tasks. [Read more...](content/imagej)"
+msgstr ""
+"ImageJ 是一款图像处理软件，能够处理包括多通道图像、3D "
+"图像和时间序列图像在内的多种图像。它提供基本的图像处理功能，并拥有各种插件以完成更复杂的任务。[了解更多...](content/imagej)"
+
+#: ../../03_Image_analysis/Software.md:0
+msgid "CellProfiler"
+msgstr "细胞分析"
+
+#: ../../03_Image_analysis/Software.md:30
+msgid ""
+"[CellProfiler](https://cellprofiler.org/) was designed with the idea of an "
+"image analysis pipeline in mind; it allows you to take a series of "
+"interoperable modules to design your own custom analysis pipeline that can "
+"be applied to one or thousands of images, making it suitable for high "
+"throughput image analysis. [Read more...](content/cellprofiler)"
+msgstr ""
+"CellProfiler "
+"的设计理念是构建图像分析流程；它提供一系列可互操作的模块，让您可以设计自定义的分析流程，并将其应用于一张或数千张图像，因此非常适合高通量图像分析。[了解更多...](content/cellprofiler)"
+
+#: ../../03_Image_analysis/Software.md:0
+msgid "QuPath"
+msgstr "QuPath"
+
+#: ../../03_Image_analysis/Software.md:39
+msgid ""
+"[QuPath](https://qupath.github.io/) offers a wide set of image analysis "
+"tools that can be applied to whole slide images like pathology images, but "
+"it can be used with other images as well. QuPath also contains pixel "
+"classification tools and can integrate with ImageJ. [Read "
+"more...](content/qupath)"
+msgstr ""
+"QuPath 提供了一套丰富的图像分析工具，可应用于病理图像等全切片图像，也可用于其他类型的图像。QuPath 还包含像素分类工具，并可与 ImageJ"
+" 集成。[了解更多...](content/qupath)"
+
+#: ../../03_Image_analysis/Software.md:0
+msgid "Icy"
+msgstr "冰"
+
+#: ../../03_Image_analysis/Software.md:48
+msgid ""
+"[Icy](https://icy.bioimageanalysis.org/) is an out of the box image analysis"
+" tools, it utilizes plugins to create visual image analysis protocols that "
+"can be shared with other users. [Read more...](content/icy)"
+msgstr ""
+"[Icy](https://icy.bioimageanalysis.org/) "
+"是一款开箱即用的图像分析工具，它利用插件创建可与其他用户共享的可视化图像分析方案。[了解更多...](content/icy)"
+
+#: ../../03_Image_analysis/Software.md:0
+msgid "MIB"
+msgstr "MIB"
+
+#: ../../03_Image_analysis/Software.md:57
+msgid ""
+"[MIB](http://mib.helsinki.fi/index.html) is a user-friendly software for "
+"image analysis of multidimensional datasets for both light and electron "
+"microscopy. It allows you to use the whole acquired data for its analysis "
+"and extraction of morphological features. [Read more...](content/mib)"
+msgstr ""
+"MIB（[MIB](http://mib.helsinki.fi/index.html)）是一款用户友好的图像分析软件，适用于光学显微镜和电子显微镜的多维数据集。它允许您使用所有采集的数据进行分析并提取形态特征。[了解更多...](content/mib)"
+
+#: ../../03_Image_analysis/Software.md:0
+msgid "napari"
+msgstr "纳帕里"
+
+#: ../../03_Image_analysis/Software.md:66
+msgid ""
+"[napari](https://napari.org/) is being developed as a multi-dimensional "
+"image viewer that can be expanded via a variety of plugins to perform basic "
+"and complex image analysis tasks. [Read more...](content/napari)"
+msgstr ""
+"[napari](https://napari.org/) "
+"是一款多维图像查看器，可通过各种插件进行扩展，以执行基本和复杂的图像分析任务。[了解更多...](content/napari)"
+
+#: ../../03_Image_analysis/Software.md:0
+msgid "Cellpose"
+msgstr "细胞姿势"
+
+#: ../../03_Image_analysis/Software.md:75
+msgid ""
+"[Cellpose](https://www.cellpose.org/) is a {term}`segmentation` algorithm, "
+"it provides a graphical user interface that allows users to use trained "
+"models or train their own using their images and annotations. [Read "
+"more...](content/cellpose)"
+msgstr ""
+"Cellpose "
+"是一种分割算法，它提供了一个图形用户界面，允许用户使用已训练的模型，或使用自己的图像和标注训练自己的模型。[了解更多...](content/cellpose)"
+
+#: ../../03_Image_analysis/Software.md:0
+msgid "ilastik"
+msgstr "伊拉斯蒂克"
+
+#: ../../03_Image_analysis/Software.md:84
+msgid ""
+"[ilastik](https://www.ilastik.org/) is a tool for interactive image "
+"classification, {term}`segmentation` and analysis. It leverages machine-"
+"learning algorithms to perform pixel and object-level classification. Using "
+"it requires no experience in {term}`image processing`. [Read "
+"more...](content/ilastik)"
+msgstr ""
+"[ilastik](https://www.ilastik.org/) "
+"是一款用于交互式图像分类、分割和分析的工具。它利用机器学习算法执行像素级和对象级分类。使用它无需任何图像处理经验。[了解更多...](content/ilastik)"
+
+#: ../../03_Image_analysis/Software.md:0
+msgid "Piximi"
+msgstr "皮克西米"
+
+#: ../../03_Image_analysis/Software.md:93
+msgid ""
+"[Piximi](https://www.piximi.app/) is an application for annotation and "
+"classification that runs entirely from your browser and requires no "
+"installation and minimal setup.  [Read more...](content/piximi)"
+msgstr ""
+"[Piximi](https://www.piximi.app/) "
+"是一款完全在浏览器中运行的标注和分类应用程序，无需安装，设置也极其简单。[了解更多...](content/piximi)"
+
+#: ../../03_Image_analysis/SpecificUseSoftware.md:1
+msgid "Specific Use Software"
+msgstr "专用软件"
+
+#: ../../03_Image_analysis/SpecificUseSoftware.md:3
+msgid ""
+"Tools on this page tend to be extremely good at certain tasks, but are less "
+"intended for a wide range of use cases. For tools with broader areas of "
+"focus, see the [General Use Software](./GeneralUseSoftware.md) page."
+msgstr ""
+"本页上的工具在特定任务上往往表现出色，但适用范围较窄。如需了解功能更全面的工具，请参阅[通用软件](./GeneralUseSoftware.md)页面。"
+
+#: ../../03_Image_analysis/SpecificUseSoftware.md:6
+msgid ""
+"<img src=\"https://www.cellpose.org/static/images/cellpose_transparent.png\""
+" alt=\"logo\" width=\"30px\"> Cellpose"
+msgstr ""
+"<img src=\"https://www.cellpose.org/static/images/cellpose_transparent.png\""
+" alt=\"logo\" width=\"30px\">"
+
+#: ../../03_Image_analysis/SpecificUseSoftware.md:8
+msgid ""
+"[Cellpose](https://www.cellpose.org/) {cite}`Stringer2021-uq` is a "
+"{term}`segmentation` algorithm, it provides a graphical user interface that "
+"allows users to use trained models or train their own using their images and"
+" annotations."
+msgstr ""
+"[Cellpose](https://www.cellpose.org/) {cite}`Stringer2021-uq` 是一个 {term}`分割`"
+" 算法，它提供了一个图形用户界面，允许用户使用已训练的模型或使用自己的图像和标注来训练自己的模型。"
+
+#: ../../03_Image_analysis/SpecificUseSoftware.md:0
+msgid "What type of image analysis problem is it best at?"
+msgstr "它最擅长解决哪种类型的图像分析问题？"
+
+#: ../../03_Image_analysis/SpecificUseSoftware.md:13
+msgid ""
+"Object {term}`segmentation`, most trained models are for cell "
+"{term}`segmentation` but could be applied to segment other similar objects"
+msgstr "对象分割，大多数训练好的模型用于细胞分割，但也可以应用于分割其他类似对象。"
+
+#: ../../03_Image_analysis/SpecificUseSoftware.md:20
+msgid "Its use requires some computational knowledge."
+msgstr "使用它需要一定的计算机知识。"
+
+#: ../../03_Image_analysis/SpecificUseSoftware.md:21
+msgid ""
+"Training a new model requires manual annotation correction that can be time "
+"consuming, but is likely less time consuming than other methods of training "
+"models."
+msgstr "训练新模型需要手动标注校正，这可能很耗时，但可能比其他训练模型的方法更省时。"
+
+#: ../../03_Image_analysis/SpecificUseSoftware.md:28
+msgid ""
+"🌐 [Installation "
+"instructions](https://cellpose.readthedocs.io/en/latest/installation.html)"
+msgstr "🌐 [安装说明](https://cellpose.readthedocs.io/en/latest/installation.html)"
+
+#: ../../03_Image_analysis/SpecificUseSoftware.md:29
+msgid "🎥 [How to use tutorial](https://www.youtube.com/watch?v=5qANHWoubZU)"
+msgstr "🎥 [使用教程](https://www.youtube.com/watch?v=5qANHWoubZU)"
+
+#: ../../03_Image_analysis/SpecificUseSoftware.md:33
+msgid ""
+"<img src=\"https://us1.discourse-"
+"cdn.com/flex015/uploads/imagej/original/3X/9/f/9f5be5e138c63bc6a50be0bb0027b8eef0194935.png\""
+" alt=\"logo\" width=\"30px\"> ilastik"
+msgstr ""
+"<img src=\"https://us1.discourse-"
+"cdn.com/flex015/uploads/imagej/original/3X/9/f/9f5be5e138c63bc6a50be0bb0027b8eef0194935.png\""
+" alt=\"logo\" width=\"30px\"> ilastik"
+
+#: ../../03_Image_analysis/SpecificUseSoftware.md:35
+msgid ""
+"[ilastik](https://www.ilastik.org/) {cite}`Berg2019-no` is a tool for "
+"interactive image classification, {term}`segmentation` and analysis. It "
+"leverages machine-learning algorithms to perform pixel and object-level "
+"classification. Using it requires no experience in {term}`image processing`."
+msgstr ""
+"[ilastik](https://www.ilastik.org/) {cite}`Berg2019-no` "
+"是一款用于交互式图像分类、分割和分析的工具。它利用机器学习算法执行像素级和对象级分类。使用它无需任何图像处理经验。"
+
+#: ../../03_Image_analysis/SpecificUseSoftware.md:40
+msgid ""
+"It can be used for both instance {term}`segmentation` and semantic "
+"{term}`segmentation`. It does also perform {term}`segmentation` and "
+"tracking, though with somewhat fewer tunable parameters than some other "
+"tools offer."
+msgstr "它既可用于实例分割，也可用于语义分割。它还支持分割和跟踪，但与其他一些工具相比，其可调参数略少。"
+
+#: ../../03_Image_analysis/SpecificUseSoftware.md:47
+msgid ""
+"Sometimes loading or exporting images can require a bit of troubleshooting "
+"to get the dimensions correct."
+msgstr "有时加载或导出图像可能需要一些故障排除才能获得正确的尺寸。"
+
+#: ../../03_Image_analysis/SpecificUseSoftware.md:48
+msgid ""
+"ilastik is limited by your computer’s RAM so training a model with lots of "
+"features or working with very large images is likely to slow you down."
+msgstr "ilastik 受限于计算机的 RAM，因此训练具有大量特征的模型或处理非常大的图像可能会降低速度。"
+
+#: ../../03_Image_analysis/SpecificUseSoftware.md:53
+msgid "To download ilastik:"
+msgstr "下载 ilastik："
+
+#: ../../03_Image_analysis/SpecificUseSoftware.md:57
+msgid "🌐 [ilastik download ](https://www.ilastik.org/download.html)"
+msgstr "🌐 [ilastik 下载](https://www.ilastik.org/download.html)"
+
+#: ../../03_Image_analysis/SpecificUseSoftware.md:63
+msgid ""
+"🌐 [User guide](https://www.ilastik.org/documentation/index.html#user-"
+"documentation)"
+msgstr ""
+"🌐 [用户指南](https://www.ilastik.org/documentation/index.html#user-"
+"documentation)"
+
+#: ../../03_Image_analysis/SpecificUseSoftware.md:67
+msgid ""
+"<img src=\"https://us1.discourse-"
+"cdn.com/flex015/uploads/imagej/original/3X/3/f/3fe4d974194caabdb61a5574e24402db8484ab9b.png\""
+" alt=\"logo\" width=\"30px\"> Piximi"
+msgstr ""
+"<img src=\"https://us1.discourse-"
+"cdn.com/flex015/uploads/imagej/original/3X/3/f/3fe4d974194caabdb61a5574e24402db8484ab9b.png\""
+" alt=\"logo\" width=\"30px\"> Piximi"
+
+#: ../../03_Image_analysis/SpecificUseSoftware.md:70
+msgid ""
+"[Piximi](https://www.piximi.app/) {cite}`Moser2024-vt` is an application for"
+" annotation and classification that runs entirely from your browser and "
+"requires no installation and minimal setup."
+msgstr ""
+"[Piximi](https://www.piximi.app/) {cite}`Moser2024-vt` "
+"是一款用于标注和分类的应用程序，它完全在浏览器中运行，无需安装，设置也非常简单。"
+
+#: ../../03_Image_analysis/SpecificUseSoftware.md:75
+msgid "Piximi can do image classification using machine learning"
+msgstr "Piximi 可以利用机器学习进行图像分类。"
+
+#: ../../03_Image_analysis/SpecificUseSoftware.md:82
+msgid ""
+"It is still in the developing phases and some of its proposed features are "
+"not available yet"
+msgstr "它仍处于开发阶段，部分拟定功能尚未实现。"
+
+#: ../../03_Image_analysis/SpecificUseSoftware.md:89
+msgid "🌐 [Piximi website ](https://www.piximi.app/)"
+msgstr "🌐 [Piximi 网站](https://www.piximi.app/)"
+
+#: ../../03_Image_analysis/SpecificUseSoftware.md:90
+msgid "🌐 [Piximi user guide ](https://documentation.piximi.app/intro.html)"
+msgstr "🌐 [Piximi 用户指南](https://documentation.piximi.app/intro.html)"
+
+#: ../../03_Image_analysis/Tracking.md:1
+msgid "Object tracking"
+msgstr "目标跟踪"
+
+#: ../../03_Image_analysis/Tracking.md:3
+msgid "What is tracking?"
+msgstr "什么是追踪？"
+
+#: ../../03_Image_analysis/Tracking.md:4
+msgid ""
+"Tracking, or _object tracking_, refers to the ability to estimate the "
+"location of objects in motion from one frame of video to the next. "
+"Practically, object tracking in microscopy involves identifying your objects"
+" in each frame of your video, then relating objects from frame to frame to "
+"be able to identify the same cell as it moves in space."
+msgstr ""
+"追踪，或称目标追踪，是指从视频帧到下一帧估计运动物体位置的能力。实际上，显微镜下的目标追踪包括识别视频每一帧中的目标物体，然后将帧与帧关联起来，从而能够识别同一细胞在空间中的运动轨迹。"
+
+#: ../../03_Image_analysis/Tracking.md:10
+msgid ""
+"There are several options for tracking objects, like the "
+"[TrackMate](https://imagej.net/plugins/trackmate/) {cite}`Tinevez2017-fb` "
+"plugin in Fiji, but tracking is somewhat more complex to setup than the "
+"previous analyses. In addition to just identifying objects in the movie/time"
+" series, tracking also allows you to identify splitting (e.g. mitosis) and "
+"merging events. There are many measurements that come out of tracking, "
+"including spatial measures like where the objects move to, speed "
+"measurements, distance traveled (length of track), and rate of splitting "
+"events (e.g., mitotic events) and merging events."
+msgstr ""
+"有多种对象追踪方法可供选择，例如 Fiji 中的 [TrackMate](https://imagej.net/plugins/trackmate/) "
+"{cite}`Tinevez2017-fb` "
+"插件，但追踪的设置比之前的分析要复杂一些。除了识别视频/时间序列中的对象外，追踪还可以识别分裂（例如有丝分裂）和合并事件。追踪会输出许多测量数据，包括空间测量（例如对象移动的位置）、速度测量、移动距离（轨迹长度）以及分裂事件（例如有丝分裂）和合并事件的发生率。"
+
+#: ../../03_Image_analysis/Tracking.md:15
+msgid ""
+"**Poor {term}`segmentation`** If objects are dropping out from frame to "
+"frame, this makes it more difficult to track them over time. Accurate "
+"{term}`segmentation` is the foundation of good tracking results. This can "
+"become more difficult if your objects are also changing in shape or "
+"intensity (due to things such as bleaching) over the course of the video. "
+"It’s important to find a {term}`segmentation` strategy that can work well "
+"across your frames."
+msgstr ""
+"**分割不佳** "
+"如果物体在帧与帧之间不断消失，这将增加跟踪它们的难度。准确的分割是良好跟踪结果的基础。如果物体在视频过程中形状或亮度（例如由于漂白）发生变化，分割难度会进一步增加。找到一种能够在所有帧中都有效工作的分割策略至关重要。"
+
+#: ../../03_Image_analysis/Tracking.md:16
+msgid ""
+"**Inadequate frame rate** If objects are highly dynamic but the images were "
+"not taken at a high frequency, tracking can be difficult because objects "
+"might have moved too much for the algorithm to relate them from one frame to"
+" the next. It is important to match the image acquisition frequency to how "
+"dynamic your cells or objects are."
+msgstr ""
+"帧率不足：如果物体运动幅度很大，但图像采集频率不高，则追踪会变得困难，因为物体移动幅度过大，算法无法将其从一帧关联到下一帧。因此，图像采集频率必须与细胞或物体的运动幅度相匹配。"
+
+#: ../../03_Image_analysis/Tracking.md:22
+msgid ""
+"📄 [Computerized Cell "
+"Tracking](https://www.sciencedirect.com/science/article/pii/S2468502X20300711)"
+msgstr ""
+"📄 "
+"[计算机化细胞追踪](https://www.sciencedirect.com/science/article/pii/S2468502X20300711)"
+
+#: ../../03_Image_analysis/Tracking.md:23
+msgid ""
+"🌐 [TrackMate Manual](https://imagej.net/media/plugins/trackmate/trackmate-"
+"manual.pdf)"
+msgstr ""
+"🌐 [TrackMate 手册](https://imagej.net/media/plugins/trackmate/trackmate-"
+"manual.pdf)"
+
+#: ../../03_Image_analysis/_notinyet_Common_pitfalls.md:1
+msgid "Common pitfalls"
+msgstr "常见陷阱"
+
+#: ../../03_Image_analysis/_notinyet_Common_pitfalls.md:3
+msgid ""
+"In addition to the mistakes we summarize for common image analysis tasks, "
+"here we present a general list of common mistakes for beginners to image "
+"analysis. For each, we explain why this is a problem and make suggestions "
+"for how to avoid these issues."
+msgstr ""
+"除了我们总结的常见图像分析任务中的错误之外，这里我们还列出了图像分析初学者常犯的一般性错误。对于每一种错误，我们都会解释其原因，并提出避免这些问题的建议。"
+
+#: ../../03_Image_analysis/_notinyet_Common_pitfalls.md:5
+msgid "Changing your image bit depth"
+msgstr "更改图像位深度"
+
+#: ../../03_Image_analysis/_notinyet_Common_pitfalls.md:7
+msgid ""
+"Let's say you've opened your image in {term}`Fiji` and you want to process "
+"it in some way (e.g., maximum intensity projection, splitting channels, "
+"etc.) before saving it out to measure somewhere else. You go to `Image` > "
+"`Type` > `RGB (Color)` since you want a color image to import into your next"
+" analysis software and then save the resulting image. What's the problem "
+"with this? By making this change, even if the image looks exactly the same "
+"to your eyes, you've actually inadvertently changed the intensity values "
+"quite a bit! Let's take a look at an example. In Fiji there are several "
+"built-in example images. Let's open neuron.tif (you can follow along by "
+"going to `File` > `Open Samples...` > `Neuron (5 channels)`."
+msgstr ""
+"假设您在 Fiji "
+"中打开了图像，并且想要对其进行一些处理（例如，最大强度投影、分离通道等），然后再保存到其他地方进行测量。由于您需要将彩色图像导入到下一个分析软件中，因此您依次选择“图像”>“类型”>“RGB（颜色）”，然后保存处理后的图像。这样做有什么问题呢？即使图像看起来完全一样，但实际上您已经无意中改变了图像的强度值！我们来看一个例子。Fiji"
+" 内置了一些示例图像。我们打开 neuron.tif 文件（您可以依次选择“文件”>“打开示例...”>“神经元（5 通道）”来跟随操作）。"
+
+#: ../../03_Image_analysis/_notinyet_Common_pitfalls.md:9
+msgid ""
+"Here's how the image opens. There are 5 channels, but let's just look at the"
+" first one: ![image](https://user-"
+"images.githubusercontent.com/28116530/206793825-364998d4-6043-4b1d-8438-0a5b37b97232.png)"
+msgstr ""
+"图片打开后的样子是这样的。图片有 5 个通道，但我们只看第一个通道：![image](https://user-"
+"images.githubusercontent.com/28116530/206793825-364998d4-6043-4b1d-8438-0a5b37b97232.png)"
+
+#: ../../03_Image_analysis/_notinyet_Common_pitfalls.md:9
+msgid "image"
+msgstr "图像"
+
+#: ../../03_Image_analysis/_notinyet_Image_processing.md:1
+msgid "Image Processing"
+msgstr "图像处理"
+
+#: ../../03_Image_analysis/_notinyet_Image_segmentation.md:1
+msgid "Image Segmentation"
+msgstr "图像分割"
