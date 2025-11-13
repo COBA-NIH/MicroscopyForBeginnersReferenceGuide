@@ -1,0 +1,680 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2024
+# This file is distributed under the same license as the Python package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+# 
+# Translators:
+# Beth Cimini, 2025
+# 
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Python\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-05-23 21:07+0000\n"
+"PO-Revision-Date: 2023-05-02 18:49+0000\n"
+"Last-Translator: Beth Cimini, 2025\n"
+"Language-Team: Chinese (https://app.transifex.com/center-for-open-bioimage-analysis/teams/169123/zh/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: zh\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+#: ../../04_Data_presentation/Introduction.md:1
+#: ../../04_Data_presentation/Statistics.md:3
+#: ../../04_Data_presentation/_notinyet_Presentation_graphs.md:3
+msgid "Introduction"
+msgstr "介绍"
+
+#: ../../04_Data_presentation/Introduction.md:3
+msgid ""
+"When presenting microscopy image data in biology and biomedicine, it's "
+"important to consider the quality of the images, the labeling and annotation"
+" of important features, and the overall visual appeal. This also applies to "
+"diagrams and plots which convey numerical data derived from microscopy "
+"images. Chart types must in addition be suitable for the specific data that "
+"is being conveyed to not mislead audiences. This applies to image data in "
+"scientific posters, talk-slides, or publications."
+msgstr ""
+"在生物学和生物医学领域展示显微图像数据时，必须考虑图像质量、重要特征的标注和注释以及整体视觉效果。这同样适用于传达显微图像数值数据的图表。此外，图表类型必须与所传达的具体数据相匹配，以免误导受众。这适用于科学海报、演讲幻灯片或出版物中的图像数据。"
+
+#: ../../04_Data_presentation/Presentation_images.md:1
+msgid "Presentation of microscopy images"
+msgstr "显微镜图像展示"
+
+#: ../../04_Data_presentation/Presentation_images.md:3
+#: ../../04_Data_presentation/Statistics.md:9
+#: ../../04_Data_presentation/Statistics.md:34
+#: ../../04_Data_presentation/Statistics.md:57
+msgid "What is it?"
+msgstr "那是什么？"
+
+#: ../../04_Data_presentation/Presentation_images.md:5
+msgid ""
+"Microscopy images are often shown in scientific papers to illustrate a "
+"particular conclusion. While qualitative conclusions are not a subsitute for"
+" quantitative comparisons (see next section), images can certainly guide our"
+" reasoning and our conclusions. Following a few consistent best practices "
+"ensures that these conclusions are correct and robust."
+msgstr ""
+"科学论文中经常会展示显微镜图像来阐明某个结论。虽然定性结论不能替代定量比较（见下一节），但图像无疑可以指导我们的推理和结论。遵循一些一致的最佳实践可以确保这些结论的正确性和可靠性。"
+
+#: ../../04_Data_presentation/Presentation_images.md:14
+msgid "10 tips for image presentation"
+msgstr "图片展示的10个技巧"
+
+#: ../../04_Data_presentation/Presentation_images.md:14
+msgid ""
+"**A brief visual summary of image presentation tips.** Figure by Helena "
+"Jambor. [Source](https://doi.org/10.5281/zenodo.7750259)"
+msgstr ""
+"**图像呈现技巧的简要视觉总结。** 图由 Helena Jambor 绘制。 "
+"[来源](https://doi.org/10.5281/zenodo.7750259)"
+
+#: ../../04_Data_presentation/Presentation_images.md:0
+msgid "Adjust the image crop, orientation, and size."
+msgstr "调整图像的裁剪、方向和大小。"
+
+#: ../../04_Data_presentation/Presentation_images.md:18
+msgid ""
+"For any adjustments, work with an image copy and do not alter the original "
+"file. Note, do not use adjusted images for quantitative image data analyses"
+"  Adjustments to effectively communicate the image content may include "
+"removing uninformative image regions (crop), changing the image orientation,"
+" and adjusting the size. Note that rotation and re-sizing may change the "
+"image data when pixel information is redistributed."
+msgstr ""
+"进行任何调整时，请使用图像副本，切勿修改原始文件。注意：请勿将调整后的图像用于定量图像数据分析。为了更有效地传达图像内容，可以对图像进行调整，例如移除无信息区域（裁剪）、更改图像方向和调整大小。请注意，旋转和调整大小可能会改变图像数据，因为像素信息会重新分布。"
+
+#: ../../04_Data_presentation/Presentation_images.md:17
+msgid "rotation"
+msgstr "旋转"
+
+#: ../../04_Data_presentation/Presentation_images.md:0
+msgid "🤔 How do I do it?"
+msgstr "🤔 我该怎么做？"
+
+#: ../../04_Data_presentation/Presentation_images.md:25
+#: ../../04_Data_presentation/Presentation_images.md:43
+#: ../../04_Data_presentation/Presentation_images.md:62
+#: ../../04_Data_presentation/Presentation_images.md:82
+#: ../../04_Data_presentation/Presentation_images.md:98
+msgid "See the [cheat-sheet below](image-cheat-sheet) for more information."
+msgstr "有关更多信息，请参阅下面的[速查表](image-cheat-sheet)。"
+
+#: ../../04_Data_presentation/Presentation_images.md:0
+#: ../../04_Data_presentation/Statistics.md:0
+msgid "<span style=\"color: red\">⚠️</span> Where can things go wrong?"
+msgstr "<span style=\"color: red\">⚠️</span> 哪里会出错？"
+
+#: ../../04_Data_presentation/Presentation_images.md:28
+msgid "Any adjustments that alter the conclusions are not permitted."
+msgstr "任何会改变结论的调整都是不允许的。"
+
+#: ../../04_Data_presentation/Presentation_images.md:0
+#: ../../04_Data_presentation/Statistics.md:0
+msgid "📚🤷‍♀️ Where can I learn more?"
+msgstr "📚🤷‍♀️ 我在哪里可以了解更多信息？"
+
+#: ../../04_Data_presentation/Presentation_images.md:31
+msgid ""
+"📄 [Reproducible image handling and "
+"analysis](https://doi.org/10.15252/embj.2020105889) {cite}`Miura2021-mb`"
+msgstr ""
+"📄 [可复现的图像处理和分析](https://doi.org/10.15252/embj.2020105889) "
+"{cite}`Miura2021-mb`"
+
+#: ../../04_Data_presentation/Presentation_images.md:32
+#: ../../04_Data_presentation/Presentation_images.md:49
+msgid ""
+"📄 [Avoiding Twisted Pixels: Ethical Guidelines for the Appropriate Use and "
+"Manipulation of Scientific Digital "
+"Images](https://doi.org/10.1007%2Fs11948-010-9201-y) {cite}`Cromey2010-jr`"
+msgstr ""
+"📄 [避免扭曲像素：科学数字图像的合理使用和处理的伦理准则](https://doi.org/10.1007%2Fs11948-010-9201-y) "
+"{cite}`Cromey2010-jr`"
+
+#: ../../04_Data_presentation/Presentation_images.md:0
+msgid "Enhance visibility of image content"
+msgstr "提高图像内容的可见性"
+
+#: ../../04_Data_presentation/Presentation_images.md:37
+msgid ""
+"Images often do not have regular spaced intensity values. To still display "
+"the data visible on a screen/in a figure, adjustments of brightness and "
+"contrast are usually necessary."
+msgstr "图像的亮度值通常不是均匀分布的。为了在屏幕/图形中清晰显示数据，通常需要调整亮度和对比度。"
+
+#: ../../04_Data_presentation/Presentation_images.md:36
+msgid "image adjustment"
+msgstr "图像调整"
+
+#: ../../04_Data_presentation/Presentation_images.md:46
+msgid ""
+"Any adjustments that result in the disappearance of image details are "
+"considered misleading {cite}`Cromey2010-jr`. Note that many nonlinear "
+"transformations of brightness and contrast are available in image processing"
+" software, before using these users should ensure that they faithfully "
+"represent the data to avoid accidentally misleading audiences and disclose "
+"them as annotations."
+msgstr ""
+"任何导致图像细节消失的调整都被视为误导性操作（Cromey2010-jr）。请注意，图像处理软件中提供了许多亮度和对比度的非线性变换，用户在使用这些变换之前应确保其能够忠实地呈现数据，以避免意外误导受众，并将其作为注释公开。"
+
+#: ../../04_Data_presentation/Presentation_images.md:0
+msgid "Use accessible colors"
+msgstr "使用易于辨识的颜色"
+
+#: ../../04_Data_presentation/Presentation_images.md:54
+msgid ""
+"Fluorescent microscope images are often composed of data from multiple "
+"wavelengths/color channels. To best visualize molecular structures, "
+"individual channels can be shown in separate grayscale images. When colors "
+"are chosen to represent the illumination wavelength (blue, green, red, far-"
+"red), for example Green-Fluorescent Protein is shown in green color, be "
+"reminded that intensity values on a black background reduces the level of "
+"detail."
+msgstr ""
+"荧光显微镜图像通常由多个波长/颜色通道的数据组成。为了更好地观察分子结构，可以将各个通道以单独的灰度图像显示。例如，当选择颜色来表示照明波长（蓝色、绿色、红色、远红色）时，例如用绿色显示绿色荧光蛋白，需要注意的是，在黑色背景下，强度值会降低细节水平。"
+
+#: ../../04_Data_presentation/Presentation_images.md:56
+msgid ""
+"When channels are over-laid in ‘composite’ images, authors should ensure "
+"that structures are visible, i.e., that the overlay does not obstruct "
+"features and that the colors used are clearly distinguishable."
+msgstr "当通道在“复合”图像中叠加时，作者应确保结构可见，即叠加层不会遮挡特征，并且使用的颜色清晰可辨。"
+
+#: ../../04_Data_presentation/Presentation_images.md:53
+msgid "multicolor image composition"
+msgstr "多色图像构成"
+
+#: ../../04_Data_presentation/Presentation_images.md:65
+msgid ""
+"For composite images consider if color combinations are accessible to color-"
+"blind audiences (e.g. not combine red with green, but rather magenta and "
+"green, see reference below for examples) and possibly additionally show "
+"individual channels in grayscale for maximizing accessibility and detail.  "
+"Tools for color blindness simulation of the images exist in image processing"
+" software (ImageJ/Fiji) and visibility of colors in final image figures can "
+"be tested with applications such as ColorOracle."
+msgstr ""
+"对于合成图像，应考虑颜色组合是否对色盲观众友好（例如，不要将红色与绿色组合，而是使用品红色和绿色，具体示例请参见下文参考资料），并可考虑以灰度模式显示各个通道，以最大限度地提高图像的可视性和细节表现。图像处理软件（如"
+" ImageJ/Fiji）中提供了用于模拟图像色盲效果的工具，最终图像中的颜色可见性可以使用 ColorOracle 等应用程序进行测试。"
+
+#: ../../04_Data_presentation/Presentation_images.md:69
+msgid ""
+"📄 [Creating clear and informative image-based figures for scientific "
+"publications](https://doi.org/10.1371/journal.pbio.3001161) "
+"{cite}`Jambor2021-qe`"
+msgstr ""
+"📄 [为科学出版物创建清晰且信息丰富的图像图表](https://doi.org/10.1371/journal.pbio.3001161) "
+"{cite}`Jambor2021-qe`"
+
+#: ../../04_Data_presentation/Presentation_images.md:0
+msgid "Annotate key image features"
+msgstr "标注关键图像特征"
+
+#: ../../04_Data_presentation/Presentation_images.md:74
+msgid ""
+"Each image needs a reference to its physical dimensions. This is typically "
+"achieved by including a scale bar with dimensions annotated in the image or "
+"the figure legend."
+msgstr "每张图像都需要标明其物理尺寸。通常的做法是在图像中添加比例尺，并在图像或图例中标注尺寸。"
+
+#: ../../04_Data_presentation/Presentation_images.md:76
+msgid ""
+"In addition, authors should remember to annotate the colors used, any "
+"symbols and arrows used to guide readers, and, if used, the origin of any "
+"zoom/inset. If specialized images are shown (time-lapse, volumes, "
+"reconstructions) authors are encouraged to consider annotating important "
+"information in the figures."
+msgstr ""
+"此外，作者应注意标注所使用的颜色、用于引导读者的任何符号和箭头，以及（如有）任何缩放/插入操作的起始位置。如果展示了特殊图像（例如延时摄影、体积图像、重建图像），建议作者考虑在图中标注重要信息。"
+
+#: ../../04_Data_presentation/Presentation_images.md:73
+msgid "speech bubbles"
+msgstr "对话框"
+
+#: ../../04_Data_presentation/Presentation_images.md:85
+msgid ""
+"Lack of details and missing of key explanations will make it impossible for "
+"audiences to interpret image data in figures.  To unambiguously reference "
+"probes consider using terms from the ISAC Probe Tag Dictionary, a "
+"standardized nomenclature for probers used in cytometry and microscopy."
+msgstr ""
+"细节缺失和关键解释的缺失会导致观众无法解读图中的图像数据。为了明确地指代探针，建议使用ISAC探针标签词典中的术语，该词典是细胞计数和显微镜中使用的探针的标准化命名法。"
+
+#: ../../04_Data_presentation/Presentation_images.md:89
+msgid ""
+"📄 [ISAC Probe Tag Dictionary: Standardized Nomenclature for Detection and "
+"Visualization Labels Used in Cytometry and Microscopy Imaging "
+"](https://doi.org/10.1002/cyto.a.24224) {cite}`Blenman2021-ki`"
+msgstr ""
+"📄 "
+"[ISAC探针标签词典：用于细胞计量和显微成像的检测和可视化标签的标准化命名法](https://doi.org/10.1002/cyto.a.24224)"
+" {cite}`Blenman2021-ki`"
+
+#: ../../04_Data_presentation/Presentation_images.md:0
+msgid "Explain the image"
+msgstr "解释图片"
+
+#: ../../04_Data_presentation/Presentation_images.md:95
+msgid ""
+"To rapidly orient audiences, a minimal explanatory text should be presented "
+"along with images. This includes the figure legend and the methods section "
+"in scientific papers or the title of figures in posters and slides. Consider"
+" using a controlled vocabulary to reduce ambiguity and increase machine-"
+"readability of the descriptions of specimens, tissues, cell lines, and "
+"proteins etc. A useful tool is the [RRID (Reseach Resource Identifying "
+"Data)index](https://scicrunch.org/resources) , which provides indices for "
+"commonly used biological reagents and resources, e.g., plasmids, cell lines "
+"and antibodies ."
+msgstr ""
+"为了帮助读者快速理解，应在图像旁配以简洁的解释性文字。这包括科学论文中的图例和方法部分，或海报和幻灯片中的图标题。建议使用受控词汇表来减少歧义，并提高标本、组织、细胞系和蛋白质等描述的机器可读性。[RRID（研究资源识别数据）索引](https://scicrunch.org/resources)"
+" 是一个有用的工具，它提供了常用生物试剂和资源（例如质粒、细胞系和抗体）的索引。"
+
+#: ../../04_Data_presentation/Presentation_images.md:101
+msgid ""
+"Missing explanations of image details/methods may result in non-reproducible"
+" data and limits the insights from the data."
+msgstr "缺少对图像细节/方法的解释可能会导致数据无法重现，并限制从数据中获得的见解。"
+
+#: ../../04_Data_presentation/Presentation_images.md:104
+msgid ""
+"📄 [Replication Study: Biomechanical remodeling of the microenvironment by "
+"stromal caveolin-1 favors tumor invasion and "
+"metastasis](https://doi.org/10.7554/eLife.45120) {cite}`Sheen2019-bg`"
+msgstr ""
+"📄 "
+"[重复研究：基质细胞caveolin-1对微环境的生物力学重塑促进肿瘤侵袭和转移](https://doi.org/10.7554/eLife.45120)"
+" {cite}`Sheen2019-bg`"
+
+#: ../../04_Data_presentation/Presentation_images.md:105
+msgid ""
+"📄 [Imaging methods are vastly underreported in biomedical "
+"research](https://doi.org/10.7554/eLife.55133) {cite}`Marques2020-nx`"
+msgstr ""
+"📄 [生物医学研究中成像方法的报告严重不足](https://doi.org/10.7554/eLife.55133) "
+"{cite}`Marques2020-nx`"
+
+#: ../../04_Data_presentation/Presentation_images.md:106
+msgid ""
+"📄 [Are figure legends sufficient? Evaluating the contribution of associated "
+"text to biomedical figure "
+"comprehension.](https://doi.org/10.1186/1747-5333-4-1) {cite}`Yu2009-ip`"
+msgstr ""
+"📄 [图例是否足够？评估相关文本对生物医学图理解的贡献。](https://doi.org/10.1186/1747-5333-4-1) "
+"{cite}`Yu2009-ip`"
+
+#: ../../04_Data_presentation/Presentation_images.md:110
+msgid "Where can I learn more?"
+msgstr "哪里可以了解更多信息？"
+
+#: ../../04_Data_presentation/Presentation_images.md:112
+msgid ""
+"Check out _Creating clear and informative image-based figures for scientific"
+" publications_{cite}`Jambor2021-qe` and _Community-developed checklists for "
+"publishing images and image analysis_{cite}`Schmied2024-et` for more tips "
+"and best practices for making image figures."
+msgstr ""
+"请查看《为科学出版物创建清晰且信息丰富的图像图表》（Jambor2021-qe）和《社区开发的用于发布图像和图像分析的清单》（Schmied2024-et），以获取更多制作图像图表的技巧和最佳实践。"
+
+#: ../../04_Data_presentation/Presentation_images.md:114
+msgid ""
+"A cheat sheet on how to do basic image preparation with open source "
+"software:"
+msgstr "如何使用开源软件进行基本图像处理的小窍门："
+
+#: ../../04_Data_presentation/Presentation_images.md:124
+msgid "Instructions for common image processing operations in Fiji"
+msgstr "Fiji中常见图像处理操作说明"
+
+#: ../../04_Data_presentation/Presentation_images.md:124
+msgid ""
+"**How to correctly perform various image manipulations in Fiji.** Figure by "
+"Christopher Schmied and Helena Jambor. "
+"[Source](https://doi.org/10.12688/f1000research.27140.2)"
+msgstr ""
+"**如何在 Fiji 中正确执行各种图像处理操作。** 图由 Christopher Schmied 和 Helena Jambor "
+"提供。[来源](https://doi.org/10.12688/f1000research.27140.2)"
+
+#: ../../04_Data_presentation/Resources.md:1
+msgid "Resources for learning more"
+msgstr "更多学习资源"
+
+#: ../../04_Data_presentation/Resources.md:8
+msgid "**Resource Name**"
+msgstr "资源名称"
+
+#: ../../04_Data_presentation/Resources.md:9
+msgid "**Link**"
+msgstr "**关联**"
+
+#: ../../04_Data_presentation/Resources.md:10
+msgid "**Brief description**"
+msgstr "**简要描述**"
+
+#: ../../04_Data_presentation/Resources.md:11
+msgid ""
+"📄 Creating clear and informative image-based figures for scientific "
+"publications {cite}`Jambor2021-qe`"
+msgstr "📄 为科学出版物创建清晰且信息丰富的图像图表 {cite}`Jambor2021-qe`"
+
+#: ../../04_Data_presentation/Resources.md:12
+msgid ""
+"[link](https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3001161"
+" )"
+msgstr ""
+"[链接](https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3001161)"
+
+#: ../../04_Data_presentation/Resources.md:13
+msgid ""
+"Review article on how to create accessible, fair scientific figures, "
+"including guidelines for microscopy images"
+msgstr "一篇关于如何创建易于理解、公平公正的科学图表的综述文章，其中包括显微镜图像的制作指南。"
+
+#: ../../04_Data_presentation/Resources.md:14
+msgid ""
+"📄 Community-developed checklists for publishing images and image analysis "
+"{cite}`Schmied2024-et`"
+msgstr "📄 社区开发的用于发布图像和图像分析的清单 {cite}`Schmied2024-et`"
+
+#: ../../04_Data_presentation/Resources.md:15
+msgid "[link](https://doi.org/10.1038/s41592-023-01987-9)"
+msgstr "[链接](https://doi.org/10.1038/s41592-023-01987-9)"
+
+#: ../../04_Data_presentation/Resources.md:16
+msgid ""
+"A paper recommending checklists and best practices for publishing image "
+"data. [It also has a JupyterBook](https://quarep-"
+"limi.github.io/WG12_checklists_for_image_publishing/intro.html)"
+msgstr ""
+"一篇推荐图像数据发布清单和最佳实践的论文。[它还有一个 JupyterBook 版本](https://quarep-"
+"limi.github.io/WG12_checklists_for_image_publishing/intro.html)"
+
+#: ../../04_Data_presentation/Resources.md:17
+msgid "📖 Modern Statistics for Modern Biology {cite}`Holmes2019-no`"
+msgstr "📖 现代生物学的现代统计学 {cite}`Holmes2019-no`"
+
+#: ../../04_Data_presentation/Resources.md:18
+msgid "[link](https://www.huber.embl.de/msmb/)"
+msgstr "[链接](https://www.huber.embl.de/msmb/)"
+
+#: ../../04_Data_presentation/Resources.md:19
+msgid "Online statistics for biologists textbook with code examples (in R)"
+msgstr "面向生物学家的在线统计学教科书，附带代码示例（R语言）"
+
+#: ../../04_Data_presentation/Statistics.md:1
+msgid "Statistics"
+msgstr "统计数据"
+
+#: ../../04_Data_presentation/Statistics.md:5
+msgid ""
+"Quantitative data is often summarized and analysed with statistical methods "
+"and visualized with plots/graphs/diagrams. Statistical methods reveal "
+"quantitative trends, patterns, and outliers in data, while plots and graphs "
+"help to convey them to audiences. Carrying out a suitable statistical "
+"analysis and choosing a suitable chart type for your data, identifying their"
+" potential pitfalls, and faithfully realising the analysis or generating the"
+" chart with suitable software are essential to back up experimental "
+"conclusions with data and reach communication goals."
+msgstr ""
+"定量数据通常通过统计方法进行汇总和分析，并用图表/图形/示意图进行可视化。统计方法揭示数据中的定量趋势、模式和异常值，而图表则有助于将这些信息传达给受众。进行适当的统计分析，选择合适的图表类型，识别潜在的缺陷，并使用合适的软件忠实地执行分析或生成图表，对于用数据支撑实验结论并实现沟通目标至关重要。"
+
+#: ../../04_Data_presentation/Statistics.md:7
+msgid "Dimensionality reduction"
+msgstr "降维"
+
+#: ../../04_Data_presentation/Statistics.md:10
+msgid ""
+"Dimensionality reduction (also called dimension reduction) aims at mapping "
+"high-dimensional data onto a lower-dimensional space in order to better "
+"reveal trends and patterns. Algorithms performing this task attempt to "
+"retain as much information as possible when reducing the dimensionality of "
+"the data: this is achieved by assigning importance scores to individual "
+"features, removing redundancies, and identifying uninformative (for instance"
+" constant) features. Dimensionality reduction is an important step in "
+"quantitative analysis as it makes data more manageable and easier to "
+"visualize. It is also an important preprocessing step in many downstream "
+"analysis algorithms, such as machine learning classifiers."
+msgstr ""
+"降维（也称维度缩减）旨在将高维数据映射到低维空间，以便更好地揭示趋势和模式。执行此任务的算法力求在降低数据维度的同时保留尽可能多的信息：这可以通过为各个特征分配重要性评分、去除冗余以及识别无信息特征（例如常量特征）来实现。降维是定量分析中的重要步骤，因为它使数据更易于管理和可视化。它也是许多下游分析算法（例如机器学习分类器）的重要预处理步骤。"
+
+#: ../../04_Data_presentation/Statistics.md:0
+msgid "📏 How do I do it?"
+msgstr "📏 我该怎么做？"
+
+#: ../../04_Data_presentation/Statistics.md:13
+msgid ""
+"The most traditional dimensionality reduction technique is principal "
+"component analysis (PCA){cite}`Lever2017-pca`. In a nutshell, PCA recovers a"
+" linear transformation of the input data into a new coordinate system (the "
+"principal components) that concentrates variation into its first axes. This "
+"is achieved by relying on classical linear algebra, by computing an "
+"eigendecomposition of the covariance matrix of the data. As a result, the "
+"first 2 or 3 principal components provide a low-dimensional version of the "
+"data distribution that is faithful to the variance that was originally "
+"present. More advanced dimensionality reduction methods that are popular in "
+"biology include t-distributed stochastic neighbor embedding (t-SNE) and "
+"Uniform Manifold Approximation and Projection (UMAP). In contrast to PCA, "
+"these methods are non-linear and can therefore exploit more complex "
+"relationships between features when building the lower-dimensional "
+"representation. This however comes at a cost: both t-SNE and UMAP are "
+"stochastic, meaning that the results they produce are highly dependent on "
+"the choice of hyperparameters and can differ across different runs."
+msgstr ""
+"最传统的降维技术是主成分分析 (PCA){cite}`Lever2017-pca`。简而言之，PCA "
+"将输入数据线性变换到一个新的坐标系（主成分），并将变异集中在前几个轴上。这是通过经典的线性代数实现的，即计算数据协方差矩阵的特征值分解。结果，前 2 或"
+" 3 个主成分提供了一个低维数据分布，忠实地保留了原始数据的方差。生物学中常用的更高级的降维方法包括 t 分布随机邻域嵌入 (t-SNE) "
+"和均匀流形逼近与投影 (UMAP)。与 PCA "
+"不同，这些方法是非线性的，因此在构建低维表示时可以利用特征之间更复杂的关系。然而，这样做是有代价的：t-SNE 和 UMAP "
+"都是随机的，这意味着它们产生的结果高度依赖于超参数的选择，并且在不同的运行中可能会有所不同。"
+
+#: ../../04_Data_presentation/Statistics.md:18
+msgid ""
+"Although reducing dimensionality can be very useful for data exploration and"
+" analysis, it may also wipe information or structure that is relevant to the"
+" problem being studied. This is famously well illustrated by the [Datasaurus"
+" "
+"dataset](https://cran.r-project.org/web/packages/datasauRus/vignettes/Datasaurus.html),"
+" which demonstrates how very differently-looking sets of measurements can "
+"become indistinguishable when described by a small set of summary "
+"statistics. The best way to minimize this risk is to start by visually "
+"exploring the data whenever possible, and carefully checking any underlying "
+"assumptions of the dimensionality reduction method being used to ensure that"
+" they hold for the considered data. Dimensionality reduction may also "
+"enhance and reveal patterns that are not biologically relevant, due to noise"
+" or systematic artifacts in the original data (see Batch effect correction "
+"section below). In addition to applying normalization and batch correction "
+"to the data prior to reducing dimensionality, some dimensionality reduction "
+"methods also offer so-called regularization strategies to mitigate this. In "
+"the end, any pattern identified in dimension-reduced data should be "
+"considered while keeping in mind the biological context of the data in order"
+" to interpret the results appropriately."
+msgstr ""
+"尽管降维对于数据探索和分析非常有用，但它也可能抹去与研究问题相关的信息或结构。著名的[Datasaurus数据集](https://cran.r-project.org/web/packages/datasauRus/vignettes/Datasaurus.html)很好地说明了这一点，它展示了当仅用少量汇总统计量来描述时，原本看起来截然不同的测量数据集会变得难以区分。最大限度降低这种风险的最佳方法是尽可能先对数据进行可视化探索，并仔细检查所用降维方法的任何基本假设，以确保这些假设适用于所考虑的数据。降维也可能由于原始数据中的噪声或系统误差而增强并揭示一些与生物学无关的模式（参见下文“批次效应校正”部分）。除了在降维之前对数据进行归一化和批次校正之外，一些降维方法还提供所谓的正则化策略来缓解这种情况。最后，在考虑降维数据中发现的任何模式时，都应该牢记数据的生物学背景，以便恰当地解释结果。"
+
+#: ../../04_Data_presentation/Statistics.md:26
+msgid ""
+"📖 [Dimension Reduction: A Guided "
+"Tour](https://www.researchgate.net/publication/220416606_Dimension_Reduction_A_Guided_Tour)"
+" {cite}`Burges2010-fi`"
+msgstr ""
+"📖 "
+"[降维：导览](https://www.researchgate.net/publication/220416606_Dimension_Reduction_A_Guided_Tour)"
+" {cite}`Burges2010-fi`"
+
+#: ../../04_Data_presentation/Statistics.md:27
+msgid ""
+"💻 [UMAP introduction and Python implementation](https://umap-"
+"learn.readthedocs.io/en/latest/index.html)"
+msgstr ""
+"💻 [UMAP 简介和 Python 实现](https://umap-"
+"learn.readthedocs.io/en/latest/index.html)"
+
+#: ../../04_Data_presentation/Statistics.md:28
+msgid ""
+"💻 [t-SNE Python implementation](https://scikit-"
+"learn.org/stable/modules/generated/sklearn.manifold.TSNE.html)"
+msgstr ""
+"💻 [t-SNE Python 实现](https://scikit-"
+"learn.org/stable/modules/generated/sklearn.manifold.TSNE.html)"
+
+#: ../../04_Data_presentation/Statistics.md:32
+msgid "Batch correction"
+msgstr "批次校正"
+
+#: ../../04_Data_presentation/Statistics.md:35
+msgid ""
+"Batch effects are systematic variations across samples correlated with "
+"experimental conditions (such as different times of the day, different days "
+"of the week, or different experimental tools) that are not related to the "
+"biological process of interest. Batch effects must be mitigated prior to "
+"making comparisons across several datasets as they impact the "
+"reproducibility and reliability of computational analysis and can "
+"dramatically bias conclusions. Algorithms for batch effect correction "
+"address this by identifying and quantifying sources of technical variation, "
+"and adjusting the data so that these are minimized while the biological "
+"signal is preserved. Most batch effect correction methods were originally "
+"developed for microarray data and sequencing data, but can be adapted to "
+"feature vectors extracted from images."
+msgstr ""
+"批次效应是指样本间因实验条件（例如一天中的不同时间、一周中的不同日期或不同的实验工具）而产生的系统性差异，这些差异与所关注的生物学过程无关。在对多个数据集进行比较之前，必须消除批次效应，因为它们会影响计算分析的可重复性和可靠性，并可能导致结论出现显著偏差。批次效应校正算法通过识别和量化技术变异的来源，并调整数据以最大限度地减少这些变异，同时保持生物学信号，从而解决这个问题。大多数批次效应校正方法最初是为微阵列数据和测序数据开发的，但也可以应用于从图像中提取的特征向量。"
+
+#: ../../04_Data_presentation/Statistics.md:38
+msgid ""
+"Two of the most used methods for batch effect correction are ComBat and "
+"Surrogate Variable Analysis (SVA), depending on whether the sources of batch"
+" effects are known a priori or not. In a nutshell, ComBat involves three "
+"steps: 1) dividing the data into known batches, 2) estimating batch effect "
+"by fitting a linear model that includes the batch as a covariate and 3) "
+"adjusting the data by removing the estimated effect of the batch from each "
+"data point. In contrast, SVA aims at identifying \"surrogate variables\" "
+"that capture unknown sources of variability in the data. The surrogate "
+"variables can be estimated relying on linear algebra methods (such as "
+"singular value decomposition) or through a Bayesian factor analysis model. "
+"SVA has been demonstrated to reduce unobserved sources of variability and is"
+" therefore of particular help when identifying possible causes of batch "
+"effects is challenging, but comes at a higher computational cost than "
+"ComBat."
+msgstr ""
+"批次效应校正最常用的两种方法是组合平衡法 (ComBat) 和替代变量分析 (SVA)，具体取决于批次效应的来源是否事先已知。简而言之，ComBat "
+"包含三个步骤：1) 将数据划分为已知批次；2) 通过拟合一个包含批次作为协变量的线性模型来估计批次效应；3) "
+"通过从每个数据点中移除估计的批次效应来调整数据。相比之下，SVA "
+"旨在识别能够捕捉数据中未知变异来源的“替代变量”。这些替代变量可以通过线性代数方法（例如奇异值分解）或贝叶斯因子分析模型进行估计。SVA "
+"已被证明可以减少未观测到的变异来源，因此在识别批次效应的可能原因具有挑战性时特别有用，但其计算成本高于 ComBat。"
+
+#: ../../04_Data_presentation/Statistics.md:41
+msgid ""
+"As important as it is for analysis, batch effect correction can go wrong "
+"when too much or too little of it is done. Both over- and under-correction "
+"can happen when methods are not used properly or when their underlying "
+"assumptions are not met. As a result, either biological signals can be "
+"removed (in the case of over-correction) or irrelevant sources of variation "
+"can remain (in the case of under-correction) - both potentially leading to "
+"inaccurate conclusions. Batch effect correction can be particularly tricky "
+"when the biological variation of interest is suspected to confound with the "
+"batch. In this case in particular (although always a good approach), the "
+"first lines of fight against batch effects should be thought-through "
+"experimental design and careful quality control, as well as visual "
+"exploration of the data{cite}`Lord2020-sp`. Plotting data batch-by-batch "
+"before applying any correction can help confirm (or infirm) that the "
+"observed trends are similar across batches."
+msgstr ""
+"批次效应校正对于分析至关重要，但校正过度或校正不足都可能导致错误。当方法使用不当或其基本假设不成立时，就会出现过度校正或校正不足的情况。结果，要么生物信号被消除（过度校正），要么无关的变异来源被保留（校正不足）——这两种情况都可能导致不准确的结论。当怀疑感兴趣的生物变异与批次效应混淆时，批次效应校正尤其棘手。在这种情况下（尽管始终是有效的方法），对抗批次效应的首要措施应该是精心设计的实验和严格的质量控制，以及对数据进行可视化探索。在应用任何校正之前，逐批次绘制数据图有助于确认（或否定）观察到的趋势在不同批次间是否相似。"
+
+#: ../../04_Data_presentation/Statistics.md:49
+msgid ""
+"📄 [Why Batch Effects Matter in Omics Data, and How to Avoid "
+"Them](https://doi.org/10.1016/j.tibtech.2017.02.012) {cite}`Goh2017-kd`"
+msgstr ""
+"📄 [为什么组学数据中的批次效应很重要，以及如何避免它们](https://doi.org/10.1016/j.tibtech.2017.02.012)"
+" {cite}`Goh2017-kd`"
+
+#: ../../04_Data_presentation/Statistics.md:50
+msgid ""
+"💻 [pyComBat (ComBat Python "
+"implementation)](https://epigenelabs.github.io/pyComBat/)"
+msgstr ""
+"💻 [pyComBat（ComBat Python 实现）](https://epigenelabs.github.io/pyComBat/)"
+
+#: ../../04_Data_presentation/Statistics.md:51
+msgid ""
+"📄 [The sva package for removing batch effects and other unwanted variation "
+"in high-throughput "
+"experiments](https://doi.org/10.1093/bioinformatics/bts034) "
+"{cite}`Leek2012-rv`"
+msgstr ""
+"📄 [用于去除高通量实验中批次效应和其他不必要变异的 sva "
+"包](https://doi.org/10.1093/bioinformatics/bts034) {cite}`Leek2012-rv`"
+
+#: ../../04_Data_presentation/Statistics.md:55
+msgid "Normality testing"
+msgstr "正态性检验"
+
+#: ../../04_Data_presentation/Statistics.md:58
+msgid ""
+"Normality testing is about assessing whether data follow a Gaussian (or "
+"nomal) distribution. Because the Gaussian distribution is frequently found "
+"in nature and has important mathematical properties, normality is a core "
+"assumption in many widely-used statistical tests. When this assumption is "
+"violated, their conclusions may not hold or be flawed. Normality testing is "
+"therefore an important step of the data analysis pipeline prior to any sort "
+"of statistical testing."
+msgstr ""
+"正态性检验旨在评估数据是否服从高斯（或正态）分布。由于高斯分布在自然界中普遍存在，且具有重要的数学特性，因此正态性是许多常用统计检验的核心假设。如果这一假设不成立，则检验结论可能不成立或存在缺陷。因此，正态性检验是数据分析流程中的重要步骤，在进行任何统计检验之前都必须进行。"
+
+#: ../../04_Data_presentation/Statistics.md:61
+msgid ""
+"Normality of a data distribution can be qualitatively assessed through "
+"plotting, for instance relying on a histogram. For a more quantitative "
+"readout, statistical methods such as the Kolmogorov-Smirnov (KS) and "
+"Shapiro-Wilk tests (among many others) report how much the observed data "
+"distribution deviates from a Gaussian. These tests usually return and a "
+"p-value linked to the hypothesis that the data are sampled from a Gaussian "
+"distribution. A high p-value indicates that the data are not inconsistent "
+"with a normal distribution, but is not sufficient to prove that they indeed "
+"follow a Gaussian. A p-values smaller than a pre-defined significance "
+"threshold (usually 0.05) indicates that the data are not sampled from a "
+"normal distribution."
+msgstr ""
+"数据分布的正态性可以通过绘图进行定性评估，例如使用直方图。为了获得更定量的结果，可以使用统计方法，例如 Kolmogorov-Smirnov (KS) "
+"检验和 Shapiro-Wilk 检验（以及其他许多方法），这些方法可以报告观测到的数据分布与高斯分布的偏差程度。这些检验通常会返回一个 p "
+"值，该值与数据是否服从高斯分布的假设相关。较高的 p 值表明数据与正态分布并非完全矛盾，但这并不足以证明数据确实服从高斯分布。小于预设显著性阈值（通常为"
+" 0.05）的 p 值表明数据并非服从正态分布。"
+
+#: ../../04_Data_presentation/Statistics.md:65
+msgid ""
+"Although lots of the “standard” statistical methods have been designed with "
+"a normnality assumption, alternative approaches exist for non-normally-"
+"ditributed data. Many biological processes result in multimodal “states” "
+"(for instance differentiation) that are inherently not Gaussian. Normality "
+"testing should therefore not be mistaken for a quality assessment of the "
+"data: it merely informs on the types of tools that are appropriate to use "
+"when analyzing them."
+msgstr ""
+"尽管许多“标准”统计方法的设计都基于正态性假设，但对于非正态分布数据，也存在其他方法。许多生物过程会产生多峰“状态”（例如分化），这些状态本质上并非高斯分布。因此，正态性检验不应被误认为是数据质量评估：它仅仅有助于确定分析数据时应使用哪些类型的工具。"
+
+#: ../../04_Data_presentation/Statistics.md:68
+msgid ""
+"📖 [Modern statistics for modern biology](https://www.huber.embl.de/msmb/) "
+"{cite}`Holmes2019-no`"
+msgstr ""
+"📖 [现代生物学的现代统计学](https://www.huber.embl.de/msmb/) {cite}`Holmes2019-no`"
+
+#: ../../04_Data_presentation/Statistics.md:69
+msgid ""
+"💻 [To get started with statistical analysis: R](https://www.r-project.org/)"
+msgstr "💻 [开始进行统计分析：R](https://www.r-project.org/)"
+
+#: ../../04_Data_presentation/Statistics.md:70
+msgid ""
+"💻 [To do statistics in Python: "
+"scipy.stats](https://docs.scipy.org/doc/scipy/reference/stats.html)"
+msgstr ""
+"💻 [在 Python "
+"中进行统计分析：scipy.stats](https://docs.scipy.org/doc/scipy/reference/stats.html)"
+
+#: ../../04_Data_presentation/_notinyet_Presentation_graphs.md:1
+msgid "Presentation of graphs"
+msgstr "图表展示"
