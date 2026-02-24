@@ -186,8 +186,7 @@ msgid ""
 "that structures are visible, i.e., that the overlay does not obstruct "
 "features and that the colors used are clearly distinguishable."
 msgstr ""
-"チャンネルが \"合成 "
-"\"画像にオーバーレイされる場合、作者は構造が見えること、すなわちオーバーレイが特徴を妨げないこと、および使用されている色が明確に区別できることを確認する必要がある。"
+"複数のチャンネルを重ね合わせてコンポジット画像を作成する場合、構造が十分に見えることを確認する必要があります。つまり、重ね合わせによって重要な特徴が隠れていないこと、また使用する色がはっきりと区別できることを確認してください。"
 
 #: ../../04_Data_presentation/Presentation_images.md:53
 msgid "multicolor image composition"
