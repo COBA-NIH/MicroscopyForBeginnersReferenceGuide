@@ -309,8 +309,9 @@ msgid ""
 "text to biomedical figure "
 "comprehension.](https://doi.org/10.1186/1747-5333-4-1) {cite}`Yu2009-ip`"
 msgstr ""
-"📄 "
-"[図の凡例は十分か？バイオメディカル図の理解に対する関連テキストの寄与を評価する](https://doi.org/10.1186/1747-5333-4-1){cite}`Yu2009-ip`"
+"📄 [Are figure legends sufficient? Evaluating the contribution of associated "
+"text to biomedical figure "
+"comprehension.](https://doi.org/10.1186/1747-5333-4-1) {cite}`Yu2009-ip`"
 
 #: ../../04_Data_presentation/Presentation_images.md:110
 msgid "Where can I learn more?"
