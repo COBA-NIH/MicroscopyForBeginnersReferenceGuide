@@ -690,7 +690,7 @@ msgid ""
 "💻 [To do statistics in Python: "
 "scipy.stats](https://docs.scipy.org/doc/scipy/reference/stats.html)"
 msgstr ""
-"💻 [Python で統計をとるには: "
+"💻 [To do statistics in Python: "
 "scipy.stats](https://docs.scipy.org/doc/scipy/reference/stats.html)"
 
 #: ../../04_Data_presentation/_notinyet_Presentation_graphs.md:1
