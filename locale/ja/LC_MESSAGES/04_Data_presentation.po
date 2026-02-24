@@ -616,8 +616,8 @@ msgid ""
 "📄 [Why Batch Effects Matter in Omics Data, and How to Avoid "
 "Them](https://doi.org/10.1016/j.tibtech.2017.02.012) {cite}`Goh2017-kd`"
 msgstr ""
-"📄 [Why Batch Effects Matter in Omics Data, and How to "
-"Avoidm](https://doi.org/10.1016/j.tibtech.2017.02.012){cite}`Goh2017-kd`"
+"📄 [Why Batch Effects Matter in Omics Data, and How to Avoid "
+"Them](https://doi.org/10.1016/j.tibtech.2017.02.012) {cite}`Goh2017-kd`"
 
 #: ../../04_Data_presentation/Statistics.md:50
 msgid ""
