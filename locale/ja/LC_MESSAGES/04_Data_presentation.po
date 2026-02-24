@@ -102,7 +102,7 @@ msgstr "🤔 方法"
 #: ../../04_Data_presentation/Presentation_images.md:82
 #: ../../04_Data_presentation/Presentation_images.md:98
 msgid "See the [cheat-sheet below](image-cheat-sheet) for more information."
-msgstr "詳しくは[以下のチートシート](image-cheat-sheet)を参照。"
+msgstr "詳しくは[以下のチートシート](image-cheat-sheet)を参照してください。"
 
 #: ../../04_Data_presentation/Presentation_images.md:0
 #: ../../04_Data_presentation/Statistics.md:0
