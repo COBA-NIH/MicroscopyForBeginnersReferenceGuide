@@ -291,8 +291,9 @@ msgid ""
 "stromal caveolin-1 favors tumor invasion and "
 "metastasis](https://doi.org/10.7554/eLife.45120) {cite}`Sheen2019-bg`"
 msgstr ""
-"📄 "
-"【再現研究：間質カベオリン-1による微小環境の生体力学的リモデリングは腫瘍の浸潤と転移を促進する](https://doi.org/10.7554/eLife.45120){cite}`Sheen2019-bg`"
+"📄 [Replication Study: Biomechanical remodeling of the microenvironment by "
+"stromal caveolin-1 favors tumor invasion and "
+"metastasis](https://doi.org/10.7554/eLife.45120) {cite}`Sheen2019-bg`"
 
 #: ../../04_Data_presentation/Presentation_images.md:105
 msgid ""
