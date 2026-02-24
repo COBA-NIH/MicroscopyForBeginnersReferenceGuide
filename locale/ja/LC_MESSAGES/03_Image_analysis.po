@@ -380,7 +380,7 @@ msgstr "データの管理と共有"
 
 #: ../../03_Image_analysis/Data_management.md:3
 msgid "What is it?"
-msgstr "それは何ですか？"
+msgstr "基本事項"
 
 #: ../../03_Image_analysis/Data_management.md:5
 msgid ""
