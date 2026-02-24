@@ -142,7 +142,7 @@ msgstr "ほとんどのセクションで、以下のQ&Aを使って説明しま
 
 #: ../../welcome.md:49
 msgid "What is it?"
-msgstr "これは何ですか？"
+msgstr "What is it?"
 
 #: ../../welcome.md:50
 msgid "What are my options?"
