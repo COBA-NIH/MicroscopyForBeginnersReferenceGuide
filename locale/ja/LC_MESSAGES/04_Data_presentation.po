@@ -261,7 +261,7 @@ msgstr ""
 
 #: ../../04_Data_presentation/Presentation_images.md:0
 msgid "Explain the image"
-msgstr "イメージを説明する"
+msgstr "画像の説明"
 
 #: ../../04_Data_presentation/Presentation_images.md:95
 msgid ""
