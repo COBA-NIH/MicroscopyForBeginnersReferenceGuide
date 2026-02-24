@@ -4,7 +4,7 @@
 # FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
 # 
 # Translators:
-# Beth Cimini, 2025
+# Beth Cimini, 2024
 # Haruhiko Morita, 2026
 # 
 #, fuzzy
@@ -396,7 +396,7 @@ msgstr ""
 
 #: ../../04_Data_presentation/Resources.md:15
 msgid "[link](https://doi.org/10.1038/s41592-023-01987-9)"
-msgstr "[リンク](https://doi.org/10.1038/s41592-023-01987-9)"
+msgstr "[link](https://doi.org/10.1038/s41592-023-01987-9)"
 
 #: ../../04_Data_presentation/Resources.md:16
 msgid ""
