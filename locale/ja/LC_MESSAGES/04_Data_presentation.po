@@ -223,8 +223,7 @@ msgid ""
 "Each image needs a reference to its physical dimensions. This is typically "
 "achieved by including a scale bar with dimensions annotated in the image or "
 "the figure legend."
-msgstr ""
-"すべての画像には、実際の大きさが分かる情報を示す必要があります。通常は画像内や図のレジェンドに長さを明記したスケールバーを入れることに対応します。"
+msgstr "すべての画像には、実際の大きさが分かる情報を示す必要があります。通常は、画像内または図注に長さを記したスケールバーを入れることで示します。"
 
 #: ../../04_Data_presentation/Presentation_images.md:76
 msgid ""
