@@ -448,7 +448,7 @@ msgstr ""
 
 #: ../../04_Data_presentation/Statistics.md:0
 msgid "📏 How do I do it?"
-msgstr "どうすればいいですか？"
+msgstr "方法"
 
 #: ../../04_Data_presentation/Statistics.md:13
 msgid ""
