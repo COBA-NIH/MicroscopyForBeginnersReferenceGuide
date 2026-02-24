@@ -640,7 +640,7 @@ msgstr ""
 
 #: ../../04_Data_presentation/Statistics.md:55
 msgid "Normality testing"
-msgstr "正規性の検定"
+msgstr "正規性検定"
 
 #: ../../04_Data_presentation/Statistics.md:58
 msgid ""
