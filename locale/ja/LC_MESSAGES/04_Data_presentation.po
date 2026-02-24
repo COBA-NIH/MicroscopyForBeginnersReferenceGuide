@@ -368,7 +368,9 @@ msgstr "**概要**"
 msgid ""
 "📄 Creating clear and informative image-based figures for scientific "
 "publications {cite}`Jambor2021-qe`"
-msgstr "📄 科学的な出版物のための、明確で情報量の多い画像ベースの図の作成{cite}`Jambor2021-qe`"
+msgstr ""
+"📄 Creating clear and informative image-based figures for scientific "
+"publications {cite}`Jambor2021-qe`"
 
 #: ../../04_Data_presentation/Resources.md:12
 msgid ""
