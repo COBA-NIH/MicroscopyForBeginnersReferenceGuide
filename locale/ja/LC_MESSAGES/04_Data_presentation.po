@@ -216,7 +216,7 @@ msgstr ""
 
 #: ../../04_Data_presentation/Presentation_images.md:0
 msgid "Annotate key image features"
-msgstr "画像の主な特徴に注釈を付ける"
+msgstr "注釈をつける"
 
 #: ../../04_Data_presentation/Presentation_images.md:74
 msgid ""
