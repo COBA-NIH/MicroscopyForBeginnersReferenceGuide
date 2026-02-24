@@ -377,7 +377,7 @@ msgid ""
 "[link](https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3001161"
 " )"
 msgstr ""
-"[リンク](https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3001161"
+"[link](https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3001161"
 " )"
 
 #: ../../04_Data_presentation/Resources.md:13
