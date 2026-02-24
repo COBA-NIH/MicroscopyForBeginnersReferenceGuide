@@ -49,7 +49,7 @@ msgstr "顕微鏡画像の提示"
 #: ../../04_Data_presentation/Statistics.md:34
 #: ../../04_Data_presentation/Statistics.md:57
 msgid "What is it?"
-msgstr "それは何ですか？"
+msgstr "基本事項"
 
 #: ../../04_Data_presentation/Presentation_images.md:5
 msgid ""
