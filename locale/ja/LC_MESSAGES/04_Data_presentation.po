@@ -123,8 +123,8 @@ msgid ""
 "📄 [Reproducible image handling and "
 "analysis](https://doi.org/10.15252/embj.2020105889) {cite}`Miura2021-mb`"
 msgstr ""
-"📄 "
-"[再現可能な画像の取り扱いと解析](https://doi.org/10.15252/embj.2020105889){cite}`Miura2021-mb`"
+"📄 [Reproducible image handling and "
+"analysis](https://doi.org/10.15252/embj.2020105889){cite}`Miura2021-mb`"
 
 #: ../../04_Data_presentation/Presentation_images.md:32
 #: ../../04_Data_presentation/Presentation_images.md:49
