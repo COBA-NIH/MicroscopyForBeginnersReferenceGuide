@@ -314,7 +314,7 @@ msgstr ""
 
 #: ../../04_Data_presentation/Presentation_images.md:110
 msgid "Where can I learn more?"
-msgstr "もっと詳しく知りたいのですが？"
+msgstr "さらに詳しく知るために"
 
 #: ../../04_Data_presentation/Presentation_images.md:112
 msgid ""
