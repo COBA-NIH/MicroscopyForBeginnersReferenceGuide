@@ -63,7 +63,7 @@ msgstr ""
 
 #: ../../04_Data_presentation/Presentation_images.md:14
 msgid "10 tips for image presentation"
-msgstr "画像プレゼンテーションの10のヒント"
+msgstr "画像提示の基本10か条 "
 
 #: ../../04_Data_presentation/Presentation_images.md:14
 msgid ""
