@@ -233,7 +233,7 @@ msgid ""
 "reconstructions) authors are encouraged to consider annotating important "
 "information in the figures."
 msgstr ""
-"さらに、著者は、使用した色、読者を誘導するために使用した記号や矢印、使用した場合はズーム／インセットの原点を忘れずに注釈する必要がある。特殊な画像（タイムラプス、ボリューム、再構成）を掲載する場合、著者は図に重要な情報を注釈することを考慮することが推奨される。"
+"さらに、使用している色の意味や、読者の理解を助けるために用いた記号や矢印についても明示してください。また、拡大図や挿入図を用いる場合には、その元となる位置を示すようにしましょう。タイムラプス画像、三次元ボリューム画像、再構成画像などの特殊な画像を提示する場合には、図中に重要な情報を注記することが推奨されます。"
 
 #: ../../04_Data_presentation/Presentation_images.md:73
 msgid "speech bubbles"
