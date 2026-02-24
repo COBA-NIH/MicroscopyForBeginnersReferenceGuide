@@ -4,7 +4,7 @@
 # FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
 # 
 # Translators:
-# Beth Cimini, 2024
+# Beth Cimini, 2023
 # Haruhiko Morita, 2026
 # 
 #, fuzzy
@@ -404,7 +404,8 @@ msgid ""
 "data. [It also has a JupyterBook](https://quarep-"
 "limi.github.io/WG12_checklists_for_image_publishing/intro.html)"
 msgstr ""
-"画像データを公開するためのチェックリストとベスト プラクティスを推奨する文書。 [JupyterBook もあります](https://quarep-"
+"画像データを公開・発表する際のチェックリストやベストプラクティスを提案している論文。 [Jupyter "
+"Notebookつき](https://quarep-"
 "limi.github.io/WG12_checklists_for_image_publishing/intro.html)"
 
 #: ../../04_Data_presentation/Resources.md:17
