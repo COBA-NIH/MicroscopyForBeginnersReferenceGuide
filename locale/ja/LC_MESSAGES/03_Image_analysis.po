@@ -42,7 +42,7 @@ msgstr "簡単に言えば、表現型分類とは、対象物をその特徴（
 #: ../../03_Image_analysis/Intensity.md:0 ../../03_Image_analysis/Shape.md:0
 #: ../../03_Image_analysis/Tracking.md:0
 msgid "📏 How do I measure it?"
-msgstr "📏 どうやって測定するのか？"
+msgstr "📏 測定方法"
 
 #: ../../03_Image_analysis/Classification.md:10
 msgid ""
