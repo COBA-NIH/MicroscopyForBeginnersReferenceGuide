@@ -410,7 +410,7 @@ msgstr ""
 
 #: ../../04_Data_presentation/Resources.md:17
 msgid "📖 Modern Statistics for Modern Biology {cite}`Holmes2019-no`"
-msgstr "📖 現代生物学のための現代統計学{cite}`Holmes2019-no`"
+msgstr "📖 Modern Statistics for Modern Biology {cite}`Holmes2019-no`"
 
 #: ../../04_Data_presentation/Resources.md:18
 msgid "[link](https://www.huber.embl.de/msmb/)"
