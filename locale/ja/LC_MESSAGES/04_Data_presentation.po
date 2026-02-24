@@ -537,7 +537,7 @@ msgid ""
 "💻 [t-SNE Python implementation](https://scikit-"
 "learn.org/stable/modules/generated/sklearn.manifold.TSNE.html)"
 msgstr ""
-"💻 [t-SNE Python implementation](https://scikit-"
+"💻 [Python でのt-SNEの実装](https://scikit-"
 "learn.org/stable/modules/generated/sklearn.manifold.TSNE.html)"
 
 #: ../../04_Data_presentation/Statistics.md:32
