@@ -384,7 +384,7 @@ msgstr ""
 msgid ""
 "Review article on how to create accessible, fair scientific figures, "
 "including guidelines for microscopy images"
-msgstr "アクセシビリティと公正性に配慮した科学図表作成のレビュー、顕微鏡画像のガイドラインを含む。"
+msgstr "アクセシビリティと公正性に配慮した科学図表作成のレビューと顕微鏡画像のガイドライン。"
 
 #: ../../04_Data_presentation/Resources.md:14
 msgid ""
