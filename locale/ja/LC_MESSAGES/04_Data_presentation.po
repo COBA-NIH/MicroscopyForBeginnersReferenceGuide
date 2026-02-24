@@ -151,7 +151,7 @@ msgstr ""
 
 #: ../../04_Data_presentation/Presentation_images.md:36
 msgid "image adjustment"
-msgstr "画像調整"
+msgstr "画像の補正"
 
 #: ../../04_Data_presentation/Presentation_images.md:46
 msgid ""
