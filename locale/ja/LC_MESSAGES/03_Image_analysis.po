@@ -34,7 +34,7 @@ msgstr "分類とは"
 msgid ""
 "Simply put, phenotypic classification is about categorizing objects into "
 "different groups based on their features (aka measurements)."
-msgstr "簡単に言えば、表現型分類とは、対象物をその特徴（別名、測定値）に基づいて異なるグループに分類することである。"
+msgstr "簡単に言えば、表現型分類とは、対象をその特徴（すなわち測定値）に基づいて複数のグループに分類することです。"
 
 #: ../../03_Image_analysis/Classification.md:0
 #: ../../03_Image_analysis/Colocalization.md:0
