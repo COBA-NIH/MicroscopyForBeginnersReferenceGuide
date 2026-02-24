@@ -190,7 +190,7 @@ msgstr ""
 
 #: ../../04_Data_presentation/Presentation_images.md:53
 msgid "multicolor image composition"
-msgstr "マルチカラー画像合成"
+msgstr "多チャンネル画像の合成"
 
 #: ../../04_Data_presentation/Presentation_images.md:65
 msgid ""
