@@ -337,7 +337,7 @@ msgstr "オープンソースソフトウェアを使用した基本的な画像
 
 #: ../../04_Data_presentation/Presentation_images.md:124
 msgid "Instructions for common image processing operations in Fiji"
-msgstr "フィジーにおける一般的な画像処理の手順"
+msgstr "フィジーにおける一般的な画像処理の手引"
 
 #: ../../04_Data_presentation/Presentation_images.md:124
 msgid ""
