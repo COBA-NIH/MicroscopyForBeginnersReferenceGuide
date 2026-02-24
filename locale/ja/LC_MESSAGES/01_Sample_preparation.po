@@ -327,7 +327,7 @@ msgstr ""
 
 #: ../../01_Sample_preparation/Considerations.md:0
 msgid "📚🤷‍♀️ Where can I learn more?"
-msgstr "📚🤷‍♀️ もっと詳しく知りたいのですが？"
+msgstr "📚🤷‍♀️ さらに詳しく知るために"
 
 #: ../../01_Sample_preparation/Considerations.md:94
 msgid ""
