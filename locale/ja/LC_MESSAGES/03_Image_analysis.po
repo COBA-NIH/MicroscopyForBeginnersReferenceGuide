@@ -4,7 +4,6 @@
 # FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
 # 
 # Translators:
-# Cheng-Yu Huang, 2023
 # Beth Cimini, 2025
 # Haruhiko Morita, 2026
 # 
@@ -48,9 +47,7 @@ msgstr "📏 測定方法"
 msgid ""
 "Phenotypic classification can be performed a few different ways. One way to "
 "break this down is by unsupervised vs. supervised classification."
-msgstr ""
-"物のフィーチャー(Feature)に基づいた分類方法は大きく二種類に分けられます。その一つが教師なし分類(Unsupervised "
-"Learning)で、もう一つは教師あり分類(Supervised Learning)です。"
+msgstr "表現型の分類にはいくつか方法がありますが、大まかには教師なし分類と教師あり分類に分けられます。"
 
 #: ../../03_Image_analysis/Classification.md:12
 msgid ""
