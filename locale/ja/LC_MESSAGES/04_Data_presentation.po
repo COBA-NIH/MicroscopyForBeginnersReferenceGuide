@@ -520,8 +520,9 @@ msgid ""
 "Tour](https://www.researchgate.net/publication/220416606_Dimension_Reduction_A_Guided_Tour)"
 " {cite}`Burges2010-fi`"
 msgstr ""
-"Dimension Reduction: A Guided "
-"Tour](https://www.researchgate.net/publication/220416606_Dimension_Reduction_A_Guided_Tour){cite}`Burges2010-fi`"
+"📖 [Dimension Reduction: A Guided "
+"Tour](https://www.researchgate.net/publication/220416606_Dimension_Reduction_A_Guided_Tour)"
+" {cite}`Burges2010-fi`"
 
 #: ../../04_Data_presentation/Statistics.md:27
 msgid ""
