@@ -75,7 +75,7 @@ msgstr ""
 
 #: ../../04_Data_presentation/Presentation_images.md:0
 msgid "Adjust the image crop, orientation, and size."
-msgstr "画像の切り抜き、向き、サイズを調整する。"
+msgstr "画像のクロップ、方向、サイズ"
 
 #: ../../04_Data_presentation/Presentation_images.md:18
 msgid ""
