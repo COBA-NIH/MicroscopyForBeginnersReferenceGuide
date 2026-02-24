@@ -59,7 +59,7 @@ msgid ""
 " reasoning and our conclusions. Following a few consistent best practices "
 "ensures that these conclusions are correct and robust."
 msgstr ""
-"科学論文ではしばしば、特定の結論を説明するために顕微鏡画像が示される。定性的な結論は定量的な比較の代用にはならないが（次項参照）、画像は確かに推論と結論を導くことができる。いくつかの一貫したベストプラクティスに従うことで、これらの結論が正しく確実なものとなる。"
+"科学論文ではしばしば、特定の結論を説明するために顕微鏡画像が示されます。定性的な結論は定量的な比較の代用にはなりませんが（次項参照）、画像は私たちの推論や結論形成を方向づけるうえで有用です。正しく確実な結論を導くために、いくつかの原則があります。"
 
 #: ../../04_Data_presentation/Presentation_images.md:14
 msgid "10 tips for image presentation"
