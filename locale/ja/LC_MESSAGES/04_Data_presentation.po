@@ -544,7 +544,7 @@ msgstr ""
 
 #: ../../04_Data_presentation/Statistics.md:32
 msgid "Batch correction"
-msgstr "バッチ修正"
+msgstr "バッチ補正"
 
 #: ../../04_Data_presentation/Statistics.md:35
 msgid ""
