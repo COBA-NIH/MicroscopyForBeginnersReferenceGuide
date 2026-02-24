@@ -345,7 +345,8 @@ msgid ""
 "Christopher Schmied and Helena Jambor. "
 "[Source](https://doi.org/10.12688/f1000research.27140.2)"
 msgstr ""
-"**クリストファー・シュミードとヘレナ・ジャンバーによる図。[Source](https://doi.org/10.12688/f1000research.27140.2)"
+"**Fijiでの適切な画像処理の方法**図はChristopher Schmied と Helena "
+"Jamborによる[Source](https://doi.org/10.12688/f1000research.27140.2)"
 
 #: ../../04_Data_presentation/Resources.md:1
 msgid "Resources for learning more"
