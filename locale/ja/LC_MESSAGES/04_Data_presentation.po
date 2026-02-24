@@ -246,9 +246,8 @@ msgid ""
 "probes consider using terms from the ISAC Probe Tag Dictionary, a "
 "standardized nomenclature for probers used in cytometry and microscopy."
 msgstr ""
-"詳細が欠けていたり、重要な説明が欠けていたりすると、読者は図中の画像データを解釈することができなくなる。  "
-"プローブを明確に参照するために、サイトメトリーや顕微鏡で使用されるプローバーの標準的な命名法であるISAC Probe Tag "
-"Dictionaryの用語の使用を検討する。"
+"細部の情報が不足していたり、重要な説明が欠けていたりすると、読者は図中の画像データを正しく解釈できません。フローサイトメトリーや顕微鏡法で使用されるプローブについては、標準化された命名体系であるISAC"
+" Probe Tag Dictionary に掲載されている用語を使用することで、プローブの種類を明確に示すことができます。"
 
 #: ../../04_Data_presentation/Presentation_images.md:89
 msgid ""
