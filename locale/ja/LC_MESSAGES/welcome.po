@@ -146,7 +146,7 @@ msgstr "これは何ですか？"
 
 #: ../../welcome.md:50
 msgid "What are my options?"
-msgstr "どのような選択肢がありますか？"
+msgstr "選択肢"
 
 #: ../../welcome.md:51
 msgid "How do I do it?"
