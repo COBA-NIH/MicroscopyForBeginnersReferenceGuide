@@ -678,12 +678,14 @@ msgid ""
 "📖 [Modern statistics for modern biology](https://www.huber.embl.de/msmb/) "
 "{cite}`Holmes2019-no`"
 msgstr ""
-"📖 【現代生物学のための現代統計学】(https://www.huber.embl.de/msmb/){cite}`Holmes2019-no`"
+"📖 [Modern statistics for modern biology](https://www.huber.embl.de/msmb/) "
+"{cite}`Holmes2019-no`"
 
 #: ../../04_Data_presentation/Statistics.md:69
 msgid ""
 "💻 [To get started with statistical analysis: R](https://www.r-project.org/)"
-msgstr "統計解析を始めるには：R](https://www.r-project.org/)"
+msgstr ""
+"💻 [To get started with statistical analysis: R](https://www.r-project.org/)"
 
 #: ../../04_Data_presentation/Statistics.md:70
 msgid ""
