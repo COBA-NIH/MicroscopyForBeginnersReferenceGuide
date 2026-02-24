@@ -255,8 +255,9 @@ msgid ""
 "Visualization Labels Used in Cytometry and Microscopy Imaging "
 "](https://doi.org/10.1002/cyto.a.24224) {cite}`Blenman2021-ki`"
 msgstr ""
-"📄 [ISAC Probe Tag Dictionary：Cytometry and Microscopy Imaging "
-"](https://doi.org/10.1002/cyto.a.24224){cite}`Blenman2021-ki`。"
+"📄 [ISAC Probe Tag Dictionary: Standardized Nomenclature for Detection and "
+"Visualization Labels Used in Cytometry and Microscopy Imaging "
+"](https://doi.org/10.1002/cyto.a.24224) {cite}`Blenman2021-ki`"
 
 #: ../../04_Data_presentation/Presentation_images.md:0
 msgid "Explain the image"
