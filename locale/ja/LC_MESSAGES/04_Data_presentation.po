@@ -139,7 +139,7 @@ msgstr ""
 
 #: ../../04_Data_presentation/Presentation_images.md:0
 msgid "Enhance visibility of image content"
-msgstr "画像コンテンツの視認性を高める"
+msgstr "画像を見やすくする工夫"
 
 #: ../../04_Data_presentation/Presentation_images.md:37
 msgid ""
