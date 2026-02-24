@@ -350,7 +350,7 @@ msgstr ""
 
 #: ../../04_Data_presentation/Resources.md:1
 msgid "Resources for learning more"
-msgstr "より多くを学ぶためのリソース"
+msgstr "参考資料"
 
 #: ../../04_Data_presentation/Resources.md:8
 msgid "**Resource Name**"
