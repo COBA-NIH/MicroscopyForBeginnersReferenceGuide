@@ -529,7 +529,7 @@ msgid ""
 "💻 [UMAP introduction and Python implementation](https://umap-"
 "learn.readthedocs.io/en/latest/index.html)"
 msgstr ""
-"UMAP の紹介と Python の実装](https://umap-"
+"💻 [UMAP introduction and Python implementation](https://umap-"
 "learn.readthedocs.io/en/latest/index.html)"
 
 #: ../../04_Data_presentation/Statistics.md:28
