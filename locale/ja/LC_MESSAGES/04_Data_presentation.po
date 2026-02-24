@@ -147,7 +147,7 @@ msgid ""
 "the data visible on a screen/in a figure, adjustments of brightness and "
 "contrast are usually necessary."
 msgstr ""
-"画像は多くの場合、強度の値が規則的な間隔を持っていない。スクリーンや図にデータを表示するには、通常、明るさとコントラストの調整が必要である。"
+"画像の明るさの値は、必ずしも均等な間隔で分布しているとは限りません。そのため、画面や図で内容を見やすく示すには、明るさやコントラストの調整が必要になることが一般的です。"
 
 #: ../../04_Data_presentation/Presentation_images.md:36
 msgid "image adjustment"
