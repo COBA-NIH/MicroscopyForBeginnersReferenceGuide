@@ -390,7 +390,9 @@ msgstr "アクセシビリティと公正性に配慮した科学図表作成の
 msgid ""
 "📄 Community-developed checklists for publishing images and image analysis "
 "{cite}`Schmied2024-et`"
-msgstr "📄 画像公開と画像分析のためのコミュニティ開発チェックリスト {cite}`Schmied2024-et`"
+msgstr ""
+"📄 Community-developed checklists for publishing images and image analysis "
+"{cite}`Schmied2024-et`"
 
 #: ../../04_Data_presentation/Resources.md:15
 msgid "[link](https://doi.org/10.1038/s41592-023-01987-9)"
