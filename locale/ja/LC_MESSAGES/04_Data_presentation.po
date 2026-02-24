@@ -324,7 +324,10 @@ msgid ""
 "publishing images and image analysis_{cite}`Schmied2024-et` for more tips "
 "and best practices for making image figures."
 msgstr ""
-"画像図を作成するためのヒントやベストプラクティスについては、「_科学出版物向けの明確で有益な画像ベースの図の作成_{cite}`Jambor2021-qe`」と「_画像の公開と画像分析のためのコミュニティ開発のチェックリスト_{cite}`Schmied2024-et`」をご覧ください。"
+"図を作成するためのヒントやベストプラクティスについては、 _Creating clear and informative image-based "
+"figures for scientific publications_{cite}`Jambor2021-qe`と _Community-"
+"developed checklists for publishing images and image "
+"analysis_{cite}`Schmied2024-et` をご覧ください。"
 
 #: ../../04_Data_presentation/Presentation_images.md:114
 msgid ""
