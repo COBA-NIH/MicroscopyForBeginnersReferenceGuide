@@ -24,11 +24,11 @@ msgstr ""
 
 #: ../../03_Image_analysis/Classification.md:1
 msgid "Object classification"
-msgstr "オブジェクトの分類"
+msgstr "オブジェクト分類"
 
 #: ../../03_Image_analysis/Classification.md:3
 msgid "What is classification?"
-msgstr "分類とは何か？"
+msgstr "分類とは"
 
 #: ../../03_Image_analysis/Classification.md:4
 msgid ""
