@@ -283,7 +283,7 @@ msgstr ""
 msgid ""
 "Missing explanations of image details/methods may result in non-reproducible"
 " data and limits the insights from the data."
-msgstr "画像の詳細や方法についての説明が欠けていると、再現性のないデータとなり、データからの洞察が制限される可能性がある。"
+msgstr "画像の細部や方法に関する説明が不足していると、結果を再現できなくなる可能性があり、データから得られる知見を狭める可能性があります。"
 
 #: ../../04_Data_presentation/Presentation_images.md:104
 msgid ""
