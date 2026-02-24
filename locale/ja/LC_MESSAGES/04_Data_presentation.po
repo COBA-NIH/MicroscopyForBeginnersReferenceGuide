@@ -276,9 +276,8 @@ msgid ""
 "and antibodies ."
 msgstr ""
 "画像を提示する際には、聴衆がすばやく内容を把握できるよう、簡潔な説明文を添えることが大切です。科学論文であれば図の凡例（figure "
-"legend）や方法（methods）セクションが、ポスターやスライドであれば図のタイトルがこれにあたります。また、試料・組織・細胞株・タンパク質などの記述には、統制語彙（controlled"
-" vocabulary）を用いることで、表現のあいまいさを減らし、機械による読み取りやすさを高めることができます。便利なツールとして [RRID "
-"(Reseach Resource Identifying "
+"legend）や方法（methods）セクションが、ポスターやスライドであれば図のタイトルがこれにあたります。また、試料・組織・細胞株・タンパク質などの記述には、透湿された用語集である統制語彙を用いることで、表現のあいまいさを減らし、機械による読み取りやすさを高めることができます。便利なツールとして"
+" [RRID (Reseach Resource Identifying "
 "Data)index](https://scicrunch.org/resources) があります。これは、プラスミド・細胞株・抗体など、生命科学研究でよく使われる試薬やリソースに対して固有の識別子を提供するデータベースです。"
 
 #: ../../04_Data_presentation/Presentation_images.md:101
