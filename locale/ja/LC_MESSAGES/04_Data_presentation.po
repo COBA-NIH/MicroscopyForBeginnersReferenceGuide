@@ -107,7 +107,7 @@ msgstr "詳しくは[以下のチートシート](image-cheat-sheet)を参照し
 #: ../../04_Data_presentation/Presentation_images.md:0
 #: ../../04_Data_presentation/Statistics.md:0
 msgid "<span style=\"color: red\">⚠️</span> Where can things go wrong?"
-msgstr "<span style=\"color: red\">⚠️</span> どこでうまくいかなくなるのか？"
+msgstr "<span style=\"color: red\">⚠️</span> 問題が生じやすいポイント"
 
 #: ../../04_Data_presentation/Presentation_images.md:28
 msgid "Any adjustments that alter the conclusions are not permitted."
