@@ -300,8 +300,8 @@ msgid ""
 "📄 [Imaging methods are vastly underreported in biomedical "
 "research](https://doi.org/10.7554/eLife.55133) {cite}`Marques2020-nx`"
 msgstr ""
-"📄 "
-"[生物医学研究において、画像診断法の報告は極めて少ない](https://doi.org/10.7554/eLife.55133){cite}`Marques2020-nx`"
+"📄 [Imaging methods are vastly underreported in biomedical "
+"research](https://doi.org/10.7554/eLife.55133) {cite}`Marques2020-nx`"
 
 #: ../../04_Data_presentation/Presentation_images.md:106
 msgid ""
