@@ -162,7 +162,7 @@ msgid ""
 "represent the data to avoid accidentally misleading audiences and disclose "
 "them as annotations."
 msgstr ""
-"画像の詳細が消えてしまうような調整は、誤解を招くと考えられる{cite}`Cromey2010-jr`.明るさとコントラストの非線形変換は、画像処理ソフトウェアで利用可能である。"
+"画像中の細部が見えなくなるような調整は、誤解を招きかねません{cite}`Cromey2010-jr`。画像処理ソフトウェアには、明るさやコントラストを非線形に変換するさまざまな機能がありますが、これらを使用する前に、データを正しく反映しているかどうかを十分に確認する必要があります。意図せず読者や聴衆に誤解を与えないようにするとともに、そのような調整を行った場合は、注釈として明示してください。"
 
 #: ../../04_Data_presentation/Presentation_images.md:0
 msgid "Use accessible colors"
