@@ -346,7 +346,9 @@ msgid ""
 "microscopy](https://doi.org/10.1038/s41596-020-0313-9) "
 "{cite}`Jonkman2020-bo`"
 msgstr ""
-"チュートリアル：定量的共焦点顕微鏡のためのガイダンス](https://doi.org/10.1038/s41596-020-0313-9){cite}`Jonkman2020-bo`"
+"📄 [Tutorial: guidance for quantitative confocal "
+"microscopy](https://doi.org/10.1038/s41596-020-0313-9) "
+"{cite}`Jonkman2020-bo`"
 
 #: ../../01_Sample_preparation/Considerations.md:96
 msgid ""
