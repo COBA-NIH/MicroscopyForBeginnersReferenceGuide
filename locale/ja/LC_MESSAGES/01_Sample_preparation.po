@@ -547,7 +547,8 @@ msgid ""
 "fluorophore(s) to address a scientific question. See the section on "
 "[reproducibility](content/reproducibility) for more information."
 msgstr ""
-"フルオロフォア、顕微鏡の仕様（光源、フィルター、検出器）、分析目標を理解することは、科学的疑問に取り組むために適切なフルオロフォアを選択するための鍵となる。詳しくは[再現性](内容/再現性)のセクションを参照。"
+"蛍光色素の特性、顕微鏡の仕様（光源、フィルター、検出器）、そして解析の目的を理解することが、科学的な問いに適した蛍光色素を選択するうえで重要です。詳しくは[再現性](content/reproducibility)"
+" のセクションを参照してください。"
 
 #: ../../01_Sample_preparation/Introduction.md:1
 msgid "Introduction"
