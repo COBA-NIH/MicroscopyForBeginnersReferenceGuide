@@ -449,7 +449,7 @@ msgstr "公称厚さ [mm]"
 
 #: ../../01_Sample_preparation/Experimental_design.md:23
 msgid "Thickness range [mm]"
-msgstr "厚さの範囲 [mm］"
+msgstr "厚さの範囲 [mm]"
 
 #: ../../01_Sample_preparation/Experimental_design.md:24
 msgid "#1.5"
