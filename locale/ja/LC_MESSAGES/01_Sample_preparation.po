@@ -691,7 +691,7 @@ msgstr "🌐 FPbase{cite}`Lambert2019-xl`"
 
 #: ../../01_Sample_preparation/Resources.md:15
 msgid "[link](https://www.fpbase.org/)"
-msgstr "[リンク](https://www.fpbase.org/)"
+msgstr "[link](https://www.fpbase.org/)"
 
 #: ../../01_Sample_preparation/Resources.md:16
 msgid ""
