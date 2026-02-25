@@ -516,9 +516,9 @@ msgid ""
 "amino acids) or fluorescent proteins. Some of the important properties to "
 "consider when choosing fluorophores are listed below:"
 msgstr ""
-"フルオロフォアは、光子を吸収すると発光する分子で、通常は短波長である。バイオメディカル研究に関連するフルオロフォアは、特定の細胞構造に結合する低分子の有機色素（FITC、Alexa"
+"蛍光色素は、光子を吸収すると発光する分子で、通常は吸収した光よりも長い波長の光を放出します。生物医学研究で用いられる蛍光色素には、特定の細胞構造に結合する低分子有機色素（例：FITC、Alexa"
 " Fluor "
-"488）（例：DAPI、MitoTracker）、低分子の蛍光類似体（例：ファロイジン、蛍光アミノ酸）、または蛍光タンパク質である。蛍光色素を選択する際に考慮すべき重要な特性を以下に挙げる："
+"488、DAPI、MitoTracker）、低分子の蛍光アナログ（例：ファロイジン、蛍光アミノ酸）、および蛍光タンパク質などがあります。蛍光色素を選択する際に考慮すべき重要な特性を、以下に示します。"
 
 #: ../../01_Sample_preparation/Experimental_design.md:50
 msgid "Excitation/emission spectra of each fluorophore"
