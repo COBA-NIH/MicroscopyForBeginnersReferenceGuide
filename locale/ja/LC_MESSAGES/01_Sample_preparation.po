@@ -362,7 +362,7 @@ msgstr ""
 
 #: ../../01_Sample_preparation/Experimental_design.md:1
 msgid "Experimental design decisions"
-msgstr "実験デザインの決定"
+msgstr "実験デザイン"
 
 #: ../../01_Sample_preparation/Experimental_design.md:3
 msgid ""
