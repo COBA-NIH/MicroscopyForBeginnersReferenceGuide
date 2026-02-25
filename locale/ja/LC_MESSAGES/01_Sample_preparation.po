@@ -376,7 +376,7 @@ msgstr ""
 msgid ""
 "You will always prefer live imaging to fixed imaging if it is important to "
 "assess the dynamics of a given process"
-msgstr "あるプロセスのダイナミクスを評価することが重要であれば、固定画像よりもライブ画像の方が常に望ましい。"
+msgstr "ある過程の時間的な変化を評価することが重要な場合には、固定標本よりもライブイメージングを選択するべきです。"
 
 #: ../../01_Sample_preparation/Experimental_design.md:5
 msgid ""
