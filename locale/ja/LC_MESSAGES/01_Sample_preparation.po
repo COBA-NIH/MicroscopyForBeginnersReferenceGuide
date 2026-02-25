@@ -722,7 +722,7 @@ msgstr "🌐 protocols.io"
 
 #: ../../01_Sample_preparation/Resources.md:21
 msgid "[link](https://www.protocols.io/)"
-msgstr "[リンク](https://www.protocols.io/)"
+msgstr "[link](https://www.protocols.io/)"
 
 #: ../../01_Sample_preparation/Resources.md:22
 msgid "A secure platform for developing and sharing reproducible methods"
