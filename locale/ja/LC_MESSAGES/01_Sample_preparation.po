@@ -534,7 +534,7 @@ msgstr "光安定性"
 
 #: ../../01_Sample_preparation/Experimental_design.md:53
 msgid "Propensity to oligomerize (in the case of fluorescent proteins)"
-msgstr "オリゴマー化傾向（蛍光タンパク質の場合）"
+msgstr "オリゴマー化のしやすさ（蛍光タンパク質の場合）"
 
 #: ../../01_Sample_preparation/Experimental_design.md:54
 msgid "Phototoxicity (when imaging in live samples)"
