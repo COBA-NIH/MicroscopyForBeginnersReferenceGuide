@@ -192,7 +192,7 @@ msgstr "組織では細胞間の相互作用がより完全な状態にあり、
 msgid ""
 "Repositories of donated human tissues enable biomedical research to study a "
 "diverse sample of patients with a particular disease."
-msgstr "寄贈されたヒト組織のレポジトリにより、生物医学研究が特定の疾患を持つ患者の多様なサンプルを扱うことが可能になります。"
+msgstr "ヒト組織のレポジトリにより、生物医学研究が特定の疾患を持つ患者の多様なサンプルを扱うことが可能になります。"
 
 #: ../../01_Sample_preparation/Considerations.md:57
 msgid ""
