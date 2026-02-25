@@ -499,7 +499,7 @@ msgstr ""
 
 #: ../../01_Sample_preparation/Experimental_design.md:46
 msgid "Fluorophore selection"
-msgstr "蛍光体の選択"
+msgstr "蛍光色素の選択"
 
 #: ../../01_Sample_preparation/Experimental_design.md:48
 msgid ""
