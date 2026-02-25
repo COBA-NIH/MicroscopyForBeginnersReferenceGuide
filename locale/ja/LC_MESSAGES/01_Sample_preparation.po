@@ -732,7 +732,9 @@ msgstr "再現可能な手法を開発・共有するための安全なプラッ
 msgid ""
 "📄 Designing a rigorous microscopy experiment: Validating methods and "
 "avoiding bias {cite}`Jost2019-nx`"
-msgstr "📄 厳密な顕微鏡実験のデザイン：方法の検証とバイアスの回避{cite}`Jost2019-nx`"
+msgstr ""
+"📄 Designing a rigorous microscopy experiment: Validating methods and "
+"avoiding bias {cite}`Jost2019-nx`"
 
 #: ../../01_Sample_preparation/Resources.md:24
 msgid ""
