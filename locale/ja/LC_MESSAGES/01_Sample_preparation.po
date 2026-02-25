@@ -522,7 +522,7 @@ msgstr ""
 
 #: ../../01_Sample_preparation/Experimental_design.md:50
 msgid "Excitation/emission spectra of each fluorophore"
-msgstr "各蛍光体の励起／発光スペクトル"
+msgstr "各蛍光色素の励起／発光スペクトル"
 
 #: ../../01_Sample_preparation/Experimental_design.md:51
 msgid "Brightness (dyes tend to be brighter than proteins)"
