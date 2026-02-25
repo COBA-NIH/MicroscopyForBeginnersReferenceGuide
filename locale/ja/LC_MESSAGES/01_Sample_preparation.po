@@ -46,7 +46,7 @@ msgstr ""
 
 #: ../../01_Sample_preparation/Considerations.md:0
 msgid "🤔 What are my options?"
-msgstr "🤔 どのような選択肢がありますか？"
+msgstr "🤔 選択肢"
 
 #: ../../01_Sample_preparation/Considerations.md:7
 msgid ""
