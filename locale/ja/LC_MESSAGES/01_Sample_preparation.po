@@ -683,7 +683,7 @@ msgstr "[link](https://forum.microlist.org/)"
 msgid ""
 "An online forum for discussing issues with and getting advice on sample "
 "preparation and microscopy"
-msgstr "サンプル前処理と顕微鏡検査に関する問題を議論し、アドバイスを得るためのオンラインフォーラム"
+msgstr "試料調製や顕微鏡観察に関する問題を議論したり、助言を得たりするためのオンラインフォーラム"
 
 #: ../../01_Sample_preparation/Resources.md:14
 msgid "🌐 FPbase {cite}`Lambert2019-xl`"
