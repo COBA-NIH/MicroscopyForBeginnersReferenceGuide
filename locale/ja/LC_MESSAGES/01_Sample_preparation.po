@@ -538,7 +538,7 @@ msgstr "オリゴマー化のしやすさ（蛍光タンパク質の場合）"
 
 #: ../../01_Sample_preparation/Experimental_design.md:54
 msgid "Phototoxicity (when imaging in live samples)"
-msgstr "光毒性（生きたサンプルでイメージングする場合）"
+msgstr "光毒性（生きた試料を観察する場合）"
 
 #: ../../01_Sample_preparation/Experimental_design.md:56
 msgid ""
