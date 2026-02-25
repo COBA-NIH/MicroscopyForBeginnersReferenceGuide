@@ -574,7 +574,7 @@ msgid ""
 " performing fluorescence microscopy). We also discuss some minimal controls "
 "necessary for interpreting your results."
 msgstr ""
-"ここでは、サンプルの種類や蛍光色素（蛍光顕微鏡を使用する場合）の選択など、サンプル調製時に行う重要な選択について説明します。また、結果の解釈に必要な最小限のコントロールについても説明します。"
+"ここでは、試料調製の過程で行ういくつかの重要な選択について説明します。これには、試料の種類の選択や、（蛍光顕微鏡を用いる場合の）蛍光色素の選択が含まれます。また、得られた結果を適切に解釈するために必要な、最小限の対照実験についても説明します。"
 
 #: ../../01_Sample_preparation/Reproducibility.md:1
 msgid "Reproducibility"
