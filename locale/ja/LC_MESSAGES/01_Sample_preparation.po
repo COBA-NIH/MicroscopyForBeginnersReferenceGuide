@@ -749,13 +749,16 @@ msgid ""
 "Review of aspects of designing a rigorous light microscopy experiment, "
 "including validation of samples and imaging, identification and correction "
 "of errors, and strategies to avoid biases"
-msgstr "サンプルとイメージングの検証、エラーの特定と修正、バイアスを回避する戦略など、厳密な光学顕微鏡実験の設計の側面をレビューする。"
+msgstr ""
+"厳密な光学顕微鏡実験を設計する際に考慮すべき事項を概説したレビュー。試料および撮像の妥当性確認、誤りの特定と補正、バイアスを回避するための戦略などを扱っています。"
 
 #: ../../01_Sample_preparation/Resources.md:26
 msgid ""
 "📄 Tutorial: guidance for quantitative confocal microscopy "
 "{cite}`Jonkman2020-bo`"
-msgstr "チュートリアル：定量的共焦点顕微鏡のガイダンス{cite}`Jonkman2020-bo`"
+msgstr ""
+"📄 Tutorial: guidance for quantitative confocal microscopy "
+"{cite}`Jonkman2020-bo`"
 
 #: ../../01_Sample_preparation/Resources.md:27
 msgid "[link](https://doi.org/10.1038/s41596-020-0313-9)"
