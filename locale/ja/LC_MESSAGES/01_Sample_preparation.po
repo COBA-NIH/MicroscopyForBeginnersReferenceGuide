@@ -394,7 +394,7 @@ msgstr "モデル系が遺伝学的操作に適していない場合には、蛍
 msgid ""
 "You have to image at a particularly high resolution to confidently assess "
 "interactions between two molecules imaged in the same system"
-msgstr "同じ系で撮像された2つの分子間の相互作用を確信を持って評価するには、特に高い解像度で撮像する必要がある。"
+msgstr "同一試料内で2つの分子間の相互作用を確実に評価するためには、特に高い空間分解能での撮像が必要になります。"
 
 #: ../../01_Sample_preparation/Experimental_design.md:9
 msgid ""
