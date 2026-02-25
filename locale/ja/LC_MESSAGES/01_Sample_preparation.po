@@ -382,7 +382,7 @@ msgstr "ある過程の時間的な変化を評価することが重要な場合
 msgid ""
 "You may need to perform special processes such as tissue clearing if it is "
 "important to image deep into a relatively opaque specimen"
-msgstr "比較的不透明な被検体の奥深くまで撮影することが重要な場合、組織清拭などの特別な処理が必要になることがあります。"
+msgstr "比較的不透明な試料の深部を観察することが重要な場合には、組織透明化などの特別な処理が必要になることがあります。"
 
 #: ../../01_Sample_preparation/Experimental_design.md:6
 msgid ""
