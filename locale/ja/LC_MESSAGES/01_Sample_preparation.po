@@ -677,7 +677,7 @@ msgstr "🌐 Microforum"
 
 #: ../../01_Sample_preparation/Resources.md:12
 msgid "[link](https://forum.microlist.org/)"
-msgstr "[リンク](https://forum.microlist.org/)"
+msgstr "[link](https://forum.microlist.org/)"
 
 #: ../../01_Sample_preparation/Resources.md:13
 msgid ""
