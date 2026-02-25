@@ -617,7 +617,7 @@ msgstr ""
 
 #: ../../01_Sample_preparation/Reproducibility.md:13
 msgid "Fluorescent protein localization validation"
-msgstr "蛍光タンパク質の局在検証"
+msgstr "蛍光タンパク質の局在を確認する"
 
 #: ../../01_Sample_preparation/Reproducibility.md:15
 msgid ""
