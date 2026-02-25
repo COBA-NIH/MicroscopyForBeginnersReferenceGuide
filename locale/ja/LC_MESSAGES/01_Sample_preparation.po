@@ -657,7 +657,7 @@ msgstr ""
 
 #: ../../01_Sample_preparation/Resources.md:1
 msgid "Resources for learning more"
-msgstr "より多くを学ぶためのリソース"
+msgstr "より詳しいリソース"
 
 #: ../../01_Sample_preparation/Resources.md:8
 msgid "**Resource Name**"
