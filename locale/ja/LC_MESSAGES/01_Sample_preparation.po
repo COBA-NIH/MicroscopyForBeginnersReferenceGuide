@@ -370,7 +370,7 @@ msgid ""
 "bioimaging experiment. Many of these decisions will be deeply dependent on "
 "what is possible given the biology you wish to study, for example:"
 msgstr ""
-"定量的バイオイメージング実験をデザインする際には、多くの重要な決定を下さなければならない。これらの決定事項の多くは、例えば研究したい生物学から何が可能であるかに深く依存する："
+"定量的バイオイメージング実験を設計する際には、いくつもの重要な判断を行う必要があります。これらの判断の多くは、研究対象とする生物学的現象によって大きく左右されます。例えば、次のような点が挙げられます。"
 
 #: ../../01_Sample_preparation/Experimental_design.md:4
 msgid ""
