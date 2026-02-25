@@ -697,7 +697,7 @@ msgstr "[link](https://www.fpbase.org/)"
 msgid ""
 "Database for identifying fluorophores by brightness, spectra and assessing "
 "compatibility with other fluorophores and with microscope filters"
-msgstr "蛍光色素を輝度、スペクトルによって識別し、他の蛍光色素や顕微鏡フィルターとの適合性を評価するためのデータベース"
+msgstr "蛍光色素を明るさやスペクトルに基づいて検索し、他の蛍光色素や顕微鏡フィルターとの適合性を評価できるデータベース"
 
 #: ../../01_Sample_preparation/Resources.md:17
 msgid "🌐 Bio-protocol"
