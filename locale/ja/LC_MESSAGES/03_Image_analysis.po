@@ -57,7 +57,7 @@ msgid ""
 "to assign objects to groups based on their measurements by testing models "
 "against the ground truth training dataset."
 msgstr ""
-"教師あり分類**では、人間は、訓練データセットに各グループの代表的な例を提供することによって、オブジェクトの異なるグループがどのように見えるべきかという情報も提供する。その後、コンピュータは、真実の訓練データセットに対してモデルをテストすることによって、測定値に基づいてオブジェクトをグループに割り当てる方法を学習する。"
+"**教師あり分類**では、人があらかじめ各グループの代表例を訓練データとして与え、それぞれのグループがどのような特徴をもつかを示します。モデルはこの正解付きデータを用いて学習し、測定データをもとにオブジェクトをグループに分類する方法を学びます。"
 
 #: ../../03_Image_analysis/Classification.md:14
 msgid ""
