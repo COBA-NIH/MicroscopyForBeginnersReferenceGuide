@@ -591,7 +591,7 @@ msgstr ""
 
 #: ../../01_Sample_preparation/Reproducibility.md:7
 msgid "Antibody validation"
-msgstr "抗体の特異性の確認"
+msgstr "抗体の特異性を確認する"
 
 #: ../../01_Sample_preparation/Reproducibility.md:9
 msgid ""
