@@ -705,7 +705,7 @@ msgstr "🌐 Bio-protocol"
 
 #: ../../01_Sample_preparation/Resources.md:18
 msgid "[link](https://bio-protocol.org/en/about )"
-msgstr "[リンク](https://bio-protocol.org/en/about )"
+msgstr "[link](https://bio-protocol.org/en/about )"
 
 #: ../../01_Sample_preparation/Resources.md:19
 msgid ""
