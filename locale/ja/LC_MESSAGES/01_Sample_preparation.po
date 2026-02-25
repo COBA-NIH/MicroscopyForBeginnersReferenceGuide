@@ -498,9 +498,9 @@ msgid ""
 "quantitative confocal microscopy. _Nat Prot_ **15**, (2020) "
 "{cite}`Jonkman2020-bo`"
 msgstr ""
-"**様々な蛍光色素による染色に対するマウントメディアの影響**。Jonkman J., Brown C.M., Wright G.D _et al_. "
-"から引用。チュートリアル：定量的共焦点顕微鏡法のガイダンス。Nat Prot_ **15**, "
-"(2020){cite}`Jonkman2020-bo`."
+"**様々な蛍光色素による染色に対する封入剤の影響**. Jonkman J., Brown C.M., Wright G.D _et al_. "
+"Tutorial: guidance for quantitative confocal microscopy. _Nat Prot_ **15**, "
+"(2020) {cite}`Jonkman2020-bo` より。"
 
 #: ../../01_Sample_preparation/Experimental_design.md:46
 msgid "Fluorophore selection"
