@@ -388,7 +388,7 @@ msgstr "比較的不透明な試料の深部を観察することが重要な場
 msgid ""
 "You cannot rely on genetic tagging with fluorescent proteins if your model "
 "system is not genetically tractable to such manipulations"
-msgstr "モデル系がそのような操作に対して遺伝的に扱いにくければ、蛍光タンパク質による遺伝的タグ付けに頼ることはできない。"
+msgstr "モデル系が遺伝学的操作に適していない場合には、蛍光タンパク質による遺伝子タグ付けに頼ることはできません。"
 
 #: ../../01_Sample_preparation/Experimental_design.md:7
 msgid ""
