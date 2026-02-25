@@ -356,8 +356,9 @@ msgid ""
 "of reverse-thinking in experimental "
 "design](https://pubmed.ncbi.nlm.nih.gov/33154172/) {cite}`Wait2020-gq`"
 msgstr ""
-"📄 [仮説駆動型定量蛍光顕微鏡-"
-"実験デザインにおける逆思考の重要性](https://pubmed.ncbi.nlm.nih.gov/33154172/){cite}`Wait2020-gq`"
+"📄 [Hypothesis-driven quantitative fluorescence microscopy - the importance "
+"of reverse-thinking in experimental "
+"design](https://pubmed.ncbi.nlm.nih.gov/33154172/) {cite}`Wait2020-gq`"
 
 #: ../../01_Sample_preparation/Experimental_design.md:1
 msgid "Experimental design decisions"
