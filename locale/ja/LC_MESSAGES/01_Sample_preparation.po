@@ -741,7 +741,7 @@ msgid ""
 "[link](https://rupress.org/jcb/article/218/5/1452/120908/Designing-a-"
 "rigorous-microscopy-experiment)"
 msgstr ""
-"[リンク](https://rupress.org/jcb/article/218/5/1452/120908/Designing-a-"
+"[link](https://rupress.org/jcb/article/218/5/1452/120908/Designing-a-"
 "rigorous-microscopy-experiment)"
 
 #: ../../01_Sample_preparation/Resources.md:25
