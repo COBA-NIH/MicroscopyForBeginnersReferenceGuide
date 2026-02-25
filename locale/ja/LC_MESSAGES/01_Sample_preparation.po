@@ -713,8 +713,8 @@ msgid ""
 "protocols associated with work published elsewhere. All protocols are "
 "available under an open access license (CC BY or CC BY-NC)"
 msgstr ""
-"他で発表されたプロトコルを含む、生物学分野全般のプロトコルを検索できるサイト。すべてのプロトコルはオープンアクセスライセンス（CC BYまたはCC "
-"BY-NC）で利用可能。"
+"生物学分野全般のプロトコルを検索できるサイト。既に発表された研究に関連するプロトコルも掲載されています。すべてのプロトコルはオープンアクセスライセンス（CC"
+" BYまたはCC BY-NC）で利用可能です。"
 
 #: ../../01_Sample_preparation/Resources.md:20
 msgid "🌐 protocols.io"
