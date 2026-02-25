@@ -298,8 +298,8 @@ msgid ""
 "without fixation. Also consider whether a different {term}`fixation` method "
 "may be more appropriate for your specimen."
 msgstr ""
-"**固定した細胞が期待通りに見えません。可能であれば、目的のタンパク質や分子を固定した場合と固定しない場合の分布を常に比較してください。また、{term}`fixation`"
-" の方法が検体に適しているかどうかも検討してください。"
+"**固定した細胞が予想どおりに見えない場合** - "
+"固定処理は、さまざまなタンパク質の局在や蛍光シグナルに影響を与えることがあります。可能であれば、関心のあるタンパク質や分子の分布を、固定ありの場合と固定なしの場合で比較するようにしてください。また、使用している固定法が試料に適しているかどうかを検討し、必要に応じて別の{term}`固定`法を選択することも重要です。"
 
 #: ../../01_Sample_preparation/Considerations.md:88
 msgid ""
