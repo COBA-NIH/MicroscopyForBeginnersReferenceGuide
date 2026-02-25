@@ -586,7 +586,7 @@ msgid ""
 "experiment. A few critical factors are laid out here; see other works such "
 "as {cite}`Jost2019-nx`"
 msgstr ""
-"再現性のある顕微鏡実験を設計するためには、いくつかの重要な要素があります。ここではその中でも特に重要な点をいくつか示します。さらに詳しくは{cite}`Jost2019-nx`"
+"再現性のある顕微鏡実験を設計するためには、いくつかの重要な要素があります。ここではその中でも特に重要な点をいくつか示します。詳しくは、{cite}`Jost2019-nx`"
 " などを参照してください。"
 
 #: ../../01_Sample_preparation/Reproducibility.md:7
