@@ -441,7 +441,7 @@ msgstr "カバーガラスの規格の比較"
 
 #: ../../01_Sample_preparation/Experimental_design.md:21
 msgid "Grade"
-msgstr "グレード"
+msgstr "規格"
 
 #: ../../01_Sample_preparation/Experimental_design.md:22
 msgid "Nominal thickness [mm]"
