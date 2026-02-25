@@ -635,7 +635,7 @@ msgstr ""
 
 #: ../../01_Sample_preparation/Reproducibility.md:18
 msgid "Bleedthrough"
-msgstr "漏れ込み / ブリードスルー"
+msgstr "漏れ込み / ブリードスルー bleedthrough"
 
 #: ../../01_Sample_preparation/Reproducibility.md:20
 msgid ""
