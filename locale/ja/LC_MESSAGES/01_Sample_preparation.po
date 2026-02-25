@@ -613,8 +613,7 @@ msgid ""
 "No-primary-antibody controls should always be performed as well, as they are"
 " essential for validating signal specificity."
 msgstr ""
-"{term}`blocking` と{term}`permeabilization` の条件を特定の抗体とプロトコールに最適化することで、非特異的バッ "
-"クグラウンドを減らすことができる。シグナルの特異性を検証するために不可欠であるため、プライマリー抗体なしのコントロールも常に行う必要があります。"
+"使用する抗体やプロトコールに合わせて{term}`ブロッキング`や{term}`透過化`の条件を最適化することで、非特異的なバックグラウンドシグナルを低減できます。さらに、一次抗体を使用しないコントロールも必ず実施してください。これは、観察されたシグナルが特異的であることを検証するために不可欠です。"
 
 #: ../../01_Sample_preparation/Reproducibility.md:13
 msgid "Fluorescent protein localization validation"
