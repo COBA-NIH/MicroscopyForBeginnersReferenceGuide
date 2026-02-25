@@ -665,7 +665,7 @@ msgstr "**リソース名**"
 
 #: ../../01_Sample_preparation/Resources.md:9
 msgid "**Link**"
-msgstr "**リンク"
+msgstr "**リンク**"
 
 #: ../../01_Sample_preparation/Resources.md:10
 msgid "**Brief description**"
