@@ -526,7 +526,7 @@ msgstr "各蛍光色素の励起／発光スペクトル"
 
 #: ../../01_Sample_preparation/Experimental_design.md:51
 msgid "Brightness (dyes tend to be brighter than proteins)"
-msgstr "明るさ（染料はタンパク質より明るい傾向がある）"
+msgstr "明るさ（一般に、蛍光色素は蛍光タンパク質よりも明るい傾向があります）"
 
 #: ../../01_Sample_preparation/Experimental_design.md:52
 msgid "Photostability"
