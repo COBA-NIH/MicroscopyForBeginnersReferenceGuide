@@ -205,7 +205,7 @@ msgstr ""
 
 #: ../../02_Sample_acquisition/Practical_considerations.md:1
 msgid "Practical considerations"
-msgstr "実務上の留意点"
+msgstr "実践で気をつけること"
 
 #: ../../02_Sample_acquisition/Practical_considerations.md:3
 msgid ""
