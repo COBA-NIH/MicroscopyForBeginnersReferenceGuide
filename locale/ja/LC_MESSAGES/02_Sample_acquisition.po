@@ -226,7 +226,7 @@ msgstr "対物レンズの選び方"
 msgid ""
 "Microscope objectives have a number of features that must be considered when"
 " deciding which objective is right for your experiment"
-msgstr "顕微鏡の対物レンズには多くの特徴があり、どの対物レンズが実験に適しているかを決定する際に考慮する必要があります。"
+msgstr "顕微鏡の対物レンズにはさまざまな特性があります。これらを理解し、考慮したうえで実験に適した対物レンズを選ぶことが重要です。"
 
 #: ../../02_Sample_acquisition/Practical_considerations.md:9
 msgid ""
