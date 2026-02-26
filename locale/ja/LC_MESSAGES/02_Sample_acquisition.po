@@ -113,7 +113,7 @@ msgid ""
 "achieved with specialized hardware (such as in STED and SIM) and sometimes "
 "with specialized probes (such as in PALM and STORM)."
 msgstr ""
-"**超解像顕微鏡 Superresolution microscopy** は、顕微鏡の光学的解像度の理論限界（回折限界、通常は約200 "
+"**超解像顕微鏡 Superresolution microscopy** は、顕微鏡の光学的解像度の理論的限界（回折限界、通常は約200 "
 "nmですが、試料条件によって異なります）を超えて、より微細な構造を観察できるように設計された顕微鏡です。この回折限界の克服は、特殊な光学系や装置構成によって実現される場合（STED"
 " 、SIM）もあれば、特殊な蛍光プローブや分子局在解析を利用して実現される場合（PALM、STORM）もあります。"
 
