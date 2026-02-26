@@ -239,9 +239,10 @@ msgid ""
 "as {math}`d = λ / 2NA`, meaning the resolution is set both by the NA of the "
 "lens but also by the wavelength of light used for imaging."
 msgstr ""
-"倍率と解像度：レンズの開口数（NA）が高いほど、サンプルで得られる解像度は細かくなる。NAは、{math}`NA=RI * "
-"sin(θ)`として計算され、サンプル、ガラス、{term}`浸漬媒体`の{term}`屈折率`と、レンズに集めることができる放出光の角度の範囲の両方に関連する。特別な技術を使用しない限り、典型的な結果の限界は{math}`d"
-" = λ / 2NA` として計算される。つまり、解像度はレンズのNAによって設定されるが、イメージングに使用される光の波長によっても設定される。"
+"倍率と分解能：対物レンズの開口数（numerical aperture, NA）が高いほど、試料からより高い分解能を得ることができます。NA は "
+"{math}`NA=RI * sin(θ)` で表され、試料やカバーガラス、{term}`封入剤` "
+"の{term}`屈折率`と、レンズが集光できる光の入射角の範囲の両方に依存します。特別な手法を用いない場合、理論的な分解能の限界は {math}`d ="
+" λ / 2NA`で与えられます。これは、分解能が対物レンズの NA だけでなく、撮像に用いる光の波長にも依存することを意味します。"
 
 #: ../../02_Sample_acquisition/Practical_considerations.md:18
 msgid "microtubules imaged at 488nm and 647nm"
