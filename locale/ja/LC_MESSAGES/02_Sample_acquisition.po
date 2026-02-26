@@ -216,7 +216,7 @@ msgid ""
 msgstr ""
 "これらの概念の多くについては、インタラクティブな説明が満載の "
 "[Microtutor](https://microtutor.globalbioimaging.org/) と "
-"[MyScope](https://myscope.training/) をご覧になることをお勧めします。"
+"[MyScope](https://myscope.training/) もご覧になることをお勧めします。"
 
 #: ../../02_Sample_acquisition/Practical_considerations.md:5
 msgid "Objective selection"
