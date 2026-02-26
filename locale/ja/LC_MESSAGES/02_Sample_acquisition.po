@@ -113,7 +113,10 @@ msgid ""
 "achieved with specialized hardware (such as in STED and SIM) and sometimes "
 "with specialized probes (such as in PALM and STORM)."
 msgstr ""
-"**超解像**顕微鏡は、ユーザーが最小光学分解能の限界（サンプルの検討にもよるが、通常200nm）を迂回し、非常に小さな構造を解像できるように設計されている。これは特殊なハードウェア（STEDやSIMなど）で達成されることもあれば、特殊なプローブ（PALMやSTORMなど）で達成されることもある。"
+"**超解像顕微鏡（superresolution）**は、顕微鏡の光学的解像度の理論限界（回折限界、通常は約200 "
+"nmですが、試料条件によって異なります）を超えて、より微細な構造を観察できるように設計された顕微鏡です。この回折限界の克服は、STED や SIM "
+"のように特殊な光学系や装置構成によって実現される場合もあれば、PALM や STORM "
+"のように特殊な蛍光プローブや分子局在解析を利用して実現される場合もあります。"
 
 #: ../../02_Sample_acquisition/Introduction.md:14
 msgid ""
