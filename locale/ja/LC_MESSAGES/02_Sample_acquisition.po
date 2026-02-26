@@ -89,8 +89,8 @@ msgid ""
 "microscopes are often preferred for live-cell imaging applications as they "
 "tend to minimize toxicity to the sample."
 msgstr ""
-"**共焦点** - "
-"光路上の焦点外光を除去する顕微鏡で、通常、1つまたは多数のピンホールを使って物理的に光を遮断する。共焦点顕微鏡にはいくつかの種類があるが、スピニングディスク共焦点顕微鏡は、サンプルへの毒性を最小限に抑える傾向があるため、ライブセルイメージングアプリケーションに好まれることが多い。"
+"**共焦点顕微鏡 confocal microscopy** "
+"は、光路中の焦点外の光を除去することで、より鮮明な像を得る顕微鏡です。通常は、1つまたは複数のピンホールを用いて、焦点面以外からの光を物理的に遮断します。共焦点顕微鏡にはいくつかの方式がありますが、スピニングディスク型共焦点顕微鏡は、試料への光毒性を比較的低く抑えられるため、ライブセルイメージングに適していることが多いです。"
 
 #: ../../02_Sample_acquisition/Introduction.md:12
 msgid ""
