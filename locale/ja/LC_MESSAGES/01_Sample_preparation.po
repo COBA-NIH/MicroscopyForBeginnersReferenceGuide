@@ -1,312 +1,344 @@
 # SOME DESCRIPTIVE TITLE.
-# Copyright (C) 2023
+# Copyright (C) 2024
 # This file is distributed under the same license as the Python package.
-# FIRST AUTHOR <EMAIL@ADDRESS>, 2023.
-#
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+# 
+# Translators:
+# Beth Cimini, 2023
+# Haruhiko Morita, 2026
+# 
 #, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: Python \n"
+"Project-Id-Version: Python\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2023-05-19 07:07-0400\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language: ja\n"
-"Language-Team: ja <LL@li.org>\n"
-"Plural-Forms: nplurals=1; plural=0;\n"
+"POT-Creation-Date: 2024-03-29 09:37-0400\n"
+"PO-Revision-Date: 2023-05-02 18:49+0000\n"
+"Last-Translator: Haruhiko Morita, 2026\n"
+"Language-Team: Japanese (https://app.transifex.com/center-for-open-bioimage-analysis/teams/169123/ja/)\n"
 "MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=utf-8\n"
+"Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Generated-By: Babel 2.12.1\n"
+"Language: ja\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
 
 #: ../../01_Sample_preparation/Considerations.md:1
 msgid "Considerations for different sample types"
-msgstr ""
+msgstr "サンプルの種類の検討"
 
 #: ../../01_Sample_preparation/Considerations.md:3
 msgid ""
-"There are many different options for types of samples to image, and "
-"advances in sample preparation techniques and imaging modalities are "
-"continually enabling the imaging of more diverse and complex biological "
-"specimens. As with many other aspects of experimental design, sample type"
-" selection comes with tradeoffs. Samples that are amenable to simple "
-"preparation and imaging tend to be small, thin, and relatively clear, "
-"like a monolayer of cultured cells. Such samples have obvious advantages "
-"and can be imaged in a high-throughput manner, but they're not suitable "
-"for every biological question. Sometimes a thicker specimen, like an "
-"organoid, or whole or sectioned tissue is needed, especially when the "
-"biological question involves interactions between different types of "
-"cells. Carefully consider what biological context is appropriate for your"
-" question and what measurements you'd ultimately like to be able to make."
-" Below, we summarize some common sample types"
+"There are many different options for types of samples to image, and advances"
+" in sample preparation techniques and imaging modalities are continually "
+"enabling the imaging of more diverse and complex biological specimens. As "
+"with many other aspects of experimental design, sample type selection comes "
+"with tradeoffs. Samples that are amenable to simple preparation and imaging "
+"tend to be small, thin, and relatively clear, like a monolayer of cultured "
+"cells. Such samples have obvious advantages and can be imaged in a high-"
+"throughput manner, but they're not suitable for every biological question. "
+"Sometimes a thicker specimen, like an organoid, or whole or sectioned tissue"
+" is needed, especially when the biological question involves interactions "
+"between different types of cells. Carefully consider what biological context"
+" is appropriate for your question and what measurements you'd ultimately "
+"like to be able to make. Below, we summarize some common sample types"
 msgstr ""
+"撮影する試料の種類には多くの選択肢があり、サンプル調製の技術や画像化モダリティの進歩により、さらに多様で複雑な生物学的試料のイメージングが可能になってきています。実験計画の他の多くの側面と同様、試料の種類の選択にはトレードオフがあります。簡便な調製とイメージングが可能な試料は、培養細胞の単層膜のように、小さく、薄く、比較的透明である傾向があります。このような試料はハイスループットでイメージングが可能であるという明らかな利点がありますが、すべての生物学的な疑問に適しているわけではありません。特に、異なる細胞種間の相互作用に関わる疑問をテーマにする場合は、オルガノイドのような厚みのある標本や、全組織や切片化された組織が必要になることがあります。どのような生物学的文脈が自分の疑問に適切で、最終的にどのような測定ができるようにしたいかを慎重に検討する必要があります。以下に一般的なサンプルの種類をまとめます。"
 
-#: ../../01_Sample_preparation/Considerations.md
+#: ../../01_Sample_preparation/Considerations.md:0
 msgid "🤔 What are my options?"
-msgstr ""
+msgstr "🤔 選択肢"
 
 #: ../../01_Sample_preparation/Considerations.md:7
 msgid ""
-"Here we present some major categories for sample types. Note that there "
-"are not hard boundaries between these different categories (e.g., both "
-"cells and organoids can be cultured in 3D, many of these specimens can be"
-" imaged live or after {term}`fixation`), but some general advantages and "
-"disadvantages are summarized below."
+"Here we present some major categories for sample types. Note that there are "
+"not hard boundaries between these different categories (e.g., both cells and"
+" organoids can be cultured in 3D, many of these specimens can be imaged live"
+" or after {term}`fixation`), but some general advantages and disadvantages "
+"are summarized below."
 msgstr ""
+"ここでは試料のタイプについて、いくつかの主要なカテゴリーを紹介します。これらのカテゴリーの間には、厳密な境界があるわけではありません（例えば、細胞もオルガノイドも3D培養が可能であり、ライブイメージングも固定{term}`fixation`後の撮影も可能です）。以下では、一般的な利点と欠点をまとめます。"
 
 #: ../../01_Sample_preparation/Considerations.md:11
 msgid "**Cultured cells**"
-msgstr ""
+msgstr "**培養細胞**"
 
 #: ../../01_Sample_preparation/Considerations.md:13
 msgid ""
-"Many different types of cells can be cultured, or grown in a dish. Cells "
-"can be grown in a monoculture, with only one cell type, or in a co-"
-"culture with multiple cell types."
+"Many different types of cells can be cultured, or grown in a dish. Cells can"
+" be grown in a monoculture, with only one cell type, or in a co-culture with"
+" multiple cell types."
 msgstr ""
+"多くの異なる種類の細胞を培養、つまりシャーレの中で増殖させることができます。細胞は、1種類の細胞のみの単一培養 monoculture "
+"として、または複数の細胞種を含む共培養 co-culture として増殖させることができます。"
 
 #: ../../01_Sample_preparation/Considerations.md:15
 #: ../../01_Sample_preparation/Considerations.md:31
 #: ../../01_Sample_preparation/Considerations.md:49
 #: ../../01_Sample_preparation/Considerations.md:67
 msgid "_Advantages_"
-msgstr ""
+msgstr "_利点_"
 
 #: ../../01_Sample_preparation/Considerations.md:17
 msgid ""
-"Cultured cells tend to be relatively simple to image and for many "
-"questions can be imaged with widefield microscopy (see "
+"Cultured cells tend to be relatively simple to image and for many questions "
+"can be imaged with widefield microscopy (see "
 "[Acquisition](content/microscope_selection)), which is faster and more "
 "accessible than confocal or superresolution methods. Additionally, high-"
 "throughput microscopes integrated with robotics can enable automation of "
 "experiments and imaging with cultured cells."
 msgstr ""
+"培養細胞は比較的簡単に撮影でき、多くのテーマでは、共焦点法や超解像法よりも迅速で利用しやすい広視野顕微鏡で撮影可能です（[Acquisition](content/microscope_selection)を参照）。さらに、ロボティクスと統合されたハイスループット顕微鏡を使えば、培養細胞を用いた実験やイメージングの自動化が可能です。"
 
 #: ../../01_Sample_preparation/Considerations.md:19
 msgid ""
 "Cells can be frozen, thawed, and grown much faster than work with more "
 "complex specimens like organoids or whole organisms, compressing the "
 "timeline to perform an experiment"
-msgstr ""
+msgstr "細胞はオルガノイドや生体全体のようなより複雑な標本と比べて、凍結・解凍・培養をより迅速に行うことができ、実験にかかる期間を短縮できます。"
 
 #: ../../01_Sample_preparation/Considerations.md:21
 #: ../../01_Sample_preparation/Considerations.md:37
 #: ../../01_Sample_preparation/Considerations.md:55
 #: ../../01_Sample_preparation/Considerations.md:71
 msgid "_Disadvantages_"
-msgstr ""
+msgstr "_欠点_"
 
 #: ../../01_Sample_preparation/Considerations.md:23
 msgid ""
-"Most applications in microscopy require imaging through a glass coverslip"
-" of a specific thickness and tolerance. However, many cell types do not "
-"survive or cannot grow on glass and require additional coatings and "
-"manipulations of the coverslip to ensure the health of the sample. As an "
-"alternative some companies manufacture imaging chambers (multi well "
-"plates, 35 mm dishes…) with proprietary polymers that have similar "
-"properties to glass (optical polymers), thus enabling high resolution "
-"imaging. It is imperative to understand whether the immersion oil used "
-"during imaging affects the integrity of these polymers, as the solvents "
-"in some immersion media can crack or dissolve the polymer layer."
+"Most applications in microscopy require imaging through a glass coverslip of"
+" a specific thickness and tolerance. However, many cell types do not survive"
+" or cannot grow on glass and require additional coatings and manipulations "
+"of the coverslip to ensure the health of the sample. As an alternative some "
+"companies manufacture imaging chambers (multi well plates, 35 mm dishes…) "
+"with proprietary polymers that have similar properties to glass (optical "
+"polymers), thus enabling high resolution imaging. It is imperative to "
+"understand whether the immersion oil used during imaging affects the "
+"integrity of these polymers, as the solvents in some immersion media can "
+"crack or dissolve the polymer layer."
 msgstr ""
+"顕微鏡のほとんどの用途では、特定の厚みと公差を持つカバーガラスを通して撮像することを必要とします。しかし、多くの種類の細胞はガラス上では生存できないか、増殖できないため、サンプルの健全性を確保するために、追加のコーティングやカバーガラスの操作が必要となります。代替手段として、ガラスに似た性質を持つ独自のポリマー（光学ポリマー）を使用したイメージング用チャンバー（マルチウェルプレート、35mmディッシュ...）を製造している企業もあり、高解像度イメージングが可能です。撮像時に使用するイマージョンオイルがこれらのポリマーの完全性に影響を与えるかどうかを理解することが不可欠です。これは、一部のイマージョンメディアに含まれる溶媒がポリマー層にひびを入れたり溶解させたりする可能性があるためです。"
 
 #: ../../01_Sample_preparation/Considerations.md:27
 msgid "**Organoids**"
-msgstr ""
+msgstr "**オルガノイド**"
 
 #: ../../01_Sample_preparation/Considerations.md:29
 msgid ""
-"Organoids are cultured cells that are grown in 3D to mimic the structure "
-"and sometimes functions of organs. Organoids are typically grown from "
-"stem cells that self-organize into a more complex structure, including "
+"Organoids are cultured cells that are grown in 3D to mimic the structure and"
+" sometimes functions of organs. Organoids are typically grown from stem "
+"cells that self-organize into a more complex structure, including "
 "differentiating into different cell types. Organoids are well suited to "
-"questions of development, modeling disease, and for understanding tissue "
-"and organ regeneration."
+"questions of development, modeling disease, and for understanding tissue and"
+" organ regeneration."
 msgstr ""
+"オルガノイドとは、3次元的に細胞を培養し、臓器の構造や機能を模倣したものです。オルガノイドは通常、幹細胞から培養され、自己組織化し、異なる細胞型に分化するなど、より複雑な構造を持つようになります。オルガノイドは、発生、疾患のモデル化、組織や臓器の再生の理解に適しています。"
 
 #: ../../01_Sample_preparation/Considerations.md:33
 msgid ""
-"Because organoids contain multiple cell types and reflect some structure "
-"and cell relationships seen in organs _in vivo_, they are well-suited to "
-"more complex questions about disease and cell-cell interactions. They can"
-" also be used to model processes and structures that are necessarily 3D "
-"and not recapitulated well in a flat layer of cells, like many "
-"developmental processes."
+"Because organoids contain multiple cell types and reflect some structure and"
+" cell relationships seen in organs _in vivo_, they are well-suited to more "
+"complex questions about disease and cell-cell interactions. They can also be"
+" used to model processes and structures that are necessarily 3D and not "
+"recapitulated well in a flat layer of cells, like many developmental "
+"processes."
 msgstr ""
+"オルガノイドは複数の種類の細胞を含み、生体内の臓器で見られる構造や細胞の関係をある程度反映しているため、疾患や細胞間相互作用に関するより複雑な問題に適しています。また、多くの発生過程のように、平坦な細胞層ではうまく再現できない、本質的に3次元的なプロセスや構造のモデル化にも利用できます。"
 
 #: ../../01_Sample_preparation/Considerations.md:35
 msgid ""
-"Organoids can be made from induced pluripotent stem cells (iPSCs) from "
-"human or animal samples, and thus can model disease processes specific to"
-" a given human donor."
+"Organoids can be made from induced pluripotent stem cells (iPSCs) from human"
+" or animal samples, and thus can model disease processes specific to a given"
+" human donor."
 msgstr ""
+"オルガノイドは、ヒトや動物のサンプルから採取した人工多能性幹細胞（iPS細胞）から作ることができるため、あるドナーに特異的な疾患プロセスをモデル化できます。"
 
 #: ../../01_Sample_preparation/Considerations.md:39
 msgid ""
-"Organoids can take more complex resources and protocols to grow and can "
-"take more time than just growing cultured cells on glass or plastic."
+"Organoids can take more complex resources and protocols to grow and can take"
+" more time than just growing cultured cells on glass or plastic."
 msgstr ""
+"オルガノイドの成長にはより複雑なリソースとプロトコルが必要となり、ガラスやプラスチック上で培養細胞を成長させるだけの場合よりも時間がかかることがあります。"
 
 #: ../../01_Sample_preparation/Considerations.md:41
 msgid ""
 "Because organoids are 3D structures, they often are not amenable to "
-"widefield imaging and may require spinning disk or point-scanning "
-"confocal microscopy."
+"widefield imaging and may require spinning disk or point-scanning confocal "
+"microscopy."
 msgstr ""
+"オルガノイドは3次元構造であるため、広視野イメージングができないことが多く、スピニングディスク顕微鏡やポイントスキャン共焦点顕微鏡が必要になることがあります。"
 
 #: ../../01_Sample_preparation/Considerations.md:45
 msgid "**Tissue**"
-msgstr ""
+msgstr "**組織**"
 
 #: ../../01_Sample_preparation/Considerations.md:47
 msgid ""
-"Tissues are formed when cells act together to perform a specific "
-"function. Tissues can be cultured by taking a piece of an animal or plant"
-" and allowing it to continue to survive and grow in a dish. Tissues can "
-"also be harvested from plants or animals and stained for the presence of "
-"different molecules. Tissues are typically cut into pieces (aka "
-"{term}`tissue sectioning`), and can be fixed, fresh, or frozen, or even "
-"alive in {term}`ex-vivo imaging`."
+"Tissues are formed when cells act together to perform a specific function. "
+"Tissues can be cultured by taking a piece of an animal or plant and allowing"
+" it to continue to survive and grow in a dish. Tissues can also be harvested"
+" from plants or animals and stained for the presence of different molecules."
+" Tissues are typically cut into pieces (aka {term}`tissue sectioning`), and "
+"can be fixed, fresh, or frozen, or even alive in {term}`ex-vivo imaging`."
 msgstr ""
+"組織とは、細胞が協調して特定の機能を果たすことで形成される構造です。組織は、動物や植物の一部を取り出し、培養皿の中で生存・増殖させて培養することができます。また、植物や動物から組織を採取し、さまざまな分子の存在を調べるために染色することもあります。組織は通常、薄く切り分けて用いられます({term}`組織切片作製`)。さらに、固定標本、未固定の新鮮標本、凍結標本として扱われるほか、{term}`生体外イメージング`のように生きた状態で観察されることもあります。"
 
 #: ../../01_Sample_preparation/Considerations.md:51
 msgid ""
 "Tissues have more intact cell-cell interactions that are generally more "
 "representative of what happens _in vivo_ than in cell culture."
-msgstr ""
+msgstr "組織では細胞間の相互作用がより完全な状態にあり、これは一般に細胞培養よりも生体内で起こっていることをよりよく表します。"
 
 #: ../../01_Sample_preparation/Considerations.md:53
 msgid ""
-"Repositories of donated human tissues enable biomedical research to study"
-" a diverse sample of patients with a particular disease."
-msgstr ""
+"Repositories of donated human tissues enable biomedical research to study a "
+"diverse sample of patients with a particular disease."
+msgstr "ヒト組織のレポジトリにより、生物医学研究が特定の疾患を持つ患者の多様なサンプルを扱うことが可能になります。"
 
 #: ../../01_Sample_preparation/Considerations.md:57
 msgid ""
 "Primary cells and tissues tend to be sensitive to environment than "
-"immortalized cell lines and can be more difficult to grow and may require"
-" specialized protocols depending on cell type."
+"immortalized cell lines and can be more difficult to grow and may require "
+"specialized protocols depending on cell type."
 msgstr ""
+"初代細胞および組織は、不死化細胞株よりも環境に敏感な傾向があり、増殖がより困難になる可能性があり、細胞の種類に応じて特殊なプロトコルが必要になる場合があります。"
 
 #: ../../01_Sample_preparation/Considerations.md:59
 msgid ""
 "Tissues harvested from a whole animal or plant require time for the "
 "development and growth of that specimen before harvesting."
-msgstr ""
+msgstr "動物や植物全体から採取した組織は、採取前にその標本が発達し成長する時間が必要です。"
 
 #: ../../01_Sample_preparation/Considerations.md:63
 msgid "**Whole organism / embryo**"
-msgstr ""
+msgstr "**生物全体／胚**"
 
 #: ../../01_Sample_preparation/Considerations.md:65
 msgid ""
-"Some whole organisms are thin and transparent enough to image. Some "
-"animals also have near-transparent embryonic stages, like the zebrafish. "
+"Some whole organisms are thin and transparent enough to image. Some animals "
+"also have near-transparent embryonic stages, like the zebrafish. "
 "Additionally, {term}`intravital imaging` is the imaging of cellular "
 "structures or biological processes inside a live animal in real time, "
-"without extracting the organs or fixing the sample. In general, it "
-"requires specific instrumentation or modalities with improved light "
-"penetration, such as multiphoton microscopy and is limited to the ability"
-" to access the specific organ, often through optical windows."
+"without extracting the organs or fixing the sample. In general, it requires "
+"specific instrumentation or modalities with improved light penetration, such"
+" as multiphoton microscopy and is limited to the ability to access the "
+"specific organ, often through optical windows."
 msgstr ""
+"一部の生物は全体が薄く透明で、そのまま撮像可能です。あるいはゼブラフィッシュのように、胚の段階がほぼ透明な動物もいます。さらに、{term}`生体内イメージング`"
+" "
+"は、臓器を摘出したりサンプルを固定したりせずに、生きた動物の内部の細胞構造や生物学的プロセスをリアルタイムで撮像することです。一般に、多光子顕微鏡などの光の透過性が向上した特殊な機器や手法が必要であり、多くの場合は光学窓を通して特定の臓器にアクセスする機能に制限があります。"
 
 #: ../../01_Sample_preparation/Considerations.md:69
 msgid ""
 "Imaging whole organisms or embyros provides the most possible intact "
 "biological context when studying a particular process or structure."
-msgstr ""
+msgstr "生物全体または胚の撮影は、特定のプロセスまたは構造を研究する際に、最も完全に生物学的コンテキストが得られる方法です。"
 
 #: ../../01_Sample_preparation/Considerations.md:73
 msgid ""
 "Imaging of thicker specimens may require processing ({term}`tissue "
-"clearing`) of the sample to make its {term}`refractive index` match that "
-"of the imaging media and reduce absorption and scattering of light."
+"clearing`) of the sample to make its {term}`refractive index` match that of "
+"the imaging media and reduce absorption and scattering of light."
 msgstr ""
+"より厚い標本をイメージングする場合は、サンプルの {term}`屈折率` "
+"をイメージング媒体の屈折率と一致させ、光の吸収と散乱を減らすために、サンプルの処理 ({term}`組織透明化`) が必要になる場合があります。"
 
 #: ../../01_Sample_preparation/Considerations.md:75
 msgid ""
 "Intravital imaging often requires specific surgical techniques and is "
-"overseen by bioethical committees and needs to be approved by IACUC "
-"and/or other institutional committees."
+"overseen by bioethical committees and needs to be approved by IACUC and/or "
+"other institutional committees."
 msgstr ""
+"生体内イメージングには多くの場合、特定の外科手術の技術が必要であり、生命倫理委員会によって監督され、IACUC "
+"やその他の機関の委員会による承認が必要です。"
 
-#: ../../01_Sample_preparation/Considerations.md
+#: ../../01_Sample_preparation/Considerations.md:0
 msgid "<span style=\"color: red\">⚠️</span> Where can things go wrong?"
-msgstr ""
+msgstr "<span style=\"color: red\">⚠️</span> 問題が生じやすいポイント"
 
 #: ../../01_Sample_preparation/Considerations.md:80
 msgid ""
-"**Photobleaching and phototoxicity** - Photobleaching can be defined as "
-"the irreversible destruction of a fluorophore in its excited state, "
-"meaning, that fluorophore will not be able to emit more light and the "
-"fluorescence signal will therefore degrade over time, affecting signal to"
-" noise ratio and intensity measurements. In order to minimize "
-"photobleaching during acquisition, there are a number of photobleaching "
-"reagent agents that can be added to the media. These agents minimize "
-"photobleaching of fluorophores to a different extent, and therefore it is"
-" important to contact the manufacturer to ensure they are optimal for the"
-" specific fluorophore. For example addition of oxygen scavengers to the "
-"imaging media such as glucose oxidase or pyranose 2-oxidase can "
-"significantly reduce photobleaching. It is important to understand that "
-"the use of {term}`oxygen scavengers` may affect live cell imaging, as "
-"these scavengers can affect the ATP and oxygen levels within the sample, "
-"compromising its health and therefore biological function."
+"**Photobleaching and phototoxicity** - Photobleaching can be defined as the "
+"irreversible destruction of a fluorophore in its excited state, meaning, "
+"that fluorophore will not be able to emit more light and the fluorescence "
+"signal will therefore degrade over time, affecting signal to noise ratio and"
+" intensity measurements. In order to minimize photobleaching during "
+"acquisition, there are a number of photobleaching reagent agents that can be"
+" added to the media. These agents minimize photobleaching of fluorophores to"
+" a different extent, and therefore it is important to contact the "
+"manufacturer to ensure they are optimal for the specific fluorophore. For "
+"example addition of oxygen scavengers to the imaging media such as glucose "
+"oxidase or pyranose 2-oxidase can significantly reduce photobleaching. It is"
+" important to understand that the use of {term}`oxygen scavengers` may "
+"affect live cell imaging, as these scavengers can affect the ATP and oxygen "
+"levels within the sample, compromising its health and therefore biological "
+"function."
 msgstr ""
+"**褪色と光毒性** - "
+"褪色は、励起状態の蛍光体が不可逆的に破壊されることです。いったん破壊された蛍光色素はそれ以上光を発することができなくなるため、時間の経過とともに蛍光シグナルが弱まり、S/N比や強度測定に影響を及ぼします。撮影中の褪色を最小限に抑えるために、培地に添加できるさまざまな抑制試薬があります。これらの試薬は蛍光色素の褪色を抑える効果がそれぞれ異なるため、使用する蛍光色素に適しているかどうかを製造元に確認することが重要です。例えば、グルコースオキシダーゼやピラノース2-オキシダーゼなどの{term}`脱酸素剤`"
+" をイメージング用培地に添加すると、褪色を大幅に低減できる場合があります。 "
+"ただし、脱酸素剤を使うと、ライブセルイメージングに影響を与える可能性がある点に注意が必要です。これらの試薬は試料中のATP濃度や酸素レベルに影響を及ぼし、細胞の生存性や生物学的機能を損なう可能性があります。"
 
 #: ../../01_Sample_preparation/Considerations.md:82
 msgid ""
-"**Cells are dying** - Fluorescent light induces DNA damage and oxidation "
-"of cellular components (phototoxicity). In addition, fluorophore "
-"photobleaching can further induce phototoxicity by creating reactive "
-"oxygen species (ROS). The addition of antioxidants and removal of certain"
-" molecules (e.g., riboflavin) from the imaging media can reduce the ROS "
-"produced during imaging, improving the health of the "
-"sample.{cite}`Stockley2017`"
+"**Cells are dying** - Fluorescent light induces DNA damage and oxidation of "
+"cellular components (phototoxicity). In addition, fluorophore photobleaching"
+" can further induce phototoxicity by creating reactive oxygen species (ROS)."
+" The addition of antioxidants and removal of certain molecules (e.g., "
+"riboflavin) from the imaging media can reduce the ROS produced during "
+"imaging, improving the health of the sample.{cite}`Stockley2017`"
 msgstr ""
+"**細胞が死んでいる場合** "
+"-蛍光励起光は、DNA損傷や細胞内成分の酸化を引き起こすことがあります（光毒性）。さらに、蛍光色素の褪色は活性酸素種（ROS）を生成し、光毒性を一層強める可能性があります。撮影中に生じる活性酸素種を減らすためには、抗酸化物質を添加したり、特定の分子（リボフラビンなど）をイメージング用培地から除去したりする方法があります。これにより、試料の生存性を改善できる場合があります。{cite}`Stockley2017`"
 
 #: ../../01_Sample_preparation/Considerations.md:85
 msgid ""
 "**My fixed cells don't looked as expected** - Fixation can change the "
-"localization and fluorescence of different proteins. Where possible, "
-"always compare the distribution of a protein or molecule of interest with"
-" and without fixation. Also consider whether a different {term}`fixation`"
-" method may be more appropriate for your specimen."
+"localization and fluorescence of different proteins. Where possible, always "
+"compare the distribution of a protein or molecule of interest with and "
+"without fixation. Also consider whether a different {term}`fixation` method "
+"may be more appropriate for your specimen."
 msgstr ""
+"**固定した細胞が予想どおりに見えない場合** - "
+"固定処理は、さまざまなタンパク質の局在や蛍光シグナルに影響を与えることがあります。可能であれば、関心のあるタンパク質や分子の分布を、固定ありの場合と固定なしの場合で比較するようにしてください。また、使用している固定法が試料に適しているかどうかを検討し、必要に応じて別の{term}`固定`法を選択することも重要です。"
 
 #: ../../01_Sample_preparation/Considerations.md:88
 msgid ""
-"**My sample is too opaque** - Thicker specimens, like thick tissue "
-"sections, pigmented cells, or whole organisms can be challenging to image"
-" due to light absorption and scattering induced by the inhomogeneities in"
-" {term}`refractive index` within the tissue itself, resulting in poor "
-"light penetration. To facilitate imaging of tissues, researchers often "
-"cut thick tissues into slices of different thicknesses. This process is "
-"called tissue sectioning. In most cases the samples are fixed and "
-"embedded in paraffin or frozen in tissue freezing medium and later cut "
-"into thin slices by a machine like a cryostat, microtome, or vibratome "
-"and sections collected into a tube or onto a slide. Alternatively, most "
-"components in any complex biological system such as an organ are not "
-"contained within this two-dimensional volume, and therefore, this "
-"approach compromises the understanding of the spatial relationships among"
-" cellular components. Tissue clearing focused on reducing the "
-"inhomogeneities in the tissue by equilibrating the {term}`refractive "
-"index` throughout the sample. This allows light to pass through the "
-"tissue and therefore enables high resolution, volumetric imaging of whole"
-" organs and tissues using conventional microscopy techniques such as "
-"confocal microscopy without the need to physically section the sample."
+"**My sample is too opaque** - Thicker specimens, like thick tissue sections,"
+" pigmented cells, or whole organisms can be challenging to image due to "
+"light absorption and scattering induced by the inhomogeneities in "
+"{term}`refractive index` within the tissue itself, resulting in poor light "
+"penetration. To facilitate imaging of tissues, researchers often cut thick "
+"tissues into slices of different thicknesses. This process is called tissue "
+"sectioning. In most cases the samples are fixed and embedded in paraffin or "
+"frozen in tissue freezing medium and later cut into thin slices by a machine"
+" like a cryostat, microtome, or vibratome and sections collected into a tube"
+" or onto a slide. Alternatively, most components in any complex biological "
+"system such as an organ are not contained within this two-dimensional "
+"volume, and therefore, this approach compromises the understanding of the "
+"spatial relationships among cellular components. Tissue clearing focused on "
+"reducing the inhomogeneities in the tissue by equilibrating the "
+"{term}`refractive index` throughout the sample. This allows light to pass "
+"through the tissue and therefore enables high resolution, volumetric imaging"
+" of whole organs and tissues using conventional microscopy techniques such "
+"as confocal microscopy without the need to physically section the sample."
 msgstr ""
+"**試料が不透明すぎる場合** - "
+"厚い組織切片、色素を多く含む細胞、あるいは個体全体のような厚みのある試料は、撮像が難しいことがあります。これは、組織内部における "
+"{term}`屈折率`の不均一性によって光の吸収や散乱が生じ、光が十分に透過しないためです。組織の観察を容易にするために、厚い組織をさまざまな厚さに切り分ける方法が一般的に用いられます。この操作を組織切片作製といいます。多くの場合、試料は固定後にパラフィン包埋するか、凍結包埋してから、クリオスタット、ミクロトーム、ビブラトームなどの装置で薄切し、切片をチューブやスライドガラス上に回収します。しかし、臓器のような複雑な生体構造では、多くの構成要素が二次元的な切片内に収まりきらないため、この方法では細胞成分同士の空間的な関係を十分に理解できない場合があります。そこで用いられるのが組織透明化です。これは、試料全体の{term}`屈折率`を均一化することで組織内の不均一性を減らし、光が透過しやすくする手法です。これにより、試料を物理的に切片化することなく、共焦点顕微鏡などの従来の顕微鏡技術を用いて、臓器や組織全体を高解像度で三次元的に観察できます。"
 
-#: ../../01_Sample_preparation/Considerations.md
+#: ../../01_Sample_preparation/Considerations.md:0
 msgid "📚🤷‍♀️ Where can I learn more?"
-msgstr ""
+msgstr "📚🤷‍♀️ さらに詳しく知るために"
 
 #: ../../01_Sample_preparation/Considerations.md:94
-#, python-format
 msgid ""
 "📄 [Organoids "
 "Primer](https://www.nature.com/articles/s43586-022-00174-y#:~:text=An%20organoid%20is%20a%20self,%2C9%2C10%2C11.)"
 " {cite}`Zhao2022-rm`"
 msgstr ""
+"📄 [Organoids "
+"Primer](https://www.nature.com/articles/s43586-022-00174-y#:~:text=An%20organoid%20is%20a%20self,%2C9%2C10%2C11')"
+" {cite}`Zhao2022-rm`"
 
 #: ../../01_Sample_preparation/Considerations.md:95
 msgid ""
@@ -314,65 +346,73 @@ msgid ""
 "microscopy](https://doi.org/10.1038/s41596-020-0313-9) "
 "{cite}`Jonkman2020-bo`"
 msgstr ""
+"📄 [Tutorial: guidance for quantitative confocal "
+"microscopy](https://doi.org/10.1038/s41596-020-0313-9) "
+"{cite}`Jonkman2020-bo`"
 
 #: ../../01_Sample_preparation/Considerations.md:96
 msgid ""
-"📄 [Hypothesis-driven quantitative fluorescence microscopy - the "
-"importance of reverse-thinking in experimental "
+"📄 [Hypothesis-driven quantitative fluorescence microscopy - the importance "
+"of reverse-thinking in experimental "
 "design](https://pubmed.ncbi.nlm.nih.gov/33154172/) {cite}`Wait2020-gq`"
 msgstr ""
+"📄 [Hypothesis-driven quantitative fluorescence microscopy - the importance "
+"of reverse-thinking in experimental "
+"design](https://pubmed.ncbi.nlm.nih.gov/33154172/) {cite}`Wait2020-gq`"
 
 #: ../../01_Sample_preparation/Experimental_design.md:1
 msgid "Experimental design decisions"
-msgstr ""
+msgstr "実験デザイン"
 
 #: ../../01_Sample_preparation/Experimental_design.md:3
 msgid ""
-"A number of critical decisions must be made when designing a quantitative"
-" bioimaging experiment. Many of these decisions will be deeply dependent "
-"on what is possible given the biology you wish to study, for example:"
+"A number of critical decisions must be made when designing a quantitative "
+"bioimaging experiment. Many of these decisions will be deeply dependent on "
+"what is possible given the biology you wish to study, for example:"
 msgstr ""
+"定量的バイオイメージング実験を計画する際には、いくつもの重要な選択を行う必要があります。これらの多くは、研究対象とする生物学的現象や、その系で実際に可能な操作に大きく依存します。例えば、"
 
 #: ../../01_Sample_preparation/Experimental_design.md:4
 msgid ""
-"You will always prefer live imaging to fixed imaging if it is important "
-"to assess the dynamics of a given process"
-msgstr ""
+"You will always prefer live imaging to fixed imaging if it is important to "
+"assess the dynamics of a given process"
+msgstr "ある過程の時間的な変化を評価することが重要な場合には、固定標本よりもライブイメージングが望ましいです。"
 
 #: ../../01_Sample_preparation/Experimental_design.md:5
 msgid ""
-"You may need to perform special processes such as tissue clearing if it "
-"is important to image deep into a relatively opaque specimen"
-msgstr ""
+"You may need to perform special processes such as tissue clearing if it is "
+"important to image deep into a relatively opaque specimen"
+msgstr "比較的不透明な試料の深部を観察することが重要な場合には、組織透明化などの特別な処理が必要になることがあります。"
 
 #: ../../01_Sample_preparation/Experimental_design.md:6
 msgid ""
-"You cannot rely on genetic tagging with fluorescent proteins if your "
-"model system is not genetically tractable to such manipulations"
-msgstr ""
+"You cannot rely on genetic tagging with fluorescent proteins if your model "
+"system is not genetically tractable to such manipulations"
+msgstr "モデル系が遺伝学的操作に適していない場合には、蛍光タンパク質による遺伝子タグ付けに頼ることはできません。"
 
 #: ../../01_Sample_preparation/Experimental_design.md:7
 msgid ""
-"You have to image at a particularly high resolution to confidently assess"
-" interactions between two molecules imaged in the same system"
-msgstr ""
+"You have to image at a particularly high resolution to confidently assess "
+"interactions between two molecules imaged in the same system"
+msgstr "同一試料内で2つの分子間の相互作用を確実に評価するためには、特に高い空間分解能での撮像が必要になります。"
 
 #: ../../01_Sample_preparation/Experimental_design.md:9
 msgid ""
 "It is therefore _**extremely**_ important to think through all of the "
-"aspects of your biological question before ever picking up a pipette or a"
-" slide. Many sample preparation decisions are deeply entwined with the "
+"aspects of your biological question before ever picking up a pipette or a "
+"slide. Many sample preparation decisions are deeply entwined with the "
 "availability and suitability of particular microscopes; see [that "
 "section](content/microscope_selection) for more information."
 msgstr ""
+"したがって、ピペットやスライドを手に取る前に、自分の生物学的な問いについてあらゆる側面を十分に検討しておくことが_**きわめて重要**_です。試料調製に関する多くの判断は、利用可能な顕微鏡の種類や、その顕微鏡が目的に適しているかどうかと密接に関係しています。詳しくは[顕微鏡の選択](content/microscope_selection)のセクションを参照してください。"
 
 #: ../../01_Sample_preparation/Experimental_design.md:11
 msgid "Mounting"
-msgstr ""
+msgstr "試料のマウント"
 
 #: ../../01_Sample_preparation/Experimental_design.md:13
 msgid "Glass coverslips"
-msgstr ""
+msgstr "カバーガラス"
 
 #: ../../01_Sample_preparation/Experimental_design.md:15
 msgid ""
@@ -380,276 +420,292 @@ msgid ""
 "directly or using a coverslip mounted into a dish. While there is a wide "
 "range of coverslip sizes and shapes, the most important attribute is the "
 "coverslip thickness. Coverslip grade dictates the expected thickness and "
-"tolerance. These factors are important because most microscope "
-"manufacturers assume a specific coverslip thickness (0.17mm) in the "
-"design of objective lenses to minimize aberrations. These aberrations "
-"tend to affect the brightness and axial resolution, reducing signal to "
-"noise ratio, sharpness, and resolution. The tolerance of the coverslip "
-"(to minimize the variability in thickness) is essential for super-"
-"resolution techniques or intensity measurements in images collected with "
-"high numerical aperture objectives. Other applications do not require the"
-" mounting of samples onto glass or plastic but instead have the sample "
-"and the objective lens immersed in the same medium."
+"tolerance. These factors are important because most microscope manufacturers"
+" assume a specific coverslip thickness (0.17mm) in the design of objective "
+"lenses to minimize aberrations. These aberrations tend to affect the "
+"brightness and axial resolution, reducing signal to noise ratio, sharpness, "
+"and resolution. The tolerance of the coverslip (to minimize the variability "
+"in thickness) is essential for super-resolution techniques or intensity "
+"measurements in images collected with high numerical aperture objectives. "
+"Other applications do not require the mounting of samples onto glass or "
+"plastic but instead have the sample and the objective lens immersed in the "
+"same medium."
 msgstr ""
+"多くのイメージング実験では、試料をガラス製カバーガラス上にマウントします。これは直接載せる場合もあれば、カバーガラスが組み込まれたディッシュを使用する場合もあります。カバーガラスにはさまざまなサイズや形状がありますが、最も重要なのはその厚さです。カバーガラスの規格は、想定される厚さとその許容誤差（ばらつきの範囲）を示しています。これは重要な点です。というのも、多くの顕微鏡メーカーは、対物レンズの設計において、収差を最小限に抑えるために特定のカバーガラス厚（通常"
+" 0.17 "
+"mm）を前提としているからです。収差が生じると、画像の明るさや軸方向の分解能に影響が出て、S/N比、鮮明さ、分解能が低下します。特に、超解像法や高開口数の対物レンズを用いた強度測定では、カバーガラスの厚さのばらつきを最小限に抑えることが重要です。一方で、すべての観察がガラスやプラスチックへのマウントを必要とするわけではありません。用途によっては、試料と対物レンズを同じ媒質中に浸して観察する方法もあります。"
 
 #: ../../01_Sample_preparation/Experimental_design.md:17
 msgid "Comparison of coverslip grades"
-msgstr ""
+msgstr "カバーガラスの規格の比較"
 
 #: ../../01_Sample_preparation/Experimental_design.md:21
 msgid "Grade"
-msgstr ""
+msgstr "規格"
 
 #: ../../01_Sample_preparation/Experimental_design.md:22
 msgid "Nominal thickness [mm]"
-msgstr ""
+msgstr "公称厚さ [mm]"
 
 #: ../../01_Sample_preparation/Experimental_design.md:23
 msgid "Thickness range [mm]"
-msgstr ""
+msgstr "厚さの範囲 [mm]"
 
 #: ../../01_Sample_preparation/Experimental_design.md:24
 msgid "#1.5"
-msgstr ""
+msgstr "#1.5"
 
 #: ../../01_Sample_preparation/Experimental_design.md:25
 #: ../../01_Sample_preparation/Experimental_design.md:28
 msgid "0.17"
-msgstr ""
+msgstr "0.17"
 
 #: ../../01_Sample_preparation/Experimental_design.md:26
 msgid "0.16 - 0.19"
-msgstr ""
+msgstr "0.16 - 0.19"
 
 #: ../../01_Sample_preparation/Experimental_design.md:27
 msgid "#1.5H"
-msgstr ""
+msgstr "#1.5H"
 
 #: ../../01_Sample_preparation/Experimental_design.md:29
 msgid "0.165 - 0.175"
-msgstr ""
+msgstr "0.165 - 0.175"
 
 #: ../../01_Sample_preparation/Experimental_design.md:32
 msgid "Mounting media"
-msgstr ""
+msgstr "封入剤"
 
 #: ../../01_Sample_preparation/Experimental_design.md:34
 msgid ""
 "The {term}`refractive index` the sample is placed in, as well as the "
-"refractive index of the glass and the medium between the objective and "
-"the sample are all critical to determining the achievable resolution. The"
-" {term}`mounting media` can have other important optical and/or "
-"experimental properties; it is important to use the correct mounting "
-"media for experiment planned."
+"refractive index of the glass and the medium between the objective and the "
+"sample are all critical to determining the achievable resolution. The "
+"{term}`mounting media` can have other important optical and/or experimental "
+"properties; it is important to use the correct mounting media for experiment"
+" planned."
 msgstr ""
+"試料を置く媒質の{term}`屈折率`、ガラスの屈折率、さらに対物レンズと試料の間にある媒質の屈折率は、達成できる分解能を左右する重要な要素です。{term}`封入剤`は、他にも光学的特性や実験条件に影響を与えるさまざまな性質を持っています。そのため、計画している実験に適した封入剤を選択することが重要です。"
 
 #: ../../01_Sample_preparation/Experimental_design.md:43
 msgid "effects of mounting media"
-msgstr ""
+msgstr "封入剤の効果"
 
 #: ../../01_Sample_preparation/Experimental_design.md:43
 msgid ""
-"**Effects of mounting media on staining with various fluorophores**. "
-"Adapted from Jonkman J., Brown C.M., Wright G.D _et al_. Tutorial: "
-"guidance for quantitative confocal microscopy. _Nat Prot_ **15**, (2020) "
+"**Effects of mounting media on staining with various fluorophores**. Adapted"
+" from Jonkman J., Brown C.M., Wright G.D _et al_. Tutorial: guidance for "
+"quantitative confocal microscopy. _Nat Prot_ **15**, (2020) "
 "{cite}`Jonkman2020-bo`"
 msgstr ""
+"**様々な蛍光色素による染色に対する封入剤の影響**. Jonkman J., Brown C.M., Wright G.D _et al_. "
+"Tutorial: guidance for quantitative confocal microscopy. _Nat Prot_ **15**, "
+"(2020) {cite}`Jonkman2020-bo` より。"
 
 #: ../../01_Sample_preparation/Experimental_design.md:46
 msgid "Fluorophore selection"
-msgstr ""
+msgstr "蛍光色素の選択"
 
 #: ../../01_Sample_preparation/Experimental_design.md:48
 msgid ""
-"Fluorophores are molecules that are able to emit light upon absorption of"
-" a photon, typically of shorter wavelength. The fluorophores relevant to "
-"biomedical research can be small molecules organic dyes (FITC, Alexa "
-"Fluor 488) that bind specific cell structure (e.g., DAPI, MitoTracker), "
+"Fluorophores are molecules that are able to emit light upon absorption of a "
+"photon, typically of shorter wavelength. The fluorophores relevant to "
+"biomedical research can be small molecules organic dyes (FITC, Alexa Fluor "
+"488) that bind specific cell structure (e.g., DAPI, MitoTracker), "
 "fluorescent analogues of small molecules (e.g., phalloidin, fluorescent "
-"amino acids) or fluorescent proteins. Some of the important properties to"
-" consider when choosing fluorophores are listed below:"
+"amino acids) or fluorescent proteins. Some of the important properties to "
+"consider when choosing fluorophores are listed below:"
 msgstr ""
+"蛍光色素は、光子を吸収すると発光する分子で、通常は吸収した光よりも長い波長の光を放出します。生物医学研究で用いられる蛍光色素には、低分子の有機色素（例：FITC、Alexa"
+" Fluor "
+"488）特定の細胞構造に結合する分子（例：DAPI、MitoTracker）、低分子の蛍光アナログ（例：ファロイジン、蛍光アミノ酸）、および蛍光タンパク質などがあります。蛍光色素を選択する際に考慮すべき重要な特性を、以下に示します。"
 
 #: ../../01_Sample_preparation/Experimental_design.md:50
 msgid "Excitation/emission spectra of each fluorophore"
-msgstr ""
+msgstr "各蛍光色素の励起／発光スペクトル"
 
 #: ../../01_Sample_preparation/Experimental_design.md:51
 msgid "Brightness (dyes tend to be brighter than proteins)"
-msgstr ""
+msgstr "明るさ（一般に、低分子色素は蛍光タンパク質よりも明るい傾向があります）"
 
 #: ../../01_Sample_preparation/Experimental_design.md:52
 msgid "Photostability"
-msgstr ""
+msgstr "光安定性"
 
 #: ../../01_Sample_preparation/Experimental_design.md:53
 msgid "Propensity to oligomerize (in the case of fluorescent proteins)"
-msgstr ""
+msgstr "オリゴマー化のしやすさ（蛍光タンパク質の場合）"
 
 #: ../../01_Sample_preparation/Experimental_design.md:54
 msgid "Phototoxicity (when imaging in live samples)"
-msgstr ""
+msgstr "光毒性（生きた試料を観察する場合）"
 
 #: ../../01_Sample_preparation/Experimental_design.md:56
 msgid ""
 "Understanding fluorophores, microscope specifications (light source, "
-"filters, detector), and analysis goals are key in selecting the "
-"appropriate fluorophore(s) to address a scientific question. See the "
-"section on [reproducibility](content/reproducibility) for more "
-"information."
+"filters, detector), and analysis goals are key in selecting the appropriate "
+"fluorophore(s) to address a scientific question. See the section on "
+"[reproducibility](content/reproducibility) for more information."
 msgstr ""
+"蛍光色素の特性（多重染色の場合はその組み合わせを含めて）、顕微鏡の仕様（光源、フィルター、検出器）、そして解析の目的を理解することが、科学的な問いに適した蛍光色素を選択するうえで重要です。詳しくは、[再現性](content/reproducibility)"
+" のセクションを参照してください。"
 
 #: ../../01_Sample_preparation/Introduction.md:1
 msgid "Introduction"
-msgstr ""
+msgstr "はじめに"
 
 #: ../../01_Sample_preparation/Introduction.md:3
 msgid ""
-"A good image starts at the bench. The best performing instrument will not"
-" produce rigorous, reproducible or high quality data unless sample "
+"A good image starts at the bench. The best performing instrument will not "
+"produce rigorous, reproducible or high quality data unless sample "
 "preparation has been optimized. To design a rigorous and reproducible "
-"microscopy experiment, it is critical to identify the goal of the "
-"experiment and understand the factors that impact the image. This "
-"information informs researchers about how to prepare the sample, what "
-"minimal controls and corrections are needed, how to choose the "
-"appropriate instrumentation, optimize acquisition, analyze and present "
-"microscopy data."
+"microscopy experiment, it is critical to identify the goal of the experiment"
+" and understand the factors that impact the image. This information informs "
+"researchers about how to prepare the sample, what minimal controls and "
+"corrections are needed, how to choose the appropriate instrumentation, "
+"optimize acquisition, analyze and present microscopy data."
 msgstr ""
+"良い画像はベンチから始まります。どんなに性能の良い装置でも、サンプルの準備が最適化されていなければ、厳密で再現性のある高品質のデータは得られません。厳密で再現性のある顕微鏡実験をデザインするためには、実験の目的を明確にし、画像に影響を与える要因を理解することが重要です。これらの情報から研究者は、どのようにサンプルを調製するか、どのようなコントロールと補正が最小限必要か、どのように適切な装置を選択するか、どのように顕微鏡データの取得を最適化し、分析し、発表すれば良いのかを知ることができます。"
 
 #: ../../01_Sample_preparation/Introduction.md:5
 msgid ""
 "Here we will discuss some of the key choices you will make during sample "
-"preparation, including selecting your sample type and fluorophore (if "
-"you're performing fluorescence microscopy). We also discuss some minimal "
-"controls necessary for interpreting your results."
+"preparation, including selecting your sample type and fluorophore (if you're"
+" performing fluorescence microscopy). We also discuss some minimal controls "
+"necessary for interpreting your results."
 msgstr ""
+"ここでは、試料調製の過程で行ういくつかの重要な選択について説明します。これには、試料の種類の選択や、（蛍光顕微鏡を用いる場合の）蛍光色素の選択が含まれます。また、得られた結果を適切に解釈するために必要な、最小限の対照実験についても説明します。"
 
 #: ../../01_Sample_preparation/Reproducibility.md:1
 msgid "Reproducibility"
-msgstr ""
+msgstr "再現性"
 
 #: ../../01_Sample_preparation/Reproducibility.md:5
 msgid ""
 "A number of factors are critical in designing a reproducible microscopy "
-"experiment. A few critical factors are laid out here; see other works "
-"such as {cite}`Jost2019-nx`"
+"experiment. A few critical factors are laid out here; see other works such "
+"as {cite}`Jost2019-nx`"
 msgstr ""
+"再現性のある顕微鏡実験を設計するためには、いくつかの重要な要素があります。ここではその中でも特に重要な点をいくつか示します。詳しくは、{cite}`Jost2019-nx`"
+" などを参照してください。"
 
 #: ../../01_Sample_preparation/Reproducibility.md:7
 msgid "Antibody validation"
-msgstr ""
+msgstr "抗体の特異性を確認する"
 
 #: ../../01_Sample_preparation/Reproducibility.md:9
 msgid ""
 "While in a perfect world, antibodies would always be specific to a "
 "particular target, unfortunately, this cannot always be relied upon when "
-"performing {term}`immunolabeling`. {cite}`Uhlen2016-wy` When possible, "
-"one should perform knockout and/or knockdown controls to confirm antibody"
-" specificity; where not, look for availability of another antibody to a "
-"different part of the target molecule (sometimes called the _epitope_) "
-"and confirm you get consistent localization."
+"performing {term}`immunolabeling`. {cite}`Uhlen2016-wy` When possible, one "
+"should perform knockout and/or knockdown controls to confirm antibody "
+"specificity; where not, look for availability of another antibody to a "
+"different part of the target molecule (sometimes called the _epitope_) and "
+"confirm you get consistent localization."
 msgstr ""
+"理想的には、抗体は特定の標的分子に対して常に高い特異性を示すはずですが、{term}`免疫標識`{cite}`Uhlen2016-wy` "
+"を行う際にそれを当然の前提とすることはできません。可能であれば、ノックアウトやノックダウンの対照実験を行い、抗体の特異性を確認するべきです。それが難しい場合には、標的分子の別の部位（エピトープ）を認識する別の抗体が利用可能かどうかを確認し、同様の局在パターンが得られることを確かめます。"
 
 #: ../../01_Sample_preparation/Reproducibility.md:11
 msgid ""
-"Optimizing your {term}`blocking` and {term}`permeabilization` conditions "
-"for the particular antibody and protocol can reduce non-specific "
-"background. No-primary-antibody controls should always be performed as "
-"well, as they are essential for validating signal specificity."
+"Optimizing your {term}`blocking` and {term}`permeabilization` conditions for"
+" the particular antibody and protocol can reduce non-specific background. "
+"No-primary-antibody controls should always be performed as well, as they are"
+" essential for validating signal specificity."
 msgstr ""
+"使用する抗体やプロトコールに合わせて{term}`ブロッキング`や{term}`透過化`の条件を最適化することで、非特異的なバックグラウンドシグナルを低減できます。さらに、一次抗体を使用しないコントロールも必ず実施してください。これは、観察されたシグナルが特異的であることを検証するために不可欠です。"
 
 #: ../../01_Sample_preparation/Reproducibility.md:13
 msgid "Fluorescent protein localization validation"
-msgstr ""
+msgstr "蛍光タンパク質の局在を確認する"
 
 #: ../../01_Sample_preparation/Reproducibility.md:15
-#, python-format
 msgid ""
 "Expression of fluorescently-tagged proteins can make localization of a "
-"molecule or structure possible, especially when no good antibody exist "
-"for immunolabeling and/or it will be helpful to observe the molecule's "
-"behavior in live cells. While a study comparing overlap between the same "
-"molecular targets with fluorescent proteins vs antibodies found 80% "
-"overlap, they also found that some considerations (such as whether the C-"
-" or N- terminus of a protein is tagged) may cause changes in "
-"localization. {cite}`Stadler2013`. A recent paper {cite}`Sittewelle2023` "
-"surveys considerations for genetic tagging of molecules for live "
-"microscopy."
+"molecule or structure possible, especially when no good antibody exist for "
+"immunolabeling and/or it will be helpful to observe the molecule's behavior "
+"in live cells. While a study comparing overlap between the same molecular "
+"targets with fluorescent proteins vs antibodies found 80% overlap, they also"
+" found that some considerations (such as whether the C- or N- terminus of a "
+"protein is tagged) may cause changes in localization. {cite}`Stadler2013`. A"
+" recent paper {cite}`Sittewelle2023` surveys considerations for genetic "
+"tagging of molecules for live microscopy."
 msgstr ""
+"蛍光タンパク質タグを発現させることで、分子や細胞構造の局在を可視化できます。特に、免疫標識に適した抗体が存在しない場合や、生きた細胞内で分子の挙動を観察したい場合に有用です。蛍光タンパク質と抗体による標識で同一の分子標的の局在を比較した研究では、約80％の一致が報告されています。しかし同時に、いくつかの要因（例えば、タンパク質のC末端とN末端のどちらにタグを付加するか）によって局在が変化する可能性があることも示されています{cite}`Stadler2013`。さらに最近の論文{cite}`Sittewelle2023`では、生体観察を行う際の分子の遺伝的タグ付けの注意点がまとめられています。"
 
 #: ../../01_Sample_preparation/Reproducibility.md:18
 msgid "Bleedthrough"
-msgstr ""
+msgstr "漏れ込み / ブリードスルー bleedthrough"
 
 #: ../../01_Sample_preparation/Reproducibility.md:20
 msgid ""
-"When performing multicolor fluorescence microscopy, it is critical to "
-"choose fluorophores with sufficiently distinct excitation and emission "
-"spectra; online tools such as FPbase {cite}`Lambert2019-xl` can help with"
-" such selections, especially if you know the various optical components "
-"of the microscope on which you will be imaging your samples (these "
-"configurations can be saved and shared on FPbase; ask the maintainer of "
-"the microscope you plan to use if such a configuration file is already "
-"online). Even if you believe your fluorophores are sufficiently "
-"separated, it is critical to check single-color fluorescent controls "
-"using the same imaging conditions (and preferably on the same day) as "
-"your multicolor controls to be certain no bleedthrough is occurring; it "
-"is _mandatory_ to do this if you are planning to measure "
-"[colocalization](content/colocalization)."
+"When performing multicolor fluorescence microscopy, it is critical to choose"
+" fluorophores with sufficiently distinct excitation and emission spectra; "
+"online tools such as FPbase {cite}`Lambert2019-xl` can help with such "
+"selections, especially if you know the various optical components of the "
+"microscope on which you will be imaging your samples (these configurations "
+"can be saved and shared on FPbase; ask the maintainer of the microscope you "
+"plan to use if such a configuration file is already online). Even if you "
+"believe your fluorophores are sufficiently separated, it is critical to "
+"check single-color fluorescent controls using the same imaging conditions "
+"(and preferably on the same day) as your multicolor controls to be certain "
+"no bleedthrough is occurring; it is _mandatory_ to do this if you are "
+"planning to measure [colocalization](content/colocalization)."
 msgstr ""
+"多色蛍光顕微鏡観察を行う際には、励起スペクトルおよび発光スペクトルが十分に分離した蛍光色素を選択することが重要です。FPbase "
+"{cite}`Lambert2019-xl`のようなオンラインツールは、特に使用する顕微鏡の光学系（光源、フィルター、検出器など）の構成を把握している場合に、適切な蛍光色素の選択に役立ちます。これらの光学構成はFPbase上で保存・共有することも可能ですので、使用予定の顕微鏡について既に設定ファイルが公開されているかどうかを、管理担当者に確認するとよいでしょう。蛍光色素のスペクトルが十分に分離していると考えられる場合でも、隣接する波長のシグナルが混入するブリードスルーが生じていないことを確認するために、多色対照と同じ撮像条件（できれば同じ日に実施）で単色蛍光対照を必ず確認してください。特に、[共局在](content/colocalization)を定量的に評価する予定がある場合には、この確認は_必須_です。"
 
 #: ../../01_Sample_preparation/Resources.md:1
 msgid "Resources for learning more"
-msgstr ""
+msgstr "より詳しく知るための参考資料"
 
 #: ../../01_Sample_preparation/Resources.md:8
 msgid "**Resource Name**"
-msgstr ""
+msgstr "**リソース名**"
 
 #: ../../01_Sample_preparation/Resources.md:9
 msgid "**Link**"
-msgstr ""
+msgstr "**リンク**"
 
 #: ../../01_Sample_preparation/Resources.md:10
 msgid "**Brief description**"
-msgstr ""
+msgstr "**概要**"
 
 #: ../../01_Sample_preparation/Resources.md:11
 msgid "🌐 Microforum"
-msgstr ""
+msgstr "🌐 Microforum"
 
 #: ../../01_Sample_preparation/Resources.md:12
 msgid "[link](https://forum.microlist.org/)"
-msgstr ""
+msgstr "[link](https://forum.microlist.org/)"
 
 #: ../../01_Sample_preparation/Resources.md:13
 msgid ""
 "An online forum for discussing issues with and getting advice on sample "
 "preparation and microscopy"
-msgstr ""
+msgstr "試料調製や顕微鏡観察に関する問題を議論したり、助言を得たりするためのオンラインフォーラム"
 
 #: ../../01_Sample_preparation/Resources.md:14
 msgid "🌐 FPbase {cite}`Lambert2019-xl`"
-msgstr ""
+msgstr "🌐 FPbase{cite}`Lambert2019-xl`"
 
 #: ../../01_Sample_preparation/Resources.md:15
 msgid "[link](https://www.fpbase.org/)"
-msgstr ""
+msgstr "[link](https://www.fpbase.org/)"
 
 #: ../../01_Sample_preparation/Resources.md:16
 msgid ""
-"Database for identifying fluorophores by brightness, spectra and "
-"assessing compatibility with other fluorophores and with microscope "
-"filters"
-msgstr ""
+"Database for identifying fluorophores by brightness, spectra and assessing "
+"compatibility with other fluorophores and with microscope filters"
+msgstr "蛍光色素を明るさやスペクトルに基づいて検索し、他の蛍光色素や顕微鏡フィルターとの適合性を評価できるデータベース"
 
 #: ../../01_Sample_preparation/Resources.md:17
 msgid "🌐 Bio-protocol"
-msgstr ""
+msgstr "🌐 Bio-protocol"
 
 #: ../../01_Sample_preparation/Resources.md:18
 msgid "[link](https://bio-protocol.org/en/about )"
-msgstr ""
+msgstr "[link](https://bio-protocol.org/en/about)"
 
 #: ../../01_Sample_preparation/Resources.md:19
 msgid ""
@@ -657,52 +713,61 @@ msgid ""
 "protocols associated with work published elsewhere. All protocols are "
 "available under an open access license (CC BY or CC BY-NC)"
 msgstr ""
+"生物学分野全般のプロトコルを検索できるサイト。既に発表された研究に関連するプロトコルも掲載されています。すべてのプロトコルはオープンアクセスライセンス（CC"
+" BYまたはCC BY-NC）で利用可能です。"
 
 #: ../../01_Sample_preparation/Resources.md:20
 msgid "🌐 protocols.io"
-msgstr ""
+msgstr "🌐 protocols.io"
 
 #: ../../01_Sample_preparation/Resources.md:21
 msgid "[link](https://www.protocols.io/)"
-msgstr ""
+msgstr "[link](https://www.protocols.io/)"
 
 #: ../../01_Sample_preparation/Resources.md:22
 msgid "A secure platform for developing and sharing reproducible methods"
-msgstr ""
+msgstr "再現可能な手法を開発・共有するための安全なプラットフォーム"
 
 #: ../../01_Sample_preparation/Resources.md:23
 msgid ""
 "📄 Designing a rigorous microscopy experiment: Validating methods and "
 "avoiding bias {cite}`Jost2019-nx`"
 msgstr ""
+"📄 Designing a rigorous microscopy experiment: Validating methods and "
+"avoiding bias {cite}`Jost2019-nx`"
 
 #: ../../01_Sample_preparation/Resources.md:24
 msgid ""
-"[link](https://rupress.org/jcb/article/218/5/1452/120908/Designing-a"
-"-rigorous-microscopy-experiment)"
+"[link](https://rupress.org/jcb/article/218/5/1452/120908/Designing-a-"
+"rigorous-microscopy-experiment)"
 msgstr ""
+"[link](https://rupress.org/jcb/article/218/5/1452/120908/Designing-a-"
+"rigorous-microscopy-experiment)"
 
 #: ../../01_Sample_preparation/Resources.md:25
 msgid ""
 "Review of aspects of designing a rigorous light microscopy experiment, "
-"including validation of samples and imaging, identification and "
-"correction of errors, and strategies to avoid biases"
+"including validation of samples and imaging, identification and correction "
+"of errors, and strategies to avoid biases"
 msgstr ""
+"厳密な光学顕微鏡実験を設計する際に考慮すべき事項を概説したレビュー。試料および撮像の妥当性確認、誤りの特定と補正、バイアスを回避するための戦略などを扱っています。"
 
 #: ../../01_Sample_preparation/Resources.md:26
 msgid ""
 "📄 Tutorial: guidance for quantitative confocal microscopy "
 "{cite}`Jonkman2020-bo`"
 msgstr ""
+"📄 Tutorial: guidance for quantitative confocal microscopy "
+"{cite}`Jonkman2020-bo`"
 
 #: ../../01_Sample_preparation/Resources.md:27
 msgid "[link](https://doi.org/10.1038/s41596-020-0313-9)"
-msgstr ""
+msgstr "[link](https://doi.org/10.1038/s41596-020-0313-9)"
 
 #: ../../01_Sample_preparation/Resources.md:28
 msgid ""
-"Step-by-step guidance on practical considerations for sample preparation,"
-" acquisition, and image analysis; primarily though not exclusively aimed "
-"at users of confocal microscopy"
+"Step-by-step guidance on practical considerations for sample preparation, "
+"acquisition, and image analysis; primarily though not exclusively aimed at "
+"users of confocal microscopy"
 msgstr ""
-
+"試料調製、撮像、画像解析に関する実践的な注意点を、手順に沿って解説したガイドです。主に共焦点顕微鏡の利用者を対象としていますが、それに限られません。"

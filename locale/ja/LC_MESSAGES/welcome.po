@@ -1,105 +1,118 @@
 # SOME DESCRIPTIVE TITLE.
 # Copyright (C) 2023
 # This file is distributed under the same license as the Python package.
-# FIRST AUTHOR <EMAIL@ADDRESS>, 2023.
-#
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+# 
+# Translators:
+# Beth Cimini, 2023
+# Haruhiko Morita, 2026
+# 
 #, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: Python \n"
+"Project-Id-Version: Python\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2023-06-28 07:29-0400\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language: ja\n"
-"Language-Team: ja <LL@li.org>\n"
-"Plural-Forms: nplurals=1; plural=0;\n"
+"PO-Revision-Date: 2023-05-02 18:49+0000\n"
+"Last-Translator: Haruhiko Morita, 2026\n"
+"Language-Team: Japanese (https://app.transifex.com/center-for-open-bioimage-analysis/teams/169123/ja/)\n"
 "MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=utf-8\n"
+"Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Generated-By: Babel 2.12.1\n"
+"Language: ja\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
 
 #: ../../welcome.md:1
 msgid "Sample Preparation"
-msgstr ""
+msgstr "サンプルの準備"
 
 #: ../../welcome.md:1
 msgid "Sample Acquisition"
-msgstr ""
+msgstr "サンプルの撮影"
 
 #: ../../welcome.md:1
 msgid "Image Analysis and Data Handling"
-msgstr ""
+msgstr "画像解析とデータ処理"
 
 #: ../../welcome.md:1
 msgid "Data Interpretation"
-msgstr ""
+msgstr "データの解釈"
 
 #: ../../welcome.md:1
 msgid "Additional Resources"
-msgstr ""
+msgstr "関連文献"
 
 #: ../../welcome.md:1
 msgid "Welcome"
-msgstr ""
+msgstr "ようこそ"
 
 #: ../../welcome.md:3
 msgid "Welcome to the world of bioimaging and bioimage analysis! 🎉"
-msgstr ""
+msgstr "バイオイメージングとバイオ画像解析の世界へようこそ！🎉"
 
 #: ../../welcome.md:11
 msgid "BBBC image montage"
-msgstr ""
+msgstr "BBBCイメージ・モンタージュ"
 
 #: ../../welcome.md:11
 msgid ""
 "**Montage of fluorescence microscopy images from "
 "[BBBC](https://bbbc.broadinstitute.org/) {cite}`Ljosa2012-fr` (Broad "
-"Institute).** Images shown are from experiments BBBC007, BBBC008, "
-"BBBC034, BBBC038, BBBC039, and BBBC020 from left to right, top to bottom."
+"Institute).** Images shown are from experiments BBBC007, BBBC008, BBBC034, "
+"BBBC038, BBBC039, and BBBC020 from left to right, top to bottom."
 msgstr ""
+"**[BBBC](https://bbbc.broadinstitute.org/){cite}`Ljosa2012-fr` (Broad "
+"Institute)に含まれる蛍光顕微鏡画像。** "
+"画像は左上からBBBC007、BBBC008、BBBC034、BBBC038、BBBC039、BBBC020の実験によるもの。"
 
 #: ../../welcome.md:13
 msgid "What is this book?"
-msgstr ""
+msgstr "この本について"
 
 #: ../../welcome.md:15
 msgid ""
-"This book is a companion website to our paper \"[**_A biologist’s guide "
-"to planning and performing quantitative bioimaging "
+"This book is a companion website to our paper \"[**_A biologist’s guide to "
+"planning and performing quantitative bioimaging "
 "experiments_**](https://doi.org/10.1371/journal.pbio.3002167)\" "
-"{cite}`Senft2023-zy`. Our goal is to provide recommendations and a "
-"curated set of resources for biologists looking to understand the factors"
-" that impact their fluorescence microscopy experiments."
+"{cite}`Senft2023-zy`. Our goal is to provide recommendations and a curated "
+"set of resources for biologists looking to understand the factors that "
+"impact their fluorescence microscopy experiments."
 msgstr ""
+"この本は我々の論文\"[**_A biologist’s guide to planning and performing quantitative "
+"bioimaging experiments_**](https://doi.org/10.1371/journal.pbio.3002167)\" "
+"{cite}`Senft2023-zy`に付随するものです。この本の目的は、蛍光顕微鏡の実験に影響する要因を理解したい生物学者に向けて、推奨事項と厳選された資料を提供することです。"
 
 #: ../../welcome.md:17
 msgid ""
-"This book is a collaborative effort from experts in biology, imaging, "
-"image analysis, and data management, interpretation, and presentation. "
-"Our tips and recommendations come from real experiences training and "
-"working with biologists who are beginners to bioimaging and bioimage "
-"analysis. When starting out in a new field, you often don't know what you"
-" don't know. Here we provide context, tips for avoiding common beginner "
-"errors, and a focused list of high-quality, open source resources (full "
-"list available [here](bibliography)). We use icons to indicate the type "
-"of resource:"
+"This book is a collaborative effort from experts in biology, imaging, image "
+"analysis, and data management, interpretation, and presentation. Our tips "
+"and recommendations come from real experiences training and working with "
+"biologists who are beginners to bioimaging and bioimage analysis. When "
+"starting out in a new field, you often don't know what you don't know. Here "
+"we provide context, tips for avoiding common beginner errors, and a focused "
+"list of high-quality, open source resources (full list available "
+"[here](bibliography)). We use icons to indicate the type of resource:"
 msgstr ""
+"この本は、生物学、イメージング、イメージング解析、データ管理・解釈、プレゼンテーションの専門家の共同作業の成果です。この本のヒントや推奨事項は、実際にバイオイメージングやバイオ画像解析の初心者である生物学者をトレーニングしたり、一緒に働いたりした体験から得られたものです。初心者のうちは「何がわからないのかさえわからない」ということがよくあります。ここでは、初心者にありがちなミスを避けるための背景知識やヒント、そして厳選した質の高いオープンソースの資料を紹介します（全リストは[こちら](bibliography)）。資料の種類を示すために以下のアイコンを使います："
 
 #: ../../welcome.md:39
 msgid "What **isn't** this book?"
-msgstr ""
+msgstr "この本で**扱わない**こと"
 
 #: ../../welcome.md:41
 msgid ""
-"This book is **not** meant to be an exhaustive list of all resources. "
-"Many others have curated excellent such resources(see "
+"This book is **not** meant to be an exhaustive list of all resources. Many "
+"others have curated excellent such resources(see "
 "[here](https://febs.onlinelibrary.wiley.com/doi/10.1002/1873-3468.14451) "
-"{cite}`Haase2022-ad` and [here](https://www.bioimagingnorthamerica.org"
-"/training-education-resources/) and [here](https://biii.eu/) {cite}`Paul-"
-"Gilloteaux2021-vw`). Our goal is to create a more streamlined, beginner-"
-"accessible guide."
+"{cite}`Haase2022-ad` and "
+"[here](https://www.bioimagingnorthamerica.org/training-education-resources/)"
+" and [here](https://biii.eu/) {cite}`Paul-Gilloteaux2021-vw`). Our goal is "
+"to create a more streamlined, beginner-accessible guide."
 msgstr ""
+"本書は、すべての資料を網羅的にリストアップしたものではありません。そのような素晴らしい資料はたくさんあります。（[こちら](https://febs.onlinelibrary.wiley.com/doi/10.1002/1873-3468.14451){cite}`Haase2022-ad`"
+" や [こちら](https://www.bioimagingnorthamerica.org/training-education-"
+"resources/) 、 [こちら](https://biii.eu/){cite}`Paul-Gilloteaux2021-vw` "
+"をご覧ください）。私たちの目標は、より簡潔で初心者に優しいガイドを作成することです。"
 
 #: ../../welcome.md:42
 msgid ""
@@ -108,54 +121,56 @@ msgid ""
 "interpretation are massive topics that we can't exhaustively cover in a "
 "guide for beginners."
 msgstr ""
+"本書はプロトコルやステップ・バイ・ステップのガイドブックではありません。バイオ画像解析はサンプルの準備からデータの解釈に至るまでのステップ一つ一つが膨大な内容を含みます。本書は初心者向けのガイドである以上、そのすべてはカバーしていません。"
 
 #: ../../welcome.md:45
 msgid "How to use this book:"
-msgstr ""
+msgstr "この本の使い方"
 
 #: ../../welcome.md:46
 msgid ""
 "Please select a section using the navigation panel on the left to get "
 "started or begin with sample preparation by clicking the \"Next\" button "
 "below ↘️."
-msgstr ""
+msgstr "左側のナビゲーションパネルでセクションを選択するか、↘️ の下にある「次へ」ボタンをクリックして「サンプルの準備」に進んでください。"
 
 #: ../../welcome.md:48
 msgid ""
-"Most sections will guide you through individual subtopics using some or "
-"all of the following list of questions:"
-msgstr ""
+"Most sections will guide you through individual subtopics using some or all "
+"of the following list of questions:"
+msgstr "ほとんどのセクションで、以下のQ&Aを使って説明します："
 
 #: ../../welcome.md:49
 msgid "What is it?"
-msgstr ""
+msgstr "基本事項"
 
 #: ../../welcome.md:50
 msgid "What are my options?"
-msgstr ""
+msgstr "選択肢"
 
 #: ../../welcome.md:51
 msgid "How do I do it?"
-msgstr ""
+msgstr "方法"
 
 #: ../../welcome.md:52
 msgid "Where can things go wrong?"
-msgstr ""
+msgstr "問題が生じやすいポイント"
 
 #: ../../welcome.md:53
 msgid "Where can I learn more? (links to resources)"
-msgstr ""
+msgstr "さらに詳しく知るために (関連資料へのリンク)"
 
 #: ../../welcome.md:55
 msgid ""
-"Which questions are used and the exact phrasing may vary by section, but "
-"we hope this structure helps guide users to a deeper understanding of "
-"each subtopic."
+"Which questions are used and the exact phrasing may vary by section, but we "
+"hope this structure helps guide users to a deeper understanding of each "
+"subtopic."
 msgstr ""
+"どの質問を使うか、また正確な言い回しはセクションによって異なる可能性がありますが、この構成が各トピックをより深く理解するための道しるべとなれば幸いです。"
 
 #: ../../welcome.md:57
 msgid "What if my resource/topic is not included?"
-msgstr ""
+msgstr "私のリソース/トピックがない時はどうすればいいですか？"
 
 #: ../../welcome.md:58
 msgid ""
@@ -164,4 +179,4 @@ msgid ""
 " or pull request to contribute! We hope for this to be a living document "
 "reflecting the best practices and resources available."
 msgstr ""
-
+"[issue](https://github.com/broadinstitute/MicroscopyForBeginnersReferenceGuide/issues)やプルリクエストを気軽に開いてください！この本がベストプラクティスと利用可能なリソースを反映して、「生きた」ドキュメントになることを願っています。"
