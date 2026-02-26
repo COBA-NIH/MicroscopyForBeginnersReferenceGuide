@@ -145,7 +145,7 @@ msgstr ""
 
 #: ../../02_Sample_acquisition/Picking.md:1
 msgid "Choosing the right microscopy modality"
-msgstr "適切な顕微鏡モダリティの選択"
+msgstr "適切な顕微鏡を選ぶ"
 
 #: ../../02_Sample_acquisition/Picking.md:5
 msgid ""
