@@ -199,8 +199,9 @@ msgid ""
 "that are not commercially available. Proposals can be submitted during open "
 "calls at [their website](https://www.aicjanelia.org/apply)."
 msgstr ""
-"**アドバンスト・イメージング・センター - ジャネリア・リサーチ・キャンパス.** "
-"AICは、市販されていない新しいイメージング機器を幅広い科学コミュニティに提供するために設立された。プロポーザルは[ウェブサイト](https://www.aicjanelia.org/apply)の公募期間中に提出できる。"
+"**Advanced Imaging Center - Janelia Research Campus.** AIC "
+"は市販されていない新しい光学機器を広く科学コミュニティに提供するために設立されました。 "
+"[ウェブサイト](https://www.aicjanelia.org/apply)."
 
 #: ../../02_Sample_acquisition/Practical_considerations.md:1
 msgid "Practical considerations"
