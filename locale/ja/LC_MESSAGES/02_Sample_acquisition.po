@@ -166,7 +166,7 @@ msgstr ""
 
 #: ../../02_Sample_acquisition/Picking.md:14
 msgid "BBBC image montage"
-msgstr "BBBCイメージ・モンタージュ"
+msgstr "BBBC image montage"
 
 #: ../../02_Sample_acquisition/Picking.md:14
 msgid ""
