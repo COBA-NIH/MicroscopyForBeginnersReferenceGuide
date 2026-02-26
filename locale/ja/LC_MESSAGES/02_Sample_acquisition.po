@@ -182,7 +182,7 @@ msgstr ""
 
 #: ../../02_Sample_acquisition/Picking.md:17
 msgid "Opportunities for microscopy resource access"
-msgstr "顕微鏡リソースへのアクセスの機会"
+msgstr "顕微鏡設備の利用"
 
 #: ../../02_Sample_acquisition/Picking.md:19
 msgid ""
