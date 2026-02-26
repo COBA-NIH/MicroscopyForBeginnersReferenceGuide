@@ -52,8 +52,11 @@ msgid ""
 "view](https://www.microscopyu.com/microscopy-basics/components) gives more "
 "detail about the various parts."
 msgstr ""
-"基礎となる概念は「光路」で、光源から検出器までの光の軌跡をトレースするのに用いることができる。細胞培養顕微鏡であれ、最先端の超解像システムであれ、顕微鏡を扱う際には、システム内のさまざまな光路を時間をかけて追跡することが重要である。システムを部品の総体としてとらえることで、システムをブラックボックスとして扱う場合に比べて、最適化やトラブルシューティングがシステマティックなプロセスになります。この[MicroscopyUのインタラクティブチュートリアル](https://www.microscopyu.com/tutorials/tepaths)は、標準的な倒立顕微鏡の光路を示している。[このビュー](https://www.microscopyu.com/microscopy-"
-"basics/components)では、様々なパーツについてより詳しく説明している。"
+"基礎となる重要な概念の一つに光路 light path "
+"があります。これは、光源から検出器までの光が伝わる経路のことです。細胞培養用の顕微鏡であっても、最先端の超解像顕微鏡であっても、装置内のすべての光路をたどって確認しておくことが重要です。装置をブラックボックスとして扱うのではなく、光路のまとまりとして理解することで、最適化やトラブルシューティングを体系的に行うことができるようになります。標準的な倒立顕微鏡における光路については、[MicroscopyU"
+" "
+"のインタラクティブチュートリアル](https://www.microscopyu.com/tutorials/tepaths)を参照してください。また、顕微鏡の各構成要素については、[こちらの解説](https://www.microscopyu.com/microscopy-"
+"basics/components)でより詳しく紹介されています。"
 
 #: ../../02_Sample_acquisition/Introduction.md:7
 msgid "Types of microscopes"
