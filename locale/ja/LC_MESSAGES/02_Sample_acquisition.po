@@ -66,7 +66,7 @@ msgstr "顕微鏡の種類"
 msgid ""
 "While far from a comprehensive list of what is available, a few of the most "
 "common types of microscopes are listed below."
-msgstr "顕微鏡の種類を網羅したリストとは言い難いが、最も一般的な顕微鏡の種類をいくつか以下に挙げる。"
+msgstr "ここでは網羅的ではないものの、顕微鏡の代表的な種類をいくつか挙げます。"
 
 #: ../../02_Sample_acquisition/Introduction.md:10
 msgid ""
