@@ -220,7 +220,7 @@ msgstr ""
 
 #: ../../02_Sample_acquisition/Practical_considerations.md:5
 msgid "Objective selection"
-msgstr "目的選択"
+msgstr "対物レンズの選び方"
 
 #: ../../02_Sample_acquisition/Practical_considerations.md:7
 msgid ""
