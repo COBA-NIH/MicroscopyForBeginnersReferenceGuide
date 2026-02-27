@@ -1008,7 +1008,7 @@ msgstr "**リソース名"
 
 #: ../../03_Image_analysis/Resources.md:8
 msgid "**Link**"
-msgstr "**リンク"
+msgstr "**リンク**"
 
 #: ../../03_Image_analysis/Resources.md:9
 msgid "**Brief description**"
