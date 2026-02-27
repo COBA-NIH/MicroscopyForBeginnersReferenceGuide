@@ -551,7 +551,7 @@ msgstr "最先端の顕微鏡機器およびイメージングの専門家が揃
 
 #: ../../02_Sample_acquisition/Resources.md:46
 msgid "🌐 Africa Microscopy Initiative"
-msgstr "🌐 アフリカ顕微鏡イニシアティブ"
+msgstr "🌐 Africa Microscopy Initiative"
 
 #: ../../02_Sample_acquisition/Resources.md:47
 msgid "[link](https://www.microscopy.africa/ )"
