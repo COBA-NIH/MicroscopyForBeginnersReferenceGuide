@@ -390,7 +390,7 @@ msgid ""
 "An interactive microscope simulator and learning environment developed by "
 "MicroscopyAustralia, covering a number of types of microscopy."
 msgstr ""
-"MicroscopyAustralia によって開発された、さまざまな種類の顕微鏡を網羅したインタラクティブな顕微鏡シミュレーターおよび学習環境です。"
+"MicroscopyAustralia によって開発された、さまざまな種類の顕微鏡を網羅したインタラクティブな顕微鏡シミュレーターおよび学習環境。"
 
 #: ../../02_Sample_acquisition/Resources.md:19
 msgid "📖 Visualizing Cells Through Microscopy"
