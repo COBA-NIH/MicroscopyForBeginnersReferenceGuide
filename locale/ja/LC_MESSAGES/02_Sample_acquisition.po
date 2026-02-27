@@ -573,7 +573,7 @@ msgstr "[link](https://www.eurobioimaging.eu)"
 
 #: ../../02_Sample_acquisition/Resources.md:51
 msgid "Access to microcopy instruments and training for scientists in Europe"
-msgstr "欧州の科学者のためのマイクロコピー機器とトレーニングへのアクセス"
+msgstr "ヨーロッパの研究者向けに、顕微鏡機器およびそのトレーニングを提供する取り組み"
 
 #: ../../02_Sample_acquisition/_notinyet_Setting_up.md:1
 msgid "Setting up your acquisition"
