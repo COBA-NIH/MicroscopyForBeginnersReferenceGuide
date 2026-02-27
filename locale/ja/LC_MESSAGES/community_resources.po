@@ -44,7 +44,7 @@ msgstr "**リンク**"
 
 #: ../../community_resources.md:14
 msgid "**Brief description**"
-msgstr "**簡単な説明"
+msgstr "**概要**"
 
 #: ../../community_resources.md:15
 msgid "Global BioImaging"
