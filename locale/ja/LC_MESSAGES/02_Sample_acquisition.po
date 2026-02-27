@@ -406,7 +406,9 @@ msgid ""
 "An open textbook chapter from the \"Fundamentals of Cell Biology\" book from"
 " Oregon State University, a great introductory guide to concepts in "
 "microscopy."
-msgstr "オレゴン州立大学の「細胞生物学の基礎」の教科書のオープン チャプター。顕微鏡の概念についての優れた入門ガイドです。"
+msgstr ""
+"オレゴン州立大学による『Fundamentals of Cell "
+"Biology』に収録されたオープン教科書の章で、顕微鏡の基本概念を学ぶための優れた入門ガイドです。"
 
 #: ../../02_Sample_acquisition/Resources.md:22
 msgid ""
