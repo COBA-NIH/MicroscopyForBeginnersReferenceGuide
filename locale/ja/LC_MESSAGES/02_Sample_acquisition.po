@@ -256,9 +256,8 @@ msgid ""
 "al_. Tutorial: guidance for quantitative confocal microscopy. _Nat Prot_ "
 "**15**, (2020) {cite}`Jonkman2020-bo`"
 msgstr ""
-"**光の波長が長くなると解像度が低下する。より短い波長の光で撮像された微小管は、より長い波長の光で撮像されたものよりも高い解像度を示す。Jonkman "
-"J., Brown C.M., Wright G.D _et al_. から引用。Tutorial: Guidance for quantitative"
-" confocal microscopy.Nat Prot_ **15**, (2020){cite}`Jonkman2020-bo`."
+"長波長の光では分解能が低下する。\n"
+"短い波長の光で撮像した微小管は、より長い波長で撮像した場合と比べて高い分解能で観察される。Jonkman J., Brown C.M., Wright G.D.  _et al_. Tutorial: guidance for quantitative confocal microscopy _Nat Prot_ **15**, (2020) より {cite}`Jonkman2020-bo`"
 
 #: ../../02_Sample_acquisition/Practical_considerations.md:21
 msgid ""
