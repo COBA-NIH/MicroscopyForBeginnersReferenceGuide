@@ -367,7 +367,7 @@ msgstr "🌐 Microtutor"
 
 #: ../../02_Sample_acquisition/Resources.md:14
 msgid "[link](https://microtutor.globalbioimaging.org/)"
-msgstr "[リンク](https://microtutor.globalbioimaging.org/)"
+msgstr "[link](https://microtutor.globalbioimaging.org/)"
 
 #: ../../02_Sample_acquisition/Resources.md:15
 msgid ""
