@@ -339,7 +339,7 @@ msgstr "**リソース名"
 
 #: ../../02_Sample_acquisition/Resources.md:8
 msgid "**Link**"
-msgstr "**リンク"
+msgstr "**リンク**"
 
 #: ../../02_Sample_acquisition/Resources.md:9
 msgid "**Brief description**"
