@@ -445,7 +445,7 @@ msgstr ""
 msgid ""
 "Short overview of some of the most common pitfalls for beginners to "
 "fluorescence microscopy"
-msgstr "蛍光顕微鏡の初心者にありがちな落とし穴の簡単な概要"
+msgstr "蛍光顕微鏡初心者に多い典型的な注意点の概要"
 
 #: ../../02_Sample_acquisition/Resources.md:28
 msgid ""
