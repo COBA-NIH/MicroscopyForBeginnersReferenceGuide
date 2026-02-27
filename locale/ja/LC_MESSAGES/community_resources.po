@@ -36,7 +36,7 @@ msgstr "グローバル・リソースとオンライン・リソース"
 
 #: ../../community_resources.md:12 ../../community_resources.md:41
 msgid "**Resource Name**"
-msgstr "**リソース名"
+msgstr "**リソース名**"
 
 #: ../../community_resources.md:13 ../../community_resources.md:42
 msgid "**Link**"
