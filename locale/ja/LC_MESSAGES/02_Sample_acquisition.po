@@ -471,7 +471,9 @@ msgstr ""
 msgid ""
 "📄 Best practices and tools for reporting reproducible fluorescence "
 "microscopy methods {cite}`Montero_Llopis2021-nb`"
-msgstr "📄 再現性のある蛍光顕微鏡法を報告するためのベストプラクティスとツール{cite}`Montero_Llopis2021-nb`"
+msgstr ""
+"📄 Best practices and tools for reporting reproducible fluorescence "
+"microscopy methods {cite}`Montero_Llopis2021-nb`"
 
 #: ../../02_Sample_acquisition/Resources.md:32
 msgid "[link](https://www.nature.com/articles/s41592-021-01156-w)"
