@@ -379,7 +379,7 @@ msgstr ""
 
 #: ../../02_Sample_acquisition/Resources.md:16
 msgid "🌐 MyScope"
-msgstr "🌐 マイスコープ"
+msgstr "🌐 MyScope"
 
 #: ../../02_Sample_acquisition/Resources.md:17
 msgid "[link](https://myscope.training/)"
