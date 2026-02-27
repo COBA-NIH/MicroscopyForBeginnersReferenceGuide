@@ -569,7 +569,7 @@ msgstr "🌐 Euro-Bioimaging"
 
 #: ../../02_Sample_acquisition/Resources.md:50
 msgid "[link](https://www.eurobioimaging.eu)"
-msgstr "[リンク](https://www.eurobioimaging.eu)"
+msgstr "[link](https://www.eurobioimaging.eu)"
 
 #: ../../02_Sample_acquisition/Resources.md:51
 msgid "Access to microcopy instruments and training for scientists in Europe"
