@@ -1004,7 +1004,7 @@ msgstr "より詳しく知るための参考資料"
 
 #: ../../03_Image_analysis/Resources.md:7
 msgid "**Resource Name**"
-msgstr "**リソース名"
+msgstr "**リソース**"
 
 #: ../../03_Image_analysis/Resources.md:8
 msgid "**Link**"
