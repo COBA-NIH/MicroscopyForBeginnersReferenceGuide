@@ -465,7 +465,7 @@ msgid ""
 "acquisition, and image analysis; primarily though not exclusively aimed at "
 "users of confocal microscopy"
 msgstr ""
-"試料調製、撮像、画像解析に関する実践的な注意点を、手順に沿って解説したガイドです。主に共焦点顕微鏡の利用者を対象としていますが、それに限られません。"
+"試料調製、撮像、画像解析に関する実践的な注意点を、手順に沿って解説したガイドです。主に共焦点顕微鏡の利用者を対象としていますが、知見は他の顕微鏡での観察にも使えます。"
 
 #: ../../02_Sample_acquisition/Resources.md:31
 msgid ""
