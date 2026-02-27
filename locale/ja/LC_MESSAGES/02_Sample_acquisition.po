@@ -514,7 +514,7 @@ msgid ""
 "[link](https://www.youtube.com/watch?v=4c5ILWQmqRY&list=PLQFc-"
 "Dxlf4pSRaEk8Xi9BzS0r8-LYmwRQ)"
 msgstr ""
-"[リンク](https://www.youtube.com/watch?v=4c5ILWQmqRY&amp;list=PLQFc-"
+"[link](https://www.youtube.com/watch?v=4c5ILWQmqRY&list=PLQFc-"
 "Dxlf4pSRaEk8Xi9BzS0r8-LYmwRQ)"
 
 #: ../../02_Sample_acquisition/Resources.md:39
