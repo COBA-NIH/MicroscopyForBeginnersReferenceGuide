@@ -547,7 +547,7 @@ msgstr "[link](https://www.aicjanelia.org/apply)"
 #: ../../02_Sample_acquisition/Resources.md:45
 msgid ""
 "Access to the state of the art microscopy instruments and imaging experts"
-msgstr "最先端の顕微鏡装置とイメージング専門家へのアクセス"
+msgstr "最先端の顕微鏡機器およびイメージングの専門家が揃った施設"
 
 #: ../../02_Sample_acquisition/Resources.md:46
 msgid "🌐 Africa Microscopy Initiative"
