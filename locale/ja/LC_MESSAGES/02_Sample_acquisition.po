@@ -353,7 +353,7 @@ msgstr "🌐 Nikon MicroscopyU"
 msgid "[link](https://www.microscopyu.com/microscopy-basics)"
 msgstr ""
 "[link](https://www.microscopyu.com/microscopy-basics)\n"
-"[日本語](https://www.microscopyu.com/ja)"
+"[日本語版](https://www.microscopyu.com/ja)"
 
 #: ../../02_Sample_acquisition/Resources.md:12
 msgid ""
