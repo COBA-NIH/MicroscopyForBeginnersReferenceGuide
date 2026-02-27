@@ -438,7 +438,7 @@ msgid ""
 "[link](https://journals.biologists.com/jcs/article/120/10/1703/29404/Fluorescence-"
 "microscopy-avoiding-the-pitfalls)"
 msgstr ""
-"[リンク](https://journals.biologists.com/jcs/article/120/10/1703/29404/Fluorescence-"
+"[link](https://journals.biologists.com/jcs/article/120/10/1703/29404/Fluorescence-"
 "microscopy-avoiding-the-pitfalls)"
 
 #: ../../02_Sample_acquisition/Resources.md:27
