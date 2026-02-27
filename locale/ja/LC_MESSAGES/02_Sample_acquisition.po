@@ -534,7 +534,7 @@ msgstr "[link](https://www.youtube.com/@Microcourses)"
 #: ../../02_Sample_acquisition/Resources.md:42
 msgid ""
 "Videos about microscopy from the microscopy cores at Harvard Medical School"
-msgstr "ハーバード・メディカル・スクールの顕微鏡コアによる顕微鏡検査に関するビデオ"
+msgstr "ハーバード大学医学部の顕微鏡コアが提供する解説動画"
 
 #: ../../02_Sample_acquisition/Resources.md:43
 msgid "🌐 Advanced Imaging Center"
