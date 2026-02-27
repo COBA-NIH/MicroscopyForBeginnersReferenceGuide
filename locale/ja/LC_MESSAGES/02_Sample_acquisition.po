@@ -451,7 +451,9 @@ msgstr "蛍光顕微鏡初心者に多い典型的な注意点の概要"
 msgid ""
 "📄 Tutorial: guidance for quantitative confocal microscopy "
 "{cite}`Jonkman2020-bo`"
-msgstr "チュートリアル：定量的共焦点顕微鏡のガイダンス{cite}`Jonkman2020-bo`"
+msgstr ""
+"📄 Tutorial: guidance for quantitative confocal microscopy "
+"{cite}`Jonkman2020-bo`"
 
 #: ../../02_Sample_acquisition/Resources.md:29
 msgid "[link](https://doi.org/10.1038/s41596-020-0313-9)"
