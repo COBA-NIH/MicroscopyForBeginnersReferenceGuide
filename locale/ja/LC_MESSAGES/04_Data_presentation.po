@@ -354,7 +354,7 @@ msgstr "より詳しく知るための参考資料"
 
 #: ../../04_Data_presentation/Resources.md:8
 msgid "**Resource Name**"
-msgstr "**リソース**"
+msgstr "**リソース名**"
 
 #: ../../04_Data_presentation/Resources.md:9
 msgid "**Link**"
