@@ -565,7 +565,7 @@ msgstr "アフリカの研究者向けに、先端的な顕微鏡装置や分子
 
 #: ../../02_Sample_acquisition/Resources.md:49
 msgid "🌐 Euro-Bioimaging"
-msgstr "🌐 ユーロバイオイメージング"
+msgstr "🌐 Euro-Bioimaging"
 
 #: ../../02_Sample_acquisition/Resources.md:50
 msgid "[link](https://www.eurobioimaging.eu)"
