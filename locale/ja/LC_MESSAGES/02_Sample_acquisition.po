@@ -577,4 +577,4 @@ msgstr "欧州の科学者のためのマイクロコピー機器とトレーニ
 
 #: ../../02_Sample_acquisition/_notinyet_Setting_up.md:1
 msgid "Setting up your acquisition"
-msgstr "買収の設定"
+msgstr "撮影の設定をしよう"
