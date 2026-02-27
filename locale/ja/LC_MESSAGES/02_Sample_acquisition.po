@@ -331,7 +331,7 @@ msgstr ""
 
 #: ../../02_Sample_acquisition/Resources.md:1
 msgid "Resources for learning more"
-msgstr "より多くを学ぶためのリソース"
+msgstr "より詳しく学ぶための参考資料"
 
 #: ../../02_Sample_acquisition/Resources.md:7
 msgid "**Resource Name**"
