@@ -267,7 +267,7 @@ msgid ""
 "lenses are corrected to focus 3 to 6 colors in the same plane at the same "
 "time. `Fluor` lenses will typically focus two colors at once."
 msgstr ""
-"色収差補正: 多色蛍光顕微鏡観察を行う場合には、`Apo` または `Super Apo` "
+"色収差補正：多色蛍光顕微鏡観察を行う場合には、`Apo` または `Super Apo` "
 "と表示された対物レンズを選択することが重要です。これらのレンズは、3〜6種類の異なる波長の光を同一平面上に同時に結像できるように補正されています。一方、`Fluor`"
 " レンズでは、通常は同時に正確に結像できる色は2色程度です。"
 
