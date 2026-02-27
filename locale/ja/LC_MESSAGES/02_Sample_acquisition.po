@@ -312,7 +312,7 @@ msgstr ""
 
 #: ../../02_Sample_acquisition/Practical_considerations.md:32
 msgid "Acquisition power/speed"
-msgstr "獲得パワー/スピード"
+msgstr "励起光の強さと撮像速度"
 
 #: ../../02_Sample_acquisition/Practical_considerations.md:34
 msgid ""
