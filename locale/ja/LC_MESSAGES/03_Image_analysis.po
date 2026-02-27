@@ -1000,7 +1000,7 @@ msgstr ""
 
 #: ../../03_Image_analysis/Resources.md:1
 msgid "Resources for learning more"
-msgstr "より多くを学ぶためのリソース"
+msgstr "より詳しく知るための参考資料"
 
 #: ../../03_Image_analysis/Resources.md:7
 msgid "**Resource Name**"
