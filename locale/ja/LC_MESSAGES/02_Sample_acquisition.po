@@ -408,7 +408,7 @@ msgid ""
 "microscopy."
 msgstr ""
 "オレゴン州立大学による『Fundamentals of Cell "
-"Biology』に収録されたオープン教科書の章で、顕微鏡の基本概念を学ぶための優れた入門ガイドです。"
+"Biology』に収録されたオープン教科書の章で、顕微鏡の基本概念を学ぶための入門ガイド"
 
 #: ../../02_Sample_acquisition/Resources.md:22
 msgid ""
