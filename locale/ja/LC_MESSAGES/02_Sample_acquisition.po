@@ -343,7 +343,7 @@ msgstr "**リンク**"
 
 #: ../../02_Sample_acquisition/Resources.md:9
 msgid "**Brief description**"
-msgstr "**簡単な説明"
+msgstr "**概要**"
 
 #: ../../02_Sample_acquisition/Resources.md:10
 msgid "🌐 Nikon MicroscopyU"
