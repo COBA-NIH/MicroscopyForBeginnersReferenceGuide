@@ -497,7 +497,7 @@ msgstr ""
 
 #: ../../02_Sample_acquisition/Resources.md:35
 msgid "[link](https://doi.org/10.1242/jcs.261567)"
-msgstr "[リンク](https://doi.org/10.1242/jcs.261567)"
+msgstr "[link](https://doi.org/10.1242/jcs.261567)"
 
 #: ../../02_Sample_acquisition/Resources.md:36
 msgid ""
