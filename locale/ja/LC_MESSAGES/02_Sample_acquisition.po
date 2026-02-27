@@ -426,7 +426,7 @@ msgstr "[link](https://doi.org/10.1083/jcb.200507103)"
 msgid ""
 "An overview of common concerns to check for during sample preparation and "
 "image acquisition"
-msgstr "サンプル前処理および画像取得中にチェックすべき一般的な懸念事項の概要"
+msgstr "試料調製と撮像時に留意すべき主なポイントの概要"
 
 #: ../../02_Sample_acquisition/Resources.md:25
 msgid "📄 Fluorescence microscopy - avoiding the pitfalls {cite}`Brown2007-ou`"
