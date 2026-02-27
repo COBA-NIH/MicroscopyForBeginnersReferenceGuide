@@ -555,7 +555,7 @@ msgstr "🌐 Africa Microscopy Initiative"
 
 #: ../../02_Sample_acquisition/Resources.md:47
 msgid "[link](https://www.microscopy.africa/ )"
-msgstr "[リンク](https://www.microscopy.africa/ )"
+msgstr "[link](https://www.microscopy.africa/ )"
 
 #: ../../02_Sample_acquisition/Resources.md:48
 msgid ""
