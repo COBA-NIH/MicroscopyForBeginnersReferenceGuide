@@ -4,7 +4,7 @@
 # FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
 # 
 # Translators:
-# Beth Cimini, 2025
+# Beth Cimini, 2023
 # Haruhiko Morita, 2026
 # 
 #, fuzzy
@@ -503,11 +503,11 @@ msgstr "[link](https://doi.org/10.1242/jcs.261567)"
 msgid ""
 "Thoughtful review on technological and especially psychological factors that"
 " can lead to biased microscopy results"
-msgstr "顕微鏡検査の結果に偏りをもたらす可能性のある技術的要因、特に心理的要因に関する思慮深い検討"
+msgstr "顕微鏡結果にバイアスを生じさせる技術的・心理的要因を論じたレビュー"
 
 #: ../../02_Sample_acquisition/Resources.md:37
 msgid "🎥 iBiology Microscopy Short Course"
-msgstr "iBiology 顕微鏡ショートコース"
+msgstr "🎥 iBiology Microscopy Short Course"
 
 #: ../../02_Sample_acquisition/Resources.md:38
 msgid ""
