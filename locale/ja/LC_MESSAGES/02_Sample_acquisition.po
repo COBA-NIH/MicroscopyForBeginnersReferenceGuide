@@ -363,7 +363,7 @@ msgstr "顕微鏡の基礎を豊富な図とわかりやすい用語解説で初
 
 #: ../../02_Sample_acquisition/Resources.md:13
 msgid "🌐 Microtutor"
-msgstr "🌐 マイクロチューター"
+msgstr "🌐 Microtutor"
 
 #: ../../02_Sample_acquisition/Resources.md:14
 msgid "[link](https://microtutor.globalbioimaging.org/)"
