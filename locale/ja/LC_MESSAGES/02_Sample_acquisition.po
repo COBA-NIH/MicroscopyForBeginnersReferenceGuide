@@ -347,7 +347,7 @@ msgstr "**概要**"
 
 #: ../../02_Sample_acquisition/Resources.md:10
 msgid "🌐 Nikon MicroscopyU"
-msgstr "ニコンマイクロスコピーU 🌐 ニコンマイクロスコピーU"
+msgstr "🌐 Nikon MicroscopyU"
 
 #: ../../02_Sample_acquisition/Resources.md:11
 msgid "[link](https://www.microscopyu.com/microscopy-basics)"
