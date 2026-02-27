@@ -538,7 +538,7 @@ msgstr "ハーバード大学医学部の顕微鏡コアが提供する解説動
 
 #: ../../02_Sample_acquisition/Resources.md:43
 msgid "🌐 Advanced Imaging Center"
-msgstr "🌐 先端画像診断センター"
+msgstr "🌐 Advanced Imaging Center"
 
 #: ../../02_Sample_acquisition/Resources.md:44
 msgid "[link](https://www.aicjanelia.org/apply)"
