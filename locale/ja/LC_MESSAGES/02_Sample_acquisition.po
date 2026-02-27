@@ -307,7 +307,8 @@ msgid ""
 "calculator](https://svi.nl/NyquistCalculator) that you can use to calculate "
 "the optimal z section spacing for your imaging conditions."
 msgstr ""
-"複数のzセクションをキャプチャする場合、正確な3D再構成を行うには、これらのセクションの間隔が重要です。SVIでは、[これに関する数学的な詳しい説明](https://svi.nl/NyquistRate)と、使いやすい[オンライン計算機](https://svi.nl/NyquistCalculator)を用意しており、撮影条件に最適なzセクションの間隔を計算することができます。"
+"複数のz平面を撮影する場合、正確な三次元再構成を行うためには、各断面の間隔が重要になります。SVI "
+"では　[これに関する数学的な詳しい説明](https://svi.nl/NyquistRate)と、撮像条件に基づいて最適なZ断面間隔を計算できる[オンライン計算ツール](https://svi.nl/NyquistCalculator)も公開しています。"
 
 #: ../../02_Sample_acquisition/Practical_considerations.md:32
 msgid "Acquisition power/speed"
