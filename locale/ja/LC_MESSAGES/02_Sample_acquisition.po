@@ -279,7 +279,8 @@ msgid ""
 "if needing to image away from the surface of the sample, it is important to "
 "ensure the lens has a sufficient working distance."
 msgstr ""
-"ワーキングディスタンス：ワーキングディスタンス（WD）は、レンズが試料に焦点を合わせることができる距離をミリメートル単位で示す。この距離には、カバースリップやマウントメディアも含まれます。厚いサンプルを撮像する場合、および/またはサンプルの表面から離れて撮像する必要がある場合、レンズのワーキングディスタンスが十分であることを確認することが重要です。"
+"作動距離：作動距離（working distance, "
+"WD）とは、対物レンズが試料内部に焦点を合わせることのできる距離をミリメートル単位で示したものです。この距離には、カバーガラスや封入剤の厚さも含まれます。厚い試料を観察する場合や、試料表面から離れた位置を撮像する必要がある場合には、対物レンズの作動距離が十分であることを確認することが重要です。"
 
 #: ../../02_Sample_acquisition/Practical_considerations.md:24
 msgid "Filter sets"
