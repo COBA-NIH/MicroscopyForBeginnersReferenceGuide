@@ -357,7 +357,7 @@ msgstr "[link](https://www.microscopyu.com/microscopy-basics)"
 msgid ""
 "Fundamentals of microscopy explained for beginners with lots of images and "
 "plain language descriptions of terms used in microscopy"
-msgstr "初心者のための顕微鏡の基礎知識を、豊富な画像と顕微鏡で使われる用語を平易な言葉で解説。"
+msgstr "顕微鏡の基礎を豊富な図とわかりやすい用語解説で初学者向けに説明した資料。"
 
 #: ../../02_Sample_acquisition/Resources.md:13
 msgid "🌐 Microtutor"
