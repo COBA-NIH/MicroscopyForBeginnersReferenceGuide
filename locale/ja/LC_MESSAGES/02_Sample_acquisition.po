@@ -399,7 +399,7 @@ msgstr "📖 Visualizing Cells Through Microscopy"
 msgid ""
 "[link](https://open.oregonstate.education/cellbiology/chapter/microscopy/)"
 msgstr ""
-"[リンク](https://open.oregonstate.education/cellbiology/chapter/microscopy/)"
+"[link](https://open.oregonstate.education/cellbiology/chapter/microscopy/)"
 
 #: ../../02_Sample_acquisition/Resources.md:21
 msgid ""
