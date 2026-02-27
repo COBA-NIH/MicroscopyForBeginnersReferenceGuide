@@ -415,8 +415,8 @@ msgid ""
 "📄 Seeing is believing? A beginners' guide to practical pitfalls in image "
 "acquisition {cite}`North2006-sb`"
 msgstr ""
-"百聞は一見にしかず？A beginners' guide to practical pitfalls in image "
-"acquisition{cite}`North2006-sb`"
+"📄 Seeing is believing? A beginners' guide to practical pitfalls in image "
+"acquisition {cite}`North2006-sb`"
 
 #: ../../02_Sample_acquisition/Resources.md:23
 msgid "[link](https://doi.org/10.1083/jcb.200507103)"
