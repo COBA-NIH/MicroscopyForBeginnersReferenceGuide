@@ -561,7 +561,7 @@ msgstr "[link](https://www.microscopy.africa/ )"
 msgid ""
 "Access to advanced microscopes, molecular biology and cell culture equipment"
 " for scientists in Africa"
-msgstr "アフリカの科学者が先進的な顕微鏡、分子生物学、細胞培養装置を利用できるようにする。"
+msgstr "アフリカの研究者向けに、先端的な顕微鏡装置や分子生物学・細胞培養機器へのアクセスを提供する取り組み"
 
 #: ../../02_Sample_acquisition/Resources.md:49
 msgid "🌐 Euro-Bioimaging"
