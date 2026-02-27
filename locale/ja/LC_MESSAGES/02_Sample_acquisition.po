@@ -485,7 +485,7 @@ msgid ""
 "fluorescence light microscopy techniques, emphasizing the impact of accurate"
 " microscopy metadata on data interpretation."
 msgstr ""
-"最も一般的な蛍光顕微鏡技術を正確に報告するためのガイドラインとリソース。正確な顕微鏡メタデータがデータ解釈に与える影響に重点を置いています。"
+"主要な蛍光光学顕微鏡法を正確に報告するためのガイドラインと関連リソース。特に、顕微鏡メタデータを正確に記録・報告することが、データ解釈に与える影響を強調しています。"
 
 #: ../../02_Sample_acquisition/Resources.md:34
 msgid ""
