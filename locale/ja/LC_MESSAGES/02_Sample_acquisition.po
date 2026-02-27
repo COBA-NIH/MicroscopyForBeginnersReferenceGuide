@@ -521,7 +521,7 @@ msgstr ""
 msgid ""
 "An 8 hour video series consisting of 14 videos introducting major concepts "
 "in microscopy. A longer course with >70 videos is also available."
-msgstr "顕微鏡学の主要な概念を紹介する14本のビデオで構成された8時間のビデオシリーズ。70本以上のビデオで構成される長期コースもあります。"
+msgstr "顕微鏡の主要な概念を紹介する、全14本・計8時間のビデオシリーズ。70本以上の動画からなるより詳細なコースもあります。"
 
 #: ../../02_Sample_acquisition/Resources.md:40
 msgid "🎥 Microcourses"
