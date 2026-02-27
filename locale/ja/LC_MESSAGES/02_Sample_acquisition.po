@@ -542,7 +542,7 @@ msgstr "🌐 Advanced Imaging Center"
 
 #: ../../02_Sample_acquisition/Resources.md:44
 msgid "[link](https://www.aicjanelia.org/apply)"
-msgstr "[リンク](https://www.aicjanelia.org/apply)"
+msgstr "[link](https://www.aicjanelia.org/apply)"
 
 #: ../../02_Sample_acquisition/Resources.md:45
 msgid ""
