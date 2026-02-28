@@ -256,7 +256,7 @@ msgstr ""
 msgid ""
 "It is also important to recognize that co-ocurrence does not _necessarily_ "
 "imply interaction."
-msgstr "また、共起が_必ずしも_相互作用を意味するわけではないことにも注意が必要です。"
+msgstr "また、共局在は_必ずしも_相互作用を意味するわけではないことにも注意が必要です。"
 
 #: ../../03_Image_analysis/Colocalization.md:11
 msgid ""
