@@ -144,11 +144,11 @@ msgstr "Latin America BioImaging"
 
 #: ../../community_resources.md:46
 msgid "[link](https://www.latambioimaging.org/ )"
-msgstr "[リンク](https://www.latambioimaging.org/ )"
+msgstr "[link](https://www.latambioimaging.org/ )"
 
 #: ../../community_resources.md:47
 msgid "African BioImaging Consortium"
-msgstr "アフリカ・バイオイメージング・コンソーシアム"
+msgstr "African BioImaging Consortium"
 
 #: ../../community_resources.md:48
 msgid "[link](https://www.africanbioimaging.org/)"
