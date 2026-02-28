@@ -1467,7 +1467,7 @@ msgstr "カード画像トップ"
 
 #: ../../03_Image_analysis/Software.md:0
 msgid "ImageJ"
-msgstr "イメージジェイ"
+msgstr "ImageJ"
 
 #: ../../03_Image_analysis/Software.md:21
 msgid ""
