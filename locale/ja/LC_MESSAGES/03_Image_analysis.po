@@ -845,8 +845,8 @@ msgid ""
 "](https://napari.org/stable/tutorials/fundamentals/installation.html#install-"
 "as-a-bundled-app)"
 msgstr ""
-"🌐 "
-"[ナパリバンドルアプリダウンロード](https://napari.org/stable/tutorials/fundamentals/installation.html#install-"
+"🌐 [napari bundled app download "
+"](https://napari.org/stable/tutorials/fundamentals/installation.html#install-"
 "as-a-bundled-app)"
 
 #: ../../03_Image_analysis/GeneralUseSoftware.md:176
