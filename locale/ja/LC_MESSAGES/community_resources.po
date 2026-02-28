@@ -124,7 +124,7 @@ msgstr "[link](https://nic.med.harvard.edu/fav_references/)"
 msgid ""
 "A curated list of references related to many aspects of microscopy and image"
 " analysis"
-msgstr "顕微鏡と画像解析の様々な側面に関連する参考文献のリスト。"
+msgstr "顕微鏡法および画像解析の多岐にわたるトピックに関する、厳選された参考文献リスト"
 
 #: ../../community_resources.md:35
 msgid "Local resources"
