@@ -1480,7 +1480,7 @@ msgid ""
 "time series. It provides basic imaging processing operations and has a "
 "variety of plugins for more complex tasks. [Read more...](content/imagej)"
 msgstr ""
-"[ImageJ](https://imagej.net/)は、マルチチャンネル、3D、時系列を含む様々な画像を操作できる画像処理プログラムです。基本的な画像処理操作を提供し、より複雑なタスクのための様々なプラグインを備えています。[続きを読む...](content/imagej)"
+"[ImageJ](https://imagej.net/)は、マルチチャンネル画像、3次元画像、タイムラプス画像など、さまざまな種類の画像を扱うことができる画像処理プログラムです。基本的な画像処理操作を多数備えているだけでなく、多様なプラグインによって複雑な解析を行えるよう機能を拡張することもできます。[続きを読む...](content/imagej)"
 
 #: ../../03_Image_analysis/Software.md:0
 msgid "CellProfiler"
