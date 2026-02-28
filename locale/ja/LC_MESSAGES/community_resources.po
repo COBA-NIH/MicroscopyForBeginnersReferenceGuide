@@ -152,7 +152,7 @@ msgstr "African BioImaging Consortium"
 
 #: ../../community_resources.md:48
 msgid "[link](https://www.africanbioimaging.org/)"
-msgstr "[リンク](https://www.africanbioimaging.org/)"
+msgstr "[link](https://www.africanbioimaging.org/)"
 
 #: ../../community_resources.md:49
 msgid "South Africa BioImaging"
