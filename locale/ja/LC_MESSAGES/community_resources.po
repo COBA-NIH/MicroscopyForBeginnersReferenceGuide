@@ -70,7 +70,7 @@ msgstr "[link](https://www.globias.org/home)"
 
 #: ../../community_resources.md:20
 msgid "Connections, training, and more for bioimage analysts across the world"
-msgstr "世界中のバイオイメージアナリストのためのコネクション、トレーニングなど"
+msgstr "世界中のバイオイメージング解析者のためのネットワーク、トレーニング、およびその他のリソース"
 
 #: ../../community_resources.md:21
 msgid "Microforum"
