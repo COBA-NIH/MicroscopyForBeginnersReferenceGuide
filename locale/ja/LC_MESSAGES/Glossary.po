@@ -107,7 +107,7 @@ msgid ""
 " or more advanced (e.g. enhancing particular features of an image like "
 "circles or lines)."
 msgstr ""
-"画像処理とは、画像に対して実行され、別の画像を生成する操作のこと。画像処理には、単純なもの（サイズ変更や回転など）もあれば、高度なもの（円や線など画像の特定の特徴を強調するなど）もある。"
+"画像処理は、画像に対して実行され、別の画像を生成する操作のこと。画像処理には、単純なもの（サイズ変更や回転など）もあれば、高度なもの（円や線など画像の特定の特徴を強調するなど）もある。"
 
 #: ../../Glossary.md:18
 msgid "Immersion media"
