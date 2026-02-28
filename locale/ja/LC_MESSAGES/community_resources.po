@@ -136,11 +136,11 @@ msgstr "BioImaging North America (BINA)"
 
 #: ../../community_resources.md:44
 msgid "[link](https://www.bioimagingnorthamerica.org/)"
-msgstr "[リンク](https://www.bioimagingnorthamerica.org/)"
+msgstr "[link](https://www.bioimagingnorthamerica.org/)"
 
 #: ../../community_resources.md:45
 msgid "Latin America BioImaging"
-msgstr "ラテンアメリカ バイオイメージング"
+msgstr "Latin America BioImaging"
 
 #: ../../community_resources.md:46
 msgid "[link](https://www.latambioimaging.org/ )"
