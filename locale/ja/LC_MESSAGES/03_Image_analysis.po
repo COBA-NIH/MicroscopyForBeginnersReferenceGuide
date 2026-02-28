@@ -1158,8 +1158,8 @@ msgid ""
 "📄 A Hitchhiker's guide through the bio-image analysis software universe "
 "{cite}`Haase2022-ad`"
 msgstr ""
-"📄 A Hitchhiker's guide through bio-image analysis software "
-"universe{cite}`Haase2022-ad`"
+"📄 A Hitchhiker's guide through the bio-image analysis software universe "
+"{cite}`Haase2022-ad`"
 
 #: ../../03_Image_analysis/Resources.md:32
 msgid ""
