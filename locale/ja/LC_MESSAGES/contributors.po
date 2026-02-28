@@ -4,7 +4,7 @@
 # FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
 # 
 # Translators:
-# Beth Cimini, 2024
+# Beth Cimini, 2023
 # Haruhiko Morita, 2026
 # 
 #, fuzzy
@@ -154,4 +154,4 @@ msgstr "ポルトガル語: Mario Costa Cruz"
 
 #: ../../contributors.md:33
 msgid "Spanish: Mariana De Niz"
-msgstr "スペイン語: マリアナ・デ・ニズ"
+msgstr "スペイン語：Mariana De Niz"
