@@ -1179,7 +1179,7 @@ msgstr "🌐 BioImage Informatics Index"
 
 #: ../../03_Image_analysis/Resources.md:35
 msgid "[link](https://biii.eu/)"
-msgstr "[リンク](https://biii.eu/)"
+msgstr "[link](https://biii.eu/)"
 
 #: ../../03_Image_analysis/Resources.md:36
 msgid ""
