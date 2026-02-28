@@ -1245,7 +1245,7 @@ msgstr "[リンク](https://neubias.github.io/training-resources/index.html)"
 msgid ""
 "Image analysis traning resources collected by NEUBIAS, styled based on The "
 "Carpentries"
-msgstr "NEUBIASによる画像解析のトレーニングリソース。"
+msgstr "NEUBIASが収集した、画像解析のトレーニングリソース。米国教育ワークショップのカーペントリーズのスタイルを参考にしている。"
 
 #: ../../03_Image_analysis/Resources.md:49
 msgid "🌐 Bioimage Analysis AwesomeList"
