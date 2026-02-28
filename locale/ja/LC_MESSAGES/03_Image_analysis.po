@@ -1533,7 +1533,7 @@ msgid ""
 "microscopy. It allows you to use the whole acquired data for its analysis "
 "and extraction of morphological features. [Read more...](content/mib)"
 msgstr ""
-"[MIB](http://mib.helsinki.fi/index.html)は、光学顕微鏡および電子顕微鏡の多次元データセットの画像解析のためのユーザーフレンドリーなソフトウェアです。取得した全データを解析や形態学的特徴の抽出に使用することができます。[続きを読む...](content/mib)"
+"[MIB](http://mib.helsinki.fi/index.html)は、光学顕微鏡と電子顕微鏡の両方に対応した多次元データセットの画像解析のための使いやすいソフトウェアです。取得したデータ全体を使用して、形態学的特徴の解析と抽出を行うことができます。[続きを読む...](content/mib)"
 
 #: ../../03_Image_analysis/Software.md:0
 msgid "napari"
