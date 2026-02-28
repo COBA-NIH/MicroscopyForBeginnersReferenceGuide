@@ -1072,7 +1072,7 @@ msgstr "[link](https://www.globias.org/resources/bioimage-analyst-db)"
 
 #: ../../03_Image_analysis/Resources.md:15
 msgid "Find the friendly local bioimage analyst near you!"
-msgstr "お近くのフレンドリーなバイオイメージアナリストを探しましょう。"
+msgstr "近くのバイオイメージング解析の専門家を検索できます"
 
 #: ../../03_Image_analysis/Resources.md:16
 msgid "🌐 Peter Bankhead’s Intro to Bioimage Analysis"
