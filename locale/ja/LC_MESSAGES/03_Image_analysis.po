@@ -1165,7 +1165,7 @@ msgstr ""
 msgid ""
 "[link](https://febs.onlinelibrary.wiley.com/doi/full/10.1002/1873-3468.14451)"
 msgstr ""
-"[リンク](https://febs.onlinelibrary.wiley.com/doi/full/10.1002/1873-3468.14451)"
+"[link](https://febs.onlinelibrary.wiley.com/doi/full/10.1002/1873-3468.14451)"
 
 #: ../../03_Image_analysis/Resources.md:33
 msgid ""
