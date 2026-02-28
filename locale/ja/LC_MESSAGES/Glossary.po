@@ -245,7 +245,7 @@ msgstr "ROI"
 msgid ""
 "Regions Of Interest. Pixels in your image that you care about (e.g., a "
 "region in tissue, a cell, a tumor, etc.)"
-msgstr "関心領域。画像内の気になるピクセル（組織内の領域、細胞、腫瘍など）。"
+msgstr "関心領域。画像内の気になる領域のこと（組織内の領域、細胞、腫瘍など）。"
 
 #: ../../Glossary.md:45
 msgid "Segmentation"
