@@ -1641,7 +1641,7 @@ msgid ""
 "consuming, but is likely less time consuming than other methods of training "
 "models."
 msgstr ""
-"新しいモデルのトレーニングには手動アノテーションの修正が必要であり、時間がかかる場合がありますが、他のモデルトレーニング手法と比べるとかかる時間は少ないでしょう。"
+"新しいモデルのトレーニングには手動アノテーションの修正が必要であり、時間がかかる場合があります。ただし、他のモデルトレーニング手法と比べるとかかる時間は少ないでしょう。"
 
 #: ../../03_Image_analysis/SpecificUseSoftware.md:28
 msgid ""
