@@ -644,7 +644,7 @@ msgid ""
 "🌐 [CellProfiler user manual](https://cellprofiler-"
 "manual.s3.amazonaws.com/CellProfiler-4.2.6/index.html)"
 msgstr ""
-"🌐 [CellProfiler ユーザーマニュアル](https://cellprofiler-"
+"🌐 [CellProfiler user manual](https://cellprofiler-"
 "manual.s3.amazonaws.com/CellProfiler-4.2.6/index.html)"
 
 #: ../../03_Image_analysis/GeneralUseSoftware.md:60
