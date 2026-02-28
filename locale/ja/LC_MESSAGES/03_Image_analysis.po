@@ -1617,8 +1617,8 @@ msgid ""
 " annotations."
 msgstr ""
 "[Cellpose](https://www.cellpose.org/){cite}`Stringer2021-uq` "
-"は、{term}`セグメンテーション` "
-"アルゴリズムであり、ユーザが学習済みモデルを使用したり、画像や注釈を使用して独自のモデルを学習したりできるグラフィカルユーザインターフェースを提供する。"
+"は{term}`セグメンテーション` "
+"アルゴリズムで、グラフィカルユーザーインターフェースから学習済みモデルを使用したり、自身の画像とアノテーションを使って独自のモデルをトレーニングしたりすることができます。"
 
 #: ../../03_Image_analysis/SpecificUseSoftware.md:0
 msgid "What type of image analysis problem is it best at?"
