@@ -1441,11 +1441,11 @@ msgid ""
 " {cite}`Haase2022-ad` and the [BioImage Informatics Index](https://biii.eu) "
 "{cite}`Paul-Gilloteaux2021-vw`."
 msgstr ""
-"以下に、画像解析のための最も一般的な、フリーでオープンソースのソフトウェアのユースケースと限界をまとめます。これは小さなリストであり、[A "
+"以下に、画像解析のための最も一般的な、無料でオープンソースのソフトウェアの使用例と限界をまとめます。これはほんの一部であり、[A "
 "Hitchhiker's guide through the bio-image analysis software "
 "universe](https://febs.onlinelibrary.wiley.com/doi/full/10.1002/1873-3468.14451){cite}`Haase2022-ad`"
 " や [BioImage Informatics Index](https://biii.eu){cite}`Paul-"
-"Gilloteaux2021-vw` のような、より広範なものが存在します。"
+"Gilloteaux2021-vw` のような、より広範にまとめたリストが存在します。"
 
 #: ../../03_Image_analysis/Software.md:9
 msgid ""
