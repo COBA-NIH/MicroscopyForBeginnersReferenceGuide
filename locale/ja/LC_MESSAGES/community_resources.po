@@ -184,7 +184,7 @@ msgstr "Microscopy Australia"
 
 #: ../../community_resources.md:56
 msgid "[link](https://micro.org.au/)"
-msgstr "[リンク](https://micro.org.au/)"
+msgstr "[link](https://micro.org.au/)"
 
 #: ../../community_resources.md:57
 msgid "Canada BioImaging"
