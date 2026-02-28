@@ -320,7 +320,7 @@ msgstr ""
 
 #: ../../Glossary.md:57
 msgid "Tissue sectioning"
-msgstr "組織切断"
+msgstr "組織切片化 Tissue sectioning"
 
 #: ../../Glossary.md:62
 msgid ""
