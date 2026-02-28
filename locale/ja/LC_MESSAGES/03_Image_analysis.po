@@ -1145,7 +1145,7 @@ msgstr ""
 
 #: ../../03_Image_analysis/Resources.md:29
 msgid "[link](https://metrics-reloaded.dkfz.de/)"
-msgstr "[リンク](https://metrics-reloaded.dkfz.de/)"
+msgstr "[link](https://metrics-reloaded.dkfz.de/)"
 
 #: ../../03_Image_analysis/Resources.md:30
 msgid ""
