@@ -1259,8 +1259,7 @@ msgstr "[link](https://github.com/hallvaaw/awesome-biological-image-analysis)"
 msgid ""
 "A curated [AwesomeList](https://github.com/sindresorhus/awesome) of "
 "resources related to bioimage analysis"
-msgstr ""
-"AwesomeList](https://github.com/sindresorhus/awesome)は、バイオイメージ解析に関連するリソースをキュレーションしたものである。"
+msgstr "バイオイメージ解析に関連するリソースの [まとめ](https://github.com/sindresorhus/awesome) "
 
 #: ../../03_Image_analysis/Resources.md:52
 msgid "🌐 Bioimage Analysis Notebooks"
