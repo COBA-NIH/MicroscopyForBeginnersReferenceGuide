@@ -47,7 +47,7 @@ msgstr "📏 測定方法"
 msgid ""
 "Phenotypic classification can be performed a few different ways. One way to "
 "break this down is by unsupervised vs. supervised classification."
-msgstr "表現型の分類にはいくつか方法がありますが、大まかには教師なし分類と教師あり分類に分けられます。"
+msgstr "表現型の分類にはいくつか方法がありますが、大まかには教師なし学習による分類と教師あり学習による分類があります。"
 
 #: ../../03_Image_analysis/Classification.md:12
 msgid ""
