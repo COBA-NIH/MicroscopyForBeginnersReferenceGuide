@@ -1292,7 +1292,7 @@ msgstr "[link](https://doi.org/10.1242/jcs.261567)"
 msgid ""
 "Thoughtful review on technological and especially psychological factors that"
 " can lead to biased microscopy results"
-msgstr "顕微鏡検査の結果に偏りをもたらす可能性のある技術的要因、特に心理的要因に関する思慮深い検討"
+msgstr "顕微鏡結果にバイアスを生じさせる技術的・心理的要因を論じたレビュー"
 
 #: ../../03_Image_analysis/Shape.md:1
 msgid "Size and Shape measurements"
