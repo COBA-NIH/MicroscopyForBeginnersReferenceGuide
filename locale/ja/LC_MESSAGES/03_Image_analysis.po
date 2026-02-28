@@ -110,7 +110,8 @@ msgid ""
 " this reason, all the caveats of earlier measurement sections also apply "
 "here."
 msgstr ""
-"**分類は単純でも複雑でも構いませんが、結果は常に測定の妥当性に左右されます。このため、以前の測定セクションのすべての注意事項がここでも適用されます。"
+"**測定の妥当性は依然として重要** "
+"分類は単純な場合もあれば複雑な場合もありますが、その結果は常に測定値の妥当性に依存します。そのため、前の測定に関するセクションで述べた注意点は、ここでも同様に当てはまります。"
 
 #: ../../03_Image_analysis/Classification.md:24
 msgid ""
