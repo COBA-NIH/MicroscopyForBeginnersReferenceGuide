@@ -1253,7 +1253,7 @@ msgstr "🌐 Bioimage Analysis AwesomeList"
 
 #: ../../03_Image_analysis/Resources.md:50
 msgid "[link](https://github.com/hallvaaw/awesome-biological-image-analysis)"
-msgstr "[リンク](https://github.com/hallvaaw/awesome-biological-image-analysis)"
+msgstr "[link](https://github.com/hallvaaw/awesome-biological-image-analysis)"
 
 #: ../../03_Image_analysis/Resources.md:51
 msgid ""
