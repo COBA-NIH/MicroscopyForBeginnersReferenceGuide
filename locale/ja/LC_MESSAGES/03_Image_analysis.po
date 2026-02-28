@@ -1585,7 +1585,7 @@ msgid ""
 "classification that runs entirely from your browser and requires no "
 "installation and minimal setup.  [Read more...](content/piximi)"
 msgstr ""
-"[Piximi](https://www.piximi.app/)は、注釈と分類のためのアプリケーションで、ブラウザだけで動作し、インストールや最小限の設定を必要としない。"
+"[Piximi](https://www.piximi.app/)は、ブラウザ上で完全に動作するアノテーションおよび分類のためのアプリケーションであり、インストール不要、最小限のセッティングで使用できます。"
 "  [もっと読む...](content/piximi)"
 
 #: ../../03_Image_analysis/SpecificUseSoftware.md:1
