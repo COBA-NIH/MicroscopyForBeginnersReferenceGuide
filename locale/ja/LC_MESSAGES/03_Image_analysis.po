@@ -553,7 +553,7 @@ msgid ""
 " handle based on the available memory. And even if it can open large images "
 "it can slow down performance."
 msgstr ""
-"しかし、大きな画像を開くことはできても、使用可能なメモリに基づいて扱えるサイズには限界がある。また、大きな画像を開くことができても、パフォーマンスが低下する可能性がある。"
+"大きな画像を開くことは可能であるものの、メモリ制限のため扱えるサイズには限界があります。また、たとえ大きな画像を開くことができたとしても、処理速度が低下する場合があります。"
 
 #: ../../03_Image_analysis/GeneralUseSoftware.md:0
 #: ../../03_Image_analysis/SpecificUseSoftware.md:0
