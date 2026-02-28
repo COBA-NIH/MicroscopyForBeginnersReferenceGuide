@@ -1113,7 +1113,7 @@ msgstr "📄 Reproducible image handling and analysis {cite}`Miura2021-mb`"
 
 #: ../../03_Image_analysis/Resources.md:23
 msgid "[link](https://www.embopress.org/doi/full/10.15252/embj.2020105889)"
-msgstr "[リンク](https://www.embopress.org/doi/full/10.15252/embj.2020105889)"
+msgstr "[link](https://www.embopress.org/doi/full/10.15252/embj.2020105889)"
 
 #: ../../03_Image_analysis/Resources.md:24
 msgid ""
