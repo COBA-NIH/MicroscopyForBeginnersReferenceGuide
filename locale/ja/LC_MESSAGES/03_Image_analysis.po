@@ -786,7 +786,7 @@ msgstr "MIBをダウンロードするには"
 
 #: ../../03_Image_analysis/GeneralUseSoftware.md:140
 msgid "🌐 [MIB download](http://mib.helsinki.fi/downloads.html)"
-msgstr "🌐 [MIB ダウンロード](http://mib.helsinki.fi/downloads.html)"
+msgstr "🌐 [MIB download](http://mib.helsinki.fi/downloads.html)"
 
 #: ../../03_Image_analysis/GeneralUseSoftware.md:146
 msgid ""
