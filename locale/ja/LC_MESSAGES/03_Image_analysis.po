@@ -620,7 +620,7 @@ msgstr ""
 #: ../../03_Image_analysis/GeneralUseSoftware.md:44
 msgid ""
 "Also several features of CellProfiler are only available for 2D images."
-msgstr "また、CellProfilerのいくつかの機能は、2D画像でのみ利用可能である。"
+msgstr "また、いくつかの機能は2次元画像に対してのみ利用可能です。"
 
 #: ../../03_Image_analysis/GeneralUseSoftware.md:49
 msgid "To download CellProfiler"
