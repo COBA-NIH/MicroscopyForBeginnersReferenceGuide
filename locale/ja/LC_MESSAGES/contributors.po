@@ -93,7 +93,7 @@ msgstr "Pete Bankhead"
 
 #: ../../contributors.md:16
 msgid "How can I become a contributor?"
-msgstr "どうすれば貢献者になれますか？"
+msgstr "ガイドに貢献する"
 
 #: ../../contributors.md:18
 msgid ""
