@@ -728,7 +728,7 @@ msgid ""
 "image analysis protocols that can be shared with other users."
 msgstr ""
 "[Icy](https://icy.bioimageanalysis.org/){cite}`De_Chaumont2012-pe` "
-"は、すぐに使える画像解析ツールで、プラグインを利用して、他のユーザーと共有できる視覚的な画像解析プロトコルを作成できる。"
+"は、導入が簡単な画像解析ツールです。プラグインを用いて視覚的な画像解析プロトコルを作成でき、それらを他のユーザーと共有することができます。"
 
 #: ../../03_Image_analysis/GeneralUseSoftware.md:102
 msgid "Icy interoperability with other softwares is limited to ImageJ"
