@@ -126,8 +126,9 @@ msgid ""
 "[Portuguese](https://pt.bioimagingguide.org), and "
 "[Spanish](https://es.bioimagingguide.org)."
 msgstr ""
-"このガイドは、[英語](https://www.bioimagingguide.org)、[チェコ語](https://cs.bioimagingguide.org)、[ポルトガル語](https://pt.bioimagingguide.org)でも利用できます。"
-" )、および[スペイン語](https://es.bioimagingguide.org)。"
+"本ガイドは "
+"[英語](https://www.bioimagingguide.org)のほか、[チェコ語](https://cs.bioimagingguide.org)、[ポルトガル語](https://pt.bioimagingguide.org)、[スペイン語](https://es.bioimagingguide.org)"
+" でも提供されています。"
 
 #: ../../contributors.md:27
 msgid ""
