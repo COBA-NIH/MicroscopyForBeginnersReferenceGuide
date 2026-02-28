@@ -1312,7 +1312,7 @@ msgstr "サイズ測定とは、画像内のオブジェクトの寸法を表し
 msgid ""
 "**Area**: the 2D space an object takes up in the image or the 3D surface "
 "area of an object"
-msgstr "**面積**：画像内で物体が占める2次元空間、または物体の3次元表面積"
+msgstr "**面積**：画像内でオブジェクトが占める2次元空間、または物体の3次元表面積"
 
 #: ../../03_Image_analysis/Shape.md:7
 msgid "**Volume**: the 3D space an object takes up in a 3D image"
