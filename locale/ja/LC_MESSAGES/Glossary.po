@@ -259,7 +259,7 @@ msgid ""
 "Semantic segmentation, where all parts of an image are part of a class, "
 "common in cell biology will be detecting cells and background on an image."
 msgstr ""
-"セマンティック（意味的）セグメンテーション semantic segmentation "
+"セマンティック（\"意味的な\"）セグメンテーション semantic segmentation "
 "とは、画像のすべての部分があるクラスに属するというもので、細胞生物学では、画像を細胞とそれ以外の領域に分割するのが一般的である。"
 
 #: ../../Glossary.md:52
