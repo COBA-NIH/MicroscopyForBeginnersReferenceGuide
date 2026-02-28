@@ -1068,7 +1068,7 @@ msgstr "🌐 GloBIAS Bioimage Analyst Database"
 
 #: ../../03_Image_analysis/Resources.md:14
 msgid "[link](https://www.globias.org/resources/bioimage-analyst-db)"
-msgstr "[リンク](https://www.globias.org/resources/bioimage-analyst-db)"
+msgstr "[link](https://www.globias.org/resources/bioimage-analyst-db)"
 
 #: ../../03_Image_analysis/Resources.md:15
 msgid "Find the friendly local bioimage analyst near you!"
