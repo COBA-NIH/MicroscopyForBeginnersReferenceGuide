@@ -150,7 +150,7 @@ msgstr "チェコ語 : Martin Schätz"
 
 #: ../../contributors.md:32
 msgid "Portuguese: Mario Costa Cruz"
-msgstr "ポルトガル語: Mario Costa Cruz"
+msgstr "ポルトガル語：Mario Costa Cruz"
 
 #: ../../contributors.md:33
 msgid "Spanish: Mariana De Niz"
