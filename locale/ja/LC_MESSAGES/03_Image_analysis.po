@@ -653,7 +653,7 @@ msgstr "🌐 [Examples](https://cellprofiler.org/examples)"
 
 #: ../../03_Image_analysis/GeneralUseSoftware.md:61
 msgid "🌐 [Tutorials](https://tutorials.cellprofiler.org/)"
-msgstr "チュートリアル](https://tutorials.cellprofiler.org/)"
+msgstr "🌐 [Tutorials](https://tutorials.cellprofiler.org/)"
 
 #: ../../03_Image_analysis/GeneralUseSoftware.md:62
 msgid ""
