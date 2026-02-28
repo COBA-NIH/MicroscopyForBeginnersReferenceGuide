@@ -422,7 +422,7 @@ msgid ""
 " non-image data, and how much metadata is available for the dataset. Some "
 "options are summarized below:"
 msgstr ""
-"画像データをオンラインリポジトリに保存するオプションは数多くあります。これらのサービスを利用すれば、データの共有や再利用が容易になります。データセットのサイズ，保存のための予算，関連する画像以外のデータの有無，データセットのメタデータの量によって，最適なオプションは異なります．いくつかのオプションを以下にまとめる："
+"画像データをオンラインリポジトリに保存するための選択肢は数多くあります。これらのサービスを利用することで、データの共有や再利用が容易になります。データセットの規模、保存にかけられる予算、画像以外の関連データの有無、そして付随するメタデータの量などによってベストな選択肢が異なります。以下に、いくつかの主な選択肢を示します。"
 
 #: ../../03_Image_analysis/Data_management.md:0
 msgid "Comparison of various data respositories"
