@@ -232,11 +232,11 @@ msgstr ""
 
 #: ../../03_Image_analysis/Colocalization.md:1
 msgid "Colocalization"
-msgstr "コロカライゼーション"
+msgstr "共局在"
 
 #: ../../03_Image_analysis/Colocalization.md:4
 msgid "What is colocalization?"
-msgstr "コロカライゼーションとは何か？"
+msgstr "共局在とは"
 
 #: ../../03_Image_analysis/Colocalization.md:6
 msgid ""
