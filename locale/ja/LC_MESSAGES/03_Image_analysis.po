@@ -1508,7 +1508,7 @@ msgid ""
 "classification tools and can integrate with ImageJ. [Read "
 "more...](content/qupath)"
 msgstr ""
-"[QuPath](https://qupath.github.io/)は、病理画像のようなスライド画像全体に適用できる画像解析ツールの幅広いセットを提供するが、他の画像にも同様に使用できる。QuPathにはピクセル分類ツールも含まれており、ImageJとの統合も可能です。[続きを読む...](content/qupath)"
+"[QuPath](https://qupath.github.io/)は、病理画像などのスライド画像全体に適用できる幅広い画像解析ツールですが、その他の画像にも使用できます。QuPathにはピクセル分類ツールも含まれており、ImageJと統合することもできます。[続きを読む...](content/qupath)"
 
 #: ../../03_Image_analysis/Software.md:0
 msgid "Icy"
