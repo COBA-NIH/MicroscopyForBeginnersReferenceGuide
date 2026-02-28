@@ -893,7 +893,7 @@ msgstr ""
 
 #: ../../03_Image_analysis/Intensity.md:5
 msgid "**Mean intensity**: the average intensity across all pixels"
-msgstr "**平均強度** すべての画素における強度の平均値。"
+msgstr "**平均強度** mean intensity すべての画素における強度の平均値。"
 
 #: ../../03_Image_analysis/Intensity.md:6
 msgid ""
