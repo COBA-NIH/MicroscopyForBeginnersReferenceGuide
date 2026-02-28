@@ -1744,7 +1744,7 @@ msgstr "🌐 [ピクシミウェブサイト](https://www.piximi.app/)"
 
 #: ../../03_Image_analysis/SpecificUseSoftware.md:90
 msgid "🌐 [Piximi user guide ](https://documentation.piximi.app/intro.html)"
-msgstr "ピクシミユーザーガイド】(https://documentation.piximi.app/intro.html)"
+msgstr "🌐 [Piximi user guide ](https://documentation.piximi.app/intro.html)"
 
 #: ../../03_Image_analysis/Tracking.md:1
 msgid "Object tracking"
