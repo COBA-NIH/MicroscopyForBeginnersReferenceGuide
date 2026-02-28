@@ -1687,7 +1687,7 @@ msgstr ""
 msgid ""
 "Sometimes loading or exporting images can require a bit of troubleshooting "
 "to get the dimensions correct."
-msgstr "画像の読み込みや書き出しには、寸法を正しくするためにちょっとしたトラブルシューティングが必要になることがあります。"
+msgstr "画像の読み込みや書き出しの際に、次元を正しく設定するためにトラブルシューティングが必要になる場合があります。"
 
 #: ../../03_Image_analysis/SpecificUseSoftware.md:48
 msgid ""
