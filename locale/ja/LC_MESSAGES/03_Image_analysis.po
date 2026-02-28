@@ -1463,7 +1463,7 @@ msgstr ""
 #: ../../03_Image_analysis/Software.md:80
 #: ../../03_Image_analysis/Software.md:89
 msgid "card-img-top"
-msgstr "カード画像トップ"
+msgstr "card-img-top"
 
 #: ../../03_Image_analysis/Software.md:0
 msgid "ImageJ"
