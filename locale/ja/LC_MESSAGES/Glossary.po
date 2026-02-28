@@ -294,7 +294,7 @@ msgstr "画像分割の最も簡単な方法で、画像を背景と前景（ま
 
 #: ../../Glossary.md:54
 msgid "Tissue clearing"
-msgstr "組織透明化"
+msgstr "組織透明化 Tissue clearing"
 
 #: ../../Glossary.md:59
 msgid ""
