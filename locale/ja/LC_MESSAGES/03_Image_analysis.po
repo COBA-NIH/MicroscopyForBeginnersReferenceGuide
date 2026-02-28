@@ -1411,8 +1411,8 @@ msgid ""
 "🎓 [Plain language description of various morphological measures by Michael "
 "Wirth](http://www.cyto.purdue.edu/cdroms/micro2/content/education/wirth10.pdf)"
 msgstr ""
-"🎓 "
-"[マイケル・ヴィルトによる様々な形態素解析の平易な説明](http://www.cyto.purdue.edu/cdroms/micro2/content/education/wirth10.pdf)"
+"🎓 [Plain language description of various morphological measures by Michael "
+"Wirth](http://www.cyto.purdue.edu/cdroms/micro2/content/education/wirth10.pdf)"
 
 #: ../../03_Image_analysis/Software.md:1
 msgid "Open source software"
