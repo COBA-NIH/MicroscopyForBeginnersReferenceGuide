@@ -1088,7 +1088,7 @@ msgid ""
 "questions/answers, exercises with Python and ImageJ, and videos to check "
 "understanding"
 msgstr ""
-"画像解析を全くしたことのない初学者に向けたガイドであり、理解を確認するための設問と解答、Python や ImageJ "
+"バイオイメージング解析を全くしたことのない初学者に向けたガイドであり、理解を確認するための設問と解答、Python や ImageJ "
 "を用いた演習、さらに学習内容を確認するための動画もあります。"
 
 #: ../../03_Image_analysis/Resources.md:19
