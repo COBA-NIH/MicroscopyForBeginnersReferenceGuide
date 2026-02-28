@@ -1868,7 +1868,7 @@ msgstr ""
 
 #: ../../03_Image_analysis/_notinyet_Common_pitfalls.md:9
 msgid "image"
-msgstr "イメージ"
+msgstr "画像"
 
 #: ../../03_Image_analysis/_notinyet_Image_processing.md:1
 msgid "Image Processing"
