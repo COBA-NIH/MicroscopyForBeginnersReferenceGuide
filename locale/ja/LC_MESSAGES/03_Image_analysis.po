@@ -1672,7 +1672,7 @@ msgid ""
 "leverages machine-learning algorithms to perform pixel and object-level "
 "classification. Using it requires no experience in {term}`image processing`."
 msgstr ""
-"[ilastik](https://www.ilastik.org/){cite}`Berg2019-no`は、インタラクティブな画像分類、{term}`セグメンテーション`、解析のためのツールです。機械学習アルゴリズムを活用して、ピクセルレベルとオブジェクトレベルの分類を行う。{term}`画像処理`の経験は必要ありません。"
+"[ilastik](https://www.ilastik.org/){cite}`Berg2019-no`は、インタラクティブな画像分類、{term}`セグメンテーション`、および解析のためのツールです。機械学習アルゴリズムを活用して、ピクセルレベルおよびオブジェクトレベルの分類を行います。使用するにあたって{term}`画像処理`の経験は不要です。"
 
 #: ../../03_Image_analysis/SpecificUseSoftware.md:40
 msgid ""
