@@ -1393,7 +1393,8 @@ msgid ""
 msgstr ""
 "📄 [Current Methods and Pipelines for Image-Based Quantitation of Nuclear "
 "Shape and Nuclear Envelope "
-"Abnormalities](https://www.mdpi.com/2073-4409/11/3/347/htm){cite}`Janssen2022-bm`"
+"Abnormalities](https://www.mdpi.com/2073-4409/11/3/347/htm) "
+"{cite}`Janssen2022-bm`"
 
 #: ../../03_Image_analysis/Shape.md:32
 msgid ""
