@@ -161,7 +161,7 @@ msgstr ""
 
 #: ../../Glossary.md:27
 msgid "Mounting media"
-msgstr "封入剤"
+msgstr "封入剤 mounting media"
 
 #: ../../Glossary.md:32
 msgid ""
