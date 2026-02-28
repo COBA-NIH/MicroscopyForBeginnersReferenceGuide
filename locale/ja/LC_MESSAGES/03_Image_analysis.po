@@ -270,7 +270,7 @@ msgstr "共局在の度合い"
 
 #: ../../03_Image_analysis/Colocalization.md:21
 msgid "**Colocalization is about intensity and spatial overlap of labels**"
-msgstr "**共局在はラベルの強度と空間的な重なりである**"
+msgstr "**共局在はラベルの強度と空間的な重なりです**"
 
 #: ../../03_Image_analysis/Colocalization.md:28
 msgid ""
