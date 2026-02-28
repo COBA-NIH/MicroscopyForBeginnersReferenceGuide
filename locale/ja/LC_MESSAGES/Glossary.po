@@ -239,7 +239,7 @@ msgstr ""
 
 #: ../../Glossary.md:42
 msgid "ROIs"
-msgstr "ROIs"
+msgstr "ROI"
 
 #: ../../Glossary.md:47
 msgid ""
