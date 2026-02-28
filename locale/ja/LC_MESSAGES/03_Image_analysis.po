@@ -854,8 +854,8 @@ msgid ""
 "🌐 [New to napari guide "
 "](https://napari.org/stable/tutorials/fundamentals/getting_started.html)"
 msgstr ""
-"🌐 "
-"[初めてのナパリガイド](https://napari.org/stable/tutorials/fundamentals/getting_started.html)"
+"🌐 [New to napari guide "
+"](https://napari.org/stable/tutorials/fundamentals/getting_started.html)"
 
 #: ../../03_Image_analysis/GeneralUseSoftware.md:177
 msgid "🌐 [Tutorials](https://napari.org/stable/tutorials/index.html)"
