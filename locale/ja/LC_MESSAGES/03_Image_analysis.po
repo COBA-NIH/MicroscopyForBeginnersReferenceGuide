@@ -805,7 +805,8 @@ msgid ""
 "🎥 [Video "
 "tutorials](https://www.youtube.com/playlist?list=PLGkFvW985wz8cj8CWmXOFkXpvoX_HwXzj)"
 msgstr ""
-"ビデオチュートリアル](https://www.youtube.com/playlist?list=PLGkFvW985wz8cj8CWmXOFkXpvoX_HwXzj)"
+"🎥 [Video "
+"tutorials](https://www.youtube.com/playlist?list=PLGkFvW985wz8cj8CWmXOFkXpvoX_HwXzj)"
 
 #: ../../03_Image_analysis/GeneralUseSoftware.md:152
 msgid ""
