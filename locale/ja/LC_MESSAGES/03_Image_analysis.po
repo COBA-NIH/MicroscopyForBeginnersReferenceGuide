@@ -1141,7 +1141,7 @@ msgstr "顕微鏡データで行われるいくつかの一般的な測定クラ
 msgid ""
 "🌐 Metrics Reloaded {cite}`Maier-Hein2024-cp,Reinke2024-aj,reinke2023common`"
 msgstr ""
-"🌐 メトリクスの再読み込み {cite}`Maier-Hein2024-cp,Reinke2024-aj,reinke2023common`"
+"🌐 Metrics Reloaded {cite}`Maier-Hein2024-cp,Reinke2024-aj,reinke2023common`"
 
 #: ../../03_Image_analysis/Resources.md:29
 msgid "[link](https://metrics-reloaded.dkfz.de/)"
