@@ -247,7 +247,10 @@ msgid ""
 "It is very important to measure colocalization quantitatively–**do not just "
 "trust your eyes!**"
 msgstr ""
-"共焦点化とは、2つ以上の異なるラベル（例えば、eGFPとmCherry）が画像内で空間的に重なることである（共起とも呼ばれる）。共焦点化のもう一つの要素は、蛍光ラベルがしばしば強度で相関することである（すなわち、より明るいeGFPを持つピクセルは、より明るいmCherryも持つ）。コロカライゼーションを定量的に測定することは非常に重要である。"
+"共局在 colocalization とは、2種類以上の異なる標識（例：eGFP や "
+"mCherry）が画像上で空間的に重なって観察される現象を指します（共起 co-occurrence "
+"とも呼ばれます）。共局在のもう一つの重要な側面は、蛍光強度の相関です。すなわち、eGFP の輝度が高い画素では mCherry "
+"の輝度も高い、といった強度の対応関係が見られることがあります。共局在の評価は、必ず定量的に行うことが重要です。**絶対に自分の目を信じてはいけません！**"
 
 #: ../../03_Image_analysis/Colocalization.md:8
 msgid ""
