@@ -128,7 +128,7 @@ msgstr "顕微鏡法および画像解析の多岐にわたるトピックに関
 
 #: ../../community_resources.md:35
 msgid "Local resources"
-msgstr "地域資源"
+msgstr "地域のリソース"
 
 #: ../../community_resources.md:43
 msgid "BioImaging North America (BINA)"
