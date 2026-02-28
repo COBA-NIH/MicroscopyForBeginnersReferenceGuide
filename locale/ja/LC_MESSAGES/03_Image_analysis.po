@@ -1064,7 +1064,7 @@ msgstr "バイオイメージング解析ソフトウェアに関するフォー
 
 #: ../../03_Image_analysis/Resources.md:13
 msgid "🌐 GloBIAS Bioimage Analyst Database"
-msgstr "🌐 GloBIAS バイオイメージアナリストデータベース"
+msgstr "🌐 GloBIAS Bioimage Analyst Database"
 
 #: ../../03_Image_analysis/Resources.md:14
 msgid "[link](https://www.globias.org/resources/bioimage-analyst-db)"
