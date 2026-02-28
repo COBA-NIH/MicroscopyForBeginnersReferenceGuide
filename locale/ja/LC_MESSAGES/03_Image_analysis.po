@@ -544,7 +544,8 @@ msgid ""
 "Imaging processing operations are done one at a time, while it has the "
 "capability of batch processing and creating macros it does require some "
 "understanding of coding."
-msgstr "画像処理操作は1つずつ行われ、バッチ処理やマクロの作成が可能な反面、ある程度のコーディングの理解が必要となる。"
+msgstr ""
+"画像処理操作が基本的に一つずつ実行されることです。バッチ処理やマクロの作成も可能ですが、それらを活用するにはある程度のプログラミングの知識が必要です。"
 
 #: ../../03_Image_analysis/GeneralUseSoftware.md:15
 msgid ""
