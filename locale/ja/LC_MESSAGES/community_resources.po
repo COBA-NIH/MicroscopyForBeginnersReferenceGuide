@@ -98,11 +98,11 @@ msgstr "バイオイメージング解析ソフトウェアに関するディス
 
 #: ../../community_resources.md:27
 msgid "Microtutor"
-msgstr "マイクロチューター"
+msgstr "Microtutor"
 
 #: ../../community_resources.md:28
 msgid "[link](https://microtutor.globalbioimaging.org/)"
-msgstr "[リンク](https://microtutor.globalbioimaging.org/)"
+msgstr "[link](https://microtutor.globalbioimaging.org/)"
 
 #: ../../community_resources.md:29
 msgid ""
