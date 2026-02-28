@@ -132,7 +132,7 @@ msgstr "地域のリソース"
 
 #: ../../community_resources.md:43
 msgid "BioImaging North America (BINA)"
-msgstr "バイオイメージング・ノースアメリカ（BINA）"
+msgstr "BioImaging North America (BINA)"
 
 #: ../../community_resources.md:44
 msgid "[link](https://www.bioimagingnorthamerica.org/)"
