@@ -1031,8 +1031,8 @@ msgid ""
 "\"accurate\" \"unbiased\" - see {cite}`Jost2019-nx` and {cite}`Lee2024-zu` "
 "for further treatment of these issues."
 msgstr ""
-"「自動化」と「定量化」は「正確」「偏りのない」とはまったく同じではないことに注意してください。これらの問題の詳細については、{cite}`Jost2019-nx`"
-" と {cite}`Lee2024-zu` を参照してください。"
+"「自動化」や「定量化」は「正確」「アンバイアス」であることとは異なります。これらの問題の詳細な議論は、{cite}`Jost2019-nx` と "
+"{cite}`Lee2024-zu` を参照してください。"
 
 #: ../../03_Image_analysis/Resources.md:1
 msgid "Resources for learning more"
