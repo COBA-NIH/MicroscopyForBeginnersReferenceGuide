@@ -1371,7 +1371,8 @@ msgid ""
 "useful! But the larger and more complex your objects (e.g., neurons in a "
 "tissue section), the more limited a 2D view becomes."
 msgstr ""
-"**画像の限界を理解していない。すべての生物学的構造は3Dですが、私たちはしばしば2D画像を分析します。多くの場合、これはまだ非常に有用です！しかし、対象が大きく複雑であればあるほど（例えば、組織切片の神経細胞）、2D画像では限界があります。"
+"**画像の限界を理解していない** "
+"すべての生体構造は3次元ですが、私たちはたいてい2次元画像を解析します。これは多くの場合非常に有用ですが、オブジェクトが大きく複雑であるほど（例えば、組織切片内のニューロン）、2次元の視点はより限定的なものになります。"
 
 #: ../../03_Image_analysis/Shape.md:26
 msgid ""
