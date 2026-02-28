@@ -1573,7 +1573,7 @@ msgid ""
 "it requires no experience in {term}`image processing`. [Read "
 "more...](content/ilastik)"
 msgstr ""
-"[ilastik](https://www.ilastik.org/)は、インタラクティブな画像分類、{term}`セグメンテーション`と分析のためのツールです。機械学習アルゴリズムを活用し、ピクセルレベルとオブジェクトレベルの分類を行う。{term}`画像処理`の経験は必要ありません。[続きを読む...](コンテンツ/画像)"
+"[ilastik](https://www.ilastik.org/)は、インタラクティブな画像分類、{term}`セグメンテーション`、および解析のためのツールです。機械学習アルゴリズムを活用して、ピクセルレベルおよびオブジェクトレベルの分類を行います。使用するにあたって{term}`画像処理`の経験は不要です。[続きを読む...](content/ilastik)"
 
 #: ../../03_Image_analysis/Software.md:0
 msgid "Piximi"
