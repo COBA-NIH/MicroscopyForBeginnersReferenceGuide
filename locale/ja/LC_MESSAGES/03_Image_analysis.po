@@ -1706,7 +1706,7 @@ msgid ""
 "🌐 [User guide](https://www.ilastik.org/documentation/index.html#user-"
 "documentation)"
 msgstr ""
-"🌐 [ユーザーガイド](https://www.ilastik.org/documentation/index.html#user-"
+"🌐 [User guide](https://www.ilastik.org/documentation/index.html#user-"
 "documentation)"
 
 #: ../../03_Image_analysis/SpecificUseSoftware.md:67
