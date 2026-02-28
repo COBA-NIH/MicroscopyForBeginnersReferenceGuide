@@ -1239,7 +1239,7 @@ msgstr "🌐 画像解析トレーニング・リソース"
 
 #: ../../03_Image_analysis/Resources.md:47
 msgid "[link](https://neubias.github.io/training-resources/index.html)"
-msgstr "[リンク](https://neubias.github.io/training-resources/index.html)"
+msgstr "[link](https://neubias.github.io/training-resources/index.html)"
 
 #: ../../03_Image_analysis/Resources.md:48
 msgid ""
