@@ -613,7 +613,9 @@ msgstr ""
 msgid ""
 "While CellProfiler can perform analysis on 3D images the visualization is "
 "limited to a one z-plane at a time via a slider on the viewing window."
-msgstr "CellProfilerは3D画像の解析を行うことができるが、可視化は表示ウィンドウのスライダーを使って一度に1つのz平面に限定される。"
+msgstr ""
+"CellProfilerは3次元画像の解析を行うことができますが、可視化は閲覧ウィンドウ内のスライダーによって一度に1つの z "
+"平面のみ表示する形式に限定されています。"
 
 #: ../../03_Image_analysis/GeneralUseSoftware.md:44
 msgid ""
