@@ -176,7 +176,7 @@ msgstr ""
 
 #: ../../Glossary.md:30
 msgid "Object detection"
-msgstr "物体検出"
+msgstr "オブジェクト検出"
 
 #: ../../Glossary.md:35
 msgid ""
