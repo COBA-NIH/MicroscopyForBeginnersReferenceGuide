@@ -204,7 +204,7 @@ msgstr ""
 
 #: ../../Glossary.md:36
 msgid "Permeabilization"
-msgstr "透過化 Permeabilization"
+msgstr "透過処理 Permeabilization"
 
 #: ../../Glossary.md:41
 msgid ""
