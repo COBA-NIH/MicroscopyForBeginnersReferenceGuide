@@ -252,7 +252,7 @@ msgstr "セグメンテーション Segmentation"
 msgid ""
 "Method of dividing an image into multiple parts or regions. There are three "
 "different types of segmentation."
-msgstr "画像を複数の部分または領域に分割する方法。セグメンテーションには3つの種類がある。"
+msgstr "画像を複数の部分または領域に分割する手法。セグメンテーションには以下の3種類がある。"
 
 #: ../../Glossary.md:51
 msgid ""
