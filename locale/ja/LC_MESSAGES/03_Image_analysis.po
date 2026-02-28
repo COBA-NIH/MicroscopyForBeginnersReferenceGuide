@@ -483,7 +483,9 @@ msgstr "🌐 [BBBC](https://bbbc.broadinstitute.org/) {cite}`Ljosa2012-fr`"
 msgid ""
 "🌐 [Cell Painting Gallery](https://registry.opendata.aws/cellpainting-"
 "gallery/)"
-msgstr "セル画ギャラリー](https://registry.opendata.aws/cellpainting-gallery/)"
+msgstr ""
+"🌐 [Cell Painting Gallery](https://registry.opendata.aws/cellpainting-"
+"gallery/)"
 
 #: ../../03_Image_analysis/GeneralUseSoftware.md:1
 msgid "General Use Software"
