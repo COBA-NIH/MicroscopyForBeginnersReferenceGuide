@@ -196,7 +196,7 @@ msgstr "[link](https://www.canadabioimaging.org/)"
 
 #: ../../community_resources.md:59
 msgid "Singapore Microscopy Infrastructure Network"
-msgstr "シンガポール顕微鏡インフラネットワーク"
+msgstr "Singapore Microscopy Infrastructure Network"
 
 #: ../../community_resources.md:60
 msgid "[link](https://www.singascope.sg/)"
