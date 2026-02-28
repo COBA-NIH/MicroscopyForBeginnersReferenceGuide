@@ -1729,7 +1729,7 @@ msgid ""
 "requires no installation and minimal setup."
 msgstr ""
 "[Piximi](https://www.piximi.app/) {cite}`Moser2024-vt` "
-"は、ブラウザから完全に実行され、インストールや最小限のセットアップを必要としない、注釈付けおよび分類用のアプリケーションです。"
+"は、ブラウザ上で完全に動作するアノテーションおよび分類のためのアプリケーションであり、インストール不要、最小限のセッティングで使用できます。"
 
 #: ../../03_Image_analysis/SpecificUseSoftware.md:75
 msgid "Piximi can do image classification using machine learning"
