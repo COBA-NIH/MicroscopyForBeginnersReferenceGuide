@@ -51,7 +51,7 @@ msgid ""
 "intensity away from where it hit the camera and back onto the structure that"
 " emitted the light."
 msgstr ""
-"光路の既知の光学特性を利用して、ピクセルの強度をカメラに当たった位置から、光を放出した構造に「再割り当て」することにより、顕微鏡画像のぼかしを計算で除去するプロセス。"
+"光路の既知の光学特性を利用して、カメラに到達した画素の輝度値を発光源の構造に「再割り当て」することで、顕微鏡画像からボケを計算処理により除去するプロセスです。"
 
 #: ../../Glossary.md:6
 msgid "Ex-Vivo imaging"
