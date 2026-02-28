@@ -137,7 +137,7 @@ msgid ""
 "Polish, and Farsi. To help translate into one of these languages, or another"
 " language not listed here, please contact bcimini AT broadinstitute DOT org."
 msgstr ""
-"このガイドを他の言語に翻訳する作業が進行中です。フランス語、ドイツ語、フィンランド語、イタリア語、日本語、ポーランド語、ペルシャ語での翻訳が計画されているか、開始されています。これらの言語のいずれか、またはここにリストされていない別の言語への翻訳をサポートするには、bcimini"
+"このガイドを他の言語に翻訳する作業が進行中です。フランス語、ドイツ語、フィンランド語、イタリア語、日本語、ポーランド語、ペルシャ語での翻訳が計画されているか、開始されています。これらの言語のいずれか、あるいはここに記載されていない言語への翻訳にご協力いただける方は、bcimini"
 " ATroadinstitute DOT org にお問い合わせください。"
 
 #: ../../contributors.md:29
