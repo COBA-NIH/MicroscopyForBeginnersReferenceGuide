@@ -771,7 +771,7 @@ msgid ""
 "light and electron microscopy. It allows you to use the whole acquired data "
 "for its analysis and extraction of morphological features."
 msgstr ""
-"[MIB](http://mib.helsinki.fi/index.html){cite}`Belevich2016-vi`は、光学顕微鏡および電子顕微鏡の多次元データセットの画像解析のためのユーザーフレンドリーなソフトウェアです。取得したデータ全体を使用して解析し、形態学的特徴を抽出することができます。"
+"[MIB](http://mib.helsinki.fi/index.html){cite}`Belevich2016-vi`は、光学顕微鏡および電子顕微鏡の多次元データセットの解析に対応した、ユーザーフレンドリーな画像解析ソフトウェアです。取得したデータ全体を用いて解析を行い、形態学的特徴を抽出することが可能です。"
 
 #: ../../03_Image_analysis/GeneralUseSoftware.md:131
 msgid ""
