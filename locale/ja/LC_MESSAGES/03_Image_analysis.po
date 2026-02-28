@@ -1175,7 +1175,7 @@ msgstr "画像解析ソフトウェアやパッケージについての解説と
 
 #: ../../03_Image_analysis/Resources.md:34
 msgid "🌐 BioImage Informatics Index"
-msgstr "🌐 バイオイメージ・インフォマティクス・インデックス"
+msgstr "🌐 BioImage Informatics Index"
 
 #: ../../03_Image_analysis/Resources.md:35
 msgid "[link](https://biii.eu/)"
