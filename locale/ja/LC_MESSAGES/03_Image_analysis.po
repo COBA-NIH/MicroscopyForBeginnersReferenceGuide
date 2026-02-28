@@ -1494,7 +1494,7 @@ msgid ""
 "be applied to one or thousands of images, making it suitable for high "
 "throughput image analysis. [Read more...](content/cellprofiler)"
 msgstr ""
-"[CellProfiler](https://cellprofiler.org/)は、画像解析パイプラインという考えを念頭に置いて設計されました。一連の相互運用可能なモジュールを使って、1枚から数千枚の画像に適用できる独自のカスタム解析パイプラインを設計することができ、ハイスループット画像解析に適しています。[続きを読む...](コンテンツ/cellprofiler)"
+"[CellProfiler](https://cellprofiler.org/)は、画像解析パイプラインという考えを念頭に置いて設計されました。一連の相互運用可能なモジュールを使って、1枚から数千枚の画像に適用できる独自のカスタム解析パイプラインを設計することができ、ハイスループット画像解析に適しています。[続きを読む...](content/cellprofiler)"
 
 #: ../../03_Image_analysis/Software.md:0
 msgid "QuPath"
