@@ -401,7 +401,7 @@ msgstr ""
 
 #: ../../03_Image_analysis/Data_management.md:0
 msgid "🤔 What are my options?"
-msgstr "どのような選択肢がありますか？"
+msgstr "選択肢"
 
 #: ../../03_Image_analysis/Data_management.md:9
 msgid ""
