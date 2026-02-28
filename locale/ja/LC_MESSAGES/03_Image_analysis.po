@@ -1189,7 +1189,7 @@ msgstr "問題、手法、または使用したいソフトウェアに基づい
 
 #: ../../03_Image_analysis/Resources.md:37
 msgid "🎥 iBiology Bioimage Analysis video series"
-msgstr "iBiology バイオイメージ解析ビデオシリーズ"
+msgstr "🎥 iBiology Bioimage Analysis video series"
 
 #: ../../03_Image_analysis/Resources.md:38
 msgid "[link](https://youtu.be/1xo4vi6Ub4I)"
