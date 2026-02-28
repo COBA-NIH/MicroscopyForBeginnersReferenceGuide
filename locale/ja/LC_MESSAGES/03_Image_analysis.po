@@ -1480,7 +1480,7 @@ msgstr ""
 
 #: ../../03_Image_analysis/Software.md:0
 msgid "CellProfiler"
-msgstr "セルプロファイラー"
+msgstr "CellProfiler"
 
 #: ../../03_Image_analysis/Software.md:30
 msgid ""
