@@ -426,7 +426,7 @@ msgstr ""
 
 #: ../../03_Image_analysis/Data_management.md:0
 msgid "Comparison of various data respositories"
-msgstr "様々なデータ・リソースの比較"
+msgstr "様々なデータレポジトリの比較"
 
 #: ../../03_Image_analysis/Data_management.md:18
 msgid ""
