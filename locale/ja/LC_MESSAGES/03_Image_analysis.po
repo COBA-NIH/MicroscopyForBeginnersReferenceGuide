@@ -1804,8 +1804,8 @@ msgid ""
 " the next. It is important to match the image acquisition frequency to how "
 "dynamic your cells or objects are."
 msgstr ""
-"**オブジェクトが非常にダイナミックであるにもかかわらず、画像が高い頻度で撮 "
-"影されていない場合、トラッキングが困難になることがある。画像取得の頻度を細胞やオブジェクトのダイナミックさに合わせることが重要です。"
+"**フレームレートが不十分な場合** "
+"オブジェクトの動きが速いにもかかわらず撮影頻度が低いと、フレーム間でオブジェクトが大きく移動してしまい、アルゴリズムによる対応付けが困難になります。細胞やオブジェクトの動態に合わせて、画像取得頻度を適切に設定することが重要です。"
 
 #: ../../03_Image_analysis/Tracking.md:22
 msgid ""
