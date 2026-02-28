@@ -361,9 +361,9 @@ msgid ""
 "correlation](https://journals.biologists.com/jcs/article/131/3/jcs211847/77151/Image-"
 "co-localization-co-occurrence-versus) {cite}`Aaron2018-qi`"
 msgstr ""
-"📄 [画像の共局在化 - 共起 vs "
-"相関](https://journals.biologists.com/jcs/article/131/3/jcs211847/77151/Image-"
-"co-localization-co-occurrence-versus){cite}`Aaron2018-qi`"
+"📄 [Image co-localization - co-occurrence versus "
+"correlation](https://journals.biologists.com/jcs/article/131/3/jcs211847/77151/Image-"
+"co-localization-co-occurrence-versus) {cite}`Aaron2018-qi`"
 
 #: ../../03_Image_analysis/Common_types_of_analysis.md:1
 #: ../../03_Image_analysis/Software.md:1
