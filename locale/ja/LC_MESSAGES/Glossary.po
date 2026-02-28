@@ -28,7 +28,7 @@ msgstr "用語集"
 
 #: ../../Glossary.md:0
 msgid "Blocking"
-msgstr "ブロッキング"
+msgstr "ブロッキング Blocking"
 
 #: ../../Glossary.md:5
 msgid ""
