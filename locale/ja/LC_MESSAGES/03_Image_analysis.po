@@ -682,8 +682,10 @@ msgid ""
 "and can integrate with ImageJ (e.g., for sending {term}`ROIs` between the "
 "programs, or for accessing ImageJ plugins)."
 msgstr ""
-"[QuPath](https://qupath.github.io/){cite}`Bankhead2017-kz` "
-"は、ホールスライド画像に適用できる幅広い画像解析ツールのセットを提供する。そのため病理画像に広く利用されているが、他の画像にも利用できる。QuPathにはピクセル分類ツールも含まれており、ImageJと統合することができる（例えば、{term}`ROI`をプログラム間で送信したり、ImageJプラグインにアクセスしたりするため）。"
+"[QuPath](https://qupath.github.io/){cite}`Bankhead2017-kz`  "
+"は、全スライド画像に適用可能な幅広い画像解析ツールを備えています。そのため、病理画像で広く利用されていますが、他の種類の画像にも使用できます。また、QuPath"
+" にはピクセル分類ツールが含まれており、ImageJ と連携することも可能です（例：{term}`ROI` をプログラム間で送受信したり、ImageJ "
+"のプラグインにアクセスしたりすることができます）。"
 
 #: ../../03_Image_analysis/GeneralUseSoftware.md:73
 msgid ""
