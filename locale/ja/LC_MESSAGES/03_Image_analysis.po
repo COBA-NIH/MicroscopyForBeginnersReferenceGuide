@@ -1267,7 +1267,7 @@ msgstr "🌐 Bioimage Analysis Notebooks"
 
 #: ../../03_Image_analysis/Resources.md:53
 msgid "[link](https://haesleinhuepf.github.io/BioImageAnalysisNotebooks/)"
-msgstr "[リンク](https://haesleinhuepf.github.io/BioImageAnalysisNotebooks/)"
+msgstr "[link](https://haesleinhuepf.github.io/BioImageAnalysisNotebooks/)"
 
 #: ../../03_Image_analysis/Resources.md:54
 msgid ""
