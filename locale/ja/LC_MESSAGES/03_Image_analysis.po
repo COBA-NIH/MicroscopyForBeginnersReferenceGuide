@@ -751,7 +751,8 @@ msgstr ""
 #: ../../03_Image_analysis/GeneralUseSoftware.md:118
 msgid ""
 "🎥 [Bioimage analysis with Icy ](https://www.youtube.com/watch?v=myal9BD6J-k)"
-msgstr "Icyによるバイオイメージ解析】(https://www.youtube.com/watch?v=myal9BD6J-k)"
+msgstr ""
+"🎥 [Bioimage analysis with Icy ](https://www.youtube.com/watch?v=myal9BD6J-k)"
 
 #: ../../03_Image_analysis/GeneralUseSoftware.md:122
 msgid ""
