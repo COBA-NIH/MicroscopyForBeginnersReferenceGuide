@@ -1124,7 +1124,8 @@ msgstr "主要な画像処理上の落とし穴と、それらを回避して再
 #: ../../03_Image_analysis/Resources.md:25
 msgid ""
 "📄 Made to measure: an introduction to quantification in microscopy data"
-msgstr "📄 Made to Measure: 顕微鏡データの定量化入門"
+msgstr ""
+"📄 Made to measure: an introduction to quantification in microscopy data"
 
 #: ../../03_Image_analysis/Resources.md:26
 msgid "[link](https://arxiv.org/abs/2302.01657#) {cite}`Culley2023-dj`"
