@@ -867,9 +867,9 @@ msgid ""
 "series](https://focalplane.biologists.com/category/blog-series/bio-image-"
 "analysis-with-napari/)"
 msgstr ""
-"🌐 [Napariによる生体画像解析 - "
-"FocalPlaneブログシリーズ](https://focalplane.biologists.com/category/blog-"
-"series/bio-image-analysis-with-napari/)"
+"🌐 [Bioimage Analysis with Napari - A FocalPlane blog "
+"series](https://focalplane.biologists.com/category/blog-series/bio-image-"
+"analysis-with-napari/)"
 
 #: ../../03_Image_analysis/Intensity.md:1
 msgid "Intensity measurements"
