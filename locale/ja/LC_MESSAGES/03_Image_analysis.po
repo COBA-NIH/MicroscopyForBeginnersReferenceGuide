@@ -793,7 +793,8 @@ msgid ""
 "🌐 [MIB user "
 "guide](http://mib.helsinki.fi/help/main2/im_browser_user_guide.html)"
 msgstr ""
-"MIB ユーザーガイド](http://mib.helsinki.fi/help/main2/im_browser_user_guide.html)"
+"🌐 [MIB user "
+"guide](http://mib.helsinki.fi/help/main2/im_browser_user_guide.html)"
 
 #: ../../03_Image_analysis/GeneralUseSoftware.md:147
 msgid "🌐 [Tutorials](http://mib.helsinki.fi/tutorials.html)"
