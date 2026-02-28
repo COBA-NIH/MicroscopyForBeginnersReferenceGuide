@@ -444,8 +444,8 @@ msgid ""
 "on which analysis was performed. If files are modified, measurements will "
 "change and the analysis pipeline will not be reproducible to anyone else."
 msgstr ""
-"**オリジナルバージョンの画像を保存しない**。生の画像データを保存・保管することが重要である。これらのファイルが圧縮された形式（例: "
-"'.jpeg'）でないこと、または解析が行われた元のファイルから変更されていないことが非常に重要です。ファイルが変更された場合、測定値が変更され、解析パイプラインは他の誰にも再現できなくなります。"
+"**画像の元データを保存していない** "
+"取得した生の画像データは、必ず保存・保管しておくことが重要です。これらのファイルは、圧縮形式（例：“.jpeg”）で保存したり、解析を行った元のファイルから変更したりしてはいけません。ファイルが変更されると、測定値が変化する可能性があり、解析パイプラインを他者が再現できなくなります。"
 
 #: ../../03_Image_analysis/Data_management.md:26
 msgid ""
