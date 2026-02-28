@@ -110,7 +110,7 @@ msgstr ""
 
 #: ../../Glossary.md:18
 msgid "Immersion media"
-msgstr "浸漬メディア"
+msgstr "封入剤 immersion media"
 
 #: ../../Glossary.md:23
 msgid ""
