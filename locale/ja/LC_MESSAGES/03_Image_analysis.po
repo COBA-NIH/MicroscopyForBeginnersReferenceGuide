@@ -1296,7 +1296,7 @@ msgstr "顕微鏡結果にバイアスを生じさせる技術的・心理的要
 
 #: ../../03_Image_analysis/Shape.md:1
 msgid "Size and Shape measurements"
-msgstr "大きさと形状の測定"
+msgstr "サイズと形状の測定"
 
 #: ../../03_Image_analysis/Shape.md:3
 msgid "What are size measurements?"
