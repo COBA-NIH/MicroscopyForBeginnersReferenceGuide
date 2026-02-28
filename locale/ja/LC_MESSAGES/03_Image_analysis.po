@@ -1286,7 +1286,7 @@ msgstr ""
 
 #: ../../03_Image_analysis/Resources.md:56
 msgid "[link](https://doi.org/10.1242/jcs.261567)"
-msgstr "[リンク](https://doi.org/10.1242/jcs.261567)"
+msgstr "[link](https://doi.org/10.1242/jcs.261567)"
 
 #: ../../03_Image_analysis/Resources.md:57
 msgid ""
