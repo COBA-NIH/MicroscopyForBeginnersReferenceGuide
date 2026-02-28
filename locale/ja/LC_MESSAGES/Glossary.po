@@ -127,7 +127,7 @@ msgstr ""
 
 #: ../../Glossary.md:21
 msgid "Immunolabeling"
-msgstr "免疫標識 immunolabeling"
+msgstr "免疫標識 Immunolabeling"
 
 #: ../../Glossary.md:26
 msgid ""
@@ -249,7 +249,7 @@ msgstr "関心領域。画像内の気になる領域のこと（組織内の領
 
 #: ../../Glossary.md:45
 msgid "Segmentation"
-msgstr "セグメンテーション"
+msgstr "セグメンテーション Segmentation"
 
 #: ../../Glossary.md:50
 msgid ""
