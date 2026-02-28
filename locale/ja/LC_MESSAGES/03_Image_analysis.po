@@ -524,7 +524,7 @@ msgstr ""
 #: ../../03_Image_analysis/GeneralUseSoftware.md:0
 #: ../../03_Image_analysis/SpecificUseSoftware.md:0
 msgid "What are its disadvantages?"
-msgstr "その欠点は何ですか？"
+msgstr "欠点"
 
 #: ../../03_Image_analysis/GeneralUseSoftware.md:14
 msgid ""
