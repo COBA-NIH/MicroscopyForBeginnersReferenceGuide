@@ -1099,7 +1099,7 @@ msgstr "📖 Bioimage Data Analysis {cite}`Miura2016-wq`"
 msgid ""
 "[link](https://analyticalscience.wiley.com/do/10.1002/was.00050003/full/bioimagedataanalysis.pdf)"
 msgstr ""
-"[リンク](https://analyticalscience.wiley.com/do/10.1002/was.00050003/full/bioimagedataanalysis.pdf)"
+"[link](https://analyticalscience.wiley.com/do/10.1002/was.00050003/full/bioimagedataanalysis.pdf)"
 
 #: ../../03_Image_analysis/Resources.md:21
 msgid ""
