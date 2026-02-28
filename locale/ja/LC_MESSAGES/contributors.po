@@ -113,7 +113,7 @@ msgid ""
 "direct contributions to the GitHub repository."
 msgstr ""
 "現在のところ、[Google "
-"Form](https://docs.google.com/forms/d/e/1FAIpQLScWQbemviI2OkvVkeTKUOozAzKNndcZpXIB_nE0qFMl72lqvQ/viewform)での投稿も受け付けていますが、GitHubリポジトリへの直接の投稿よりも対応が遅くなる可能性があることに注意してください。"
+"Form](https://docs.google.com/forms/d/e/1FAIpQLScWQbemviI2OkvVkeTKUOozAzKNndcZpXIB_nE0qFMl72lqvQ/viewform)での投稿も受け付けていますが、GitHubリポジトリへの直接の投稿よりも対応が遅くなる可能性があることをご了承ください。"
 
 #: ../../contributors.md:23
 msgid "Translation"
