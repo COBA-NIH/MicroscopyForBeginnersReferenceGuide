@@ -565,7 +565,7 @@ msgstr "ImageJまたはその \"バッテリーを含む \"ディストリビュ
 
 #: ../../03_Image_analysis/GeneralUseSoftware.md:24
 msgid "🌐 [ImageJ download](https://imagej.net/downloads)"
-msgstr "🌐 [ImageJダウンロード](https://imagej.net/downloads)"
+msgstr "🌐 [ImageJ download](https://imagej.net/downloads)"
 
 #: ../../03_Image_analysis/GeneralUseSoftware.md:26
 msgid ""
