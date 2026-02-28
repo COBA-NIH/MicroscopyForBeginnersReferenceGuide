@@ -180,7 +180,7 @@ msgstr "[リンク](https://www.nibb.ac.jp/abis/)"
 
 #: ../../community_resources.md:55
 msgid "Microscopy Australia"
-msgstr "顕微鏡検査 オーストラリア"
+msgstr "Microscopy Australia"
 
 #: ../../community_resources.md:56
 msgid "[link](https://micro.org.au/)"
