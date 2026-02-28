@@ -296,9 +296,10 @@ msgid ""
 "objects. Pearson correlation coefficients are readily measurable in most "
 "image analysis softwares (e.g., FIJI, CellProfiler, etc.)."
 msgstr ""
-"**相関ベースの共焦点化**は、測定するラベルがバラバラの物体に存在しない場合や、ラベルのシグナルに相関があると予測される場合に適している。相関に基づくコロカリゼーションは、{term}"
-" "
-"、対象物を「セグメンテーション」する必要がないため、測定が簡単である。ピアソン相関係数は、ほとんどの画像解析ソフト（FIJI、CellProfilerなど）で容易に測定可能である。"
+"**相関ベースの共局在**は、測定対象の標識が明確なオブジェクトとして存在しない場合や、標識間のシグナルが相関すると予測される場合により適しています。相関ベースの共局在は、オブジェクトの"
+" {term}`セグメンテーション` "
+"を必要としないため、比較的容易に測定できます。ピアソンの相関係数は、多くの画像解析ソフトウェア（例：FIJI、CellProfiler "
+"など）で容易に算出することができます。"
 
 #: ../../03_Image_analysis/Colocalization.md:55
 msgid ""
