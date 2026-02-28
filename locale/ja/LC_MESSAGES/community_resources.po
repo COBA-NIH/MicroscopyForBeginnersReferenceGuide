@@ -156,11 +156,11 @@ msgstr "[link](https://www.africanbioimaging.org/)"
 
 #: ../../community_resources.md:49
 msgid "South Africa BioImaging"
-msgstr "南アフリカ バイオイメージング"
+msgstr "South Africa BioImaging"
 
 #: ../../community_resources.md:50
 msgid "[link](https://www.sabioimaging.org/)"
-msgstr "[リンク](https://www.sabioimaging.org/)"
+msgstr "[link](https://www.sabioimaging.org/)"
 
 #: ../../community_resources.md:51
 msgid "Euro-bioimaging"
