@@ -188,7 +188,7 @@ msgstr ""
 
 #: ../../Glossary.md:33
 msgid "Oxygen scavengers"
-msgstr "脱酸素剤 oxygen scavengers"
+msgstr "脱酸素剤 Oxygen scavengers"
 
 #: ../../Glossary.md:38
 msgid ""
