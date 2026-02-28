@@ -58,7 +58,7 @@ msgstr "[link](https://globalbioimaging.org/)"
 msgid ""
 "Training resources, working groups, recommendations for standardization and "
 "research reproducibility for global bioimaging efforts"
-msgstr "トレーニングリソース、ワーキンググループ、グローバルなバイオイメージングの取り組みのための標準化と研究再現性のための提言"
+msgstr "世界的なバイオイメージング推進に向けた、トレーニングリソース、ワーキンググループ、標準化および研究再現性に関する推奨事項"
 
 #: ../../community_resources.md:18
 msgid "GloBIAS"
