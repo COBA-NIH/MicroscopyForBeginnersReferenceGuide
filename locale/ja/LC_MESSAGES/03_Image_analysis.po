@@ -1876,4 +1876,4 @@ msgstr "画像処理"
 
 #: ../../03_Image_analysis/_notinyet_Image_segmentation.md:1
 msgid "Image Segmentation"
-msgstr "画像分割"
+msgstr "画像セグメンテーション"
