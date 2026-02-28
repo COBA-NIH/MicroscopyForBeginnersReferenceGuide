@@ -1151,7 +1151,7 @@ msgstr "[link](https://metrics-reloaded.dkfz.de/)"
 msgid ""
 "An interactive guide to choosing the right metric for your scientific "
 "question"
-msgstr "科学的な問いに対して適切な指標を選択するためのインタラクティブガイド"
+msgstr "科学的な問いに対して適切な指標を選択するためのインタラクティブなガイド"
 
 #: ../../03_Image_analysis/Resources.md:31
 msgid ""
