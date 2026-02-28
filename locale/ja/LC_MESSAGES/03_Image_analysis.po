@@ -477,7 +477,7 @@ msgstr ""
 
 #: ../../03_Image_analysis/Data_management.md:37
 msgid "🌐 [BBBC](https://bbbc.broadinstitute.org/) {cite}`Ljosa2012-fr`"
-msgstr "🌐 [BBBC](https://bbbc.broadinstitute.org/){cite}`Ljosa2012-fr`"
+msgstr "🌐 [BBBC](https://bbbc.broadinstitute.org/) {cite}`Ljosa2012-fr`"
 
 #: ../../03_Image_analysis/Data_management.md:38
 msgid ""
