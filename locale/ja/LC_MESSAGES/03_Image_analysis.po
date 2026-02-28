@@ -877,7 +877,7 @@ msgstr "強度の計測"
 
 #: ../../03_Image_analysis/Intensity.md:3
 msgid "What are intensity measurements?"
-msgstr "強度とは？"
+msgstr "強度を計測する"
 
 #: ../../03_Image_analysis/Intensity.md:4
 msgid ""
