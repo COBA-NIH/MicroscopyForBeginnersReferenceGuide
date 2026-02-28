@@ -1752,7 +1752,7 @@ msgstr "物体追跡"
 
 #: ../../03_Image_analysis/Tracking.md:3
 msgid "What is tracking?"
-msgstr "トラッキングとは何か？"
+msgstr "トラッキングとは"
 
 #: ../../03_Image_analysis/Tracking.md:4
 msgid ""
