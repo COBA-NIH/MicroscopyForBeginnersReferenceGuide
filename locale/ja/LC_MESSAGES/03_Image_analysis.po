@@ -1834,7 +1834,7 @@ msgid ""
 "analysis. For each, we explain why this is a problem and make suggestions "
 "for how to avoid these issues."
 msgstr ""
-"一般的な画像解析タスクについてまとめた間違いに加え、ここでは画像解析初心者によくある間違いの一般的なリストを紹介します。それぞれについて、なぜそれが問題なのかを説明し、これらの問題を回避する方法を提案します。"
+"一般的な画像解析タスクについてまとめた間違いに加え、ここでは画像解析初心者によくある間違いを紹介します。それぞれについて、なぜそれが問題なのかを説明し、これらの問題を回避する方法を説明します。"
 
 #: ../../03_Image_analysis/_notinyet_Common_pitfalls.md:5
 msgid "Changing your image bit depth"
