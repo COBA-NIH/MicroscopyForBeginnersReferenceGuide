@@ -1733,7 +1733,7 @@ msgstr ""
 
 #: ../../03_Image_analysis/SpecificUseSoftware.md:75
 msgid "Piximi can do image classification using machine learning"
-msgstr "Piximiは機械学習を使って画像分類ができる"
+msgstr "機械学習を使用した画像分類ができます。"
 
 #: ../../03_Image_analysis/SpecificUseSoftware.md:82
 msgid ""
