@@ -1205,7 +1205,7 @@ msgstr ""
 
 #: ../../03_Image_analysis/Resources.md:40
 msgid "🌐 Bioimage ANalysis Desktop (BAND)"
-msgstr "バイオイメージ アナリシス デスクトップ (BAND)"
+msgstr "🌐 Bioimage ANalysis Desktop (BAND)"
 
 #: ../../03_Image_analysis/Resources.md:41
 msgid "[link](https://band.embl.de)"
