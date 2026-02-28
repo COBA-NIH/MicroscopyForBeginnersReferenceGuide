@@ -1273,7 +1273,8 @@ msgstr "[link](https://haesleinhuepf.github.io/BioImageAnalysisNotebooks/)"
 msgid ""
 "A collection of Python Jupyter notebooks for BioImageAnalysis, GPU-"
 "accelerated image processing, bio-image data science and more"
-msgstr "バイオイメージング解析、GPU高速化画像処理、バイオイメージングデータサイエンスなどのためのPython Jupyterノートブック集。"
+msgstr ""
+"バイオイメージング解析、GPU高速化画像処理、バイオイメージングデータサイエンスなどのためのPython Jupyter Notebook集。"
 
 #: ../../03_Image_analysis/Resources.md:55
 msgid ""
