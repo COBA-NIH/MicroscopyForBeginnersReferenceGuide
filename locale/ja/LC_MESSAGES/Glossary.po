@@ -289,7 +289,8 @@ msgid ""
 "the background and the foreground (or signal). It creates a binary image "
 "where usually the background pixels would be change to a 0 value and the "
 "foreground pixels values would be 1."
-msgstr "画像分割の最も簡単な方法で、画像を背景と前景（または信号）の2つに分割する。通常、背景ピクセルは0、前景ピクセルは1となる。"
+msgstr ""
+"最も単純な画像セグメンテーションの手法であり、画像を背景と前景（またはシグナル）の2つに分割する。通常、背景画素の値を0、前景画素の値を1とする二値画像を生成する。"
 
 #: ../../Glossary.md:54
 msgid "Tissue clearing"
