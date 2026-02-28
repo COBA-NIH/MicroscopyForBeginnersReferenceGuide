@@ -1573,7 +1573,7 @@ msgstr ""
 
 #: ../../03_Image_analysis/Software.md:0
 msgid "Piximi"
-msgstr "ピクシス"
+msgstr "Piximi"
 
 #: ../../03_Image_analysis/Software.md:93
 msgid ""
