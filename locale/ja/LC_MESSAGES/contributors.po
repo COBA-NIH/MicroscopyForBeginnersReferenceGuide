@@ -85,7 +85,7 @@ msgstr "Robert Haase"
 msgid ""
 "Improvements to the build and maintenance system for this book have come "
 "from"
-msgstr "この本のビルドおよびメンテナンス システムの改善は次のとおりです。"
+msgstr "また、本書のビルドおよびメンテナンスシステムの改善については、以下の方にご協力いただきました。"
 
 #: ../../contributors.md:14
 msgid "Pete Bankhead"
