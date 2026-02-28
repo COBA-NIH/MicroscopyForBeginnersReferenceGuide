@@ -207,7 +207,7 @@ msgstr ""
 
 #: ../../Glossary.md:36
 msgid "Permeabilization"
-msgstr "透過化 permeabilization"
+msgstr "透過化 Permeabilization"
 
 #: ../../Glossary.md:41
 msgid ""
@@ -222,7 +222,7 @@ msgstr ""
 
 #: ../../Glossary.md:39
 msgid "Refractive index"
-msgstr "屈折率 refractive index"
+msgstr "屈折率 Refractive index"
 
 #: ../../Glossary.md:44
 msgid ""
