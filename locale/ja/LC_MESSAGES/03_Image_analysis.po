@@ -1739,7 +1739,7 @@ msgstr "機械学習を使用した画像分類ができます。"
 msgid ""
 "It is still in the developing phases and some of its proposed features are "
 "not available yet"
-msgstr "まだ開発段階であり、提案されている機能のいくつかはまだ利用できない。"
+msgstr "現在も開発段階であり、提案されている機能の一部はまだ利用できません。"
 
 #: ../../03_Image_analysis/SpecificUseSoftware.md:89
 msgid "🌐 [Piximi website ](https://www.piximi.app/)"
