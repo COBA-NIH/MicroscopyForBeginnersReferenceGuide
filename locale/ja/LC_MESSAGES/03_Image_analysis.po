@@ -1185,7 +1185,7 @@ msgstr "[link](https://biii.eu/)"
 msgid ""
 "Repository platform for searching bioimage analysis tools and workflows "
 "based on the problem, method or software of choice"
-msgstr "バイオイメージ解析ツールやワークフローを、問題や手法、選択したソフトウェアに基づいて検索するためのリポジトリ・プラットフォーム。"
+msgstr "問題、手法、または使用したいソフトウェアに基づいて、バイオイメージ解析ツールやワークフローを検索できるリポジトリ・プラットフォーム。"
 
 #: ../../03_Image_analysis/Resources.md:37
 msgid "🎥 iBiology Bioimage Analysis video series"
