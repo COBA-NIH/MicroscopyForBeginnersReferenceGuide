@@ -75,11 +75,11 @@ msgstr "このガイドブックが利用できるようになって以来、顕
 
 #: ../../contributors.md:10
 msgid "William Giang"
-msgstr "ウィリアム・ジアン"
+msgstr "William Giang"
 
 #: ../../contributors.md:11
 msgid "Robert Haase"
-msgstr "ロバート・ハーゼ"
+msgstr "Robert Haase"
 
 #: ../../contributors.md:13
 msgid ""
