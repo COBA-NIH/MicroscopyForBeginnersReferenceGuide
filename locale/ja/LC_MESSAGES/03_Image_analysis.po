@@ -532,7 +532,7 @@ msgid ""
 msgstr ""
 "[ImageJ](https://imagej.net/){cite}`Schneider2012-gs,Schindelin2012-kk,Rueden2017-ku`"
 " "
-"は、マルチチャンネル、3D、時系列を含む様々な画像を操作できる画像処理プログラムです。様々な基本的な画像処理操作を提供しますが、より複雑なタスクのために様々なプラグインで補完することができます。"
+"は、マルチチャンネル画像、3次元画像、タイムラプス画像など、さまざまな種類の画像を扱うことができる画像処理プログラムです。基本的な画像処理操作を多数備えていますが、より複雑な処理を行うために、多様なプラグインによって機能を拡張することも可能です。"
 
 #: ../../03_Image_analysis/GeneralUseSoftware.md:0
 #: ../../03_Image_analysis/SpecificUseSoftware.md:0
