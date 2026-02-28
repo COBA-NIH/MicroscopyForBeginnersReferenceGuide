@@ -1280,7 +1280,9 @@ msgstr ""
 msgid ""
 "📄 Believing is seeing - the deceptive influence of bias in quantitative "
 "microscopy{cite}`Lee2024-zu`"
-msgstr "📄 信じることは見ることである - 定量的顕微鏡検査におけるバイアスの欺瞞的な影響{cite}`Lee2024-zu`"
+msgstr ""
+"📄 Believing is seeing - the deceptive influence of bias in quantitative "
+"microscopy{cite}`Lee2024-zu`"
 
 #: ../../03_Image_analysis/Resources.md:56
 msgid "[link](https://doi.org/10.1242/jcs.261567)"
