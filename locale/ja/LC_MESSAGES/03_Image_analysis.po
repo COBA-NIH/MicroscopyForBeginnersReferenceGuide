@@ -510,7 +510,7 @@ msgid ""
 "of analyses and/or images. For tools that specialize in certain analysis "
 "steps, see the [Specific Use Software](./SpecificUseSoftware.md) page."
 msgstr ""
-"このページにあるツールは、多くの種類の解析や画像に対して比較的多目的である傾向があります。特定の分析ステップに特化したツールについては、[Specific"
+"本ページでは、多様な種類の解析や画像に対して比較的汎用的に利用できるものを中心に紹介しています。特定の解析工程に特化したツールについては、[Specific"
 " Use Software](./SpecificUseSoftware.md)ページを参照してください。"
 
 #: ../../03_Image_analysis/GeneralUseSoftware.md:6
