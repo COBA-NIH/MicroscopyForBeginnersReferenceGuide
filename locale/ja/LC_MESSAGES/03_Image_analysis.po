@@ -1402,7 +1402,8 @@ msgid ""
 "CellProfiler](https://cellprofiler-"
 "manual.s3.amazonaws.com/CellProfiler-4.2.4/modules/measurement.html#id20)"
 msgstr ""
-"CellProfiler による形態学的測定の説明](https://cellprofiler-"
+"🌐 [Description of morphological measurements made by "
+"CellProfiler](https://cellprofiler-"
 "manual.s3.amazonaws.com/CellProfiler-4.2.4/modules/measurement.html#id20)"
 
 #: ../../03_Image_analysis/Shape.md:33
