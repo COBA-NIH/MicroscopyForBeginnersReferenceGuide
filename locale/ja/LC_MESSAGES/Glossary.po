@@ -78,7 +78,7 @@ msgid ""
 " of common plugins."
 msgstr ""
 "[Fiji](https://imagej.net/software/fiji/)は”Fiji Is Just "
-"ImageJ\"の略。ImageJ2に多数の一般的なプラグインを加えたソフトフェア。"
+"ImageJ\"の略。ImageJ2に多数の一般的なプラグインを加えた汎用画像解析ソフトフェア。"
 
 #: ../../Glossary.md:12
 msgid "Fixation"
