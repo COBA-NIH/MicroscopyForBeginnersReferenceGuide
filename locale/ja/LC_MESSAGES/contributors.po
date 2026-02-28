@@ -71,7 +71,7 @@ msgid ""
 "Since this guide has become available, we gratefully acknowledge "
 "contributions from the following members of the microscopy and bioimage "
 "analysis community!"
-msgstr "このガイドブックが利用できるようになって以来、顕微鏡およびバイオイメージ解析コミュニティの以下のメンバーからの貢献に感謝いたします！"
+msgstr "本ガイドが公開されて以降、顕微鏡・バイオイメージング解析コミュニティの以下のメンバーからご貢献をいただきました。心より感謝申し上げます。"
 
 #: ../../contributors.md:10
 msgid "William Giang"
