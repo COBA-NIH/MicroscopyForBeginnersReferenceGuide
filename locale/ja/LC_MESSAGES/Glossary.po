@@ -97,7 +97,7 @@ msgstr ""
 
 #: ../../Glossary.md:15
 msgid "Image processing"
-msgstr "画像処理"
+msgstr "画像処理 image processing"
 
 #: ../../Glossary.md:20
 msgid ""
