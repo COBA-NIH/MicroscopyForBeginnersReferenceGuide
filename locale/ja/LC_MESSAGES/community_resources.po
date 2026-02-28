@@ -82,7 +82,7 @@ msgstr "[link](https://forum.microlist.org/)"
 
 #: ../../community_resources.md:23
 msgid "Discussion forum for bioimaging sample preparation and acquisition"
-msgstr "バイオイメージング試料の調製と取得に関するディスカッションフォーラム"
+msgstr "バイオイメージングにおける試料調製と画像撮影に関するディスカッションフォーラム"
 
 #: ../../community_resources.md:24
 msgid "Scientific Community Image Forum (Image . sc)"
