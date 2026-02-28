@@ -1219,7 +1219,7 @@ msgstr "バイオイメージング解析ソフトウェアにブラウザから
 
 #: ../../03_Image_analysis/Resources.md:43
 msgid "🌐 Galaxy Imaging Node"
-msgstr "ギャラクシー・イメージング・ノード"
+msgstr "🌐 Galaxy Imaging Node"
 
 #: ../../03_Image_analysis/Resources.md:44
 msgid "[link](https://imaging.usegalaxy.eu/)"
