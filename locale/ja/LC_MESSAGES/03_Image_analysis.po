@@ -1841,7 +1841,7 @@ msgstr ""
 
 #: ../../03_Image_analysis/_notinyet_Common_pitfalls.md:5
 msgid "Changing your image bit depth"
-msgstr "画像のビット深度を変更する"
+msgstr "画像のビット深度の変更"
 
 #: ../../03_Image_analysis/_notinyet_Common_pitfalls.md:7
 msgid ""
