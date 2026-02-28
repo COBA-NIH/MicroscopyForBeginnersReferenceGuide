@@ -1320,7 +1320,7 @@ msgstr "**体積**：3次元画像の中でオブジェクトが占める3次元
 
 #: ../../03_Image_analysis/Shape.md:8
 msgid "**Perimeter**: the distance around the edge of an object"
-msgstr "**外周**：物体の端の周りの距離"
+msgstr "**周囲長**：オブジェクトの境界の周りの長さ"
 
 #: ../../03_Image_analysis/Shape.md:10
 msgid "What are shape measurements?"
