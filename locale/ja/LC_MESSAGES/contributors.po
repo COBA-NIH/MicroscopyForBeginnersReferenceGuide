@@ -142,7 +142,7 @@ msgstr ""
 
 #: ../../contributors.md:29
 msgid "Translations are gratefully acknowledged from:"
-msgstr "翻訳に感謝する："
+msgstr "翻訳にご協力いただいた方々に深く感謝いたします："
 
 #: ../../contributors.md:31
 msgid "Czech : Martin Schätz"
