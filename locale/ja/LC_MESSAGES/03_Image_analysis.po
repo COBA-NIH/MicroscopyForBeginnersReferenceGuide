@@ -464,7 +464,8 @@ msgid ""
 "🌐 [Bioimage Archive](https://www.ebi.ac.uk/bioimage-archive/) "
 "{cite}`Hartley2022-mt`"
 msgstr ""
-"バイオイメージアーカイブ](https://www.ebi.ac.uk/bioimage-archive/){cite}`Hartley2022-mt`"
+"🌐 [Bioimage Archive](https://www.ebi.ac.uk/bioimage-archive/) "
+"{cite}`Hartley2022-mt`"
 
 #: ../../03_Image_analysis/Data_management.md:36
 msgid ""
