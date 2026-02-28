@@ -1076,7 +1076,7 @@ msgstr "近くのバイオイメージング解析の専門家を検索できま
 
 #: ../../03_Image_analysis/Resources.md:16
 msgid "🌐 Peter Bankhead’s Intro to Bioimage Analysis"
-msgstr "ピーター・バンクヘッド著『バイオイメージ解析入門"
+msgstr "🌐 Peter Bankhead’s Intro to Bioimage Analysis"
 
 #: ../../03_Image_analysis/Resources.md:17
 msgid "[link](https://bioimagebook.github.io/)"
