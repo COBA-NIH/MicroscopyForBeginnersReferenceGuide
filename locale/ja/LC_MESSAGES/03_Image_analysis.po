@@ -1223,7 +1223,7 @@ msgstr "🌐 Galaxy Imaging Node"
 
 #: ../../03_Image_analysis/Resources.md:44
 msgid "[link](https://imaging.usegalaxy.eu/)"
-msgstr "[リンク](https://imaging.usegalaxy.eu/)"
+msgstr "[link](https://imaging.usegalaxy.eu/)"
 
 #: ../../03_Image_analysis/Resources.md:45
 msgid ""
