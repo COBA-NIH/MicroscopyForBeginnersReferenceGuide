@@ -1092,7 +1092,7 @@ msgstr ""
 
 #: ../../03_Image_analysis/Resources.md:19
 msgid "📖 Bioimage Data Analysis {cite}`Miura2016-wq`"
-msgstr "バイオイメージデータ解析{cite}`Miura2016-wq`"
+msgstr "📖 Bioimage Data Analysis {cite}`Miura2016-wq`"
 
 #: ../../03_Image_analysis/Resources.md:20
 msgid ""
