@@ -114,7 +114,7 @@ msgstr ""
 
 #: ../../community_resources.md:30
 msgid "HMS Nikon Imaging Center \"Favorite References\""
-msgstr "HMSニコンイメージングセンター \"お気に入り文献\""
+msgstr "HMS Nikon Imaging Center \"Favorite References\""
 
 #: ../../community_resources.md:31
 msgid "[link](https://nic.med.harvard.edu/fav_references/)"
