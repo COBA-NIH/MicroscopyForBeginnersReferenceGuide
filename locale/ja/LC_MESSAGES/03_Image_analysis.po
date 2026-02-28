@@ -958,8 +958,8 @@ msgid ""
 "conditions that we can generate some biological insight. A control condition"
 " is therefore **very** important to compare to your experimental condition."
 msgstr ""
-"**不適切なコントロール** "
-"ほとんどの場合、得られた正確な強度測定は、単独では生物学的に何の意味もなさない。条件の比較によってのみ、生物学的な洞察を得ることができる。従って、実験条件と比較する対照条件は、**非常に**重要である。"
+"**不十分なコントロール** "
+"多くの場合、得られた強度測定値そのものは、単独では生物学的な意味を持ちません。生物学的な解釈は、異なる条件間の比較によって初めて可能になります。そのため、実験条件と比較するためのコントロール条件は**非常に**重要です。"
 
 #: ../../03_Image_analysis/Intensity.md:42
 msgid ""
