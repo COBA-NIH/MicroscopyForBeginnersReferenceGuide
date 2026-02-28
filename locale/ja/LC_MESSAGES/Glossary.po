@@ -127,7 +127,7 @@ msgstr ""
 
 #: ../../Glossary.md:21
 msgid "Immunolabeling"
-msgstr "免疫標識"
+msgstr "免疫標識 immunolabeling"
 
 #: ../../Glossary.md:26
 msgid ""
