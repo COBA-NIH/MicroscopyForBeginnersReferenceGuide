@@ -172,7 +172,7 @@ msgid ""
 "glass) and minimizing photobleaching (depending on the medium). Mounting "
 "media prevents the sample from drying out allowing long-term storage."
 msgstr ""
-"試料を入れる（マウントする）溶液。その目的は、pHを緩衝し、試料全体の屈折率を合わせ（理想的にはガラスの屈折率に合わせる）、光退色を最小限に抑える（メディウムによる）ことで、試料を保存し、試料中の蛍光色素を含め、撮影時の画像品質を向上させることです。マウントメディアはサンプルの乾燥を防ぎ、長期保存を可能にする。"
+"試料を封入（マウント）する溶液。pH緩衝作用、サンプル全体の屈折率の均一化（理想的にはガラスの屈折率への適合）、および光退色の抑制（媒質の種類による）によって、蛍光体を含むサンプルを保存しながら取得時の画質を向上させる。また、サンプルの乾燥を防ぎ、長期保存を可能にする。"
 
 #: ../../Glossary.md:30
 msgid "Object detection"
