@@ -62,7 +62,7 @@ msgstr "世界的なバイオイメージング推進に向けた、トレーニ
 
 #: ../../community_resources.md:18
 msgid "GloBIAS"
-msgstr "グローバイアス"
+msgstr "GloBIAS"
 
 #: ../../community_resources.md:19
 msgid "[link](https://www.globias.org/home)"
