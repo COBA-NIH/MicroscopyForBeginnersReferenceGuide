@@ -1520,7 +1520,7 @@ msgid ""
 " tools, it utilizes plugins to create visual image analysis protocols that "
 "can be shared with other users. [Read more...](content/icy)"
 msgstr ""
-"[Icy](https://icy.bioimageanalysis.org/)は、すぐに使える画像解析ツールで、プラグインを利用して、他のユーザーと共有できる視覚的な画像解析プロトコルを作成できる。[続きを読む...](content/icy)"
+"[Icy](https://icy.bioimageanalysis.org/)はすぐに使える画像解析ツールであり、プラグインを利用して他のユーザーと共有できるビジュアルな画像解析プロトコルを作成することができます。[続きを読む...](content/icy)"
 
 #: ../../03_Image_analysis/Software.md:0
 msgid "MIB"
