@@ -47,7 +47,7 @@ msgstr ""
 " Edward L. Evans III, Kevin W Eliceiri and Beth A. Ciminiらによる論文\"[**_A "
 "biologist's guide to planning and performing quantitative bioimaging "
 "experiments_**](https://doi.org/10.1371/journal.pbio.3002167) "
-"\"{cite}`Rebecca A. Senft`の一部として作成されました。。"
+"\"{cite}`Senft2023-zy`の一部として作成されました。"
 
 #: ../../contributors.md:7
 msgid ""
