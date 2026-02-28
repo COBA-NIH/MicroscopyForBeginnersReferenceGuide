@@ -282,7 +282,7 @@ msgstr ""
 
 #: ../../Glossary.md:51
 msgid "Thresholding"
-msgstr "閾値処理"
+msgstr "閾値処理 Thresholding"
 
 #: ../../Glossary.md:56
 msgid ""
