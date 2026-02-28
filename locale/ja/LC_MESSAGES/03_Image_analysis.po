@@ -1300,7 +1300,7 @@ msgstr "大きさと形状の測定"
 
 #: ../../03_Image_analysis/Shape.md:3
 msgid "What are size measurements?"
-msgstr "サイズの測り方は？"
+msgstr "大きさの測り方は？"
 
 #: ../../03_Image_analysis/Shape.md:4
 msgid ""
