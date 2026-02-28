@@ -1633,7 +1633,7 @@ msgstr ""
 
 #: ../../03_Image_analysis/SpecificUseSoftware.md:20
 msgid "Its use requires some computational knowledge."
-msgstr "その使用には、ある程度の計算知識が必要だ。"
+msgstr "ある程度のプログラミングの知識が必要です。"
 
 #: ../../03_Image_analysis/SpecificUseSoftware.md:21
 msgid ""
