@@ -899,7 +899,7 @@ msgstr "**平均強度** mean intensity: すべての画素における強度の
 msgid ""
 "**Integrated intensity**: the sum of pixel intensities, a proxy for the "
 "total amount of that marker in an object"
-msgstr "**Integrated intensity**: ピクセルの強度の合計。"
+msgstr "**積分強度** integrated intensity: ピクセルの強度の合計。"
 
 #: ../../03_Image_analysis/Intensity.md:7
 msgid "**Texture measurements**: the smoothness of the intensities"
