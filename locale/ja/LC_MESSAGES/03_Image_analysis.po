@@ -837,7 +837,7 @@ msgstr ""
 
 #: ../../03_Image_analysis/GeneralUseSoftware.md:166
 msgid "To download napari"
-msgstr "ナパリをダウンロードするには"
+msgstr "napariをダウンロードするには"
 
 #: ../../03_Image_analysis/GeneralUseSoftware.md:170
 msgid ""
