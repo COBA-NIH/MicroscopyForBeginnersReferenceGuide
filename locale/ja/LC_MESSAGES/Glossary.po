@@ -70,7 +70,7 @@ msgstr ""
 
 #: ../../Glossary.md:9
 msgid "Fiji"
-msgstr "フィジー"
+msgstr "Fiji"
 
 #: ../../Glossary.md:14
 msgid ""
