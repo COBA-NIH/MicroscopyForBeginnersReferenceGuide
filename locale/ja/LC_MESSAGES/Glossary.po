@@ -222,7 +222,7 @@ msgstr ""
 
 #: ../../Glossary.md:39
 msgid "Refractive index"
-msgstr "屈折率"
+msgstr "屈折率 refractive index"
 
 #: ../../Glossary.md:44
 msgid ""
