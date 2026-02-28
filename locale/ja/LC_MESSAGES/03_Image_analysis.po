@@ -1810,8 +1810,8 @@ msgid ""
 "📄 [Computerized Cell "
 "Tracking](https://www.sciencedirect.com/science/article/pii/S2468502X20300711)"
 msgstr ""
-"📄 "
-"[コンピューターによる細胞追跡](https://www.sciencedirect.com/science/article/pii/S2468502X20300711)"
+"📄 [Computerized Cell "
+"Tracking](https://www.sciencedirect.com/science/article/pii/S2468502X20300711)"
 
 #: ../../03_Image_analysis/Tracking.md:23
 msgid ""
