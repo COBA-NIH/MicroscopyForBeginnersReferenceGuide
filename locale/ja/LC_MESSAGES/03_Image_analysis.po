@@ -1695,11 +1695,11 @@ msgstr ""
 
 #: ../../03_Image_analysis/SpecificUseSoftware.md:53
 msgid "To download ilastik:"
-msgstr "ilastikをダウンロードする："
+msgstr "ilastikをダウンロードするには"
 
 #: ../../03_Image_analysis/SpecificUseSoftware.md:57
 msgid "🌐 [ilastik download ](https://www.ilastik.org/download.html)"
-msgstr "🌐 [イラスティック・ダウンロード](https://www.ilastik.org/download.html)"
+msgstr "🌐 [ilastik download ](https://www.ilastik.org/download.html)"
 
 #: ../../03_Image_analysis/SpecificUseSoftware.md:63
 msgid ""
