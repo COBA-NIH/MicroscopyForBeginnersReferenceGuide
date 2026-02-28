@@ -833,7 +833,7 @@ msgid ""
 " and already has a variety of plugins and use cases with tutorials "
 "available."
 msgstr ""
-"napariはまだ開発段階だが、非常に人気のあるプラットフォームで、すでにさまざまなプラグインや使用例があり、チュートリアルも用意されている。"
+"napariはまだ開発段階ですが、非常に人気のあるプラットフォームで、すでにさまざまなプラグインや使用例があり、チュートリアルも用意されています。"
 
 #: ../../03_Image_analysis/GeneralUseSoftware.md:166
 msgid "To download napari"
