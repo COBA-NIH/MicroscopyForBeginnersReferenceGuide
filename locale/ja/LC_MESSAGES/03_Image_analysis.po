@@ -981,7 +981,8 @@ msgid ""
 "measures](https://neubias.github.io/training-"
 "resources/measure_intensities/index.html)"
 msgstr ""
-"🎓【ノイビアスの強度対策トレーニング教材】(https://neubias.github.io/training-"
+"🎓 [Neubias training resource on intensity "
+"measures](https://neubias.github.io/training-"
 "resources/measure_intensities/index.html)"
 
 #: ../../03_Image_analysis/Introduction.md:1
