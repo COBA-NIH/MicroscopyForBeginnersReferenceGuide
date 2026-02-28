@@ -562,7 +562,7 @@ msgstr "ダウンロード/インストール方法"
 
 #: ../../03_Image_analysis/GeneralUseSoftware.md:20
 msgid "To download ImageJ or its “batteries-included” distribution Fiji go to"
-msgstr "ImageJまたはその \"バッテリーを含む \"ディストリビューションFijiをダウンロードするには、以下にアクセスする。"
+msgstr "ImageJ、または必要な機能があらかじめ含まれたバージョンである Fiji は以下のサイトからダウンロードできます。"
 
 #: ../../03_Image_analysis/GeneralUseSoftware.md:24
 msgid "🌐 [ImageJ download](https://imagej.net/downloads)"
