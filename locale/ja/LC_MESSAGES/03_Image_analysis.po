@@ -1135,7 +1135,7 @@ msgstr "[link](https://arxiv.org/abs/2302.01657#) {cite}`Culley2023-dj`"
 msgid ""
 "An article describing several common classes of measurements made in "
 "microscopy data, as well as technical factors that may affect the results"
-msgstr "顕微鏡データで行われるいくつかの一般的な測定クラスと、結果に影響を与える可能性のある技術的要因について説明した論文。"
+msgstr "顕微鏡データで行われるいくつかの一般的な測定のカテゴリと、それらの結果に影響を与えうる技術的要因について解説した論文"
 
 #: ../../03_Image_analysis/Resources.md:28
 msgid ""
