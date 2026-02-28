@@ -28,7 +28,7 @@ msgstr "コミュニティのリソース"
 
 #: ../../community_resources.md:3
 msgid "Below are globally and locally available community resources"
-msgstr "以下は、世界的および地域的に利用可能な地域資源である。"
+msgstr "以下は、世界的および地域的に利用可能なコミュニティのリソースの一覧です。"
 
 #: ../../community_resources.md:5
 msgid "Global and online resources"
