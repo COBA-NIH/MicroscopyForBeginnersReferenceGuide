@@ -122,7 +122,7 @@ msgid ""
 " of the mounting media to minimize aberrations and improve image quality. "
 "Immersion media can be air, water, silicone oil, glycerol or oil."
 msgstr ""
-"浸液は、対物レンズとカバーガラスまたは試料の間を満たす媒質のこと。対物レンズの開口数（NA）に{math}`NA=RI * "
+"浸液は、対物レンズとカバーガラスまたは試料の間を満たす媒質のこと。対物レンズの開口数　NAに{math}`NA=RI * "
 "sin(θ)`の形で影響し、横方向および軸方向の分解能に関わる。収差を最小限に抑えて画質を向上させるためには、浸液の屈折率（RI）は封入剤の屈折率に合わせることが重要である。浸液には、空気、水、シリコーンオイル、グリセロール、オイルなどが用いられる。"
 
 #: ../../Glossary.md:21
