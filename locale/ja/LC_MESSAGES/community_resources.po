@@ -4,7 +4,7 @@
 # FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
 # 
 # Translators:
-# Beth Cimini, 2025
+# Beth Cimini, 2023
 # Haruhiko Morita, 2026
 # 
 #, fuzzy
@@ -110,7 +110,7 @@ msgid ""
 "team at [Harvard CITE](https://cite.hms.harvard.edu/)"
 msgstr ""
 "[Harvard CITE](https://cite.hms.harvard.edu/) "
-"のチームが作成した、蛍光顕微鏡に関する素晴らしいインタラクティブ コースです。"
+"のチームが作成した、蛍光顕微鏡をインタラクティブに学べるコース"
 
 #: ../../community_resources.md:30
 msgid "HMS Nikon Imaging Center \"Favorite References\""
