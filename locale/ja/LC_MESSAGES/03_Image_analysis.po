@@ -732,7 +732,7 @@ msgstr ""
 
 #: ../../03_Image_analysis/GeneralUseSoftware.md:102
 msgid "Icy interoperability with other softwares is limited to ImageJ"
-msgstr "他のソフトウェアとの相互運用性はImageJに限られる。"
+msgstr "他ソフトウェアとの相互運用は、ImageJ のみ対応しています。"
 
 #: ../../03_Image_analysis/GeneralUseSoftware.md:107
 msgid "To download Icy"
