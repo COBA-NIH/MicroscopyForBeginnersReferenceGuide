@@ -1559,7 +1559,7 @@ msgid ""
 "more...](content/cellpose)"
 msgstr ""
 "[Cellpose](https://www.cellpose.org/)は、{term}`セグメンテーション` "
-"アルゴリズムで、グラフィカルユーザーインターフェースから学習済みモデルを使用したり、自身の画像とアノテーションを使って独自のモデルをトレーニングしたりすることができるです。続きを読む...](content/cellpose)"
+"アルゴリズムで、グラフィカルユーザーインターフェースから学習済みモデルを使用したり、自身の画像とアノテーションを使って独自のモデルをトレーニングしたりすることができます。[続きを読む...](content/cellpose)"
 
 #: ../../03_Image_analysis/Software.md:0
 msgid "ilastik"
