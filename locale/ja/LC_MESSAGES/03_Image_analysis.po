@@ -903,7 +903,7 @@ msgstr "**積分強度** integrated intensity: ピクセルの強度の合計で
 
 #: ../../03_Image_analysis/Intensity.md:7
 msgid "**Texture measurements**: the smoothness of the intensities"
-msgstr "**テクスチャー測定**：強度の滑らかさ"
+msgstr "**テクスチャ指標**：強度の滑らかさ"
 
 #: ../../03_Image_analysis/Intensity.md:13
 msgid ""
