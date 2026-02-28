@@ -344,7 +344,8 @@ msgid ""
 "Consultation with an expert and the inclusion of proper controls can help "
 "you be assured that your measurement is truly what you think it is."
 msgstr ""
-"**ここで選択した測定法の詳細は非常に重要であり、バックグラウンドピクセルを含むかどうか、S/N感度はどうであるかなど、測定法は多岐にわたる。専門家に相談し、適切なコントロールを含めることで、測定値が本当にあなたが考えているものであることを確信することができます。"
+"**共局在指標の不適切な解釈** "
+"ここで選択する指標の詳細は非常に重要です。指標ごとに、背景画素をどの程度含めるか、S/N比にどの程度影響を受けるかなどの点で大きく異なります。専門家への相談や適切なコントロールの導入により、得られた測定値が意図した内容を正しく反映していることを確認することができます。"
 
 #: ../../03_Image_analysis/Colocalization.md:63
 msgid ""
