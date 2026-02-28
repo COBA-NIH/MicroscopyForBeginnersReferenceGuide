@@ -168,7 +168,7 @@ msgstr "Euro-bioimaging"
 
 #: ../../community_resources.md:52
 msgid "[link](https://www.eurobioimaging.eu/)"
-msgstr "[リンク](https://www.eurobioimaging.eu/)"
+msgstr "[link](https://www.eurobioimaging.eu/)"
 
 #: ../../community_resources.md:53
 msgid "Advanced BioImaging support (Japan)"
