@@ -1622,7 +1622,7 @@ msgstr ""
 
 #: ../../03_Image_analysis/SpecificUseSoftware.md:0
 msgid "What type of image analysis problem is it best at?"
-msgstr "得意な画像解析問題の種類"
+msgstr "どんな画像解析タスクが得意か"
 
 #: ../../03_Image_analysis/SpecificUseSoftware.md:13
 msgid ""
