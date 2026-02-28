@@ -284,8 +284,8 @@ msgid ""
 "say something about a fraction of objects being positive for multiple labels"
 " (e.g., 99% of eGFP+ cells were also mCherry+). Here’s a sample workflow:"
 msgstr ""
-"**Object-"
-"basedコロカライゼーション**は、複数のラベルに対して陽性であるオブジェクトの割合について何か言えるようにしたい場合に適している（例えば、eGFP+細胞の99%がmCherry+でもあった）。以下にワークフローのサンプルを示す："
+"**オブジェクトベースの共局在**は、複数の標識に対して陽性であるオブジェクトの割合について述べたい場合に適しています（例：eGFP 陽性細胞の 99%"
+" が mCherry に対しても陽性であった）。以下に、サンプルのワークフローを示します。"
 
 #: ../../03_Image_analysis/Colocalization.md:51
 msgid ""
