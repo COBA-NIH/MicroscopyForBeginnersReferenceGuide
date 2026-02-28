@@ -52,7 +52,7 @@ msgstr "Global BioImaging"
 
 #: ../../community_resources.md:16
 msgid "[link](https://globalbioimaging.org/)"
-msgstr "[リンク](https://globalbioimaging.org/)"
+msgstr "[link](https://globalbioimaging.org/)"
 
 #: ../../community_resources.md:17
 msgid ""
