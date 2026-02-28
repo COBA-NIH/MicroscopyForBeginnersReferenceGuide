@@ -1533,7 +1533,7 @@ msgstr ""
 
 #: ../../03_Image_analysis/Software.md:0
 msgid "napari"
-msgstr "ナパリ"
+msgstr "napari"
 
 #: ../../03_Image_analysis/Software.md:66
 msgid ""
