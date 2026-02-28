@@ -1765,7 +1765,8 @@ msgid ""
 " in each frame of your video, then relating objects from frame to frame to "
 "be able to identify the same cell as it moves in space."
 msgstr ""
-"トラッキング（オブジェクトトラッキング）とは、ビデオのあるフレームから次のフレームへ、動いているオブジェクトの位置を推定する能力のことです。実際、顕微鏡検査におけるオブジェクトトラッキングは、ビデオの各フレームでオブジェクトを識別し、フレーム間でオブジェクトを関連付け、同じ細胞が空間内で移動する際に識別できるようにします。"
+"トラッキング、またはオブジェクトトラッキング object "
+"trackingとは、動画の各フレーム間で動いているオブジェクトの位置を推定する技術です。顕微鏡画像における追跡では、まず動画の各フレームでオブジェクトを検出し、次にフレーム間で同一の細胞を対応付けることで、その移動を追跡します。"
 
 #: ../../03_Image_analysis/Tracking.md:10
 msgid ""
