@@ -172,7 +172,7 @@ msgstr "[link](https://www.eurobioimaging.eu/)"
 
 #: ../../community_resources.md:53
 msgid "Advanced BioImaging support (Japan)"
-msgstr "アドバンスバイオイメージングサポート（日本）"
+msgstr "先端バイオイメージング支援プラットフォーム (日本)"
 
 #: ../../community_resources.md:54
 msgid "[link](https://www.nibb.ac.jp/abis/)"
