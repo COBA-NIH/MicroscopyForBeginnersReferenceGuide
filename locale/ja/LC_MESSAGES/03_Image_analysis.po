@@ -1338,8 +1338,8 @@ msgid ""
 "$circularity = 4pi*{area}/{perimeter}^2$ where 1 is a perfect circle and "
 "circularity <1 is a more elongated polygon."
 msgstr ""
-"**円形度**：物体の丸さと細長さの比較。正式には $circularity = 4pi*{area}/{perimeter}^2$ "
-"と定義される。ここで 1 は真円、円形度 &lt;1 はより細長い多角形。"
+"**円形度** circularity：オブジェクトがどれほど丸いか、または細長いかを示す指標です。正式には $円形度 = "
+"4pi*{面積}/{周囲長}^2$ と定義されます。ここで 1 は真円で0に近づくほどより細長い多角形であることを意味します。"
 
 #: ../../03_Image_analysis/Shape.md:14
 msgid ""
