@@ -1215,7 +1215,7 @@ msgstr "[link](https://band.embl.de)"
 msgid ""
 "Access to virtual desktops allowing access to bioimage analysis software "
 "from a browser"
-msgstr "ブラウザからバイオイメージング解析ソフトウェアにアクセスできる仮想デスクトップ"
+msgstr "バイオイメージング解析ソフトウェアにブラウザからアクセスできる仮想デスクトップ"
 
 #: ../../03_Image_analysis/Resources.md:43
 msgid "🌐 Galaxy Imaging Node"
