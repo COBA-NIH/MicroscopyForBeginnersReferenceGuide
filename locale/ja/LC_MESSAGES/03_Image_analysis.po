@@ -1545,7 +1545,7 @@ msgstr ""
 
 #: ../../03_Image_analysis/Software.md:0
 msgid "Cellpose"
-msgstr "セルポース"
+msgstr "Cellpose"
 
 #: ../../03_Image_analysis/Software.md:75
 msgid ""
