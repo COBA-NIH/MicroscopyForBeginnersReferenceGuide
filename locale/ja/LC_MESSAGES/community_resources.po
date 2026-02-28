@@ -66,7 +66,7 @@ msgstr "GloBIAS"
 
 #: ../../community_resources.md:19
 msgid "[link](https://www.globias.org/home)"
-msgstr "[リンク](https://www.globias.org/home)"
+msgstr "[link](https://www.globias.org/home)"
 
 #: ../../community_resources.md:20
 msgid "Connections, training, and more for bioimage analysts across the world"
