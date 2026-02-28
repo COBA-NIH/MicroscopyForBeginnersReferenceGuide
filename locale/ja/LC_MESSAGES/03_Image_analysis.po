@@ -1748,7 +1748,7 @@ msgstr "ピクシミユーザーガイド】(https://documentation.piximi.app/in
 
 #: ../../03_Image_analysis/Tracking.md:1
 msgid "Object tracking"
-msgstr "物体追跡"
+msgstr "オブジェクトトラッキング"
 
 #: ../../03_Image_analysis/Tracking.md:3
 msgid "What is tracking?"
