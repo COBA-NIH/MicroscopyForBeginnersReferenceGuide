@@ -1080,7 +1080,7 @@ msgstr "🌐 Peter Bankhead’s Intro to Bioimage Analysis"
 
 #: ../../03_Image_analysis/Resources.md:17
 msgid "[link](https://bioimagebook.github.io/)"
-msgstr "[リンク](https://bioimagebook.github.io/)"
+msgstr "[link](https://bioimagebook.github.io/)"
 
 #: ../../03_Image_analysis/Resources.md:18
 msgid ""
