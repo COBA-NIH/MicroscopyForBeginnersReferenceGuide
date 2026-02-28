@@ -146,7 +146,7 @@ msgstr "翻訳にご協力いただいた方々に深く感謝いたします：
 
 #: ../../contributors.md:31
 msgid "Czech : Martin Schätz"
-msgstr "チェコ語 ：マルティン・シェッツ"
+msgstr "チェコ語 : Martin Schätz"
 
 #: ../../contributors.md:32
 msgid "Portuguese: Mario Costa Cruz"
