@@ -267,7 +267,7 @@ msgid ""
 "Instance segmentation, the segmentation is object based, not just detecting "
 "were the cells are but diving each cell as a separate object."
 msgstr ""
-"インスタンス（物体ごとの）セグメンテーション instance segmentation "
+"インスタンス（”物体ごとの”）セグメンテーション instance segmentation "
 "では、はオブジェクト単位のセグメンテーションであり、細胞の存在領域を検出するだけでなく、各細胞を個別のオブジェクトとして分割する。"
 
 #: ../../Glossary.md:53
