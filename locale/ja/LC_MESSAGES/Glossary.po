@@ -55,7 +55,7 @@ msgstr ""
 
 #: ../../Glossary.md:6
 msgid "Ex-Vivo imaging"
-msgstr "生体外イメージング Ex-vivo imaging"
+msgstr "生体外イメージング Ex-Vivo imaging"
 
 #: ../../Glossary.md:11
 msgid ""
