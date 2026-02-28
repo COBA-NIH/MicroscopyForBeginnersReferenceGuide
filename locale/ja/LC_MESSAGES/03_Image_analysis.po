@@ -745,7 +745,8 @@ msgstr "🌐 [Icy download](https://icy.bioimageanalysis.org/download/)"
 #: ../../03_Image_analysis/GeneralUseSoftware.md:117
 msgid ""
 "🌐 [Icy course and tutorial](https://icy.bioimageanalysis.org/trainings/)"
-msgstr "🌐 [アイシーコースとチュートリアル](https://icy.bioimageanalysis.org/trainings/)"
+msgstr ""
+"🌐 [Icy course and tutorial](https://icy.bioimageanalysis.org/trainings/)"
 
 #: ../../03_Image_analysis/GeneralUseSoftware.md:118
 msgid ""
