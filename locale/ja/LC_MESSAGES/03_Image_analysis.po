@@ -372,7 +372,7 @@ msgstr "デフォルトのキャプション"
 
 #: ../../03_Image_analysis/Common_types_of_analysis.md:1
 msgid "Common types of analysis"
-msgstr "一般的な解析"
+msgstr "一般的な画像解析"
 
 #: ../../03_Image_analysis/Common_types_of_analysis.md:3
 msgid ""
