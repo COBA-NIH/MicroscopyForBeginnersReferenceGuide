@@ -816,7 +816,7 @@ msgid ""
 msgstr ""
 "<img src=\"https://us1.discourse-"
 "cdn.com/flex015/uploads/imagej/optimized/3X/7/7/775e83f70639e1cb7cb299d8681d272e18718089_2_750x750.png\""
-" alt=\"logo\" width=\"30px\"> ナパリ"
+" alt=\"logo\" width=\"30px\"> napari"
 
 #: ../../03_Image_analysis/GeneralUseSoftware.md:154
 msgid ""
