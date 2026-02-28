@@ -24,7 +24,7 @@ msgstr ""
 
 #: ../../03_Image_analysis/Classification.md:1
 msgid "Object classification"
-msgstr "オブジェクト分類"
+msgstr "分類"
 
 #: ../../03_Image_analysis/Classification.md:3
 msgid "What is classification?"
