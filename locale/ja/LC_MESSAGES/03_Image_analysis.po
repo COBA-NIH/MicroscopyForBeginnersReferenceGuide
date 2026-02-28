@@ -1193,7 +1193,7 @@ msgstr "🎥 iBiology Bioimage Analysis video series"
 
 #: ../../03_Image_analysis/Resources.md:38
 msgid "[link](https://youtu.be/1xo4vi6Ub4I)"
-msgstr "[リンク](https://youtu.be/1xo4vi6Ub4I)"
+msgstr "[link](https://youtu.be/1xo4vi6Ub4I)"
 
 #: ../../03_Image_analysis/Resources.md:39
 msgid ""
