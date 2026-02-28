@@ -188,11 +188,11 @@ msgstr "[link](https://micro.org.au/)"
 
 #: ../../community_resources.md:57
 msgid "Canada BioImaging"
-msgstr "カナダ バイオイメージング"
+msgstr "Canada BioImaging"
 
 #: ../../community_resources.md:58
 msgid "[link](https://www.canadabioimaging.org/)"
-msgstr "[リンク](https://www.canadabioimaging.org/)"
+msgstr "[link](https://www.canadabioimaging.org/)"
 
 #: ../../community_resources.md:59
 msgid "Singapore Microscopy Infrastructure Network"
