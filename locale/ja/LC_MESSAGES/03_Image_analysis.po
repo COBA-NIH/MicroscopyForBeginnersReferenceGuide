@@ -276,7 +276,7 @@ msgstr "**共局在はラベルの強度と空間的な重なりです**"
 msgid ""
 "There are two main branches for how to look at colocalization: Object-based "
 "and correlation-based."
-msgstr "コロカライゼーションを見る方法には、大きく分けて2種類ある：オブジェクトベースと相関ベースである。"
+msgstr "共局在を見る方法には、大きく分けてオブジェクトベースと相関ベースの2種類の方法があります。"
 
 #: ../../03_Image_analysis/Colocalization.md:30
 msgid ""
