@@ -1231,7 +1231,7 @@ msgid ""
 " and workflows, making it easy to create and share reproducible FAIR "
 "workflows"
 msgstr ""
-"オープンソースの画像解析ツールやワークフローがあらかじめ用意されたGalaxyノードにより、再現可能なFAIRワークフローを簡単に作成・共有できる。"
+"多数のオープンソース画像解析ツールとワークフローがあらかじめ搭載されたGalaxyノード。容易に再現性のあるFAIRワークフローの作成と共有ができる。"
 
 #: ../../03_Image_analysis/Resources.md:46
 msgid "🌐 Image Analysis Training Resources"
