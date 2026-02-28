@@ -1330,7 +1330,7 @@ msgstr "形状の測定"
 msgid ""
 "Shape measurements describe the 2D or 3D form of objects in our sample. "
 "Common shape measurements include:"
-msgstr "形状測定は、サンプル内の物体の2次元または3次元の形状を表します。一般的な形状測定には以下が含まれます："
+msgstr "形状測定は、試料内のオブジェクトの2次元または3次元の形状を表します。一般的な形状測定には以下が含まれます："
 
 #: ../../03_Image_analysis/Shape.md:13
 msgid ""
