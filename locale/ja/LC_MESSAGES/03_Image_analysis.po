@@ -1598,7 +1598,7 @@ msgid ""
 "intended for a wide range of use cases. For tools with broader areas of "
 "focus, see the [General Use Software](./GeneralUseSoftware.md) page."
 msgstr ""
-"このページにあるツールは、特定のタスクに非常に優れている傾向がありますが、幅広いユースケースを意図したものではありません。より広い分野に焦点を当てたツールについては、[General"
+"このページのツールは特定のタスクにおいて非常に優れていますが、幅広いユースケースを対象としたものではありません。より広い用途に対応したツールについては、[General"
 " Use Software](./GeneralUseSoftware.md)のページを参照してください。"
 
 #: ../../03_Image_analysis/SpecificUseSoftware.md:6
