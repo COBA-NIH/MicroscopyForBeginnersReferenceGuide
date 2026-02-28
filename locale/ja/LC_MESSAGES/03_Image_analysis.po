@@ -709,7 +709,7 @@ msgstr "🌐 [QuPath user manual](https://qupath.readthedocs.io/en/stable/)"
 
 #: ../../03_Image_analysis/GeneralUseSoftware.md:89
 msgid "🎥 [Video tutorials and workshops](https://www.youtube.com/c/qupath)"
-msgstr "ビデオチュートリアルとワークショップ](https://www.youtube.com/c/qupath)"
+msgstr "🎥 [Video tutorials and workshops](https://www.youtube.com/c/qupath)"
 
 #: ../../03_Image_analysis/GeneralUseSoftware.md:93
 msgid ""
