@@ -701,7 +701,7 @@ msgstr "QuPathをダウンロードするには"
 
 #: ../../03_Image_analysis/GeneralUseSoftware.md:82
 msgid "🌐 [QuPath download](https://qupath.github.io/)"
-msgstr "🌐 [QuPathダウンロード](https://qupath.github.io/)"
+msgstr "🌐 [QuPath download](https://qupath.github.io/)"
 
 #: ../../03_Image_analysis/GeneralUseSoftware.md:88
 msgid "🌐 [QuPath user manual](https://qupath.readthedocs.io/en/stable/)"
