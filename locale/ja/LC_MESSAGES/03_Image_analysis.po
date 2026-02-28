@@ -1171,7 +1171,7 @@ msgstr ""
 msgid ""
 "An article that gives guidance and a glossary of available image analysis "
 "software and packages"
-msgstr "利用可能な画像解析ソフトウェアとパッケージのガイダンスと用語集を提供する記事"
+msgstr "画像解析ソフトウェアやパッケージについての解説と用語集を提供する論文"
 
 #: ../../03_Image_analysis/Resources.md:34
 msgid "🌐 BioImage Informatics Index"
