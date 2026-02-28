@@ -145,7 +145,7 @@ msgstr ""
 
 #: ../../Glossary.md:24
 msgid "Intravital imaging"
-msgstr "眼内イメージング"
+msgstr "生体内イメージング intravital imaging"
 
 #: ../../Glossary.md:29
 msgid ""
