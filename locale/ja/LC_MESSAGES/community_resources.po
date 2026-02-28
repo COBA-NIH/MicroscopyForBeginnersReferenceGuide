@@ -86,11 +86,11 @@ msgstr "バイオイメージングにおける試料調製と画像撮影に関
 
 #: ../../community_resources.md:24
 msgid "Scientific Community Image Forum (Image . sc)"
-msgstr "科学コミュニティ・イメージフォーラム（Image .）"
+msgstr "Scientific Community Image Forum (Image . sc)"
 
 #: ../../community_resources.md:25
 msgid "[link](https://forum.image.sc/)"
-msgstr "[リンク](https://forum.image.sc/)"
+msgstr "[link](https://forum.image.sc/)"
 
 #: ../../community_resources.md:26
 msgid "Discussion forum for bioimage analysis software {cite}`Rueden2019-qp`"
