@@ -798,7 +798,7 @@ msgstr ""
 
 #: ../../03_Image_analysis/GeneralUseSoftware.md:147
 msgid "🌐 [Tutorials](http://mib.helsinki.fi/tutorials.html)"
-msgstr "チュートリアル](http://mib.helsinki.fi/tutorials.html)"
+msgstr "🌐 [Tutorials](http://mib.helsinki.fi/tutorials.html)"
 
 #: ../../03_Image_analysis/GeneralUseSoftware.md:148
 msgid ""
