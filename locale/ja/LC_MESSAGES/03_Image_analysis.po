@@ -307,7 +307,7 @@ msgid ""
 " fluorescent label is present). Noise, uneven illumination, and other "
 "technical artifacts can cause correlation between two channels"
 msgstr ""
-"**適切なコントロールがない**（例：蛍光ラベルが1つしかないシングルラベルコントロール）。ノイズ、不均一な照明、その他の技術的アーチファクトは、2つのチャンネル間の相関を引き起こす可能性がある。"
+"**適切なコントロールがないこと**（例：1種類の蛍光標識のみを含む単一標識コントロール）。ノイズ、不均一な照明、その他の技術的アーティファクトは、2つのチャンネル間に見かけ上の相関を生じさせることがあります。"
 
 #: ../../03_Image_analysis/Colocalization.md:56
 msgid ""
