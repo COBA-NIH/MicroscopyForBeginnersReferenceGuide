@@ -1129,7 +1129,7 @@ msgstr ""
 
 #: ../../03_Image_analysis/Resources.md:26
 msgid "[link](https://arxiv.org/abs/2302.01657#) {cite}`Culley2023-dj`"
-msgstr "[リンク](https://arxiv.org/abs/2302.01657#){cite}`Culley2023-dj`"
+msgstr "[link](https://arxiv.org/abs/2302.01657#) {cite}`Culley2023-dj`"
 
 #: ../../03_Image_analysis/Resources.md:27
 msgid ""
