@@ -94,7 +94,7 @@ msgstr "[link](https://forum.image.sc/)"
 
 #: ../../community_resources.md:26
 msgid "Discussion forum for bioimage analysis software {cite}`Rueden2019-qp`"
-msgstr "バイオ画像解析ソフトウェアに関するディスカッションフォーラム{cite}`Rueden2019-qp`"
+msgstr "バイオイメージング解析ソフトウェアに関するディスカッションフォーラム {cite}`Rueden2019-qp`"
 
 #: ../../community_resources.md:27
 msgid "Microtutor"
