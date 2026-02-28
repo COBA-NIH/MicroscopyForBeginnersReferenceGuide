@@ -1563,7 +1563,7 @@ msgstr ""
 
 #: ../../03_Image_analysis/Software.md:0
 msgid "ilastik"
-msgstr "イラスティック"
+msgstr "ilastik"
 
 #: ../../03_Image_analysis/Software.md:84
 msgid ""
