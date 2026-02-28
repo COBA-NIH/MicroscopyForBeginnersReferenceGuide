@@ -1105,7 +1105,7 @@ msgstr ""
 msgid ""
 "A free online textbook introducing various topics by Bioimage Analysis "
 "experts, edited by Kota Miura"
-msgstr "生体画像解析の専門家による様々なトピックを紹介する無料のオンラインテキスト、三浦孝太編著"
+msgstr "三浦耕太先生 編の無料でオンライン公開されている教科書で、バイオイメージ解析の専門家がさまざまなトピックを紹介しています。"
 
 #: ../../03_Image_analysis/Resources.md:22
 msgid "📄 Reproducible image handling and analysis {cite}`Miura2021-mb`"
