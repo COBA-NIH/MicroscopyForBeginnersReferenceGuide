@@ -260,7 +260,7 @@ msgid ""
 "common in cell biology will be detecting cells and background on an image."
 msgstr ""
 "セマンティック（意味的）セグメンテーション semantic segmentation "
-"とは、画像のすべての部分があるクラスに属するというもので、細胞生物学では、画像上の細胞と背景を検出するのが一般的である。"
+"とは、画像のすべての部分があるクラスに属するというもので、細胞生物学では、画像を細胞とそれ以外の領域に分割するのが一般的である。"
 
 #: ../../Glossary.md:52
 msgid ""
