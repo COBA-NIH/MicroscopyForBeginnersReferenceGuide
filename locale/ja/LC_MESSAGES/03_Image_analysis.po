@@ -517,7 +517,7 @@ msgid ""
 "width=\"30px\"> ImageJ"
 msgstr ""
 "<img src=\"https://imagej.net/media/icons/imagej2.png\" alt=\"logo\" "
-"width=\"30px\"> イメージジェイ"
+"width=\"30px\"> ImageJ"
 
 #: ../../03_Image_analysis/GeneralUseSoftware.md:9
 msgid ""
