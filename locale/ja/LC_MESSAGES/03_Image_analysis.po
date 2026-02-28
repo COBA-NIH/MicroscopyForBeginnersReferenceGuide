@@ -1209,7 +1209,7 @@ msgstr "🌐 Bioimage ANalysis Desktop (BAND)"
 
 #: ../../03_Image_analysis/Resources.md:41
 msgid "[link](https://band.embl.de)"
-msgstr "[リンク](https://band.embl.de)"
+msgstr "[link](https://band.embl.de)"
 
 #: ../../03_Image_analysis/Resources.md:42
 msgid ""
