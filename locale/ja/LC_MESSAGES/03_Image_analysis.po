@@ -217,7 +217,8 @@ msgid ""
 "🎥 [iBiology video series: Measurement and Phenotype "
 "Classification](https://www.youtube.com/watch?v=Odi9pIerT7I)"
 msgstr ""
-"iBiology ビデオシリーズ：測定と表現型分類】(https://www.youtube.com/watch?v=Odi9pIerT7I)"
+"🎥 [iBiology video series: Measurement and Phenotype "
+"Classification](https://www.youtube.com/watch?v=Odi9pIerT7I)"
 
 #: ../../03_Image_analysis/Classification.md:44
 msgid ""
