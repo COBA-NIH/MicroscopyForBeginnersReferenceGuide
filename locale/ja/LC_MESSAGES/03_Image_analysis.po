@@ -1052,7 +1052,7 @@ msgstr "**概要**"
 
 #: ../../03_Image_analysis/Resources.md:10
 msgid "🌐 Image.sc {cite}`Rueden2019-qp`"
-msgstr "🌐 Image.sc{cite}`Rueden2019-qp`"
+msgstr "🌐 Image.sc {cite}`Rueden2019-qp`"
 
 #: ../../03_Image_analysis/Resources.md:11
 msgid "[link](https://forum.image.sc/)"
