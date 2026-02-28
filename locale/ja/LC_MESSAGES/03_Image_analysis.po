@@ -1586,7 +1586,7 @@ msgstr ""
 
 #: ../../03_Image_analysis/SpecificUseSoftware.md:1
 msgid "Specific Use Software"
-msgstr "特定用途ソフトウェア"
+msgstr "特定の用途に使うソフトウェア"
 
 #: ../../03_Image_analysis/SpecificUseSoftware.md:3
 msgid ""
