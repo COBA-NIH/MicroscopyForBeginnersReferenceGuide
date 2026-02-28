@@ -489,7 +489,7 @@ msgstr ""
 
 #: ../../03_Image_analysis/GeneralUseSoftware.md:1
 msgid "General Use Software"
-msgstr "一般用ソフトウェア"
+msgstr "汎用ソフトウェア"
 
 #: ../../03_Image_analysis/GeneralUseSoftware.md:3
 msgid ""
