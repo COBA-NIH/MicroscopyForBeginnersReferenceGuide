@@ -38,7 +38,7 @@ msgid ""
 "normal sera, gelatin, or albumin before immunostaining in order to "
 "\"occupy\" all the non-specific binding sites in the sample."
 msgstr ""
-"免疫染色の手順において、一次抗体または二次抗体の非特異的結合を最小限に抑えることが重要です。ブロッキングは免疫染色の前に正常血清、ゼラチン、アルブミンなどの物質を添加してサンプル内の非特異的結合部位を占有する作業のことです。"
+"免疫染色の手順において、染色前に正常血清、ゼラチン、アルブミンなどの物質を添加してサンプル内の非特異的結合部位を占有する作業。これにより、一次抗体または二次抗体の非特異的結合を最小限に抑えることができる。"
 
 #: ../../Glossary.md:3
 msgid "Deconvolution"
