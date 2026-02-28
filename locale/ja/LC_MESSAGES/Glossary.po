@@ -42,7 +42,7 @@ msgstr ""
 
 #: ../../Glossary.md:3
 msgid "Deconvolution"
-msgstr "デコンボリューション"
+msgstr "デコンボリューション Deconvolution"
 
 #: ../../Glossary.md:8
 msgid ""
