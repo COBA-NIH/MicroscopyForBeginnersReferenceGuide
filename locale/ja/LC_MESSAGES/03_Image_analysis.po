@@ -197,8 +197,9 @@ msgid ""
 "profiling](https://www.nature.com/articles/nmeth.4397) "
 "{cite}`Caicedo2017-ks`"
 msgstr ""
-"📄 [Dataanalysis strategies for image-based cell "
-"profiling](https://www.nature.com/articles/nmeth.4397){cite}`Caicedo2017-ks`"
+"📄 [Data-analysis strategies for image-based cell "
+"profiling](https://www.nature.com/articles/nmeth.4397) "
+"{cite}`Caicedo2017-ks`"
 
 #: ../../03_Image_analysis/Classification.md:42
 msgid ""
