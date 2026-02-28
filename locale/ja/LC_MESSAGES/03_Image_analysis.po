@@ -1645,7 +1645,8 @@ msgid ""
 "🌐 [Installation "
 "instructions](https://cellpose.readthedocs.io/en/latest/installation.html)"
 msgstr ""
-"🌐 [取り付け説明書](https://cellpose.readthedocs.io/en/latest/installation.html)"
+"🌐 [Installation "
+"instructions](https://cellpose.readthedocs.io/en/latest/installation.html)"
 
 #: ../../03_Image_analysis/SpecificUseSoftware.md:29
 msgid "🎥 [How to use tutorial](https://www.youtube.com/watch?v=5qANHWoubZU)"
