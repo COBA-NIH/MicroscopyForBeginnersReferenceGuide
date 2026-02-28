@@ -1263,7 +1263,7 @@ msgstr "バイオイメージ解析に関連するリソースの [まとめ](ht
 
 #: ../../03_Image_analysis/Resources.md:52
 msgid "🌐 Bioimage Analysis Notebooks"
-msgstr "バイオ画像解析ノート 🌐 バイオ画像解析ノート"
+msgstr "🌐 Bioimage Analysis Notebooks"
 
 #: ../../03_Image_analysis/Resources.md:53
 msgid "[link](https://haesleinhuepf.github.io/BioImageAnalysisNotebooks/)"
