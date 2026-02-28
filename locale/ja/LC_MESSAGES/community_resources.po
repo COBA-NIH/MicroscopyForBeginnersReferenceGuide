@@ -74,11 +74,11 @@ msgstr "世界中のバイオイメージング解析者のためのネットワ
 
 #: ../../community_resources.md:21
 msgid "Microforum"
-msgstr "マイクロフォーラム"
+msgstr "Microforum"
 
 #: ../../community_resources.md:22
 msgid "[link](https://forum.microlist.org/)"
-msgstr "[リンク](https://forum.microlist.org/)"
+msgstr "[link](https://forum.microlist.org/)"
 
 #: ../../community_resources.md:23
 msgid "Discussion forum for bioimaging sample preparation and acquisition"
