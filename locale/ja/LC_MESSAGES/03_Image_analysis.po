@@ -78,7 +78,7 @@ msgid ""
 "measurements, but without any top-down human-defined guidance into how many "
 "groups there are or what the groups should look like."
 msgstr ""
-"教師なし分類**では、測定値に基づいてオブジェクトをグループ化するが、いくつのグループがあるのか、グループはどのようなものであるべきかといった、トップダウンで人間が定義した指針はない。"
+"一方、**教師なし分類** では、対象をその測定値に基づいてグループ化しますが、グループの数や特徴について人が事前に定義することはありません。"
 
 #: ../../03_Image_analysis/Classification.md:18
 msgid ""
