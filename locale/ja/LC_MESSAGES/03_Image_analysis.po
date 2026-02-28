@@ -1558,7 +1558,7 @@ msgid ""
 "models or train their own using their images and annotations. [Read "
 "more...](content/cellpose)"
 msgstr ""
-"[Cellpose](https://www.cellpose.org/)は、{term}`セグメンテーション` "
+"[Cellpose](https://www.cellpose.org/)は{term}`セグメンテーション` "
 "アルゴリズムで、グラフィカルユーザーインターフェースから学習済みモデルを使用したり、自身の画像とアノテーションを使って独自のモデルをトレーニングしたりすることができます。[続きを読む...](content/cellpose)"
 
 #: ../../03_Image_analysis/Software.md:0
