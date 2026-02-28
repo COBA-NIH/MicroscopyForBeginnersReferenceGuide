@@ -81,7 +81,7 @@ msgstr ""
 
 #: ../../Glossary.md:12
 msgid "Fixation"
-msgstr "固定"
+msgstr "固定 Fixation"
 
 #: ../../Glossary.md:17
 msgid ""
