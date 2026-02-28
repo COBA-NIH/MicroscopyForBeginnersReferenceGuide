@@ -200,4 +200,4 @@ msgstr "Singapore Microscopy Infrastructure Network"
 
 #: ../../community_resources.md:60
 msgid "[link](https://www.singascope.sg/)"
-msgstr "[リンク](https://www.singascope.sg/)"
+msgstr "[link](https://www.singascope.sg/)"
