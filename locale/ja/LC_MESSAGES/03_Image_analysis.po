@@ -1300,7 +1300,7 @@ msgstr "サイズと形状の測定"
 
 #: ../../03_Image_analysis/Shape.md:3
 msgid "What are size measurements?"
-msgstr "サイズの測り方"
+msgstr "サイズの測定"
 
 #: ../../03_Image_analysis/Shape.md:4
 msgid ""
@@ -1324,7 +1324,7 @@ msgstr "**周囲長**：オブジェクトの境界の周りの長さ"
 
 #: ../../03_Image_analysis/Shape.md:10
 msgid "What are shape measurements?"
-msgstr "形状測定とは？"
+msgstr "形状の測定"
 
 #: ../../03_Image_analysis/Shape.md:11
 msgid ""
