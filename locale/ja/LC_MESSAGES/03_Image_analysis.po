@@ -171,7 +171,7 @@ msgstr ""
 
 #: ../../03_Image_analysis/Classification.md:0
 msgid "a continuous distribution of cell cycle states"
-msgstr "細胞周期状態の連続分布"
+msgstr "細胞周期の連続分布"
 
 #: ../../03_Image_analysis/Classification.md:35
 msgid ""
