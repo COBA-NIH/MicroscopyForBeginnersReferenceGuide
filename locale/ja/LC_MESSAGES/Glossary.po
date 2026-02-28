@@ -122,9 +122,8 @@ msgid ""
 " of the mounting media to minimize aberrations and improve image quality. "
 "Immersion media can be air, water, silicone oil, glycerol or oil."
 msgstr ""
-"液浸メディアは、対物レンズとガラスカバースリップまたはサンプルの間のギャップを埋める媒体です。対物レンズの開口数に影響を与え、{math}`NA=RI "
-"* "
-"sin(θ)`、横方向と軸方向の解像度に影響を与えます。収差を最小限に抑え、画質を向上させるためには、浸漬媒体のRIとマウント媒体のRIを一致させることが重要です。浸漬媒体には、空気、水、シリコンオイル、グリセロール、オイルなどがある。"
+"浸液は、対物レンズとカバーガラスまたは試料の間を満たす媒質のこと。対物レンズの開口数（NA）に{math}`NA=RI * "
+"sin(θ)`の形で影響し、横方向および軸方向の分解能に関わる。収差を最小限に抑えて画質を向上させるためには、浸液の屈折率（RI）は封入剤の屈折率に合わせることが重要である。浸液には、空気、水、シリコーンオイル、グリセロール、オイルなどが用いられる。"
 
 #: ../../Glossary.md:21
 msgid "Immunolabeling"
