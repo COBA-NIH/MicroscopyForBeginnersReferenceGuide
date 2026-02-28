@@ -1060,7 +1060,7 @@ msgstr "[link](https://forum.image.sc/)"
 
 #: ../../03_Image_analysis/Resources.md:12
 msgid "Discussion forum for bioimage analysis software"
-msgstr "バイオ画像解析ソフトウェアに関するディスカッション・フォーラム"
+msgstr "バイオイメージング解析ソフトウェアに関するフォーラム"
 
 #: ../../03_Image_analysis/Resources.md:13
 msgid "🌐 GloBIAS Bioimage Analyst Database"
