@@ -161,7 +161,7 @@ msgstr ""
 
 #: ../../Glossary.md:27
 msgid "Mounting media"
-msgstr "封入剤 mounting media"
+msgstr "封入剤 Mounting media"
 
 #: ../../Glossary.md:32
 msgid ""
@@ -176,7 +176,7 @@ msgstr ""
 
 #: ../../Glossary.md:30
 msgid "Object detection"
-msgstr "オブジェクト検出 object detection"
+msgstr "オブジェクト検出 Object detection"
 
 #: ../../Glossary.md:35
 msgid ""
