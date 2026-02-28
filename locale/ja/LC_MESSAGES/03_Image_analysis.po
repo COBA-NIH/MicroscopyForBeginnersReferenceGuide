@@ -1586,7 +1586,7 @@ msgid ""
 "installation and minimal setup.  [Read more...](content/piximi)"
 msgstr ""
 "[Piximi](https://www.piximi.app/)は、ブラウザ上で完全に動作するアノテーションおよび分類のためのアプリケーションであり、インストール不要、最小限のセッティングで使用できます。"
-"  [もっと読む...](content/piximi)"
+"  [続きを読む...](content/piximi)"
 
 #: ../../03_Image_analysis/SpecificUseSoftware.md:1
 msgid "Specific Use Software"
