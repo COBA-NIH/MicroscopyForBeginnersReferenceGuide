@@ -231,7 +231,7 @@ msgid ""
 "MicroscopyU](https://www.microscopyu.com/microscopy-basics/refractive-index-"
 "index-of-refraction)"
 msgstr ""
-"対物レンズの開口数を計算する際に重要な値です。対物レンズの開口数を計算する際に重要な値です。理想的には、画質を向上させるために、サンプル（マウント媒体）、カバースリップ、浸漬媒体間の屈折率の不一致を最小限に抑える必要があります。[MicroscopyUで屈折率のインタラクティブデモを見る](https://www.microscopyu.com/microscopy-"
+"特定の媒質中を光がどのように伝播するかを表す指標。対物レンズの開口数を計算する上で重要な値であり、画質を向上させるためには、試料（封入剤）、カバーガラス、および浸漬媒質間の屈折率の不一致を最小限に抑えることが望ましい。屈折率のインタラクティブなデモはMicroscopyUで参照できる。[MicroscopyUで屈折率のインタラクティブデモを見る](https://www.microscopyu.com/microscopy-"
 "basics/refractive-index-index-of-refraction)"
 
 #: ../../Glossary.md:42
