@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Python \n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2024-03-29 15:22+0000\n"
+"POT-Creation-Date: 2026-03-02 13:46+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -69,11 +69,11 @@ msgid "Translation"
 msgstr ""
 
 #: ../../contributors.md:25
-msgid "This guide is available in [English](https://www.bioimagingguide.org) as well as [Czech](https://cs.bioimagingguide.org), [Portuguese](https://pt.bioimagingguide.org), and [Spanish](https://es.bioimagingguide.org)."
+msgid "This guide is available in [English](https://www.bioimagingguide.org) as well as [Czech](https://cs.bioimagingguide.org), [Portuguese](https://pt.bioimagingguide.org), [Spanish](https://es.bioimagingguide.org), and [Japanese](https://ja.bioimagingguide.org)."
 msgstr ""
 
 #: ../../contributors.md:27
-msgid "Work is underway to translate this guide into other languages - translation is planned or has begun in French, German, Finnish, Italian, Japanese, Polish, and Farsi. To help translate into one of these languages, or another language not listed here, please contact bcimini AT broadinstitute DOT org."
+msgid "Work is underway to translate this guide into other languages - translation is planned or has begun in French, German, Finnish, Italian, Polish, and Farsi. To help translate into one of these languages, or another language not listed here, please contact bcimini AT broadinstitute DOT org."
 msgstr ""
 
 #: ../../contributors.md:29
@@ -90,4 +90,8 @@ msgstr ""
 
 #: ../../contributors.md:33
 msgid "Spanish: Mariana De Niz"
+msgstr ""
+
+#: ../../contributors.md:34
+msgid "Japanese: Haruhiko Morita and Cheng-Yu Huang"
 msgstr ""
