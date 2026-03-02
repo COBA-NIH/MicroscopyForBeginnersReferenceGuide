@@ -4,16 +4,16 @@
 # FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
 # 
 # Translators:
-# Beth Cimini, 2025
+# Beth Cimini, 2026
 # 
 #, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: Python\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2024-03-29 15:22+0000\n"
+"POT-Creation-Date: 2026-03-02 13:46+0000\n"
 "PO-Revision-Date: 2023-05-02 18:49+0000\n"
-"Last-Translator: Beth Cimini, 2025\n"
+"Last-Translator: Beth Cimini, 2026\n"
 "Language-Team: Chinese (https://app.transifex.com/center-for-open-bioimage-analysis/teams/169123/zh/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -118,19 +118,20 @@ msgstr "翻译"
 msgid ""
 "This guide is available in [English](https://www.bioimagingguide.org) as "
 "well as [Czech](https://cs.bioimagingguide.org), "
-"[Portuguese](https://pt.bioimagingguide.org), and "
-"[Spanish](https://es.bioimagingguide.org)."
+"[Portuguese](https://pt.bioimagingguide.org), "
+"[Spanish](https://es.bioimagingguide.org), and "
+"[Japanese](https://ja.bioimagingguide.org)."
 msgstr ""
-"本指南提供[英文](https://www.bioimagingguide.org)、[捷克语](https://cs.bioimagingguide.org)、[葡萄牙语](https://pt.bioimagingguide.org)和[西班牙语](https://es.bioimagingguide.org)版本。"
+"本指南提供[英文](https://www.bioimagingguide.org)、[捷克语](https://cs.bioimagingguide.org)、[葡萄牙语](https://pt.bioimagingguide.org)、[西班牙语](https://es.bioimagingguide.org)和[日语](https://ja.bioimagingguide.org)版本。"
 
 #: ../../contributors.md:27
 msgid ""
 "Work is underway to translate this guide into other languages - translation "
-"is planned or has begun in French, German, Finnish, Italian, Japanese, "
-"Polish, and Farsi. To help translate into one of these languages, or another"
-" language not listed here, please contact bcimini AT broadinstitute DOT org."
+"is planned or has begun in French, German, Finnish, Italian, Polish, and "
+"Farsi. To help translate into one of these languages, or another language "
+"not listed here, please contact bcimini AT broadinstitute DOT org."
 msgstr ""
-"我们正在努力将本指南翻译成其他语言——法语、德语、芬兰语、意大利语、日语、波兰语和波斯语的翻译工作已经启动或正在筹备中。如果您想协助翻译成上述语言或其他未列出的语言，请联系"
+"我们正在努力将本指南翻译成其他语言——法语、德语、芬兰语、意大利语、波兰语和波斯语的翻译工作已经计划或正在进行中。如果您想帮助我们将本指南翻译成上述语言或其他未列出的语言，请联系"
 " bcimini AT broadinstitute DOT org。"
 
 #: ../../contributors.md:29
@@ -148,3 +149,7 @@ msgstr "葡萄牙语：马里奥·科斯塔·克鲁兹"
 #: ../../contributors.md:33
 msgid "Spanish: Mariana De Niz"
 msgstr "西班牙语：玛丽安娜·德·尼兹"
+
+#: ../../contributors.md:34
+msgid "Japanese: Haruhiko Morita and Cheng-Yu Huang"
+msgstr "日本人：森田晴彦和黄正宇"

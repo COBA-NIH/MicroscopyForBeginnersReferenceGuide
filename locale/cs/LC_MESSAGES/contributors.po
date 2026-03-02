@@ -4,17 +4,17 @@
 # FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
 # 
 # Translators:
-# Beth Cimini, 2024
 # Martin Schätz, 2024
+# Beth Cimini, 2026
 # 
 #, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: Python\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2024-03-29 15:22+0000\n"
+"POT-Creation-Date: 2026-03-02 13:46+0000\n"
 "PO-Revision-Date: 2023-05-02 18:49+0000\n"
-"Last-Translator: Martin Schätz, 2024\n"
+"Last-Translator: Beth Cimini, 2026\n"
 "Language-Team: Czech (https://app.transifex.com/center-for-open-bioimage-analysis/teams/169123/cs/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -132,26 +132,29 @@ msgstr "Překlad"
 msgid ""
 "This guide is available in [English](https://www.bioimagingguide.org) as "
 "well as [Czech](https://cs.bioimagingguide.org), "
-"[Portuguese](https://pt.bioimagingguide.org), and "
-"[Spanish](https://es.bioimagingguide.org)."
+"[Portuguese](https://pt.bioimagingguide.org), "
+"[Spanish](https://es.bioimagingguide.org), and "
+"[Japanese](https://ja.bioimagingguide.org)."
 msgstr ""
-"Tato příručka je k dispozici v [angličtině](https://www.bioimagingguide.org)"
-" a také [češtině](https://cs.bioimagingguide.org), "
-"[portugalštině](https://pt.bioimagingguide.org ) a "
-"[španělštině](https://es.bioimagingguide.org)."
+"Tato příručka je k dispozici v "
+"[angličtině](https://www.bioimagingguide.org), "
+"[češtině](https://cs.bioimagingguide.org), "
+"[portugalštině](https://pt.bioimagingguide.org), "
+"[španělštině](https://es.bioimagingguide.org) a "
+"[japonštině](https://ja.bioimagingguide.org)."
 
 #: ../../contributors.md:27
 msgid ""
 "Work is underway to translate this guide into other languages - translation "
-"is planned or has begun in French, German, Finnish, Italian, Japanese, "
-"Polish, and Farsi. To help translate into one of these languages, or another"
-" language not listed here, please contact bcimini AT broadinstitute DOT org."
+"is planned or has begun in French, German, Finnish, Italian, Polish, and "
+"Farsi. To help translate into one of these languages, or another language "
+"not listed here, please contact bcimini AT broadinstitute DOT org."
 msgstr ""
-"Pracuje se na překladu této příručky do dalších jazyků – překlad je plánován"
-" nebo již začal do francouzštiny, němčiny, finštiny, italštiny, japonštiny, "
+"Probíhá práce na překladu této příručky do dalších jazyků – překlad je "
+"plánován nebo již začal do francouzštiny, němčiny, finštiny, italštiny, "
 "polštiny a perštiny. Chcete-li pomoci s překladem do jednoho z těchto jazyků"
-" nebo do jiného jazyka, který zde není uveden, kontaktujte prosím bcimini AT"
-" broadinstitute DOT org."
+" nebo jiného jazyka, který zde není uveden, kontaktujte prosím bcimini AT "
+"broadinstitute DOT org."
 
 #: ../../contributors.md:29
 msgid "Translations are gratefully acknowledged from:"
@@ -168,3 +171,7 @@ msgstr "Portugalština: Mario Costa Cruz"
 #: ../../contributors.md:33
 msgid "Spanish: Mariana De Niz"
 msgstr "Španělětina: Mariana De Niz"
+
+#: ../../contributors.md:34
+msgid "Japanese: Haruhiko Morita and Cheng-Yu Huang"
+msgstr "Japonci: Haruhiko Morita a Cheng-Yu Huang"

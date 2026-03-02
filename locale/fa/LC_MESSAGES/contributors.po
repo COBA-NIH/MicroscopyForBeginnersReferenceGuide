@@ -14,20 +14,20 @@ msgstr ""
 "POT-Creation-Date: 2026-03-02 13:46+0000\n"
 "PO-Revision-Date: 2023-05-02 18:49+0000\n"
 "Last-Translator: Beth Cimini, 2026\n"
-"Language-Team: German (https://app.transifex.com/center-for-open-bioimage-analysis/teams/169123/de/)\n"
+"Language-Team: Persian (https://app.transifex.com/center-for-open-bioimage-analysis/teams/169123/fa/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Language: de\n"
-"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Language: fa\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
 
 #: ../../contributors.md:1
 msgid "Contributing to this guide"
-msgstr "Mitwirkung an diesem Leitfaden"
+msgstr "مشارکت در این راهنما"
 
 #: ../../contributors.md:3
 msgid "Contributors"
-msgstr "Mitwirkende"
+msgstr "مشارکت کنندگان"
 
 #: ../../contributors.md:5
 msgid ""
@@ -40,14 +40,14 @@ msgid ""
 "Gonzales, Peter Bankhead, Edward L. Evans III, Kevin W Eliceiri and Beth A. "
 "Cimini."
 msgstr ""
-"Das Originalmaterial für dieses Buch wurde im Rahmen der Arbeit \"[**_A "
-"biologist's guide to planning and performing quantitative bioimaging "
-"experiments_**](https://doi.org/10.1371/journal.pbio.3002167)\" erstellt. "
-"{cite} Senft2023-zy\" von Rebecca A. Senft*, Barbara Diaz-Rohrer*, Pina "
-"Colarusso, Lucy Swift, Nasim Jamali, Helena Jambor, Thomas Pengo, Craig "
-"Brideau, Paula Montero Llopis, Virginie Uhlmann, Jason Kirk, Kevin Andrew "
-"Gonzales, Peter Bankhead, Edward L. Evans III, Kevin W. Eliceiri und Beth A."
-" Cimini."
+"مطالب اصلی برای این کتاب به عنوان بخشی از مقاله \"[**_راهنمای یک زیست شناس "
+"برای برنامه ریزی و انجام آزمایش های کمی تصویربرداری "
+"زیستی_**](https://doi.org/10.1371/journal.pbio.3002167)\" ایجاد شده است. "
+"class='notranslate'>{cite}</span>`Senft2023-zy`. توسط ربکا ای. سنفت*، "
+"باربارا دیاز روهرر*، پینا کولاروسو، لوسی سویفت، نسیم جمالی، هلنا جامبور، "
+"توماس پنگو، کریگ بریو، پائولا مونترو لوپیس، ویرجینی اولمن، جیسون کرک، کوین "
+"اندرو گونزالس، پیتر بنک هد، ادوارد ال. ایوانز سوم، کوین دبلیو السیری و بت آ."
+" سیمینی."
 
 #: ../../contributors.md:7
 msgid ""
@@ -59,14 +59,13 @@ msgid ""
 "Education](https://www.bioimagingnorthamerica.org/te-wg/) Working Groups) "
 "for both initial and ongoing support of this project."
 msgstr ""
-"Dieses Projekt wurde vom [Center for Open Bioimage "
-"Analysis](https://openbioimageanalysis.org/) initiiert. Wir danken "
-"[Bioimaging North America](https://www.bioimagingnorthamerica.org/) "
-"(insbesondere seinem [Image "
-"Informatik](https://www.bioimagingnorthamerica.org/image-informatics-wg/) "
-"und [Schulung und Ausbildung](https://www.bioimagingnorthamerica.org/te-wg/)"
-" Arbeitsgruppen) sowohl für die anfängliche als auch für die fortlaufende "
-"Arbeit Unterstützung dieses Projektes."
+"این پروژه توسط [Center for Open Bioimage Analysis] "
+"(https://openbioimageanalysis.org/) آغاز شده است. ما از [Bioimaging North "
+"America] (https://www.bioimagingnorthamerica.org/) سپاسگزاریم (به ویژه "
+"[تصویر] آن انفورماتیک](https://www.bioimagingnorthamerica.org/image-"
+"informatics-wg/) و [آموزش و "
+"آموزش](https://www.bioimagingnorthamerica.org/te-wg/) گروه های کاری اولیه و "
+"در حال انجام حمایت از این پروژه"
 
 #: ../../contributors.md:9
 msgid ""
@@ -74,32 +73,30 @@ msgid ""
 "contributions from the following members of the microscopy and bioimage "
 "analysis community!"
 msgstr ""
-"Seit dieser Leitfaden verfügbar ist, danken wir den folgenden Mitgliedern "
-"der Mikroskopie- und Bioimage-Analyse-Community für ihre Beiträge!"
+"از آنجایی که این راهنما در دسترس قرار گرفته است، ما با سپاس از مشارکت اعضای "
+"زیر در انجمن تجزیه و تحلیل میکروسکوپ و تصویر زیستی قدردانی می کنیم!"
 
 #: ../../contributors.md:10
 msgid "William Giang"
-msgstr "William Giang"
+msgstr "ویلیام جیانگ"
 
 #: ../../contributors.md:11
 msgid "Robert Haase"
-msgstr "Robert Haase"
+msgstr "رابرت هاس"
 
 #: ../../contributors.md:13
 msgid ""
 "Improvements to the build and maintenance system for this book have come "
 "from"
-msgstr ""
-"Es wurden Verbesserungen am Build- und Wartungssystem für dieses Buch "
-"vorgenommen"
+msgstr "بهبودهایی در سیستم ساخت و نگهداری این کتاب حاصل شده است"
 
 #: ../../contributors.md:14
 msgid "Pete Bankhead"
-msgstr "Pete Bankhead"
+msgstr "پیت بانکهد"
 
 #: ../../contributors.md:16
 msgid "How can I become a contributor?"
-msgstr "Wie kann ich ein Beitragszahler werden?"
+msgstr "چگونه می توانم یک مشارکت کننده باشم؟"
 
 #: ../../contributors.md:18
 msgid ""
@@ -108,11 +105,10 @@ msgid ""
 " or pull request to contribute! We hope for this to be a living document "
 "reflecting the best practices and resources available."
 msgstr ""
-"Bitte öffnen Sie ein [issue] "
+"لطفاً یک [مسأله] "
 "(https://github.com/broadinstitute/MicroscopyForBeginnersReferenceGuide/issues)"
-" oder einen Pull Request, um einen Beitrag zu leisten! Wir hoffen, dass dies"
-" ein lebendiges Dokument ist, das die besten Praktiken und verfügbaren "
-"Ressourcen widerspiegelt."
+" را باز کنید یا درخواستی برای مشارکت بخواهید! ما امیدواریم که این سند زنده "
+"ای باشد که منعکس کننده بهترین شیوه ها و منابع موجود باشد."
 
 #: ../../contributors.md:20
 msgid ""
@@ -121,14 +117,14 @@ msgid ""
 " for contributions, though note these may be responded to more slowly than "
 "direct contributions to the GitHub repository."
 msgstr ""
-"Zurzeit bieten wir auch ein [Google-Formular] "
-"(https://docs.google.com/forms/d/e/1FAIpQLScWQbemviI2OkvVkeTKUOozAzKNndcZpXIB_nE0qFMl72lqvQ/viewform)"
-" für Beiträge an. Beachten Sie jedoch, dass diese möglicherweise langsamer "
-"beantwortet werden als direkte Beiträge zum GitHub-Repository."
+"ما در حال حاضر یک [Google "
+"Form](https://docs.google.com/forms/d/e/1FAIpQLScWQbemviI2OkvVkeTKUOozAzKNndcZpXIB_nE0qFMl72lqvQ/viewform)"
+" را نیز برای مشارکت‌ها ارائه می‌دهیم، هرچند توجه داشته باشید که ممکن است به "
+"مشارکت‌های مستقیم به reposit G با کندی پاسخ داده شود."
 
 #: ../../contributors.md:23
 msgid "Translation"
-msgstr "Übersetzung"
+msgstr "ترجمه"
 
 #: ../../contributors.md:25
 msgid ""
@@ -138,11 +134,11 @@ msgid ""
 "[Spanish](https://es.bioimagingguide.org), and "
 "[Japanese](https://ja.bioimagingguide.org)."
 msgstr ""
-"Dieser Leitfaden ist in [Englisch](https://www.bioimagingguide.org) sowie "
-"[Tschechisch](https://cs.bioimagingguide.org), "
-"[Portugiesisch](https://pt.bioimagingguide.org), "
-"[Spanisch](https://es.bioimagingguide.org) und "
-"[Japanisch](https://ja.bioimagingguide.org) verfügbar."
+"این راهنما به زبان‌های [انگلیسی](https://www.bioimagingguide.org) و همچنین "
+"[چکی](https://cs.bioimagingguide.org)، "
+"[پرتغالی](https://pt.bioimagingguide.org)، "
+"[اسپانیایی](https://es.bioimagingguide.org) و "
+"[ژاپنی](https://ja.bioimagingguide.org) موجود است."
 
 #: ../../contributors.md:27
 msgid ""
@@ -151,29 +147,27 @@ msgid ""
 "Farsi. To help translate into one of these languages, or another language "
 "not listed here, please contact bcimini AT broadinstitute DOT org."
 msgstr ""
-"Es wird daran gearbeitet, diesen Leitfaden in weitere Sprachen zu übersetzen"
-" – Übersetzungen ins Französische, Deutsche, Finnische, Italienische, "
-"Polnische und Farsi sind geplant oder haben bereits begonnen. Wenn Sie bei "
-"der Übersetzung in eine dieser oder eine andere hier nicht aufgeführte "
-"Sprache mitwirken möchten, kontaktieren Sie bitte "
-"bcimini@broadinstitute.org."
+"کار ترجمه این راهنما به زبان‌های دیگر در حال انجام است - ترجمه به زبان‌های "
+"فرانسوی، آلمانی، فنلاندی، ایتالیایی، لهستانی و فارسی برنامه‌ریزی شده یا آغاز"
+" شده است. برای کمک به ترجمه به یکی از این زبان‌ها یا زبان دیگری که در اینجا "
+"ذکر نشده است، لطفاً با bcimini AT broadinstitute DOT org تماس بگیرید."
 
 #: ../../contributors.md:29
 msgid "Translations are gratefully acknowledged from:"
-msgstr "Die Übersetzungen werden dankend anerkannt von:"
+msgstr "با تشکر از ترجمه ها:"
 
 #: ../../contributors.md:31
 msgid "Czech : Martin Schätz"
-msgstr "Tschechisch : Martin Schätz"
+msgstr "چک: مارتین شاتز"
 
 #: ../../contributors.md:32
 msgid "Portuguese: Mario Costa Cruz"
-msgstr "Portugiesisch: Mario Costa Cruz"
+msgstr "پرتغالی: ماریو کاستا کروز"
 
 #: ../../contributors.md:33
 msgid "Spanish: Mariana De Niz"
-msgstr "Spanisch: Mariana De Niz"
+msgstr "اسپانیایی: ماریانا دنیز"
 
 #: ../../contributors.md:34
 msgid "Japanese: Haruhiko Morita and Cheng-Yu Huang"
-msgstr "Japanisch: Haruhiko Morita und Cheng-Yu Huang"
+msgstr "ژاپنی: هاروهیکو موریتا و چنگ یو هوانگ"

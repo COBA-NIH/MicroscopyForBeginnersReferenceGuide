@@ -4,17 +4,17 @@
 # FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
 # 
 # Translators:
-# Beth Cimini, 2023
 # Haruhiko Morita, 2026
+# Beth Cimini, 2026
 # 
 #, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: Python\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2024-03-29 15:22+0000\n"
+"POT-Creation-Date: 2026-03-02 13:46+0000\n"
 "PO-Revision-Date: 2023-05-02 18:49+0000\n"
-"Last-Translator: Haruhiko Morita, 2026\n"
+"Last-Translator: Beth Cimini, 2026\n"
 "Language-Team: Japanese (https://app.transifex.com/center-for-open-bioimage-analysis/teams/169123/ja/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -123,22 +123,23 @@ msgstr "翻訳"
 msgid ""
 "This guide is available in [English](https://www.bioimagingguide.org) as "
 "well as [Czech](https://cs.bioimagingguide.org), "
-"[Portuguese](https://pt.bioimagingguide.org), and "
-"[Spanish](https://es.bioimagingguide.org)."
+"[Portuguese](https://pt.bioimagingguide.org), "
+"[Spanish](https://es.bioimagingguide.org), and "
+"[Japanese](https://ja.bioimagingguide.org)."
 msgstr ""
-"本ガイドは "
-"[英語](https://www.bioimagingguide.org)のほか、[チェコ語](https://cs.bioimagingguide.org)、[ポルトガル語](https://pt.bioimagingguide.org)、[スペイン語](https://es.bioimagingguide.org)"
-" でも提供されています。"
+"このガイドは、[英語](https://www.bioimagingguide.org) "
+"のほか、[チェコ語](https://cs.bioimagingguide.org)、[ポルトガル語](https://pt.bioimagingguide.org)、[スペイン語](https://es.bioimagingguide.org)、[日本語](https://ja.bioimagingguide.org)"
+" でもご利用いただけます。"
 
 #: ../../contributors.md:27
 msgid ""
 "Work is underway to translate this guide into other languages - translation "
-"is planned or has begun in French, German, Finnish, Italian, Japanese, "
-"Polish, and Farsi. To help translate into one of these languages, or another"
-" language not listed here, please contact bcimini AT broadinstitute DOT org."
+"is planned or has begun in French, German, Finnish, Italian, Polish, and "
+"Farsi. To help translate into one of these languages, or another language "
+"not listed here, please contact bcimini AT broadinstitute DOT org."
 msgstr ""
-"このガイドを他の言語に翻訳する作業が進行中です。フランス語、ドイツ語、フィンランド語、イタリア語、日本語、ポーランド語、ペルシャ語での翻訳が計画されているか、開始されています。これらの言語のいずれか、あるいはここに記載されていない言語への翻訳にご協力いただける方は、bcimini"
-" ATroadinstitute DOT org にお問い合わせください。"
+"このガイドを他の言語に翻訳する作業が進行中です。フランス語、ドイツ語、フィンランド語、イタリア語、ポーランド語、ペルシア語への翻訳が計画中または開始されています。これらの言語、またはここに記載されていない言語への翻訳にご協力いただける場合は、bcimini"
+" AT broadinstitute DOT org までご連絡ください。"
 
 #: ../../contributors.md:29
 msgid "Translations are gratefully acknowledged from:"
@@ -155,3 +156,7 @@ msgstr "ポルトガル語：Mario Costa Cruz"
 #: ../../contributors.md:33
 msgid "Spanish: Mariana De Niz"
 msgstr "スペイン語：Mariana De Niz"
+
+#: ../../contributors.md:34
+msgid "Japanese: Haruhiko Morita and Cheng-Yu Huang"
+msgstr "日本語: 森田晴彦、黄鄭宇"
