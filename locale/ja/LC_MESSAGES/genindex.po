@@ -23,4 +23,4 @@ msgstr ""
 
 #: ../../genindex.md:1
 msgid "Index"
-msgstr "目次"
+msgstr "索引"
