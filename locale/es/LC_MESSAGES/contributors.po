@@ -4,17 +4,17 @@
 # FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
 # 
 # Translators:
-# Beth Cimini, 2024
 # Mariana De Niz, 2024
+# Beth Cimini, 2026
 # 
 #, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: Python\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2024-03-29 15:22+0000\n"
+"POT-Creation-Date: 2026-03-02 13:46+0000\n"
 "PO-Revision-Date: 2023-05-02 18:49+0000\n"
-"Last-Translator: Mariana De Niz, 2024\n"
+"Last-Translator: Beth Cimini, 2026\n"
 "Language-Team: Spanish (https://app.transifex.com/center-for-open-bioimage-analysis/teams/169123/es/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -132,26 +132,28 @@ msgstr "Traducción"
 msgid ""
 "This guide is available in [English](https://www.bioimagingguide.org) as "
 "well as [Czech](https://cs.bioimagingguide.org), "
-"[Portuguese](https://pt.bioimagingguide.org), and "
-"[Spanish](https://es.bioimagingguide.org)."
+"[Portuguese](https://pt.bioimagingguide.org), "
+"[Spanish](https://es.bioimagingguide.org), and "
+"[Japanese](https://ja.bioimagingguide.org)."
 msgstr ""
 "Esta guía está disponible en [inglés](https://www.bioimagingguide.org), así "
 "como en [checo](https://cs.bioimagingguide.org), "
-"[portugués](https://pt.bioimagingguide.org ), y "
-"[español](https://es.bioimagingguide.org)."
+"[portugués](https://pt.bioimagingguide.org), "
+"[español](https://es.bioimagingguide.org) y "
+"[japonés](https://ja.bioimagingguide.org)."
 
 #: ../../contributors.md:27
 msgid ""
 "Work is underway to translate this guide into other languages - translation "
-"is planned or has begun in French, German, Finnish, Italian, Japanese, "
-"Polish, and Farsi. To help translate into one of these languages, or another"
-" language not listed here, please contact bcimini AT broadinstitute DOT org."
+"is planned or has begun in French, German, Finnish, Italian, Polish, and "
+"Farsi. To help translate into one of these languages, or another language "
+"not listed here, please contact bcimini AT broadinstitute DOT org."
 msgstr ""
-"Se está trabajando para traducir esta guía a otros idiomas; la traducción "
-"está prevista o ya ha comenzado en francés, alemán, finlandés, italiano, "
-"japonés, polaco y farsi. Para ayudar a traducir a uno de estos idiomas u "
-"otro idioma que no figura aquí, comuníquese con bcimini AT broadinstitute "
-"DOT org."
+"Se está trabajando en la traducción de esta guía a otros idiomas. La "
+"traducción está prevista o ya ha comenzado en francés, alemán, finlandés, "
+"italiano, polaco y farsi. Para ayudar a traducir a uno de estos idiomas o a "
+"otro que no esté en la lista, póngase en contacto con bcimini en "
+"broadinstitute DOT org."
 
 #: ../../contributors.md:29
 msgid "Translations are gratefully acknowledged from:"
@@ -168,3 +170,7 @@ msgstr "Portugués: Mario Costa Cruz"
 #: ../../contributors.md:33
 msgid "Spanish: Mariana De Niz"
 msgstr "Español: Mariana De Niz"
+
+#: ../../contributors.md:34
+msgid "Japanese: Haruhiko Morita and Cheng-Yu Huang"
+msgstr "Japonés: Haruhiko Morita y Cheng-Yu Huang"
