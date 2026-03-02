@@ -1,317 +1,336 @@
 # SOME DESCRIPTIVE TITLE.
-# Copyright (C) 2023
+# Copyright (C) 2024
 # This file is distributed under the same license as the Python package.
-# FIRST AUTHOR <EMAIL@ADDRESS>, 2023.
-#
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+# 
+# Translators:
+# Beth Cimini, 2023
+# Haruhiko Morita, 2026
+# 
 #, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: Python \n"
+"Project-Id-Version: Python\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2023-05-19 07:07-0400\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language: ja\n"
-"Language-Team: ja <LL@li.org>\n"
-"Plural-Forms: nplurals=1; plural=0;\n"
+"POT-Creation-Date: 2024-03-29 09:37-0400\n"
+"PO-Revision-Date: 2023-05-02 18:49+0000\n"
+"Last-Translator: Haruhiko Morita, 2026\n"
+"Language-Team: Japanese (https://app.transifex.com/center-for-open-bioimage-analysis/teams/169123/ja/)\n"
 "MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=utf-8\n"
+"Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Generated-By: Babel 2.12.1\n"
+"Language: ja\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
 
 #: ../../Glossary.md:1
 msgid "Glossary"
-msgstr ""
+msgstr "用語集"
 
-#: ../../Glossary.md
+#: ../../Glossary.md:0
 msgid "Blocking"
-msgstr ""
+msgstr "ブロッキング Blocking"
 
 #: ../../Glossary.md:5
 msgid ""
-"During the immunostaining procedure, it is important to minimize "
-"nonspecific binding of the primary or secondary antibodies. In most "
-"cases, this is achieved by blocking, which typically involves adding "
-"substances such as normal sera, gelatin, or albumin before immunostaining"
-" in order to \"occupy\" all the non-specific binding sites in the sample."
+"During the immunostaining procedure, it is important to minimize nonspecific"
+" binding of the primary or secondary antibodies. In most cases, this is "
+"achieved by blocking, which typically involves adding substances such as "
+"normal sera, gelatin, or albumin before immunostaining in order to "
+"\"occupy\" all the non-specific binding sites in the sample."
 msgstr ""
+"免疫染色の手順において、染色前に正常血清、ゼラチン、アルブミンなどの物質を添加してサンプル内の非特異的結合部位を占有する作業。これにより、一次抗体または二次抗体の非特異的結合を最小限に抑えることができる。"
 
 #: ../../Glossary.md:3
 msgid "Deconvolution"
-msgstr ""
+msgstr "デコンボリューション Deconvolution"
 
 #: ../../Glossary.md:8
 msgid ""
-"The process of computationally removing blur from microscopy images by "
-"using the known optical properties of the light path to \"reassign\" "
-"pixel intensity away from where it hit the camera and back onto the "
-"structure that emitted the light."
+"The process of computationally removing blur from microscopy images by using"
+" the known optical properties of the light path to \"reassign\" pixel "
+"intensity away from where it hit the camera and back onto the structure that"
+" emitted the light."
 msgstr ""
+"光路の既知の光学特性を利用して、カメラに到達した画素の輝度値を発光源の構造に「再割り当て」することで、顕微鏡画像からボケを計算処理により除去する処理。"
 
 #: ../../Glossary.md:6
 msgid "Ex-Vivo imaging"
-msgstr ""
+msgstr "生体外イメージング Ex-Vivo imaging"
 
 #: ../../Glossary.md:11
-#, python-format
 msgid ""
 "Refers to imaging performed on live animal tissue in an external "
-"controllable environment (e.g., tissue explant on a petri dish). It "
-"enables high-resolution imaging of live tissue that may be otherwise "
-"inaccessible within the animal. The tissue is maintained alive on the "
-"imaging system through perfusion of oxygenated (95% oxygen and 5% CO2), "
-"temperature-controlled media using peristaltic pumps and microfluidics."
+"controllable environment (e.g., tissue explant on a petri dish). It enables "
+"high-resolution imaging of live tissue that may be otherwise inaccessible "
+"within the animal. The tissue is maintained alive on the imaging system "
+"through perfusion of oxygenated (95% oxygen and 5% CO2), temperature-"
+"controlled media using peristaltic pumps and microfluidics."
 msgstr ""
+"外部の制御可能な環境（例：ペトリ皿上の組織外植片）において、生きた動物組織を対象に行うイメージングのこと。動物体内では撮影が困難な生体組織を高解像度で観察することが可能である。灌流ポンプとマイクロ流路を用いて酸素化（95%酸素・5%CO2）され、温度制御された培地を用いることで、組織はイメージングシステム上で生存状態に維持される。"
 
 #: ../../Glossary.md:9
 msgid "Fiji"
-msgstr ""
+msgstr "Fiji"
 
 #: ../../Glossary.md:14
 msgid ""
-"[Fiji](https://imagej.net/software/fiji/) Is Just ImageJ. ImageJ2 plus a "
-"lot of common plugins."
+"[Fiji](https://imagej.net/software/fiji/) Is Just ImageJ. ImageJ2 plus a lot"
+" of common plugins."
 msgstr ""
+"[Fiji](https://imagej.net/software/fiji/)は”Fiji Is Just "
+"ImageJ\"の略。ImageJ2に多数の一般的なプラグインを加えた汎用画像解析ソフトフェア。"
 
 #: ../../Glossary.md:12
 msgid "Fixation"
-msgstr ""
+msgstr "固定 Fixation"
 
 #: ../../Glossary.md:17
 msgid ""
-"Fixation of a specimen refers to the stabilization of the "
-"cellular/molecular components within the sample while at the same time "
-"stopping any biological function in that sample. The fixative used (e.g.,"
-" paraformaldehyde, glutaraldehyde, methanol), concentration and "
-"conditions (e.g., buffer, temperature) determine the extent of "
-"preservation of the cellular and/or molecular structures within a sample,"
-" and needs to be optimized depending on the sample or structure that is "
-"being imaged."
+"Fixation of a specimen refers to the stabilization of the cellular/molecular"
+" components within the sample while at the same time stopping any biological"
+" function in that sample. The fixative used (e.g., paraformaldehyde, "
+"glutaraldehyde, methanol), concentration and conditions (e.g., buffer, "
+"temperature) determine the extent of preservation of the cellular and/or "
+"molecular structures within a sample, and needs to be optimized depending on"
+" the sample or structure that is being imaged."
 msgstr ""
+"試料内の細胞・分子成分を安定化させると同時に、生物学的機能を停止させる処理。使用する固定剤（例：パラホルムアルデヒド、グルタルアルデヒド、メタノール）、濃度、および処理条件（例：緩衝液、温度）によって、細胞や分子構造の保存状態が決まる。観察対象のサンプルや構造に応じて最適化が必要である。"
 
 #: ../../Glossary.md:15
 msgid "Image processing"
-msgstr ""
+msgstr "画像処理 Image processing"
 
 #: ../../Glossary.md:20
 msgid ""
 "Is an operation that can be performed on an image, resulting in another "
-"image. Image processing operations can be simple (e.g. resizing or "
-"rotating) or more advanced (e.g. enhancing particular features of an "
-"image like circles or lines)."
+"image. Image processing operations can be simple (e.g. resizing or rotating)"
+" or more advanced (e.g. enhancing particular features of an image like "
+"circles or lines)."
 msgstr ""
+"画像処理は、画像に対して実行され、別の画像を生成する操作のこと。画像処理には、単純なもの（サイズ変更や回転など）もあれば、高度なもの（円や線など画像の特定の特徴を強調するなど）もある。"
 
 #: ../../Glossary.md:18
 msgid "Immersion media"
-msgstr ""
+msgstr "浸液 Immersion media"
 
 #: ../../Glossary.md:23
 msgid ""
-"The immersion media is the medium that fills the gap between your "
-"objective lens and the glass coverslip or sample. It impacts the "
-"numerical aperture of the objective lens {math}`NA=RI * sin(θ)`, thus "
-"impacting lateral and axial resolution. It is critical to match the RI of"
-" the immersion media with that of the mounting media to minimize "
-"aberrations and improve image quality. Immersion media can be air, water,"
-" silicone oil, glycerol or oil."
+"The immersion media is the medium that fills the gap between your objective "
+"lens and the glass coverslip or sample. It impacts the numerical aperture of"
+" the objective lens {math}`NA=RI * sin(θ)`, thus impacting lateral and axial"
+" resolution. It is critical to match the RI of the immersion media with that"
+" of the mounting media to minimize aberrations and improve image quality. "
+"Immersion media can be air, water, silicone oil, glycerol or oil."
 msgstr ""
+"浸液は、対物レンズとカバーガラスまたは試料の間を満たす媒質のこと。対物レンズの開口数　NAに{math}`NA=RI * "
+"sin(θ)`の形で影響し、横方向および軸方向の分解能に関わる。収差を最小限に抑えて画質を向上させるためには、浸液の屈折率 RI "
+"は封入剤の屈折率に合わせることが重要である。浸液には、空気、水、シリコーンオイル、グリセロール、オイルなどが用いられる。"
 
 #: ../../Glossary.md:21
 msgid "Immunolabeling"
-msgstr ""
+msgstr "免疫標識 Immunolabeling"
 
 #: ../../Glossary.md:26
 msgid ""
 "Immunolabeling is one of the most common labeling techniques for fixed "
-"samples. You can use fluorescently conjugated primary antibodies to "
-"detect the protein of interest or a two-step labeling with a primary "
-"antibody and a fluorescently conjugated secondary antibody. Primary-"
-"secondary labeling tends to result in signal amplification. The main "
-"issue with immunolabeling is the size of the antibodies, which require "
-"extensive permeabilization. Another good option is to use nano-bodies, "
-"which only have the heavy-chain and are significantly smaller than "
-"regular antibodies."
+"samples. You can use fluorescently conjugated primary antibodies to detect "
+"the protein of interest or a two-step labeling with a primary antibody and a"
+" fluorescently conjugated secondary antibody. Primary-secondary labeling "
+"tends to result in signal amplification. The main issue with immunolabeling "
+"is the size of the antibodies, which require extensive permeabilization. "
+"Another good option is to use nano-bodies, which only have the heavy-chain "
+"and are significantly smaller than regular antibodies."
 msgstr ""
+"固定サンプルに対して最も広く用いられる標識技術のひとつ。蛍光標識された一次抗体を用いて目的タンパク質を検出する方法と、一次抗体と蛍光標識二次抗体を組み合わせた二段階標識法がある。二段階標識を用いると、シグナルの増幅が期待できる。免疫標識の主な課題は抗体のサイズであり、十分な透過処理が必要である。重鎖のみからなるナノボディは通常の抗体より大幅に小さく、代替手段として有効である。"
 
 #: ../../Glossary.md:24
 msgid "Intravital imaging"
-msgstr ""
+msgstr "生体内イメージング Intravital imaging"
 
 #: ../../Glossary.md:29
 msgid ""
 "It refers to the imaging of cellular structures or biological processes "
-"inside a live animal in real time, without extracting the organs or "
-"fixing the sample. In general, it requires specific instrumentation or "
-"modalities with improved light penetration, such as multiphoton "
-"microscopy and is limited to the ability to access the specific organ, "
-"often through optical windows. Intravital imaging is overseen by "
-"bioethical committees and needs to be approved by IACUC and/or other "
-"institutional committees."
+"inside a live animal in real time, without extracting the organs or fixing "
+"the sample. In general, it requires specific instrumentation or modalities "
+"with improved light penetration, such as multiphoton microscopy and is "
+"limited to the ability to access the specific organ, often through optical "
+"windows. Intravital imaging is overseen by bioethical committees and needs "
+"to be approved by IACUC and/or other institutional committees."
 msgstr ""
+"臓器を取り出したり、サンプルを固定したりすることなく、生きた動物の体内における細胞構造や生物学的プロセスをリアルタイムで観察するイメージング法。一般的に、多光子顕微鏡などの光透過性に優れた特殊な機器や手法が必要であり、光学窓などを通じて特定の臓器にアクセスできることが前提となる。生体内イメージングは生命倫理委員会の監督下に置かれ、IACUCおよびその他の機関委員会の承認が必要である。"
 
 #: ../../Glossary.md:27
 msgid "Mounting media"
-msgstr ""
+msgstr "封入剤 Mounting media"
 
 #: ../../Glossary.md:32
 msgid ""
-"Is the solution in which your specimen is placed in (mounted). Its "
-"purpose is to preserve the sample, including the fluorophores in it,  and"
-" enhance the imaging quality during acquisition, by buffering the pH, "
-"matching the refractive index throughout the sample (ideally matching it "
-"to that of glass) and minimizing photobleaching (depending on the "
-"medium). Mounting media prevents the sample from drying out allowing "
-"long-term storage."
+"Is the solution in which your specimen is placed in (mounted). Its purpose "
+"is to preserve the sample, including the fluorophores in it,  and enhance "
+"the imaging quality during acquisition, by buffering the pH, matching the "
+"refractive index throughout the sample (ideally matching it to that of "
+"glass) and minimizing photobleaching (depending on the medium). Mounting "
+"media prevents the sample from drying out allowing long-term storage."
 msgstr ""
+"試料を封入（マウント）する溶液。pH緩衝作用、サンプル全体の屈折率の均一化（理想的にはガラスの屈折率への適合）、および光退色の抑制（媒質の種類による）によって、蛍光体を含むサンプルを保存しながら取得時の画質を向上させる。また、サンプルの乾燥を防ぎ、長期保存を可能にする。"
 
 #: ../../Glossary.md:30
 msgid "Object detection"
-msgstr ""
+msgstr "オブジェクト検出 Object detection"
 
 #: ../../Glossary.md:35
 msgid ""
 "Is the image processing technique to detect objects within an image. It "
-"would not give you a mask of the objects but it could give you a bounding"
-" box, or and x,y position."
+"would not give you a mask of the objects but it could give you a bounding "
+"box, or and x,y position."
 msgstr ""
+"画像内のオブジェクトを検出するための画像処理技術である。オブジェクトのマスクは得られないかわりに、オブジェクトのバウンディングボックスやx・y座標を出力できる。"
 
 #: ../../Glossary.md:33
 msgid "Oxygen scavengers"
-msgstr ""
+msgstr "脱酸素剤 Oxygen scavengers"
 
 #: ../../Glossary.md:38
 msgid ""
 "Oxygen tends to induce photobleaching of organic dyes and other "
 "fluorophores. Addition of oxygen scavengers to the imaging media such as "
 "glucose oxidase or pyranose 2-oxidase can significantly reduce "
-"photobleaching of the fluorophores present in the sample. It is important"
-" to understand that the use of oxygen scavengers may affect live cell "
-"imaging, as these scavengers can affect the ATP and oxygen levels within "
-"the sample, compromising its health and therefore biological function."
+"photobleaching of the fluorophores present in the sample. It is important to"
+" understand that the use of oxygen scavengers may affect live cell imaging, "
+"as these scavengers can affect the ATP and oxygen levels within the sample, "
+"compromising its health and therefore biological function."
 msgstr ""
+"酸素は有機色素やその他の蛍光体の光退色を引き起こす傾向がある。グルコースオキシダーゼやピラノース2-オキシダーゼなどの脱酸素剤をイメージング培地に添加することで、蛍光体の光褪色を大幅に低減できる。ただし、脱酸素剤はサンプル内のATPおよび酸素レベルに影響を与え、細胞の健全性や生物学的機能を損なう可能性があるため、ライブセルイメージングへの使用には注意が必要である。"
 
 #: ../../Glossary.md:36
 msgid "Permeabilization"
-msgstr ""
+msgstr "透過処理 Permeabilization"
 
 #: ../../Glossary.md:41
 msgid ""
-"In order for the antibodies used during immunostaining or other "
-"fluorophores to penetrate and bind to their antigen within a cell or "
-"tissue, the membrane integrity (holes) needs to be challenged with a mild"
-" detergent. The permeabilization step needs to be carefully optimized "
-"depending on the antigen of interest, as it can result in a loss of "
-"cytoplasm or a degradation of the signal."
+"In order for the antibodies used during immunostaining or other fluorophores"
+" to penetrate and bind to their antigen within a cell or tissue, the "
+"membrane integrity (holes) needs to be challenged with a mild detergent. The"
+" permeabilization step needs to be carefully optimized depending on the "
+"antigen of interest, as it can result in a loss of cytoplasm or a "
+"degradation of the signal."
 msgstr ""
+"免疫染色に用いる抗体やその他の蛍光体を細胞や組織内の抗原に到達・結合させるために、弱い界面活性剤によって膜完全性を損なう（孔を形成する）処理。透過処理は細胞質の喪失やシグナルの劣化を招く可能性があるため、目的の抗原に応じて慎重に最適化する必要がある。"
 
 #: ../../Glossary.md:39
 msgid "Refractive index"
-msgstr ""
+msgstr "屈折率 Refractive index"
 
 #: ../../Glossary.md:44
 msgid ""
 "It's a measure of how light travels through a specific medium. It is an "
 "important value when calculating the numerical aperture of an objective, "
 "Ideally, a mismatch in refractive index between the sample (mounting "
-"medium), the coverslip and immersion media should be minimized in order "
-"to enhance the image quality. [See an interactive demo of refactive index"
-" at MicroscopyU](https://www.microscopyu.com/microscopy-basics"
-"/refractive-index-index-of-refraction)"
+"medium), the coverslip and immersion media should be minimized in order to "
+"enhance the image quality. [See an interactive demo of refactive index at "
+"MicroscopyU](https://www.microscopyu.com/microscopy-basics/refractive-index-"
+"index-of-refraction)"
 msgstr ""
+"特定の媒質中を光がどのように伝播するかを表す指標。対物レンズの開口数を計算する上で重要な値であり、画質を向上させるためには、試料（封入剤）、カバーガラス、および浸漬媒質間の屈折率の不一致を最小限に抑えることが望ましい。屈折率のインタラクティブなデモはMicroscopyUで参照できる。[MicroscopyUで屈折率のインタラクティブデモを見る](https://www.microscopyu.com/microscopy-"
+"basics/refractive-index-index-of-refraction)"
 
 #: ../../Glossary.md:42
 msgid "ROIs"
-msgstr ""
+msgstr "ROI"
 
 #: ../../Glossary.md:47
 msgid ""
 "Regions Of Interest. Pixels in your image that you care about (e.g., a "
 "region in tissue, a cell, a tumor, etc.)"
-msgstr ""
+msgstr "関心領域。画像内の気になる領域のこと（組織内の領域、細胞、腫瘍など）。"
 
 #: ../../Glossary.md:45
 msgid "Segmentation"
-msgstr ""
+msgstr "セグメンテーション Segmentation"
 
 #: ../../Glossary.md:50
 msgid ""
-"Method of dividing an image into multiple parts or regions. There are "
-"three different types of segmentation."
-msgstr ""
+"Method of dividing an image into multiple parts or regions. There are three "
+"different types of segmentation."
+msgstr "画像を複数の部分または領域に分割する手法。セグメンテーションには以下の3種類がある。"
 
 #: ../../Glossary.md:51
 msgid ""
 "Semantic segmentation, where all parts of an image are part of a class, "
-"common in cell biology will be detecting cells and background on an "
-"image."
+"common in cell biology will be detecting cells and background on an image."
 msgstr ""
+"セマンティック（\"意味的な\"）セグメンテーション semantic segmentation "
+"とは、画像のすべての部分があるクラスに属するというもので、細胞生物学では、画像を細胞とそれ以外の領域に分割するのが一般的である。"
 
 #: ../../Glossary.md:52
 msgid ""
-"Instance segmentation, the segmentation is object based, not just "
-"detecting were the cells are but diving each cell as a separate object."
+"Instance segmentation, the segmentation is object based, not just detecting "
+"were the cells are but diving each cell as a separate object."
 msgstr ""
+"インスタンス（”物体ごとの”）セグメンテーション instance segmentation "
+"では、はオブジェクト単位のセグメンテーションであり、細胞の存在領域を検出するだけでなく、各細胞を個別のオブジェクトとして分割する。"
 
 #: ../../Glossary.md:53
 msgid ""
-"Panoptic Segmentation, it can be defined as a combination of the prior "
-"two, because it identifies the object but also classifies them. An "
-"example in biology might be detecting all the cells on an image and "
-"classifying them as dividing vs not."
+"Panoptic Segmentation, it can be defined as a combination of the prior two, "
+"because it identifies the object but also classifies them. An example in "
+"biology might be detecting all the cells on an image and classifying them as"
+" dividing vs not."
 msgstr ""
+"パノプティック（\"総括的な\"）セグメンテーションは、上記2つを組み合わせた手法であり、オブジェクトを識別しながら分類も行う。生物学的な例としては、画像内のすべての細胞を検出し、分裂中か否かに分類することが挙げられる。"
 
 #: ../../Glossary.md:51
 msgid "Thresholding"
-msgstr ""
+msgstr "閾値処理 Thresholding"
 
 #: ../../Glossary.md:56
 msgid ""
-"The easiest form of image segmentation, it divides the image into two "
-"part the background and the foreground (or signal). It creates a binary "
-"image where usually the background pixels would be change to a 0 value "
-"and the foreground pixels values would be 1."
+"The easiest form of image segmentation, it divides the image into two part "
+"the background and the foreground (or signal). It creates a binary image "
+"where usually the background pixels would be change to a 0 value and the "
+"foreground pixels values would be 1."
 msgstr ""
+"最も単純な画像セグメンテーションの手法であり、画像を背景と前景（またはシグナル）の2つに分割する。通常、背景画素の値を0、前景画素の値を1とする二値画像を生成する。"
 
 #: ../../Glossary.md:54
 msgid "Tissue clearing"
-msgstr ""
+msgstr "組織透明化 Tissue clearing"
 
 #: ../../Glossary.md:59
 msgid ""
 "Fluorescence imaging of the whole thickness of a piece of tissue is very "
 "challenging due to light absorption and scattering induced by the "
-"inhomogeneities in refractive indexes within the tissue itself, resulting"
-" in poor light penetration. Additionally, light coming from different "
-"parts of the sample contribute to fluorescence blur, drastically reducing"
-" contrast and resolution in any given plane. As a result, researchers "
-"tend to use tissue sectioning techniques to extract information about "
-"cellular components and their spatial distribution or relationships from "
-"a thin two-dimensional volume. However, most components in any complex "
-"biological system such as an organ are not contained within this two-"
-"dimensional volume, and therefore, this approach compromises the "
-"understanding of the spatial relationships among cellular components. "
-"Tissue clearing focused on reducing the inhomogeneities in the tissue by "
-"equilibrating the refractive index throughout the sample. This allows "
-"light to pass through the tissue and therefore enables high resolution, "
-"volumetric imaging of whole organs and tissues using conventional "
-"microscopy techniques such as confocal microscopy without the need to "
-"physically section the sample."
+"inhomogeneities in refractive indexes within the tissue itself, resulting in"
+" poor light penetration. Additionally, light coming from different parts of "
+"the sample contribute to fluorescence blur, drastically reducing contrast "
+"and resolution in any given plane. As a result, researchers tend to use "
+"tissue sectioning techniques to extract information about cellular "
+"components and their spatial distribution or relationships from a thin two-"
+"dimensional volume. However, most components in any complex biological "
+"system such as an organ are not contained within this two-dimensional "
+"volume, and therefore, this approach compromises the understanding of the "
+"spatial relationships among cellular components. Tissue clearing focused on "
+"reducing the inhomogeneities in the tissue by equilibrating the refractive "
+"index throughout the sample. This allows light to pass through the tissue "
+"and therefore enables high resolution, volumetric imaging of whole organs "
+"and tissues using conventional microscopy techniques such as confocal "
+"microscopy without the need to physically section the sample."
 msgstr ""
+"試料全体の屈折率を均一化することで組織内の不均一性を低減する手法。組織片の全厚にわたる蛍光イメージングは、組織内の屈折率の不均一性による光の吸収と散乱のために非常に困難であり、光透過性が著しく低い。さらに、試料の様々な部位から発生する光が蛍光のボケの原因となり、任意の焦点面におけるコントラストと分解能を大幅に低下させる。そのため、薄い二次元断面から細胞成分の空間分布や相互関係に関する情報を取得したい場合は通常、組織切片化を用いる。しかし、臓器などの複雑な生体系における構成要素の多くは2次元断面内に収まらないため、細胞成分間の空間的関係の理解が制限される。組織透明化により光が組織を透過できるようになると、試料を物理的に切片化することなく、共焦点顕微鏡などの一般的な顕微鏡技術を用いて臓器や組織全体の高解像度・立体的なイメージングが可能となる。"
 
 #: ../../Glossary.md:57
 msgid "Tissue sectioning"
-msgstr ""
+msgstr "組織切片化 Tissue sectioning"
 
 #: ../../Glossary.md:62
 msgid ""
-"Light penetration and fluorescence imaging is negatively impacted by "
-"light scattering within a thick specimen. This scattering is due to the "
-"different refractive indexes present within a tissue. To facilitate "
-"imaging of tissues, researchers often cut thick tissues into slices of "
-"different thicknesses. This process is called tissue sectioning. In most "
-"cases the samples are fixed and embedded in paraffin or frozen in tissue "
-"freezing medium and later cut into thin slices by a machine like a "
-"cryostat, microtome, or vibratome and sections collected into a tube or "
-"onto a slide."
+"Light penetration and fluorescence imaging is negatively impacted by light "
+"scattering within a thick specimen. This scattering is due to the different "
+"refractive indexes present within a tissue. To facilitate imaging of "
+"tissues, researchers often cut thick tissues into slices of different "
+"thicknesses. This process is called tissue sectioning. In most cases the "
+"samples are fixed and embedded in paraffin or frozen in tissue freezing "
+"medium and later cut into thin slices by a machine like a cryostat, "
+"microtome, or vibratome and sections collected into a tube or onto a slide."
 msgstr ""
-
+"厚い組織をさまざまな厚さのスライスに切断する処理のこと。厚い検体内では組織内の屈折率がさまざまに異なっており、光透過性と蛍光イメージングに悪影響を及ぼす。組織切片化により薄いスライスを作成することで、組織のイメージングが用意になる。多くの場合、サンプルは固定されてパラフィンに包埋されるか、組織凍結媒質で凍結された後、クライオスタット、ミクロトーム、バイブラトームなどの装置によって薄いスライスに切断され、チューブやスライドガラス上に収集される。"
