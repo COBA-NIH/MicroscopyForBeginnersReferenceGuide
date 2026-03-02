@@ -1,156 +1,188 @@
 # SOME DESCRIPTIVE TITLE.
-# Copyright (C) 2023
+# Copyright (C) 2024
 # This file is distributed under the same license as the Python package.
-# FIRST AUTHOR <EMAIL@ADDRESS>, 2023.
-#
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+# 
+# Translators:
+# Beth Cimini, 2023
+# Haruhiko Morita, 2026
+# 
 #, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: Python \n"
+"Project-Id-Version: Python\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2023-05-02 14:28-0400\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language: ja\n"
-"Language-Team: ja <LL@li.org>\n"
-"Plural-Forms: nplurals=1; plural=0;\n"
+"POT-Creation-Date: 2025-05-23 21:07+0000\n"
+"PO-Revision-Date: 2023-05-02 18:49+0000\n"
+"Last-Translator: Haruhiko Morita, 2026\n"
+"Language-Team: Japanese (https://app.transifex.com/center-for-open-bioimage-analysis/teams/169123/ja/)\n"
 "MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=utf-8\n"
+"Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Generated-By: Babel 2.12.1\n"
+"Language: ja\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
 
 #: ../../02_Sample_acquisition/Introduction.md:1
 #: ../../02_Sample_acquisition/Picking.md:3
 #: ../../02_Sample_acquisition/_notinyet_Setting_up.md:3
 msgid "Introduction"
-msgstr ""
+msgstr "はじめに"
 
 #: ../../02_Sample_acquisition/Introduction.md:3
 msgid ""
 "Microscopes are optical instruments, and as such, they are composed of "
-"different optical components and devices. As a beginner, it is important "
-"to recognize the experimental parameters that can affect the quality and "
-"rigor of the imaging data, and by extension, its interpretation."
+"different optical components and devices. As a beginner, it is important to "
+"recognize the experimental parameters that can affect the quality and rigor "
+"of the imaging data, and by extension, its interpretation."
 msgstr ""
+"顕微鏡は光学機器であり、さまざまな光学部品や装置から構成されています。初学者にとって重要なのは、イメージングデータの品質や厳密性、結果の解釈に影響を与える実験条件を理解することです。"
 
 #: ../../02_Sample_acquisition/Introduction.md:5
 msgid ""
-"A foundational concept is the “light path,” which can be used to trace "
-"out light’s trajectory from the light source to the detector. When "
-"working with microscopes, whether it is a cell culture microscope or a "
-"cutting-edge superresolution system, it is important to take the time to "
-"trace out the different light paths in the system. By approaching the "
-"system as a sum of its parts means that optimizing and troubleshooting "
-"become systematic processes compared to when the system is treated as a "
-"black box. This [interactive tutorial at "
-"MicroscopyU](https://www.microscopyu.com/tutorials/tepaths) shows the "
-"light paths in a standard inverted microscope; [this "
-"view](https://www.microscopyu.com/microscopy-basics/components) gives "
-"more detail about the various parts."
+"A foundational concept is the “light path,” which can be used to trace out "
+"light’s trajectory from the light source to the detector. When working with "
+"microscopes, whether it is a cell culture microscope or a cutting-edge "
+"superresolution system, it is important to take the time to trace out the "
+"different light paths in the system. By approaching the system as a sum of "
+"its parts means that optimizing and troubleshooting become systematic "
+"processes compared to when the system is treated as a black box. This "
+"[interactive tutorial at "
+"MicroscopyU](https://www.microscopyu.com/tutorials/tepaths) shows the light "
+"paths in a standard inverted microscope; [this "
+"view](https://www.microscopyu.com/microscopy-basics/components) gives more "
+"detail about the various parts."
 msgstr ""
+"基礎となる重要な概念の一つに光路 light path "
+"があります。これは、光源から検出器までの光が伝わる経路のことです。細胞培養用の顕微鏡であっても、最先端の超解像顕微鏡であっても、装置内のすべての光路をたどって確認しておくことが重要です。装置をブラックボックスとして扱うのではなく、光路のまとまりとして理解することで、最適化やトラブルシューティングを体系的に行うことができるようになります。標準的な倒立顕微鏡における光路については、[MicroscopyU"
+" "
+"のインタラクティブチュートリアル](https://www.microscopyu.com/tutorials/tepaths)を参照してください。また、顕微鏡の各構成要素については、[こちらの解説](https://www.microscopyu.com/microscopy-"
+"basics/components)でより詳しく紹介されています。"
 
 #: ../../02_Sample_acquisition/Introduction.md:7
 msgid "Types of microscopes"
-msgstr ""
+msgstr "顕微鏡の種類"
 
 #: ../../02_Sample_acquisition/Introduction.md:9
 msgid ""
-"While far from a comprehensive list of what is available, a few of the "
-"most common types of microscopes are listed below."
-msgstr ""
+"While far from a comprehensive list of what is available, a few of the most "
+"common types of microscopes are listed below."
+msgstr "ここでは網羅的ではないものの、顕微鏡の代表的な種類をいくつか挙げます。"
 
 #: ../../02_Sample_acquisition/Introduction.md:10
 msgid ""
-"**Widefield**, sometimes called _epifluorescence_, microscopes that take "
-"in all the light available to them in a single light path; this approach "
+"**Widefield**, sometimes called _epifluorescence_, microscopes that take in "
+"all the light available to them in a single light path; this approach "
 "requires the least complex hardware, and also is often advantageous when "
 "imaging dim samples. {term}`Deconvolution` is sometimes performed after "
 "imaging on a widefield microscope to remove blur."
 msgstr ""
+"広視野顕微鏡 widefield microscopyは、単一の光路を通じて得られるすべての光を同時に取り込むタイプの顕微鏡です。落射蛍光顕微鏡 "
+"epifluorescence microscopy "
+"とも呼ばれます。この方式は必要なハードウェアが比較的単純であり、暗い試料を撮像する際に有利な場合があります。広視野顕微鏡で撮像した後には、画像のぼやけを低減するために"
+" {term}`デコンボリューション`処理を行うことがあります。"
 
 #: ../../02_Sample_acquisition/Introduction.md:11
 msgid ""
-"**Confocal** - microscopes that remove out-of-focus light in the light "
-"path, typically using one or many pinholes to physically block this "
-"light. Several variants of confocal microscopy exist; spinning-disk "
-"confocal microscopes are often preferred for live-cell imaging "
-"applications as they tend to minimize toxicity to the sample."
+"**Confocal** - microscopes that remove out-of-focus light in the light path,"
+" typically using one or many pinholes to physically block this light. "
+"Several variants of confocal microscopy exist; spinning-disk confocal "
+"microscopes are often preferred for live-cell imaging applications as they "
+"tend to minimize toxicity to the sample."
 msgstr ""
+"**共焦点顕微鏡 confocal microscopy** "
+"は、光路中の焦点外の光を除去することで、より鮮明な像を得る顕微鏡です。通常は、1つまたは複数のピンホールを用いて、焦点面以外からの光を物理的に遮断します。共焦点顕微鏡にはいくつかの方式がありますが、スピニングディスク型共焦点顕微鏡は、試料への光毒性を比較的低く抑えられるため、ライブセルイメージングに適していることが多いです。"
 
 #: ../../02_Sample_acquisition/Introduction.md:12
 msgid ""
 "**Multiphoton** microscopes utilize multiple pulses of longer-wavelength "
-"(lower energy) light to penetrate deep into tissue, since tissues are "
-"less likely to scatter these wavelengths; once there, multiple low-"
-"engergy photons hitting the fluorphore at the same time will use their "
-"combined energy to activate a fluorophore that each photon alone would be"
-" too weak to do. Because the benefit of these systems is in their deeper "
-"penetration, they are often used for performing live-animal imaging."
+"(lower energy) light to penetrate deep into tissue, since tissues are less "
+"likely to scatter these wavelengths; once there, multiple low-engergy "
+"photons hitting the fluorphore at the same time will use their combined "
+"energy to activate a fluorophore that each photon alone would be too weak to"
+" do. Because the benefit of these systems is in their deeper penetration, "
+"they are often used for performing live-animal imaging."
 msgstr ""
+"**多光子顕微鏡 multiphoton microscopy** "
+"は、より長波長の（低エネルギーだが届きやすい）光を複数回パルス照射することで、組織深部まで光を到達させる顕微鏡です。長波長の光は組織内で散乱されにくいため、より深い位置まで透過します。焦点位置では、複数の低エネルギー光子が同時に蛍光色素に吸収され、そのエネルギーが合算されることで、単一の光子では励起できない蛍光色素を励起することができます。このような特性から、多光子顕微鏡は組織深部の観察に適しており、特にマウスをはじめとする生体動物ライブイメージングに広く用いられています。"
 
 #: ../../02_Sample_acquisition/Introduction.md:13
 msgid ""
 "**Superresolution** microscopes that are designed to allows the user to "
-"bypass the minimum optical resolution limit (typically 200 nm, depending "
-"on sample consideration) to resolve very small structures. Sometimes this"
-" is achieved with specialized hardware (such as in STED and SIM) and "
-"sometimes with specialized probes (such as in PALM and STORM)."
+"bypass the minimum optical resolution limit (typically 200 nm, depending on "
+"sample consideration) to resolve very small structures. Sometimes this is "
+"achieved with specialized hardware (such as in STED and SIM) and sometimes "
+"with specialized probes (such as in PALM and STORM)."
 msgstr ""
+"**超解像顕微鏡 Superresolution microscopy** は、顕微鏡の光学的解像度の理論的限界（回折限界、通常は約200 "
+"nmですが、試料条件によって異なります）を超えて、より微細な構造を観察できるように設計された顕微鏡です。この回折限界の克服は、特殊な光学系や装置構成によって実現される場合（STED"
+" 、SIM）もあれば、特殊な蛍光プローブや分子局在解析を利用して実現される場合（PALM、STORM）もあります。"
 
 #: ../../02_Sample_acquisition/Introduction.md:14
 msgid ""
-"**Light sheet** microscopes that illuminate the sample perpendicular to "
-"the axis of imaging, often by a second, orthogonal set of objective "
-"lenses. This allows for thin optical sectioning across large volumes, but"
-" introduces more considerations around sample mounting. Many variations "
-"on light sheet microscopes have emerged in recent years."
+"**Light sheet** microscopes that illuminate the sample perpendicular to the "
+"axis of imaging, often by a second, orthogonal set of objective lenses. This"
+" allows for thin optical sectioning across large volumes, but introduces "
+"more considerations around sample mounting. Many variations on light sheet "
+"microscopes have emerged in recent years."
 msgstr ""
+"**ライトシート顕微鏡 Light sheet microscopy** "
+"は、撮像軸に対して垂直に試料を照射する顕微鏡です。多くの場合、これには撮像用とは別に、直交する第2の対物レンズ系が用いられます。この方式により、大きな体積を高い軸方向分解能で薄く光学的に切り出す（光学切片を得る）ことが可能になります。一方で、試料のマウント方法については、より複雑な検討が必要です。近年では、ライトシート顕微鏡のさまざまなバリエーションが開発されています。"
 
 #: ../../02_Sample_acquisition/Introduction.md:17
 msgid ""
 "No matter which kind of microscope you use, scientific microscopes are "
-"complex instruments with many working parts, all of which typically must "
-"be in good working order and calibrated/aligned properly for quantitative"
-" imaging to take place. The maintainer of your microscope will typically "
-"ensure this, but speak with them regularly about questions you may have "
-"and about how changes to the microscope configuration may affect your "
-"ability to accurately make certain measurements. Your microscope "
-"maintainer may be maintaining a large number of microscopes with a large "
-"number of independent users, so if something looks \"off\", make sure to "
-"talk with them before proceeding!"
+"complex instruments with many working parts, all of which typically must be "
+"in good working order and calibrated/aligned properly for quantitative "
+"imaging to take place. The maintainer of your microscope will typically "
+"ensure this, but speak with them regularly about questions you may have and "
+"about how changes to the microscope configuration may affect your ability to"
+" accurately make certain measurements. Your microscope maintainer may be "
+"maintaining a large number of microscopes with a large number of independent"
+" users, so if something looks \"off\", make sure to talk with them before "
+"proceeding!"
 msgstr ""
+"どの種類の顕微鏡を使用する場合でも、科学研究用の顕微鏡は多くの構成要素からなる複雑な装置です。定量的なイメージングを行うためには、これらの各部が正常に作動し、適切に校正・調整されている必要があります。通常は顕微鏡の管理担当者がこれらを確認していますが、不明点があれば定期的に相談し、装置構成の変更が測定精度に及ぼす影響についても確認するようにしてください。管理担当者は多数の顕微鏡と多くの利用者を担当している場合があります。観察像や装置の挙動に何か異常を感じた場合は、実験を続ける前に必ず相談してください！"
 
 #: ../../02_Sample_acquisition/Picking.md:1
 msgid "Choosing the right microscopy modality"
-msgstr ""
+msgstr "適切な顕微鏡の選び方"
 
 #: ../../02_Sample_acquisition/Picking.md:5
 msgid ""
-"Choosing the right microscope for your experiment will be a factor both "
-"of what the experiment dictates and what the researcher can access. The "
-"image below (from [Fundamentals of Microscopy by Jermey "
+"Choosing the right microscope for your experiment will be a factor both of "
+"what the experiment dictates and what the researcher can access. The image "
+"below (from [Fundamentals of Microscopy by Jermey "
 "Sanderson](http://dx.doi.org/10.1002/cpmo.76) {cite}`Sanderson2020-qz`) "
-"gives a sense of the sorts of decisions one should consider when choosing"
-" a microscope; a more thorough description of the pros and cons of "
-"various kinds of microscopes can be found in [this "
+"gives a sense of the sorts of decisions one should consider when choosing a "
+"microscope; a more thorough description of the pros and cons of various "
+"kinds of microscopes can be found in [this "
 "tutorial](https://doi.org/10.1038/s41596-020-0313-9){cite}`Jonkman2020-bo`."
 msgstr ""
+"実験に適した顕微鏡を選ぶ際には、実験の目的や要件だけでなく、研究者が実際に利用可能な装置であるかや施設に設置されているかも重要な要因となります。下図は顕微鏡を選択する際に検討すべき主な判断項目を示しています（Jermey"
+" Sanderson による [Fundamentals of Microscopy "
+"{cite}`Sanderson2020-qz`](http://dx.doi.org/10.1002/cpmo.76) "
+"からの引用）。さまざまな顕微鏡の長所と短所について、より詳しい解説は、Jonkman らによる[チュートリアル "
+"{cite}`Jonkman2020-bo`](https://doi.org/10.1038/s41596-020-0313-9)を参照してください。"
 
 #: ../../02_Sample_acquisition/Picking.md:14
 msgid "BBBC image montage"
-msgstr ""
+msgstr "BBBC の画像モンタージュ"
 
 #: ../../02_Sample_acquisition/Picking.md:14
 msgid ""
 "**Flow chart to help choose which type of microscope to use.** Figure by "
-"Jeremy Sanderson. [Source](https://www.researchgate.net/figure/Flow-"
-"chart-to-help-choose-which-type-of-microscope-to-use_fig5_341918746) "
+"Jeremy Sanderson. [Source](https://www.researchgate.net/figure/Flow-chart-"
+"to-help-choose-which-type-of-microscope-to-use_fig5_341918746) "
 "{cite}`Sanderson2020-qz`"
 msgstr ""
+"**Flow chart to help choose which type of microscope to use.** Jeremy "
+"Sandersonによる図 [Source](https://www.researchgate.net/figure/Flow-chart-to-"
+"help-choose-which-type-of-microscope-to-use_fig5_341918746) "
+"{cite}`Sanderson2020-qz`"
 
 #: ../../02_Sample_acquisition/Picking.md:17
 msgid "Opportunities for microscopy resource access"
-msgstr ""
+msgstr "顕微鏡設備の利用"
 
 #: ../../02_Sample_acquisition/Picking.md:19
 msgid ""
@@ -158,282 +190,391 @@ msgid ""
 "institution, others allow outside visitors or even sponsor visitors to "
 "travel to them."
 msgstr ""
+"イメージング施設の中には特定の機関の所属者のみに利用が限定されているものもありますが、外部の研究者を受け入れている施設もあります。中には、研究者の渡航を支援する制度を設けている施設もあります。"
 
 #: ../../02_Sample_acquisition/Picking.md:21
 msgid ""
-"**Advanced Imaging Center - Janelia Research Campus.** The AIC was "
-"created to give access to the broad scientific community to new imaging "
-"instruments that are not commercially available. Proposals can be "
-"submitted during open calls at [their "
-"website](https://www.aicjanelia.org/apply)."
+"**Advanced Imaging Center - Janelia Research Campus.** The AIC was created "
+"to give access to the broad scientific community to new imaging instruments "
+"that are not commercially available. Proposals can be submitted during open "
+"calls at [their website](https://www.aicjanelia.org/apply)."
 msgstr ""
+"**Advanced Imaging Center - Janelia Research Campus.** AIC "
+"は市販されていない新しい光学機器を広く科学コミュニティに提供するために設立されました。 "
+"[ウェブサイト](https://www.aicjanelia.org/apply)."
 
 #: ../../02_Sample_acquisition/Practical_considerations.md:1
 msgid "Practical considerations"
-msgstr ""
+msgstr "実践で気をつけること"
 
 #: ../../02_Sample_acquisition/Practical_considerations.md:3
-msgid "Objective selection"
+msgid ""
+"We recommend checking out "
+"[Microtutor](https://microtutor.globalbioimaging.org/) and "
+"[MyScope](https://myscope.training/) for interactive explanations of many of"
+" these concepts!"
 msgstr ""
+"これらの概念の多くについては、インタラクティブな説明が満載の "
+"[Microtutor](https://microtutor.globalbioimaging.org/) と "
+"[MyScope](https://myscope.training/) もご覧になることをお勧めします。"
 
 #: ../../02_Sample_acquisition/Practical_considerations.md:5
-msgid ""
-"Microscope objectives have a number of features that must be considered "
-"when deciding which objective is right for your experiment"
-msgstr ""
+msgid "Objective selection"
+msgstr "対物レンズの選び方"
 
 #: ../../02_Sample_acquisition/Practical_considerations.md:7
 msgid ""
-"Magnification and resolution: the higher the numerical aperture (NA) of "
-"the lens, the finer the resolution one can obtain in one's sample. The NA"
-" is calculated as {math}`NA=RI * sin(θ)`, relating both to the "
-"{term}`refractive index` of the sample, glass, and {term}`immersion "
-"media` as well as the range of angles of emitted light that can be "
-"collected into the lens. Unless special techniques are used, the typical "
-"limit of resultion is calculated as {math}`d = λ / 2NA`, meaning the "
-"resolution is set both by the NA of the lens but also by the wavelength "
-"of light used for imaging."
-msgstr ""
+"Microscope objectives have a number of features that must be considered when"
+" deciding which objective is right for your experiment"
+msgstr "顕微鏡の対物レンズにはさまざまな特性があります。これらを理解し、考慮したうえで実験に適した対物レンズを選ぶことが重要です。"
 
-#: ../../02_Sample_acquisition/Practical_considerations.md:16
+#: ../../02_Sample_acquisition/Practical_considerations.md:9
+msgid ""
+"Magnification and resolution: the higher the numerical aperture (NA) of the "
+"lens, the finer the resolution one can obtain in one's sample. The NA is "
+"calculated as {math}`NA=RI * sin(θ)`, relating both to the {term}`refractive"
+" index` of the sample, glass, and {term}`immersion media` as well as the "
+"range of angles of emitted light that can be collected into the lens. Unless"
+" special techniques are used, the typical limit of resultion is calculated "
+"as {math}`d = λ / 2NA`, meaning the resolution is set both by the NA of the "
+"lens but also by the wavelength of light used for imaging."
+msgstr ""
+"倍率と分解能：対物レンズの開口数（numerical aperture, NA）が高いほど、試料からより高い分解能を得ることができます。NA は "
+"{math}`NA=RI * sin(θ)` で表され、試料やカバーガラス、{term}`浸液` "
+"の{term}`屈折率`と、レンズが集光できる光の入射角の範囲の両方に依存します。特別な手法を用いない場合、理論的な分解能の限界は {math}`d ="
+" λ / 2NA`で与えられます。これは、分解能が対物レンズの NA だけでなく、撮像に用いる光の波長にも依存することを意味します。"
+
+#: ../../02_Sample_acquisition/Practical_considerations.md:18
 msgid "microtubules imaged at 488nm and 647nm"
-msgstr ""
+msgstr "488nmと647nmで撮影された微小管"
 
-#: ../../02_Sample_acquisition/Practical_considerations.md:16
+#: ../../02_Sample_acquisition/Practical_considerations.md:18
 msgid ""
-"**Decreased resolution at longer wavelengths of light**. Microtubules "
-"imaged at a shorter wavelength of light show higher resolution than those"
-" imaged at longer wavelengths. Adapted from Jonkman J., Brown C.M., "
-"Wright G.D _et al_. Tutorial: guidance for quantitative confocal "
-"microscopy. _Nat Prot_ **15**, (2020) {cite}`Jonkman2020-bo`"
+"**Decreased resolution at longer wavelengths of light**. Microtubules imaged"
+" at a shorter wavelength of light show higher resolution than those imaged "
+"at longer wavelengths. Adapted from Jonkman J., Brown C.M., Wright G.D _et "
+"al_. Tutorial: guidance for quantitative confocal microscopy. _Nat Prot_ "
+"**15**, (2020) {cite}`Jonkman2020-bo`"
 msgstr ""
+"**長波長の光では分解能が低下する。** 短い波長の光で撮像した微小管は、より長い波長で撮像した場合と比べて高い分解能で観察される。Jonkman "
+"J., Brown C.M., Wright G.D.  _et al_. Tutorial: guidance for quantitative "
+"confocal microscopy _Nat Prot_ **15**, (2020) より {cite}`Jonkman2020-bo`"
 
-#: ../../02_Sample_acquisition/Practical_considerations.md:19
+#: ../../02_Sample_acquisition/Practical_considerations.md:21
 msgid ""
-"Color correction: When performing multicolor microscopy, it is important "
-"to choose an objective lens that is labeled as `Apo` or `Super Apo`, as "
-"such lenses are corrected to focus 3 to 6 colors in the same plane at the"
-" same time. `Fluor` lenses will typically focus two colors at once."
+"Color correction: When performing multicolor microscopy, it is important to "
+"choose an objective lens that is labeled as `Apo` or `Super Apo`, as such "
+"lenses are corrected to focus 3 to 6 colors in the same plane at the same "
+"time. `Fluor` lenses will typically focus two colors at once."
 msgstr ""
-
-#: ../../02_Sample_acquisition/Practical_considerations.md:20
-msgid ""
-"Working distance: The working distance (WD) gives the distance in "
-"millimeters that the lens can focus into the sample. This distance "
-"includes the coverslip and mounting media as well. If imaging a thick "
-"sample, and/or if needing to image away from the surface of the sample, "
-"it is important to ensure the lens has a sufficient working distance."
-msgstr ""
+"色収差補正：多色蛍光顕微鏡観察を行う場合には、`Apo` または `Super Apo` "
+"と表示された対物レンズを選択することが重要です。これらのレンズは、3〜6種類の異なる波長の光を同一平面上に同時に結像できるように補正されています。一方、`Fluor`"
+" レンズでは、通常は同時に正確に結像できる色は2色程度です。"
 
 #: ../../02_Sample_acquisition/Practical_considerations.md:22
-msgid "Filter sets"
+msgid ""
+"Working distance: The working distance (WD) gives the distance in "
+"millimeters that the lens can focus into the sample. This distance includes "
+"the coverslip and mounting media as well. If imaging a thick sample, and/or "
+"if needing to image away from the surface of the sample, it is important to "
+"ensure the lens has a sufficient working distance."
 msgstr ""
+"作動距離：作動距離（working distance, "
+"WD）とは、対物レンズが試料内部に焦点を合わせることのできる距離をミリメートル単位で示したものです。この距離には、カバーガラスや封入剤の厚さも含まれます。厚い試料を観察する場合や、試料表面から離れた位置を撮像する必要がある場合には、対物レンズの作動距離が十分であることを確認することが重要です。"
 
 #: ../../02_Sample_acquisition/Practical_considerations.md:24
-msgid ""
-"It is important to make sure that the microscope that you want to image "
-"on has the correct filter sets for the fluorphores you wish to use. See "
-"the [section on bleedthrough](content/bleedthrough) for more information."
-msgstr ""
+msgid "Filter sets"
+msgstr "フィルターセット"
 
 #: ../../02_Sample_acquisition/Practical_considerations.md:26
-msgid "Z sampling"
+msgid ""
+"It is important to make sure that the microscope that you want to image on "
+"has the correct filter sets for the fluorphores you wish to use. See the "
+"[section on bleedthrough](content/bleedthrough) for more information."
 msgstr ""
+"使用予定の蛍光色素に適したフィルターセットが、撮像に用いる顕微鏡に備わっていることを確認することが重要です。詳しくは[ブリードスルー](content/bleedthrough)を参照ください。"
 
 #: ../../02_Sample_acquisition/Practical_considerations.md:28
-msgid ""
-"If you wish to capture multiple z sections, the spacing of these setions "
-"is important if you wish to be able to perform an accurate 3D "
-"reconstruction. SVI has a [fuller mathematical explanation of "
-"this](https://svi.nl/NyquistRate),as well as an easy-to-use [online "
-"calculator](https://svi.nl/NyquistCalculator) that you can use to "
-"calculate the optimal z section spacing for your imaging conditions."
-msgstr ""
+msgid "Z sampling"
+msgstr "Zサンプリング"
 
 #: ../../02_Sample_acquisition/Practical_considerations.md:30
-msgid "Acquisition power/speed"
+msgid ""
+"If you wish to capture multiple z sections, the spacing of these setions is "
+"important if you wish to be able to perform an accurate 3D reconstruction. "
+"SVI has a [fuller mathematical explanation of "
+"this](https://svi.nl/NyquistRate),as well as an easy-to-use [online "
+"calculator](https://svi.nl/NyquistCalculator) that you can use to calculate "
+"the optimal z section spacing for your imaging conditions."
 msgstr ""
+"複数のz平面を撮影する場合、正確な3次元再構成を行うためには、各断面の間隔が重要になります。SVI "
+"では　[これに関する数学的な詳しい説明](https://svi.nl/NyquistRate)と、撮像条件に基づいて最適なZ断面間隔を計算できる[オンライン計算ツール](https://svi.nl/NyquistCalculator)も公開しています。"
 
 #: ../../02_Sample_acquisition/Practical_considerations.md:32
+msgid "Acquisition power/speed"
+msgstr "励起光の強さと撮像速度"
+
+#: ../../02_Sample_acquisition/Practical_considerations.md:34
 msgid ""
-"The amount of signal captured from any fluorophore will be related not "
-"just to the intrinsic brightness of the fluorophore, but also the amount "
-"of excitation light it is exposed to (due to duration, power, or both) as"
-" well as amount of time and signal multiplication that happens at the "
-"detector (typically a camera or a photomultiplier tube (PMT)). An optimal"
-" experiment is typically one that minimizes the amount of light hitting "
-"the sample (to reduce photobleaching and/or phototoxicity) while "
-"acheiving adequate fluorescent signal and in minimal time on the "
-"equipment. How exactly to balance these competing factors will depend on "
-"the exact biology being studied and the researcher's constraints."
+"The amount of signal captured from any fluorophore will be related not just "
+"to the intrinsic brightness of the fluorophore, but also the amount of "
+"excitation light it is exposed to (due to duration, power, or both) as well "
+"as amount of time and signal multiplication that happens at the detector "
+"(typically a camera or a photomultiplier tube (PMT)). An optimal experiment "
+"is typically one that minimizes the amount of light hitting the sample (to "
+"reduce photobleaching and/or phototoxicity) while acheiving adequate "
+"fluorescent signal and in minimal time on the equipment. How exactly to "
+"balance these competing factors will depend on the exact biology being "
+"studied and the researcher's constraints."
 msgstr ""
+"蛍光色素から得られるシグナル量は、その色素自体の明るさだけでなく、照射される励起光の量（照射時間や出力、あるいはその両方）にも依存します。さらに、検出器（通常はカメラや光電子増倍管（PMT））での露光時間や信号増幅の程度も、最終的なシグナル強度に影響します。理想的な実験条件とは、試料に当たる光量をできるだけ抑え（褪色や光毒性を低減するため）、必要十分な蛍光シグナルを確保しつつ、装置の使用時間を最小限にとどめることです。これらの要素のバランスは、研究対象とする生物学的現象や、研究者が置かれた条件によって異なります。"
 
 #: ../../02_Sample_acquisition/Resources.md:1
 msgid "Resources for learning more"
-msgstr ""
+msgstr "より詳しく知るための参考資料"
 
 #: ../../02_Sample_acquisition/Resources.md:7
 msgid "**Resource Name**"
-msgstr ""
+msgstr "**リソース名**"
 
 #: ../../02_Sample_acquisition/Resources.md:8
 msgid "**Link**"
-msgstr ""
+msgstr "**リンク**"
 
 #: ../../02_Sample_acquisition/Resources.md:9
 msgid "**Brief description**"
-msgstr ""
+msgstr "**概要**"
 
 #: ../../02_Sample_acquisition/Resources.md:10
 msgid "🌐 Nikon MicroscopyU"
-msgstr ""
+msgstr "🌐 Nikon MicroscopyU"
 
 #: ../../02_Sample_acquisition/Resources.md:11
 msgid "[link](https://www.microscopyu.com/microscopy-basics)"
 msgstr ""
+"[link](https://www.microscopyu.com/microscopy-basics)\n"
+"[日本語版](https://www.microscopyu.com/ja)"
 
 #: ../../02_Sample_acquisition/Resources.md:12
 msgid ""
-"Fundamentals of microscopy explained for beginners with lots of images "
-"and plain language descriptions of terms used in microscopy"
-msgstr ""
+"Fundamentals of microscopy explained for beginners with lots of images and "
+"plain language descriptions of terms used in microscopy"
+msgstr "顕微鏡の基礎を豊富な図とわかりやすい用語解説で初学者向けに説明した資料"
 
 #: ../../02_Sample_acquisition/Resources.md:13
+msgid "🌐 Microtutor"
+msgstr "🌐 Microtutor"
+
+#: ../../02_Sample_acquisition/Resources.md:14
+msgid "[link](https://microtutor.globalbioimaging.org/)"
+msgstr "[link](https://microtutor.globalbioimaging.org/)"
+
+#: ../../02_Sample_acquisition/Resources.md:15
+msgid ""
+"A fantastic interactive course on fluorescence microscopy, created by the "
+"team at [Harvard CITE](https://cite.hms.harvard.edu/)"
+msgstr ""
+"[Harvard CITE](https://cite.hms.harvard.edu/) "
+"のチームが作成した、蛍光顕微鏡をインタラクティブに学べるコース"
+
+#: ../../02_Sample_acquisition/Resources.md:16
+msgid "🌐 MyScope"
+msgstr "🌐 MyScope"
+
+#: ../../02_Sample_acquisition/Resources.md:17
+msgid "[link](https://myscope.training/)"
+msgstr "[link](https://myscope.training/)"
+
+#: ../../02_Sample_acquisition/Resources.md:18
+msgid ""
+"An interactive microscope simulator and learning environment developed by "
+"MicroscopyAustralia, covering a number of types of microscopy."
+msgstr "MicroscopyAustralia による、さまざまな種類の顕微鏡を網羅したインタラクティブな顕微鏡シミュレーターと学習環境"
+
+#: ../../02_Sample_acquisition/Resources.md:19
+msgid "📖 Visualizing Cells Through Microscopy"
+msgstr "📖 Visualizing Cells Through Microscopy"
+
+#: ../../02_Sample_acquisition/Resources.md:20
+msgid ""
+"[link](https://open.oregonstate.education/cellbiology/chapter/microscopy/)"
+msgstr ""
+"[link](https://open.oregonstate.education/cellbiology/chapter/microscopy/)"
+
+#: ../../02_Sample_acquisition/Resources.md:21
+msgid ""
+"An open textbook chapter from the \"Fundamentals of Cell Biology\" book from"
+" Oregon State University, a great introductory guide to concepts in "
+"microscopy."
+msgstr ""
+"オレゴン州立大学による『Fundamentals of Cell "
+"Biology』に収録されたオープン教科書の章で、顕微鏡の基本概念を学ぶための入門ガイド"
+
+#: ../../02_Sample_acquisition/Resources.md:22
 msgid ""
 "📄 Seeing is believing? A beginners' guide to practical pitfalls in image "
 "acquisition {cite}`North2006-sb`"
 msgstr ""
+"📄 Seeing is believing? A beginners' guide to practical pitfalls in image "
+"acquisition {cite}`North2006-sb`"
 
-#: ../../02_Sample_acquisition/Resources.md:14
+#: ../../02_Sample_acquisition/Resources.md:23
 msgid "[link](https://doi.org/10.1083/jcb.200507103)"
-msgstr ""
+msgstr "[link](https://doi.org/10.1083/jcb.200507103)"
 
-#: ../../02_Sample_acquisition/Resources.md:15
+#: ../../02_Sample_acquisition/Resources.md:24
 msgid ""
-"An overview of common concerns to check for during sample preparation and"
-" image acquisition"
-msgstr ""
+"An overview of common concerns to check for during sample preparation and "
+"image acquisition"
+msgstr "試料調製と撮像時に留意すべき主なポイントの概要"
 
-#: ../../02_Sample_acquisition/Resources.md:16
+#: ../../02_Sample_acquisition/Resources.md:25
 msgid "📄 Fluorescence microscopy - avoiding the pitfalls {cite}`Brown2007-ou`"
 msgstr ""
+"📄 Fluorescence microscopy - avoiding the pitfalls {cite}`Brown2007-ou`"
 
-#: ../../02_Sample_acquisition/Resources.md:17
+#: ../../02_Sample_acquisition/Resources.md:26
 msgid ""
-"[link](https://journals.biologists.com/jcs/article/120/10/1703/29404"
-"/Fluorescence-microscopy-avoiding-the-pitfalls)"
+"[link](https://journals.biologists.com/jcs/article/120/10/1703/29404/Fluorescence-"
+"microscopy-avoiding-the-pitfalls)"
 msgstr ""
+"[link](https://journals.biologists.com/jcs/article/120/10/1703/29404/Fluorescence-"
+"microscopy-avoiding-the-pitfalls)"
 
-#: ../../02_Sample_acquisition/Resources.md:18
+#: ../../02_Sample_acquisition/Resources.md:27
 msgid ""
 "Short overview of some of the most common pitfalls for beginners to "
 "fluorescence microscopy"
-msgstr ""
+msgstr "蛍光顕微鏡初心者に多い典型的な注意点の概要"
 
-#: ../../02_Sample_acquisition/Resources.md:19
+#: ../../02_Sample_acquisition/Resources.md:28
 msgid ""
 "📄 Tutorial: guidance for quantitative confocal microscopy "
 "{cite}`Jonkman2020-bo`"
 msgstr ""
+"📄 Tutorial: guidance for quantitative confocal microscopy "
+"{cite}`Jonkman2020-bo`"
 
-#: ../../02_Sample_acquisition/Resources.md:20
+#: ../../02_Sample_acquisition/Resources.md:29
 msgid "[link](https://doi.org/10.1038/s41596-020-0313-9)"
-msgstr ""
+msgstr "[link](https://doi.org/10.1038/s41596-020-0313-9)"
 
-#: ../../02_Sample_acquisition/Resources.md:21
+#: ../../02_Sample_acquisition/Resources.md:30
 msgid ""
-"Step-by-step guidance on practical considerations for sample preparation,"
-" acquisition, and image analysis; primarily though not exclusively aimed "
-"at users of confocal microscopy"
+"Step-by-step guidance on practical considerations for sample preparation, "
+"acquisition, and image analysis; primarily though not exclusively aimed at "
+"users of confocal microscopy"
 msgstr ""
+"試料調製、撮像、画像解析に関する実践的な注意点を、手順に沿って解説したガイド。主に共焦点顕微鏡の利用者を対象としていますが、知見は他の顕微鏡での観察にも使えます。"
 
-#: ../../02_Sample_acquisition/Resources.md:22
+#: ../../02_Sample_acquisition/Resources.md:31
 msgid ""
 "📄 Best practices and tools for reporting reproducible fluorescence "
 "microscopy methods {cite}`Montero_Llopis2021-nb`"
 msgstr ""
+"📄 Best practices and tools for reporting reproducible fluorescence "
+"microscopy methods {cite}`Montero_Llopis2021-nb`"
 
-#: ../../02_Sample_acquisition/Resources.md:23
+#: ../../02_Sample_acquisition/Resources.md:32
 msgid "[link](https://www.nature.com/articles/s41592-021-01156-w)"
-msgstr ""
+msgstr "[link](https://www.nature.com/articles/s41592-021-01156-w)"
 
-#: ../../02_Sample_acquisition/Resources.md:24
+#: ../../02_Sample_acquisition/Resources.md:33
 msgid ""
 "Guidelines and resources for accurate reporting of the most common "
-"fluorescence light microscopy techniques, emphasizing the impact of "
-"accurate microscopy metadata on data interpretation.'"
+"fluorescence light microscopy techniques, emphasizing the impact of accurate"
+" microscopy metadata on data interpretation."
 msgstr ""
+"主要な蛍光光学顕微鏡法を正確に報告するためのガイドラインと関連リソース。特に、顕微鏡メタデータを正確に記録・報告することが、データ解釈に与える影響を強調しています。"
 
-#: ../../02_Sample_acquisition/Resources.md:25
+#: ../../02_Sample_acquisition/Resources.md:34
+msgid ""
+"📄 Believing is seeing - the deceptive influence of bias in quantitative "
+"microscopy{cite}`Lee2024-zu`"
+msgstr ""
+"📄 Believing is seeing - the deceptive influence of bias in quantitative "
+"microscopy{cite}`Lee2024-zu`"
+
+#: ../../02_Sample_acquisition/Resources.md:35
+msgid "[link](https://doi.org/10.1242/jcs.261567)"
+msgstr "[link](https://doi.org/10.1242/jcs.261567)"
+
+#: ../../02_Sample_acquisition/Resources.md:36
+msgid ""
+"Thoughtful review on technological and especially psychological factors that"
+" can lead to biased microscopy results"
+msgstr "顕微鏡結果にバイアスを生じさせる技術的・心理的要因を論じたレビュー"
+
+#: ../../02_Sample_acquisition/Resources.md:37
 msgid "🎥 iBiology Microscopy Short Course"
-msgstr ""
+msgstr "🎥 iBiology Microscopy Short Course"
 
-#: ../../02_Sample_acquisition/Resources.md:26
+#: ../../02_Sample_acquisition/Resources.md:38
 msgid ""
 "[link](https://www.youtube.com/watch?v=4c5ILWQmqRY&list=PLQFc-"
 "Dxlf4pSRaEk8Xi9BzS0r8-LYmwRQ)"
 msgstr ""
-
-#: ../../02_Sample_acquisition/Resources.md:27
-msgid ""
-"An 8 hour video series consisting of 14 videos introducting major "
-"concepts in microscopy. A longer course with >70 videos is also "
-"available."
-msgstr ""
-
-#: ../../02_Sample_acquisition/Resources.md:28
-msgid "🎥 Microcourses"
-msgstr ""
-
-#: ../../02_Sample_acquisition/Resources.md:29
-msgid "[link](https://www.youtube.com/@Microcourses)"
-msgstr ""
-
-#: ../../02_Sample_acquisition/Resources.md:30
-msgid ""
-"Videos about microscopy from the microscopy cores at Harvard Medical "
-"School"
-msgstr ""
-
-#: ../../02_Sample_acquisition/Resources.md:31
-msgid "🌐 Advanced Imaging Center"
-msgstr ""
-
-#: ../../02_Sample_acquisition/Resources.md:32
-msgid "[link](https://www.aicjanelia.org/apply)"
-msgstr ""
-
-#: ../../02_Sample_acquisition/Resources.md:33
-msgid "Access to the state of the art microscopy instruments and imaging experts"
-msgstr ""
-
-#: ../../02_Sample_acquisition/Resources.md:34
-msgid "🌐 Africa Microscopy Initiative"
-msgstr ""
-
-#: ../../02_Sample_acquisition/Resources.md:35
-msgid "[link](https://www.microscopy.africa/ )"
-msgstr ""
-
-#: ../../02_Sample_acquisition/Resources.md:36
-msgid ""
-"Access to advanced microscopes, molecular biology and cell culture "
-"equipment for scientists in Africa"
-msgstr ""
-
-#: ../../02_Sample_acquisition/Resources.md:37
-msgid "🌐 Euro-Bioimaging"
-msgstr ""
-
-#: ../../02_Sample_acquisition/Resources.md:38
-msgid "[link](https://www.eurobioimaging.eu)"
-msgstr ""
+"[link](https://www.youtube.com/watch?v=4c5ILWQmqRY&list=PLQFc-"
+"Dxlf4pSRaEk8Xi9BzS0r8-LYmwRQ)"
 
 #: ../../02_Sample_acquisition/Resources.md:39
+msgid ""
+"An 8 hour video series consisting of 14 videos introducting major concepts "
+"in microscopy. A longer course with >70 videos is also available."
+msgstr "顕微鏡の主要な概念を紹介する、全14本・計8時間のビデオシリーズ。70本以上の動画からなるより詳細なコースもあります。"
+
+#: ../../02_Sample_acquisition/Resources.md:40
+msgid "🎥 Microcourses"
+msgstr "🎥 Microcourses"
+
+#: ../../02_Sample_acquisition/Resources.md:41
+msgid "[link](https://www.youtube.com/@Microcourses)"
+msgstr "[link](https://www.youtube.com/@Microcourses)"
+
+#: ../../02_Sample_acquisition/Resources.md:42
+msgid ""
+"Videos about microscopy from the microscopy cores at Harvard Medical School"
+msgstr "ハーバード大学医学部の顕微鏡コアが提供する解説動画"
+
+#: ../../02_Sample_acquisition/Resources.md:43
+msgid "🌐 Advanced Imaging Center"
+msgstr "🌐 Advanced Imaging Center"
+
+#: ../../02_Sample_acquisition/Resources.md:44
+msgid "[link](https://www.aicjanelia.org/apply)"
+msgstr "[link](https://www.aicjanelia.org/apply)"
+
+#: ../../02_Sample_acquisition/Resources.md:45
+msgid ""
+"Access to the state of the art microscopy instruments and imaging experts"
+msgstr "最先端の顕微鏡機器およびイメージングの専門家が揃った施設"
+
+#: ../../02_Sample_acquisition/Resources.md:46
+msgid "🌐 Africa Microscopy Initiative"
+msgstr "🌐 Africa Microscopy Initiative"
+
+#: ../../02_Sample_acquisition/Resources.md:47
+msgid "[link](https://www.microscopy.africa/ )"
+msgstr "[link](https://www.microscopy.africa/ )"
+
+#: ../../02_Sample_acquisition/Resources.md:48
+msgid ""
+"Access to advanced microscopes, molecular biology and cell culture equipment"
+" for scientists in Africa"
+msgstr "アフリカの研究者向けに、先端的な顕微鏡装置や分子生物学・細胞培養機器へのアクセスを提供する取り組み"
+
+#: ../../02_Sample_acquisition/Resources.md:49
+msgid "🌐 Euro-Bioimaging"
+msgstr "🌐 Euro-Bioimaging"
+
+#: ../../02_Sample_acquisition/Resources.md:50
+msgid "[link](https://www.eurobioimaging.eu)"
+msgstr "[link](https://www.eurobioimaging.eu)"
+
+#: ../../02_Sample_acquisition/Resources.md:51
 msgid "Access to microcopy instruments and training for scientists in Europe"
-msgstr ""
+msgstr "ヨーロッパの研究者向けに、顕微鏡機器およびそのトレーニングを提供する取り組み"
 
 #: ../../02_Sample_acquisition/_notinyet_Setting_up.md:1
 msgid "Setting up your acquisition"
-msgstr ""
-
+msgstr "撮影の設定"
