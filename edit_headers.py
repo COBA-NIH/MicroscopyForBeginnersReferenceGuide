@@ -8,36 +8,42 @@ def edit_headers(target_language = "en"):
             "es":"español",
             "pt":"português",
             "cs":"česky",
+            "ja":"日本語",
         },      
         "Sample Preparation":{
             "en":"Sample Preparation",
             "es":"Preparación de la muestra",
             "pt":"Preparação da amostra",
             "cs":"Příprava vzorku",
+            "ja":"試料の調製",
         },
         "Sample Acquisition":{
             "en":"Sample Acquisition",
             "es":"Adquisición de muestras",
             "pt":"Aquisição da amostra",
             "cs":"Snímání vzorku",
+            "ja":"試料の撮影",
         },
         "Image Analysis and Data Handling":{
             "en":"Image Analysis and Data Handling",
             "es":"Análisis de Imágenes y Manejo de Datos",
             "pt":"Análise de imagens e tratamento de dados",
             "cs":"Analýza obrazu a práce s daty",
+            "ja":"画像解析とデータの取り扱い",
         },
         "Data Interpretation":{
             "en":"Data Interpretation",
             "es":"Interpretación de Datos",
             "pt":"Interpretação de dados",
             "cs":"Interpretace dat",
+            "ja":"データの解釈",
         },
         "Additional Resources":{
             "en":"Additional Resources",
             "es":"Recursos Adicionales",
             "pt":"Recursos Adicionais",
             "cs":"Další zdroje",
+            "ja":"追加のリソース",
         },
     }
     if target_language in translation_dict["Language Name"].keys():
