@@ -63,7 +63,7 @@ def edit_headers(target_language = "en"):
         if book_subfolder:
             toc_location = os.path.join(os.path.abspath(os.curdir),"book","_toc.yml")
         else:
-            toc_lcoation = os.path.join(os.path.abspath(os.curdir),"_toc.yml")
+            toc_location = os.path.join(os.path.abspath(os.curdir),"_toc.yml")
         
         with open(toc_location,"w") as toc:
             toc.writelines(newlines)
