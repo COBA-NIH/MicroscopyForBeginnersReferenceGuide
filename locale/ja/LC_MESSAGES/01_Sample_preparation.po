@@ -226,8 +226,8 @@ msgid ""
 " as multiphoton microscopy and is limited to the ability to access the "
 "specific organ, often through optical windows."
 msgstr ""
-"一部の生物は全体が薄く透明で、そのまま撮像可能です。あるいはゼブラフィッシュのように、胚の段階がほぼ透明な動物もいます。さらに、{term}`生体内イメージング`"
-" "
+"一部の生物は全体が薄く透明で、そのまま撮像可能です。あるいはゼブラフィッシュのように、胚の段階がほぼ透明な動物もいます。さらに、生体内イメージング "
+"{term}`intravital imaging` "
 "は、臓器を摘出したりサンプルを固定したりせずに、生きた動物の内部の細胞構造や生物学的プロセスをリアルタイムで撮像することです。一般に、多光子顕微鏡などの光の透過性が向上した特殊な機器や手法が必要であり、多くの場合は光学窓を通して特定の臓器にアクセスする機能に制限があります。"
 
 #: ../../01_Sample_preparation/Considerations.md:69
