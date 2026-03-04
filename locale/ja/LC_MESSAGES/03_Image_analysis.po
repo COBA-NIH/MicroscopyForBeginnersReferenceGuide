@@ -1203,7 +1203,8 @@ msgid ""
 "{term}`image processing`, {term}`segmentation`, tracking, making and "
 "interpreting measurements, tips and pitfalls"
 msgstr ""
-"バイオイメージ解析を紹介するビデオシリーズ。{term}`画像処理`、{term}`セグメンテーション`、トラッキング、測定の実施と解釈の概要、ヒントと注意点など。"
+"バイオイメージ解析を紹介するビデオシリーズ。画像処理 {term}`image processing`、セグメンテーション "
+"{term}`segmentation`、トラッキング、測定の実施と解釈の概要、ヒントと注意点など。"
 
 #: ../../03_Image_analysis/Resources.md:40
 msgid "🌐 Bioimage ANalysis Desktop (BAND)"
