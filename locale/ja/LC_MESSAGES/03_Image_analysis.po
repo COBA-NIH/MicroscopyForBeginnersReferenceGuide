@@ -1363,9 +1363,10 @@ msgid ""
 "{term}`ROIs` with **Analyze > Measure**. In CellProfiler, this is "
 "accomplished using the module MeasureObjectSizeShape."
 msgstr ""
-"異なるオブジェクトに属するピクセルを特定するために画像をセグメンテーションした後、FijiやCellProfilerなどの多くの画像解析ソフトウェアで形態を容易に測定できます。例えば、{term}`Fiji`では、オブジェクトを{term}ROIとして特定した後、**Analyze"
-" > Set Measurements…**で「Shape Descriptors」を選択し、**Analyze > Measure** "
-"で{term}`ROI`を測定します。CellProfilerでは、`MeasureObjectSizeShape`モジュールを使用してこれを実行します。"
+"異なるオブジェクトに属するピクセルを特定するために画像をセグメンテーションした後、FijiやCellProfilerなどの多くの画像解析ソフトウェアで形態を容易に測定できます。例えば、"
+" {term}`Fiji` では、オブジェクトを {term}`ROIs` として特定した後、**Analyze > Set "
+"Measurements…**で「Shape Descriptors」を選択し、**Analyze > Measure** で {term}`ROIs`"
+" を測定します。CellProfilerでは、`MeasureObjectSizeShape`モジュールを使用してこれを実行します。"
 
 #: ../../03_Image_analysis/Shape.md:25
 msgid ""
