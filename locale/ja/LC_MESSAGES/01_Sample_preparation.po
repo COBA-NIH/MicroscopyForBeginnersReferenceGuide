@@ -101,7 +101,7 @@ msgstr "細胞はオルガノイドや生体全体のようなより複雑な標
 #: ../../01_Sample_preparation/Considerations.md:55
 #: ../../01_Sample_preparation/Considerations.md:71
 msgid "_Disadvantages_"
-msgstr "_欠点_"
+msgstr "欠点"
 
 #: ../../01_Sample_preparation/Considerations.md:23
 msgid ""
