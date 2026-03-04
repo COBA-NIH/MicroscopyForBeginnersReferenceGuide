@@ -1622,8 +1622,8 @@ msgid ""
 "allows users to use trained models or train their own using their images and"
 " annotations."
 msgstr ""
-"[Cellpose](https://www.cellpose.org/){cite}`Stringer2021-uq` "
-"は{term}`セグメンテーション` "
+"[Cellpose](https://www.cellpose.org/){cite}`Stringer2021-uq` はセグメンテーション "
+"{term}`segmentation` "
 "アルゴリズムで、グラフィカルユーザーインターフェースから学習済みモデルを使用したり、自身の画像とアノテーションを使って独自のモデルをトレーニングしたりすることができます。"
 
 #: ../../03_Image_analysis/SpecificUseSoftware.md:0
