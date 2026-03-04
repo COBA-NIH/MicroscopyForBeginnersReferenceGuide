@@ -1691,8 +1691,9 @@ msgid ""
 "tracking, though with somewhat fewer tunable parameters than some other "
 "tools offer."
 msgstr ""
-"インスタンスセグメンテーション {term}`segmentation` "
-"とセマンティックセグメンテーションの両方に使用できます。セグメンテーションとトラッキングも実行できますが、他のツールと比べてチューニング可能なパラメータはやや少ないです。"
+"インスタンスセグメンテーション {term}`segmentation` とセマンティックセグメンテーション {term}`segmentation` "
+"の両方に使用できます。セグメンテーション {term}`segmentation` "
+"とトラッキングも実行できますが、他のツールと比べてチューニング可能なパラメータはやや少ないです。"
 
 #: ../../03_Image_analysis/SpecificUseSoftware.md:47
 msgid ""
