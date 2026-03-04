@@ -243,7 +243,8 @@ msgid ""
 "the imaging media and reduce absorption and scattering of light."
 msgstr ""
 "より厚い標本をイメージングする場合は、試料の屈折率 {term}`refractive index` "
-"とイメージング媒質の屈折率を一致させ、光の吸収と散乱を減らすために、サンプルの処理 ({term}`組織透明化`) が必要になる場合があります。"
+"とイメージング媒質の屈折率を一致させ、光の吸収と散乱を減らすために、サンプルの処理 (組織透明化 {term}`tissue clearing`) "
+"が必要になる場合があります。"
 
 #: ../../01_Sample_preparation/Considerations.md:75
 msgid ""
