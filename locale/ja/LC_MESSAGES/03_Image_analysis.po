@@ -1635,7 +1635,8 @@ msgid ""
 "Object {term}`segmentation`, most trained models are for cell "
 "{term}`segmentation` but could be applied to segment other similar objects"
 msgstr ""
-"オブジェクトの{term}`セグメンテーション`。学習済みモデルの多くは細胞の{term}`セグメンテーション`向けですが、他の類似オブジェクトのセグメンテーションにも応用可能です。"
+"オブジェクトのセグメンテーション {term}`segmentation`。学習済みモデルの多くは細胞のセグメンテーション "
+"{term}`segmentation` 向けですが、他の類似オブジェクトのセグメンテーションにも応用可能です。"
 
 #: ../../03_Image_analysis/SpecificUseSoftware.md:20
 msgid "Its use requires some computational knowledge."
