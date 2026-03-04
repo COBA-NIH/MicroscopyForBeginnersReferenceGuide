@@ -240,9 +240,10 @@ msgid ""
 "lens but also by the wavelength of light used for imaging."
 msgstr ""
 "倍率と分解能：対物レンズの開口数（numerical aperture, NA）が高いほど、試料からより高い分解能を得ることができます。NA は "
-"{math}`NA=RI * sin(θ)` で表され、試料やカバーガラス、浸液{term}`immersion media` "
-"の{term}`屈折率`と、レンズが集光できる光の入射角の範囲の両方に依存します。特別な手法を用いない場合、理論的な分解能の限界は {math}`d ="
-" λ / 2NA`で与えられます。これは、分解能が対物レンズの NA だけでなく、撮像に用いる光の波長にも依存することを意味します。"
+"{math}`NA=RI * sin(θ)` で表され、試料やカバーガラス、浸液   {term}`immersion media`の屈折率 "
+"{term}`refractive "
+"index`と、レンズが集光できる光の入射角の範囲の両方に依存します。特別な手法を用いない場合、理論的な分解能の限界は {math}`d = λ / "
+"2NA`で与えられます。これは、分解能が対物レンズの NA だけでなく、撮像に用いる光の波長にも依存することを意味します。"
 
 #: ../../02_Sample_acquisition/Practical_considerations.md:18
 msgid "microtubules imaged at 488nm and 647nm"
