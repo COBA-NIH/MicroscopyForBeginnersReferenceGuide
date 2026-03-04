@@ -48,7 +48,7 @@ msgstr "ようこそ"
 
 #: ../../welcome.md:3
 msgid "Welcome to the world of bioimaging and bioimage analysis! 🎉"
-msgstr "バイオイメージングとバイオ画像解析の世界へようこそ！🎉"
+msgstr "バイオイメージングとバイオイメージング解析の世界へようこそ！🎉"
 
 #: ../../welcome.md:11
 msgid "BBBC image montage"
