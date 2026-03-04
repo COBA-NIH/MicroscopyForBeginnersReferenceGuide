@@ -493,7 +493,10 @@ msgid ""
 "properties; it is important to use the correct mounting media for experiment"
 " planned."
 msgstr ""
-"試料を置く媒質の{term}`屈折率`、ガラスの屈折率、さらに対物レンズと試料の間にある媒質の屈折率は、達成できる分解能を左右する重要な要素です。{term}`封入剤`は、他にも光学的特性や実験条件に影響を与えるさまざまな性質を持っています。そのため、計画している実験に適した封入剤を選択することが重要です。"
+"試料を置く媒質の屈折率 {term}`refractive index` "
+"、ガラスの屈折率、さらに対物レンズと試料の間にある媒質の屈折率は、達成できる分解能を左右する重要な要素です。封入剤 {term}`mounting "
+"media` "
+"は、他にも光学的特性や実験条件に影響を与えるさまざまな性質を持っています。そのため、計画している実験に適した封入剤を選択することが重要です。"
 
 #: ../../01_Sample_preparation/Experimental_design.md:43
 msgid "effects of mounting media"
