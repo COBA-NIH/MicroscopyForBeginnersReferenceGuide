@@ -293,7 +293,7 @@ msgid ""
 "has the correct filter sets for the fluorphores you wish to use. See the "
 "[section on bleedthrough](content/bleedthrough) for more information."
 msgstr ""
-"使用予定の蛍光色素に適したフィルターセットが、撮像に用いる顕微鏡に備わっていることを確認することが重要です。詳しくは[ブリードスルー](content/bleedthrough)を参照ください。"
+"使用予定の蛍光色素に適したフィルターセットが、撮像に用いる顕微鏡に備わっていることを確認することが重要です。詳しくは[ブリードスルー](content/bleedthrough)の項を参照ください。"
 
 #: ../../02_Sample_acquisition/Practical_considerations.md:28
 msgid "Z sampling"
