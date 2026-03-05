@@ -70,8 +70,8 @@ msgid ""
 "**A brief visual summary of image presentation tips.** Figure by Helena "
 "Jambor. [Source](https://doi.org/10.5281/zenodo.7750259)"
 msgstr ""
-"**画像提示のポイント**\n"
-"図はHelena Jambor による [Source](https://doi.org/10.5281/zenodo.7750259)"
+"**画像提示のポイント** Helena Jambor による図  "
+"[Source](https://doi.org/10.5281/zenodo.7750259)"
 
 #: ../../04_Data_presentation/Presentation_images.md:0
 msgid "Adjust the image crop, orientation, and size."
