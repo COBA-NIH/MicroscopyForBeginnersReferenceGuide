@@ -1342,7 +1342,7 @@ msgid ""
 "circularity <1 is a more elongated polygon."
 msgstr ""
 "**円形度** circularity：オブジェクトがどれほど丸いか、または細長いかを示す指標です。正式には $円形度 = "
-"4pi*{面積}/{周囲長}^2$ と定義されます。ここで 1 は真円で0に近づくほどより細長い多角形であることを意味します。"
+"4\\pi*{面積}/{周囲長}^2$ と定義されます。ここで 1 は真円で0に近づくほどより細長い多角形であることを意味します。"
 
 #: ../../03_Image_analysis/Shape.md:14
 msgid ""
@@ -1350,7 +1350,7 @@ msgid ""
 "$solidity = area/convex area$ where _convex area_ is akin to the area inside"
 " a shape formed by stretching a rubber band around the object."
 msgstr ""
-"**充実度**：オブジェクトがどれほど密か、またはまばら・穴だらけかを表します。正式には$充実度 = "
+"**充実度** solidity：オブジェクトがどれほど密か、またはまばら・穴だらけかを表します。正式には$充実度 = "
 "面積/凸面積$と定義されます。ここで凸面積は、オブジェクトの周囲に輪ゴムを伸ばして形成された形の内側の面積のようなものです。"
 
 #: ../../03_Image_analysis/Shape.md:20
