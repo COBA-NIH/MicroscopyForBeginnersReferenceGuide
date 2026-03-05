@@ -263,7 +263,7 @@ msgstr "また、共局在は必ずしも相互作用を意味するわけでは
 msgid ""
 "As an example, it is possible for two people to work in the same building "
 "and never interact."
-msgstr "日常生活でも、同じ建物で働いている2人がまったく対話しないこともありえます。"
+msgstr "共局在していても相互作用のない例として、日常生活でも、同じ建物で働いている2人がまったく対話しないこともありえます。"
 
 #: ../../03_Image_analysis/Colocalization.md:21
 msgid "degrees of colocalization"
