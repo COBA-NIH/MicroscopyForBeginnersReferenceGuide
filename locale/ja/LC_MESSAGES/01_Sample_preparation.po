@@ -412,7 +412,8 @@ msgid ""
 "availability and suitability of particular microscopes; see [that "
 "section](content/microscope_selection) for more information."
 msgstr ""
-"したがって、ピペットやスライドを手に取る前に、自分の生物学的な問いについてあらゆる側面を十分に検討しておくことが_**きわめて重要**_です。試料調製に関する多くの判断は、利用可能な顕微鏡の種類や、その顕微鏡が目的に適しているかどうかと密接に関係しています。詳しくは[顕微鏡の選択](content/microscope_selection)のセクションを参照してください。"
+"したがって、ピペットやスライドを手に取る前に、自分の生物学的な問いについてあらゆる側面を十分に検討しておくことが _**きわめて重要**_  "
+"です。試料調製に関する多くの判断は、利用可能な顕微鏡の種類や、その顕微鏡が目的に適しているかどうかと密接に関係しています。詳しくは[顕微鏡の選択](content/microscope_selection)のセクションを参照してください。"
 
 #: ../../01_Sample_preparation/Experimental_design.md:11
 msgid "Mounting"
