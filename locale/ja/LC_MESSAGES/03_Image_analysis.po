@@ -92,7 +92,7 @@ msgid ""
 "novel results but may also be harder to interpret; see this "
 "protocol{cite}`GarciaFossaCruz2023` for more information."
 msgstr ""
-"例えば、大規模な細胞プロファイリング実験では、さまざまな処理条件における細胞について数百から数千の特徴量を測定します。その後、コンピュータに測定値の類似性に基づいて細胞をいくつかのグループにクラスタリングさせることができます。これは教師なしクラスタリングの一例であり、研究者が与えたクラスラベルではなく、測定値のみからどのようなグループが自然に現れるかを観察します。このようなクラスタリング解析は新しい知見をもたらす可能性がありますが、解釈が難しい場合もあります。詳しくは関連するプロトコール{cite}`GarciaFossaCruz2023`"
+"例えば、大規模な細胞プロファイリング実験では、さまざまな処理条件における細胞について数百から数千の特徴量を測定します。その後、コンピュータに測定値の類似性に基づいて細胞をいくつかのグループにクラスタリングさせることができます。これは教師なしクラスタリングの一例であり、研究者が与えたクラスラベルではなく、測定値のみからどのようなグループが自然に現れるかを観察します。このようなクラスタリング解析は新しい知見をもたらす可能性がありますが、解釈が難しい場合もあります。詳しくは関連するプロトコル{cite}`GarciaFossaCruz2023`"
 " を参照してください。"
 
 #: ../../03_Image_analysis/Classification.md:0
@@ -263,7 +263,7 @@ msgstr "また、共局在は必ずしも相互作用を意味するわけでは
 msgid ""
 "As an example, it is possible for two people to work in the same building "
 "and never interact."
-msgstr "日常生活でも、同じ建物で働いている2人がまったく対話しないこともありえます。"
+msgstr "共局在していても相互作用のない例として、日常生活でも、同じ建物で働いている2人がまったく対話しないこともありえます。"
 
 #: ../../03_Image_analysis/Colocalization.md:21
 msgid "degrees of colocalization"
@@ -386,7 +386,7 @@ msgid ""
 "analyses, we also present tips for measuring **colocalization**, **tracking "
 "objects**, and **classifying objects**."
 msgstr ""
-"本節では、一般的で有用性の高い画像解析手法について、その概要と実践上のポイントを説明します。まず、形態解析に関する二つの側面について述べます。**形態**"
+"本節では、一般的で有用性の高い画像解析手法について、その概要と実践上のポイントを説明します。まず、形態解析に関する二つの側面、すなわち形状と強度について述べます。**形態**"
 " morphology とは、オブジェクトの外観、形状、構造を研究する概念です。形態計測には、オブジェクトの "
 "**形状**（例：細胞面積）に基づく指標と、**強度**（例：GFP "
 "の平均輝度）に基づく指標が含まれます。**形状**ベース解析および**強度**ベース解析について説明した後、**共局在**、**オブジェクトトラッキング**、および**分類**の測定に関する実践的なポイントについても紹介します。"
@@ -434,7 +434,7 @@ msgid ""
 "**Options for storing bioimaging data** Figure by Beth Cimini (2023) "
 "[Source](https://doi.org/10.5281/zenodo.7628604)"
 msgstr ""
-"**Options for storing bioimaging data** Figure by Beth Cimini (2023) "
+"**バイオイメージングデータの保管方法の選択肢** Beth Ciminiによる図 (2023) "
 "[Source](https://doi.org/10.5281/zenodo.7628604)"
 
 #: ../../03_Image_analysis/Data_management.md:24
@@ -510,8 +510,7 @@ msgid ""
 "of analyses and/or images. For tools that specialize in certain analysis "
 "steps, see the [Specific Use Software](./SpecificUseSoftware.md) page."
 msgstr ""
-"本ページでは、多様な種類の解析や画像に対して比較的汎用的に利用できるものを中心に紹介しています。特定の解析工程に特化したツールについては、[Specific"
-" Use Software](./SpecificUseSoftware.md)ページを参照してください。"
+"本ページでは、多様な種類の解析や画像に対して比較的汎用的に利用できるものを中心に紹介しています。特定の解析工程に特化したツールについては、[特定の用途に使うソフトウェア](./SpecificUseSoftware.md)ページを参照してください。"
 
 #: ../../03_Image_analysis/GeneralUseSoftware.md:6
 msgid ""
@@ -1309,7 +1308,7 @@ msgstr "サイズの測定"
 msgid ""
 "Size measurements describe the dimensions of objects in your image. Common "
 "size measurements include:"
-msgstr "サイズ測定とは、画像内のオブジェクトの寸法を表します。一般的なサイズ測定には以下が含まれます。一般的なサイズ測定として、以下があります。"
+msgstr "サイズ測定とは、画像内のオブジェクトの寸法を表します。一般的なサイズ測定には以下のようなものがあります。"
 
 #: ../../03_Image_analysis/Shape.md:6
 msgid ""
@@ -1342,7 +1341,7 @@ msgid ""
 "circularity <1 is a more elongated polygon."
 msgstr ""
 "**円形度** circularity：オブジェクトがどれほど丸いか、または細長いかを示す指標です。正式には $円形度 = "
-"4pi*{面積}/{周囲長}^2$ と定義されます。ここで 1 は真円で0に近づくほどより細長い多角形であることを意味します。"
+"4\\pi*{面積}/{周囲長}^2$ と定義されます。ここで 1 は真円で0に近づくほどより細長い多角形であることを意味します。"
 
 #: ../../03_Image_analysis/Shape.md:14
 msgid ""
@@ -1350,7 +1349,7 @@ msgid ""
 "$solidity = area/convex area$ where _convex area_ is akin to the area inside"
 " a shape formed by stretching a rubber band around the object."
 msgstr ""
-"**充実度**：オブジェクトがどれほど密か、またはまばら・穴だらけかを表します。正式には$充実度 = "
+"**充実度** solidity：オブジェクトがどれほど密か、またはまばら・穴だらけかを表します。正式には$充実度 = "
 "面積/凸面積$と定義されます。ここで凸面積は、オブジェクトの周囲に輪ゴムを伸ばして形成された形の内側の面積のようなものです。"
 
 #: ../../03_Image_analysis/Shape.md:20
@@ -1604,8 +1603,7 @@ msgid ""
 "intended for a wide range of use cases. For tools with broader areas of "
 "focus, see the [General Use Software](./GeneralUseSoftware.md) page."
 msgstr ""
-"このページのツールは特定のタスクにおいて非常に優れていますが、幅広いユースケースを対象としたものではありません。より広い用途に対応したツールについては、[General"
-" Use Software](./GeneralUseSoftware.md)のページを参照してください。"
+"このページのツールは特定のタスクにおいて非常に優れていますが、幅広いユースケースを対象としたものではありません。より広い用途に対応したツールについては、[汎用ソフトウェア](./GeneralUseSoftware.md)のページを参照してください。"
 
 #: ../../03_Image_analysis/SpecificUseSoftware.md:6
 msgid ""
