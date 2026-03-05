@@ -79,7 +79,7 @@ msgstr ""
 "**広視野顕微鏡 widefield microscopy** "
 "は、単一の光路を通じて得られるすべての光を同時に取り込むタイプの顕微鏡です。落射蛍光顕微鏡 epifluorescence microscopy "
 "とも呼ばれます。この方式は必要なハードウェアが比較的単純であり、暗い試料を撮像する際に有利な場合があります。広視野顕微鏡で撮像した後には、画像のぼやけを低減するためにデコンボリューション"
-" {term}`deconvolution`処理を行うことがあります。"
+" {term}`deconvolution` 処理を行うことがあります。"
 
 #: ../../02_Sample_acquisition/Introduction.md:11
 msgid ""
