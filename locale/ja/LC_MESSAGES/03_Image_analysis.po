@@ -434,7 +434,7 @@ msgid ""
 "**Options for storing bioimaging data** Figure by Beth Cimini (2023) "
 "[Source](https://doi.org/10.5281/zenodo.7628604)"
 msgstr ""
-"**バイオイメージングデータの保管方法の選択肢** Figure by Beth Cimini (2023) "
+"**バイオイメージングデータの保管方法の選択肢** Beth Ciminiによる図 (2023) "
 "[Source](https://doi.org/10.5281/zenodo.7628604)"
 
 #: ../../03_Image_analysis/Data_management.md:24
