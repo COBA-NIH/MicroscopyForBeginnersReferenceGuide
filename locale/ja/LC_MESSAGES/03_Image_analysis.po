@@ -1309,7 +1309,7 @@ msgstr "サイズの測定"
 msgid ""
 "Size measurements describe the dimensions of objects in your image. Common "
 "size measurements include:"
-msgstr "サイズ測定とは、画像内のオブジェクトの寸法を表します。一般的なサイズ測定には以下が含まれます。一般的なサイズ測定として、以下があります。"
+msgstr "サイズ測定とは、画像内のオブジェクトの寸法を表します。一般的なサイズ測定には以下のようなものがあります。"
 
 #: ../../03_Image_analysis/Shape.md:6
 msgid ""
