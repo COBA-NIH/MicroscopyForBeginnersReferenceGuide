@@ -38,7 +38,7 @@ msgid ""
 "normal sera, gelatin, or albumin before immunostaining in order to "
 "\"occupy\" all the non-specific binding sites in the sample."
 msgstr ""
-"在免疫染色过程中，尽量减少一抗或二抗的非特异性结合至关重要。大多数情况下，这可以通过封闭来实现，通常是在免疫染色前加入正常血清、明胶或白蛋白等物质，以“占据”样本中所有非特异性结合位点。"
+"在免疫染色过程中，降低一抗或二抗的非特异性结合至关重要。在大多数情况下，这可以通过封闭步骤来实现。封闭通常是在免疫染色之前加入正常血清、明胶或白蛋白等物质，以“占据”样品中所有非特异性结合位点。"
 
 #: ../../Glossary.md:3
 msgid "Deconvolution"
