@@ -77,7 +77,9 @@ msgstr "Fiji：一款基于 ImageJ 的开源图像处理与分析软件，广泛
 msgid ""
 "[Fiji](https://imagej.net/software/fiji/) Is Just ImageJ. ImageJ2 plus a lot"
 " of common plugins."
-msgstr "[Fiji](https://imagej.net/software/fiji/) 就是 ImageJ。ImageJ2 加上许多常用插件。"
+msgstr ""
+"Fiji (https://imagej.net/software/fiji/) 是 “Fiji Is Just ImageJ” 的缩写，本质上是 "
+"ImageJ。它基于 ImageJ2，并预装了大量常用插件。"
 
 #: ../../Glossary.md:12
 msgid "Fixation"
