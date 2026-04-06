@@ -123,8 +123,9 @@ msgid ""
 " of the mounting media to minimize aberrations and improve image quality. "
 "Immersion media can be air, water, silicone oil, glycerol or oil."
 msgstr ""
-"浸没介质是填充物镜与玻璃盖玻片或样品之间间隙的介质。它会影响物镜的数值孔径（NA=RI * "
-"sin(θ)），从而影响横向和轴向分辨率。为了最大限度地减少像差并提高图像质量，浸没介质的折射率必须与封片剂的折射率相匹配。浸没介质可以是空气、水、硅油、甘油或油。"
+"浸液是填充在物镜与玻璃盖玻片或样品之间间隙中的介质。它会影响物镜的数值孔径（numerical aperture, NA)，其关系式为 NA = RI "
+"× sin(θ)，从而进一步影响横向和轴向分辨率。为尽量减少光学像差并提高图像质量，将浸液的折射率（RI）与封片介质（mounting "
+"media）的折射率相匹配至关重要。常见的浸液包括空气、水、硅油、甘油和浸油。"
 
 #: ../../Glossary.md:21
 msgid "Immunolabeling"
