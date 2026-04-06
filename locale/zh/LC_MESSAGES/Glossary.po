@@ -95,7 +95,7 @@ msgid ""
 "molecular structures within a sample, and needs to be optimized depending on"
 " the sample or structure that is being imaged."
 msgstr ""
-"标本固定是指稳定样本内的细胞/分子成分，同时终止样本内的所有生物功能。所用固定剂（例如，多聚甲醛、戊二醛、甲醇）、浓度和条件（例如，缓冲液、温度）决定了样本内细胞和/或分子结构的保存程度，需要根据待成像的样本或结构进行优化。"
+"样品固定（fixation）是指在终止样品中所有生物学活性的同时，对样品内的细胞和/或分子组分进行稳定和保存的过程。所使用的固定剂（如多聚甲醛、戊二醛、甲醇）、其浓度以及固定条件（如缓冲液、温度）共同决定了样品中细胞和/或分子结构的保存程度，并且需要根据所成像的样品类型或目标结构进行优化。"
 
 #: ../../Glossary.md:15
 msgid "Image processing"
