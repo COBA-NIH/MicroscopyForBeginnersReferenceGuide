@@ -28,7 +28,7 @@ msgstr "术语表"
 
 #: ../../Glossary.md:0
 msgid "Blocking"
-msgstr "阻塞"
+msgstr "封闭"
 
 #: ../../Glossary.md:5
 msgid ""
