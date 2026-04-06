@@ -159,7 +159,8 @@ msgid ""
 "windows. Intravital imaging is overseen by bioethical committees and needs "
 "to be approved by IACUC and/or other institutional committees."
 msgstr ""
-"它指的是在不取出器官或固定样本的情况下，对活体动物体内的细胞结构或生物过程进行实时成像。通常，它需要特定的仪器或具有更高光穿透力的技术，例如多光子显微镜，并且受限于能否进入特定器官，通常是通过光学窗口。活体成像受生物伦理委员会的监督，需要获得机构动物护理和使用委员会（IACUC）和/或其他机构委员会的批准。"
+"指在不取出器官或对样品进行固定的情况下，对活体动物体内的细胞结构或生物学过程进行实时成像。通常需要具备更强光穿透能力的专用仪器或成像方式，例如多光子显微镜，并且受限于对特定器官的可达性，往往需要借助光学窗口进行成像。活体成像实验需接受生物伦理委员会的监管，并必须获得"
+" IACUC 和/或其他相关机构委员会的批准。"
 
 #: ../../Glossary.md:27
 msgid "Mounting media"
