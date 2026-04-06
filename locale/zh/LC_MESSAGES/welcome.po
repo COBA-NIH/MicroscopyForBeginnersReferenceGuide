@@ -78,7 +78,7 @@ msgid ""
 "set of resources for biologists looking to understand the factors that "
 "impact their fluorescence microscopy experiments."
 msgstr ""
-"本书是我们的论文《生物学家规划和执行定量生物成像实验指南》（https://doi.org/10.1371/journal.pbio.3002167）的配套网站。我们的目标是为希望了解影响荧光显微镜实验因素的生物学家提供建议和精选资源。"
+"本书是我们论文《生物学家定量生物成像实验规划与实施指南》（https://doi.org/10.1371/journal.pbio.3002167）的配套网站。我们的目标是为希望理解影响其荧光显微镜实验因素的生物学家提供实践性建议以及精心整理的资源合集。"
 
 #: ../../welcome.md:17
 msgid ""
