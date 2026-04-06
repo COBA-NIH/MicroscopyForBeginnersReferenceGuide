@@ -142,7 +142,7 @@ msgstr "大多数章节将通过以下部分或全部问题，引导您了解各
 
 #: ../../welcome.md:49
 msgid "What is it?"
-msgstr "那是什么？"
+msgstr "这是什么？"
 
 #: ../../welcome.md:50
 msgid "What are my options?"
