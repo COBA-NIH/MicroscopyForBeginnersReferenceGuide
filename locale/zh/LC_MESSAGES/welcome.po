@@ -120,7 +120,8 @@ msgid ""
 "interpretation are massive topics that we can't exhaustively cover in a "
 "guide for beginners."
 msgstr ""
-"本书**并非**操作规程或分步指南，尽管我们链接的某些资源可能包含此类内容。从样品制备到数据解读，每个小节都涉及大量主题，我们无法在一本面向初学者的指南中面面俱到。"
+"本书并非一本实验操作规程或逐步操作指南，尽管我们所链接的部分资源可能属于此类。\n"
+"从样品制备到数据解读，各个分专题本身都是非常庞大的研究领域，无法在面向初学者的指南中进行全面涵盖。"
 
 #: ../../welcome.md:45
 msgid "How to use this book:"
