@@ -169,7 +169,7 @@ msgstr "各章节使用的具体问题和措辞可能会有所不同，但我们
 
 #: ../../welcome.md:57
 msgid "What if my resource/topic is not included?"
-msgstr "如果我的资源/主题没有被收录怎么办？"
+msgstr "如果我的资源或主题未被收录怎么办？"
 
 #: ../../welcome.md:58
 msgid ""
