@@ -71,7 +71,7 @@ msgstr ""
 
 #: ../../Glossary.md:9
 msgid "Fiji"
-msgstr "斐济"
+msgstr "Fiji：一款基于 ImageJ 的开源图像处理与分析软件，广泛用于生物成像和显微镜图像分析。"
 
 #: ../../Glossary.md:14
 msgid ""
