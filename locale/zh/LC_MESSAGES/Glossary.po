@@ -205,7 +205,9 @@ msgid ""
 "as these scavengers can affect the ATP and oxygen levels within the sample, "
 "compromising its health and therefore biological function."
 msgstr ""
-"氧气容易导致有机染料和其他荧光团发生光漂白。在成像介质中添加氧清除剂，例如葡萄糖氧化酶或吡喃糖-2-氧化酶，可以显著降低样品中荧光团的光漂白。需要注意的是，使用氧清除剂可能会影响活细胞成像，因为这些清除剂会影响样品中的ATP和氧气水平，从而损害细胞的健康状况和生物学功能。"
+"氧气往往会诱导有机染料及其他荧光团发生光漂白。在成像介质中加入氧清除剂（如葡萄糖氧化酶或吡喃糖 "
+"2‑氧化酶）可以显著降低样品中荧光团的光漂白程度。需要注意的是，氧清除剂的使用可能会影响活细胞成像，因为这些试剂可能改变样品中的 ATP "
+"水平和氧气浓度，从而损害细胞健康并影响其生物学功能。"
 
 #: ../../Glossary.md:36
 msgid "Permeabilization"
