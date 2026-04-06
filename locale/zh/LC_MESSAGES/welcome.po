@@ -52,7 +52,7 @@ msgstr "欢迎走进生物成像和生物图像分析的世界！🎉"
 
 #: ../../welcome.md:11
 msgid "BBBC image montage"
-msgstr "BBC图像蒙太奇"
+msgstr "BBBC 图像拼接"
 
 #: ../../welcome.md:11
 msgid ""
