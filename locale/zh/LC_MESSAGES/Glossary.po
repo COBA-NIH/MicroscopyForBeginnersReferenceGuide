@@ -112,7 +112,7 @@ msgstr ""
 
 #: ../../Glossary.md:18
 msgid "Immersion media"
-msgstr "沉浸式媒体"
+msgstr "浸液"
 
 #: ../../Glossary.md:23
 msgid ""
