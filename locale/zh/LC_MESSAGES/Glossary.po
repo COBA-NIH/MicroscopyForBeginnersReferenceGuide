@@ -50,7 +50,8 @@ msgid ""
 " the known optical properties of the light path to \"reassign\" pixel "
 "intensity away from where it hit the camera and back onto the structure that"
 " emitted the light."
-msgstr "通过计算方法，利用光路的已知光学特性，将像素强度从相机照射到的位置“重新分配”到发出光线的结构上，从而消除显微图像中的模糊。"
+msgstr ""
+"一种利用已知的光路光学特性，通过计算方法从显微镜图像中去除模糊的过程，其原理是将像素强度从其在相机上的成像位置“重新分配”回发射该光信号的实际结构上。"
 
 #: ../../Glossary.md:6
 msgid "Ex-Vivo imaging"
