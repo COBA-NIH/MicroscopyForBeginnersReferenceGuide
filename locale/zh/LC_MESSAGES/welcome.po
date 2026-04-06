@@ -132,7 +132,7 @@ msgid ""
 "Please select a section using the navigation panel on the left to get "
 "started or begin with sample preparation by clicking the \"Next\" button "
 "below ↘️."
-msgstr "请使用左侧的导航面板选择一个部分开始，或者点击下面的“下一步”按钮开始样品准备↘️。"
+msgstr "请通过左侧的导航栏选择一个章节以开始阅读，或点击下方的“下一步”按钮，从样品制备章节开始↘️。"
 
 #: ../../welcome.md:48
 msgid ""
