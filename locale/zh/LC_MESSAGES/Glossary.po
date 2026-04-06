@@ -142,8 +142,8 @@ msgid ""
 "Another good option is to use nano-bodies, which only have the heavy-chain "
 "and are significantly smaller than regular antibodies."
 msgstr ""
-"免疫标记是固定样品最常用的标记技术之一。您可以使用荧光标记的一抗来检测目标蛋白，或者采用两步标记法，先使用一抗，再使用荧光标记的二抗。一抗-"
-"二抗标记法通常可以增强信号。免疫标记的主要问题是抗体体积较大，需要进行大量的细胞膜通透处理。另一种不错的选择是使用纳米抗体，纳米抗体仅包含重链，体积远小于常规抗体。"
+"免疫标记（immunolabeling）是用于固定样品的最常见标记技术之一。可以使用与荧光染料偶联的一抗直接检测目标蛋白，或者采用两步标记策略，即先使用一抗，再使用与荧光染料偶联的二抗进行检测。一抗-"
+"二抗标记法通常可以增强信号。免疫标记的主要问题在于抗体分子体积较大，这通常需要较强的透化处理以保证其进入样品内部。另一种很好的替代方案是使用纳米抗体（nanobodies），它们仅包含重链结构，体积显著小于常规抗体。"
 
 #: ../../Glossary.md:24
 msgid "Intravital imaging"
