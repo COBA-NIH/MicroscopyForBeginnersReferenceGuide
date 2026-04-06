@@ -187,7 +187,9 @@ msgid ""
 "Is the image processing technique to detect objects within an image. It "
 "would not give you a mask of the objects but it could give you a bounding "
 "box, or and x,y position."
-msgstr "这是一种用于检测图像中物体的图像处理技术。它不会给出物体的掩膜，但可以给出物体的边界框或 x、y 坐标。"
+msgstr ""
+"一种用于在图像中检测目标的图像处理技术。该方法通常不会生成目标的像素级掩膜（mask），而是提供目标的边界框（bounding box）或其在图像中的 "
+"x、y 坐标位置。"
 
 #: ../../Glossary.md:33
 msgid "Oxygen scavengers"
