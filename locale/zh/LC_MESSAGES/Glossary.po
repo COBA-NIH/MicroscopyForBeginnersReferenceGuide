@@ -164,7 +164,7 @@ msgstr ""
 
 #: ../../Glossary.md:27
 msgid "Mounting media"
-msgstr "安装介质"
+msgstr "封片介质"
 
 #: ../../Glossary.md:32
 msgid ""
