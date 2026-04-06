@@ -138,7 +138,7 @@ msgstr "请通过左侧的导航栏选择一个章节以开始阅读，或点击
 msgid ""
 "Most sections will guide you through individual subtopics using some or all "
 "of the following list of questions:"
-msgstr "大多数章节将通过以下部分或全部问题 ，引导您了解各个子主题："
+msgstr "大多数章节将通过以下部分或全部问题，引导您了解各个子主题："
 
 #: ../../welcome.md:49
 msgid "What is it?"
