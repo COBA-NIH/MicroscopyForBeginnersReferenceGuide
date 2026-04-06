@@ -108,7 +108,7 @@ msgid ""
 " or more advanced (e.g. enhancing particular features of an image like "
 "circles or lines)."
 msgstr ""
-"图像处理是对图像执行的操作，可以生成另一幅图像。图像处理操作可以很简单（例如调整大小或旋转），也可以更高级（例如增强图像的特定特征，如圆形或线条）。"
+"指可作用于图像的一种操作，其结果是生成另一幅图像。图像处理操作既可以是简单的（例如图像缩放或旋转），也可以是较为复杂的（例如增强图像中特定特征，如圆形或线条）。"
 
 #: ../../Glossary.md:18
 msgid "Immersion media"
