@@ -165,7 +165,7 @@ msgid ""
 "Which questions are used and the exact phrasing may vary by section, but we "
 "hope this structure helps guide users to a deeper understanding of each "
 "subtopic."
-msgstr "各章节使用的具体问题和措辞可能会有所不同，但我们希望这种结构能够帮助用户更深入地了解每个子主题。"
+msgstr "各章节所采用的问题及其具体表述可能有所不同，但我们希望这种结构能够引导讀者更深入地理解每个子主题。"
 
 #: ../../welcome.md:57
 msgid "What if my resource/topic is not included?"
