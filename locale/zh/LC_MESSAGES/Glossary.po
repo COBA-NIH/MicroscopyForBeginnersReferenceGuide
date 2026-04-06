@@ -175,7 +175,8 @@ msgid ""
 "glass) and minimizing photobleaching (depending on the medium). Mounting "
 "media prevents the sample from drying out allowing long-term storage."
 msgstr ""
-"封片剂是用于固定（封片）样本的溶液。它的作用是保存样本（包括其中的荧光团），并通过缓冲pH值、使样本整体折射率一致（理想情况下与玻璃的折射率一致）以及最大限度地减少光漂白（取决于所用介质）来提高成像质量。封片剂可以防止样本干燥，从而实现长期保存。"
+"封片介质是用于放置（封片）样品的溶液。其作用是在成像过程中保存样品（包括其中的荧光团），并提升成像质量。这主要通过缓冲 pH "
+"值、在整个样品中匹配折射率（理想情况下与玻璃的折射率相匹配），以及在一定程度上减少光漂白（取决于具体介质）来实现。此外，封片介质还能防止样品干燥，从而适于样品的长期保存。"
 
 #: ../../Glossary.md:30
 msgid "Object detection"
