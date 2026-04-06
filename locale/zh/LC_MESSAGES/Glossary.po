@@ -222,7 +222,8 @@ msgid ""
 "antigen of interest, as it can result in a loss of cytoplasm or a "
 "degradation of the signal."
 msgstr ""
-"为了使免疫染色中使用的抗体或其他荧光染料能够穿透细胞或组织并与抗原结合，需要用温和的去污剂破坏细胞膜的完整性（形成孔隙）。由于去污步骤可能导致细胞质丢失或信号衰减，因此需要根据目标抗原仔细优化去污步骤。"
+"为使免疫染色过程中使用的抗体或其他荧光团能够进入细胞或组织内部并与其抗原结合，需要通过温和的去污剂破坏细胞膜的完整性（形成孔隙）。 "
+"透化步骤需要根据目标抗原进行仔细优化，因为过度透化可能导致细胞质流失或信号降解。"
 
 #: ../../Glossary.md:39
 msgid "Refractive index"
