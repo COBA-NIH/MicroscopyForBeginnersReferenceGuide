@@ -82,7 +82,7 @@ msgid ""
 " - [continuous optimization through multiple rounds of answering these "
 "questions](qb-decision-cycle) is typically needed for best results."
 msgstr ""
-"回答这些问题需要思考、专业知识，而且往往需要大量的反复试验；要应对生物成像实验中所有技术细节和注意事项，可能会让人感到不知所措。然而，这些问题**_是__能够得到解答的，尽管通常无法一次性解决——为了获得最佳结果，通常需要通过多轮解答这些问题进行持续优化。"
+"回答这些问题需要思考、专业知识，而且往往需要大量的反复试验；要应对生物成像实验中所有技术细节和注意事项，可能会让人感到不知所措。然而，这些问题是能够得到解答的，尽管通常无法一次性解决。为了获得最佳结果，通常需要通过多轮解答这些问题进行持续优化。"
 
 #: ../../QuantitativeBioimaging.md:16
 msgid ""
