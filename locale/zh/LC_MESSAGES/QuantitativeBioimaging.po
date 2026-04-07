@@ -44,7 +44,9 @@ msgid ""
 "relies on certain best practices being followed. If one can confidently say "
 "\"Yes\" to each of the following 4 questions, one is likely to be able to "
 "quantify their sample."
-msgstr "从这些实验中得出准确的定量答案取决于是否遵循某些最佳实践。如果能够自信地对以下四个问题都回答“是”，那么就很有可能能够对其样本进行量化。"
+msgstr ""
+" "
+"能否从这些实验中获得准确的定量结果，取决于是否遵循了一些关键的最佳实践。如果对以下四个问题都能够自信地回答“是”，那么通常就具备对样品进行定量分析的条件。"
 
 #: ../../QuantitativeBioimaging.md:9
 msgid ""
