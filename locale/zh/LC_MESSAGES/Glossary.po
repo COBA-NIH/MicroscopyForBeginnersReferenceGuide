@@ -239,9 +239,9 @@ msgid ""
 "MicroscopyU](https://www.microscopyu.com/microscopy-basics/refractive-index-"
 "index-of-refraction)"
 msgstr ""
-"  它是衡量光在特定介质中传播特性的一个参数。\n"
-"折射率在计算物镜的数值孔径时是一个重要的参数。理想情况下，应尽量减小样品（封片介质）、盖玻片和浸液之间的折射率不匹配，以提高成像质量。\n"
-"https://www.microscopyu.com/microscopy-basics/refractive-index-index-of-refraction"
+"折射率描述了光在某种介质中传播的方式，是计算物镜数值孔径的重要参数。为获得更好的成像质量，应尽量使样品的封片介质、盖玻片和浸液之间的折射率相匹配。 "
+"可在以下链接中查看折射率的交互式演示：https://www.microscopyu.com/microscopy-basics/refractive-"
+"index-index-of-refraction"
 
 #: ../../Glossary.md:42
 msgid "ROIs"
