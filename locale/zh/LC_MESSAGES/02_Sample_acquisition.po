@@ -86,7 +86,8 @@ msgid ""
 "microscopes are often preferred for live-cell imaging applications as they "
 "tend to minimize toxicity to the sample."
 msgstr ""
-"**共聚焦显微镜**—一种能够消除光路中离焦光线的显微镜，通常使用一个或多个针孔来物理阻挡这些光线。共聚焦显微镜有多种变体；转盘式共聚焦显微镜因其能最大程度地减少对样本的光毒性，常用于活细胞成像应用。"
+"**共聚焦显微镜 "
+"(Confocal)**—一种能够消除光路中离焦光线的显微镜，通常使用一个或多个针孔来物理阻挡这些光线。共聚焦显微镜有多种变体；转盘式共聚焦显微镜因其能最大程度地减少对样本的光毒性，常用于活细胞成像应用。"
 
 #: ../../02_Sample_acquisition/Introduction.md:12
 msgid ""
