@@ -110,8 +110,9 @@ msgid ""
 "achieved with specialized hardware (such as in STED and SIM) and sometimes "
 "with specialized probes (such as in PALM and STORM)."
 msgstr ""
-"**超分辨率**显微镜旨在使用户能够突破最小光学分辨率限制（通常为 200 nm，具体取决于样品），从而分辨非常小的结构。有时，这是通过专用硬件（例如 "
-"STED 和 SIM）实现的，有时则通过专用探针（例如 PALM 和 STORM）实现的。"
+"**超分辨率 (Superresolution) **显微镜旨在使用户能够突破最小光学分辨率限制（通常为 200 "
+"nm，具体取决于样品），从而分辨非常小的结构。有时，这是通过专用硬件（例如 STED 和 SIM）实现的，有时则通过专用探针（例如 PALM 和 "
+"STORM）实现的。"
 
 #: ../../02_Sample_acquisition/Introduction.md:14
 msgid ""
