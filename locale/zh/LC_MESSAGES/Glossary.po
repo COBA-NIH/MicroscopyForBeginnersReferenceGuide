@@ -245,7 +245,7 @@ msgstr ""
 
 #: ../../Glossary.md:42
 msgid "ROIs"
-msgstr "投资回报率"
+msgstr "感兴趣区域"
 
 #: ../../Glossary.md:47
 msgid ""
