@@ -99,7 +99,8 @@ msgid ""
 " do. Because the benefit of these systems is in their deeper penetration, "
 "they are often used for performing live-animal imaging."
 msgstr ""
-"多光子显微镜利用多束长波长（低能量）光脉冲穿透组织深处，因为组织对这些波长的光散射能力较弱；一旦穿透到组织内部，多个低能量光子同时照射到荧光团上，它们会利用自身的能量激活荧光团，而单个光子的能量不足以激活该荧光团。由于这些系统的优势在于其更深的穿透深度，因此它们常用于活体动物成像。"
+"多光子显微镜 (Multiphoton) "
+"利用多束长波长（低能量）光脉冲穿透组织深处，因为组织对这些波长的光散射能力较弱；一旦穿透到组织内部，多个低能量光子同时照射到荧光团上，它们会利用自身的能量激活荧光团，而单个光子的能量不足以激活该荧光团。由于这些系统的优势在于其更深的穿透深度，因此它们常用于活体动物成像。"
 
 #: ../../02_Sample_acquisition/Introduction.md:13
 msgid ""
