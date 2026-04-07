@@ -282,7 +282,7 @@ msgid ""
 "biology might be detecting all the cells on an image and classifying them as"
 " dividing vs not."
 msgstr ""
-"全景分割可以定义为前两种方法的结合，因为它不仅能识别目标，还能对其进行分类。生物学中的一个例子是检测图像中的所有细胞，并将它们分类为正在分裂或未分裂的细胞。"
+"全景分割是一种将目标检测/实例分割与分类相结合的方法，不仅区分并分割出图像中的每个对象，还会为每个对象赋予类别标签。例如，在生物图像中，可以先识别所有细胞，再将其区分为正在分裂的细胞和未分裂的细胞。"
 
 #: ../../Glossary.md:51
 msgid "Thresholding"
