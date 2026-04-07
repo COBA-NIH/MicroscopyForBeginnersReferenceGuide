@@ -34,8 +34,7 @@ msgid ""
 "different optical components and devices. As a beginner, it is important to "
 "recognize the experimental parameters that can affect the quality and rigor "
 "of the imaging data, and by extension, its interpretation."
-msgstr ""
-"显微镜是光学仪器，因此由不同的光学元件和装置组成。作为初学者，了解可能影响成像数据质量和可靠性的实验参数至关重要，进而也会影响对数据的解读。"
+msgstr "显微镜是不同光学元件和装置组成的光学仪器。作为初学者，了解可能影响成像数据质量和可靠性的实验参数至关重要，进而也会影响对数据的解读。"
 
 #: ../../02_Sample_acquisition/Introduction.md:5
 msgid ""
