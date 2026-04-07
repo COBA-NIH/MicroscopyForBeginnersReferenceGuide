@@ -5,6 +5,7 @@
 # 
 # Translators:
 # Beth Cimini, 2025
+# Li-Jiun Chen, 2026
 # 
 #, fuzzy
 msgid ""
@@ -13,7 +14,7 @@ msgstr ""
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2025-05-23 21:07+0000\n"
 "PO-Revision-Date: 2023-05-02 18:49+0000\n"
-"Last-Translator: Beth Cimini, 2025\n"
+"Last-Translator: Li-Jiun Chen, 2026\n"
 "Language-Team: Chinese (https://app.transifex.com/center-for-open-bioimage-analysis/teams/169123/zh/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -25,7 +26,7 @@ msgstr ""
 #: ../../02_Sample_acquisition/Picking.md:3
 #: ../../02_Sample_acquisition/_notinyet_Setting_up.md:3
 msgid "Introduction"
-msgstr "介绍"
+msgstr "引言"
 
 #: ../../02_Sample_acquisition/Introduction.md:3
 msgid ""
