@@ -57,9 +57,10 @@ msgid ""
 "Education](https://www.bioimagingnorthamerica.org/te-wg/) Working Groups) "
 "for both initial and ongoing support of this project."
 msgstr ""
-"本项目由[开放生物图像分析中心](https://openbioimageanalysis.org/)发起。我们衷心感谢[北美生物成像协会](https://www.bioimagingnorthamerica.org/)（特别是其[图像信息学](https://www.bioimagingnorthamerica.org/image-"
-"informatics-wg/)和[培训与教育](https://www.bioimagingnorthamerica.org/te-"
-"wg/)工作组）对本项目的初期和持续支持。"
+"本项目由开放生物图像分析中心（Center for Open Bioimage "
+"Analysis）发起。我们衷心感谢北美生物成像组织（Bioimaging North "
+"America）对本项目在启动阶段及持续推进过程中所给予的支持，尤其感谢其图像信息学工作组（Image Informatics Working "
+"Group）和培训与教育工作组（Training and Education Working Group）。"
 
 #: ../../contributors.md:9
 msgid ""
