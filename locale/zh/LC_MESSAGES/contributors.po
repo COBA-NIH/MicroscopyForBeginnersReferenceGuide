@@ -98,8 +98,9 @@ msgid ""
 " or pull request to contribute! We hope for this to be a living document "
 "reflecting the best practices and resources available."
 msgstr ""
-"欢迎您提交[issue](https://github.com/broadinstitute/MicroscopyForBeginnersReferenceGuide/issues)或pull"
-" request来贡献代码！我们希望这份文档能够不断更新，反映最佳实践和可用资源。"
+"欢迎随时通过提交 issue "
+"(https://github.com/broadinstitute/MicroscopyForBeginnersReferenceGuide/issues)"
+" 或 pull request 参与贡献！我们希望本指南能够作为一份持续更新的“活文档”，反映当前可获得的最佳实践和优质资源。"
 
 #: ../../contributors.md:20
 msgid ""
