@@ -156,7 +156,9 @@ msgid ""
 "tutorial](https://doi.org/10.1038/s41596-020-0313-9){cite}`Jonkman2020-bo`."
 msgstr ""
 "选择合适的显微镜进行实验，既取决于实验的具体要求，也取决于研究人员能够获得的资源。下图（来自 Jermey Sanderson "
-"的《显微镜学基础》）展示了选择显微镜时应考虑的因素；关于各种显微镜优缺点的更详细描述，请参阅这篇教程：[本教程](https://doi.org/10.1038/s41596-020-0313-9)。"
+"的《显微镜学基础》）(http://dx.doi.org/10.1002/cpmo.76) {cite}`Sanderson2020-qz`) "
+"展示了选择显微镜时应考虑的因素；关于各种显微镜优缺点的更详细描述，请参阅这篇教程：[本教程](https://doi.org/10.1038/s41596-020-0313-9)"
+" {cite}`Jonkman2020-bo`.。"
 
 #: ../../02_Sample_acquisition/Picking.md:14
 msgid "BBBC image montage"
