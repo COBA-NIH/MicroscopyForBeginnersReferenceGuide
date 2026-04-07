@@ -109,9 +109,9 @@ msgid ""
 " for contributions, though note these may be responded to more slowly than "
 "direct contributions to the GitHub repository."
 msgstr ""
-"我们目前还提供 [Google "
-"表单](https://docs.google.com/forms/d/e/1FAIpQLScWQbemviI2OkvVkeTKUOozAzKNndcZpXIB_nE0qFMl72lqvQ/viewform)"
-" 供大家贡献，但请注意，这些表单的回复速度可能比直接向 GitHub 存储库贡献要慢。"
+"目前我们也提供了一个 Google "
+"表单用于接收贡献内容(https://docs.google.com/forms/d/e/1FAIpQLScWQbemviI2OkvVkeTKUOozAzKNndcZpXIB_nE0qFMl72lqvQ/viewform)"
+" . 但请注意，这些表单的回复速度可能比直接向 GitHub 存储库贡献要慢。"
 
 #: ../../contributors.md:23
 msgid "Translation"
