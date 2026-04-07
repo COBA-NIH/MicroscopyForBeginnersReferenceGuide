@@ -267,7 +267,7 @@ msgstr "将图像分割成多个部分或区域的方法。分割有三种不同
 msgid ""
 "Semantic segmentation, where all parts of an image are part of a class, "
 "common in cell biology will be detecting cells and background on an image."
-msgstr "语义分割是指将图像的所有部分都归为某一类，在细胞生物学中很常见，例如检测图像中的细胞和背景。"
+msgstr "语义分割是一种图像分割方法，用于将图像中的每个像素分配到一个语义类别中，但不区分同一类别中的不同对象实例。"
 
 #: ../../Glossary.md:52
 msgid ""
