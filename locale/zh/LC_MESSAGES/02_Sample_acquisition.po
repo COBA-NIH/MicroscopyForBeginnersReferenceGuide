@@ -74,7 +74,9 @@ msgid ""
 "imaging dim samples. {term}`Deconvolution` is sometimes performed after "
 "imaging on a widefield microscope to remove blur."
 msgstr ""
-"**宽场显微镜**，有时也称为落射荧光显微镜，它通过单一光路接收所有可用的光线；这种方法所需的硬件最简单，并且在对暗弱样品成像时通常具有优势。{term}`反卷积`有时会在宽场显微镜成像后进行，以消除图像模糊。"
+"宽场显微镜（Widefield），有时也称为 表面照明（epifluorescence） "
+"显微镜，其特点是通过单一光路收集所有可获取的信号光。这种成像方式所需的硬件最为简单，并且在对弱信号样品进行成像时通常具有优势。在使用宽场显微镜成像后，有时会进行"
+" {term}反卷积（Deconvolution） 处理，以去除由离焦光引起的图像模糊。"
 
 #: ../../02_Sample_acquisition/Introduction.md:11
 msgid ""
