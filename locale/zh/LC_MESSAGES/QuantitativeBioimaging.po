@@ -52,13 +52,13 @@ msgstr ""
 msgid ""
 "Have I prepared my sample in a way that minimizes technical artifacts and "
 "lets me understand exactly which molecule(s) I am observing?"
-msgstr "我是否以最大程度减少技术误差并让我准确了解我观察到的分子的方式制备了我的样品？"
+msgstr "我是否以一种能够最大限度减少技术性伪影，并让我清楚了解自己正在观察的是哪些分子的方式来制备样品？"
 
 #: ../../QuantitativeBioimaging.md:10
 msgid ""
 "Have I conducted my microscopy so that I minimize technical artifacts and am"
 " in the quantitative range of the detector attached to my microscope?"
-msgstr "我进行显微镜观察时，是否尽量减少了技术误差，并且观察范围在显微镜探测器的定量范围内？"
+msgstr "我进行显微镜观察时，是否尽量减少技术误差，并确保成像信号处于显微镜探测器的定量线性范围内？"
 
 #: ../../QuantitativeBioimaging.md:11
 msgid ""
