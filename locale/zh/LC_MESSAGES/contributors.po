@@ -24,7 +24,7 @@ msgstr ""
 
 #: ../../contributors.md:1
 msgid "Contributing to this guide"
-msgstr "为本指南做出贡献"
+msgstr "参与本指南的编写"
 
 #: ../../contributors.md:3
 msgid "Contributors"
