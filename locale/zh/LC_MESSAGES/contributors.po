@@ -5,6 +5,7 @@
 # 
 # Translators:
 # Beth Cimini, 2026
+# Li-Jiun Chen, 2026
 # 
 #, fuzzy
 msgid ""
@@ -13,7 +14,7 @@ msgstr ""
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2026-03-02 13:46+0000\n"
 "PO-Revision-Date: 2023-05-02 18:49+0000\n"
-"Last-Translator: Beth Cimini, 2026\n"
+"Last-Translator: Li-Jiun Chen, 2026\n"
 "Language-Team: Chinese (https://app.transifex.com/center-for-open-bioimage-analysis/teams/169123/zh/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -87,7 +88,7 @@ msgstr "皮特·班克黑德"
 
 #: ../../contributors.md:16
 msgid "How can I become a contributor?"
-msgstr "我如何才能成为投稿人？"
+msgstr "如何参与贡献？"
 
 #: ../../contributors.md:18
 msgid ""
