@@ -160,7 +160,7 @@ msgstr ""
 
 #: ../../02_Sample_acquisition/Picking.md:14
 msgid "BBBC image montage"
-msgstr "BBC图像蒙太奇"
+msgstr "BBBC 图像拼接"
 
 #: ../../02_Sample_acquisition/Picking.md:14
 msgid ""
