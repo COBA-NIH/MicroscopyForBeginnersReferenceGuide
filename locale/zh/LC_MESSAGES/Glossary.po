@@ -251,7 +251,7 @@ msgstr "感兴趣区域"
 msgid ""
 "Regions Of Interest. Pixels in your image that you care about (e.g., a "
 "region in tissue, a cell, a tumor, etc.)"
-msgstr "感兴趣区域。图像中您关注的像素（例如，组织中的某个区域、某个细胞、某个肿瘤等）。"
+msgstr "  图像中你感兴趣的像素区域（例如，组织中的某个区域、某个细胞、某个肿瘤等）。"
 
 #: ../../Glossary.md:45
 msgid "Segmentation"
