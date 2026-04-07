@@ -5,6 +5,7 @@
 # 
 # Translators:
 # Beth Cimini, 2025
+# Li-Jiun Chen, 2026
 # 
 #, fuzzy
 msgid ""
@@ -13,7 +14,7 @@ msgstr ""
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-03-29 09:37-0400\n"
 "PO-Revision-Date: 2023-05-02 18:49+0000\n"
-"Last-Translator: Beth Cimini, 2025\n"
+"Last-Translator: Li-Jiun Chen, 2026\n"
 "Language-Team: Chinese (https://app.transifex.com/center-for-open-bioimage-analysis/teams/169123/zh/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -34,7 +35,8 @@ msgid ""
 "While microscopy was by necessity a qualitative science for most of its "
 "history, we now live in an era where microscope images can be used to "
 "precisely quantify observable phenotypes."
-msgstr "虽然显微镜技术在其发展的大部分历史时期都必然是一门定性科学，但我们现在生活在一个显微镜图像可以用来精确量化可观察表型的时代。"
+msgstr ""
+"在显微学发展的绝大多数历史时期，由于技术所限，它主要是一门定性科学；而如今，我们已进入一个可以利用显微镜图像对可观察到的表型进行精确定量的时代"
 
 #: ../../QuantitativeBioimaging.md:7
 msgid ""
