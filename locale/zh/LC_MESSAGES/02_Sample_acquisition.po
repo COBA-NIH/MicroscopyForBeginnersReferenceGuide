@@ -122,7 +122,8 @@ msgid ""
 "more considerations around sample mounting. Many variations on light sheet "
 "microscopes have emerged in recent years."
 msgstr ""
-"**光片显微镜**通过垂直于成像轴的方向照射样品，通常使用第二组正交物镜。这种显微镜可以对大体积样品进行薄层光学切片，但也对样品安装提出了更多要求。近年来，光片显微镜衍生出了许多不同的型号。"
+"**光片显微镜 (Light sheet) "
+"**通过垂直于成像轴的方向照射样品，通常使用第二组正交物镜。这种显微镜可以对大体积样品进行薄层光学切片，但也对样品装载方式提出了更多要求。近年来，光片显微镜衍生出了许多不同的型号。"
 
 #: ../../02_Sample_acquisition/Introduction.md:17
 msgid ""
