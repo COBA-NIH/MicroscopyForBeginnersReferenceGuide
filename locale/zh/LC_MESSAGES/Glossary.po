@@ -273,7 +273,7 @@ msgstr "语义分割是指将图像的所有部分都归为某一类，在细胞
 msgid ""
 "Instance segmentation, the segmentation is object based, not just detecting "
 "were the cells are but diving each cell as a separate object."
-msgstr "实例分割，分割是基于对象的，不仅检测细胞的位置，而且将每个细胞划分为一个单独的对象。"
+msgstr "实例分割是一种基于对象的分割方法，不仅能够检测细胞的位置，还可以将每个细胞划分为一个独立的对象。"
 
 #: ../../Glossary.md:53
 msgid ""
