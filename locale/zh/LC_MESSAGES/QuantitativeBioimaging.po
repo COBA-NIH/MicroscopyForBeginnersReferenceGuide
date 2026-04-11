@@ -5,6 +5,7 @@
 # 
 # Translators:
 # Beth Cimini, 2025
+# Li-Jiun Chen, 2026
 # 
 #, fuzzy
 msgid ""
@@ -13,7 +14,7 @@ msgstr ""
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-03-29 09:37-0400\n"
 "PO-Revision-Date: 2023-05-02 18:49+0000\n"
-"Last-Translator: Beth Cimini, 2025\n"
+"Last-Translator: Li-Jiun Chen, 2026\n"
 "Language-Team: Chinese (https://app.transifex.com/center-for-open-bioimage-analysis/teams/169123/zh/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -34,7 +35,8 @@ msgid ""
 "While microscopy was by necessity a qualitative science for most of its "
 "history, we now live in an era where microscope images can be used to "
 "precisely quantify observable phenotypes."
-msgstr "虽然显微镜技术在其发展的大部分历史时期都必然是一门定性科学，但我们现在生活在一个显微镜图像可以用来精确量化可观察表型的时代。"
+msgstr ""
+"在显微学发展的绝大多数历史时期，由于技术所限，它主要是一门定性科学；而如今，我们已进入一个可以利用显微镜图像对可观察到的表型进行精确定量的时代"
 
 #: ../../QuantitativeBioimaging.md:7
 msgid ""
@@ -42,19 +44,21 @@ msgid ""
 "relies on certain best practices being followed. If one can confidently say "
 "\"Yes\" to each of the following 4 questions, one is likely to be able to "
 "quantify their sample."
-msgstr "从这些实验中得出准确的定量答案取决于是否遵循某些最佳实践。如果能够自信地对以下四个问题都回答“是”，那么就很有可能能够对其样本进行量化。"
+msgstr ""
+" "
+"能否从这些实验中获得准确的定量结果，取决于是否遵循了一些关键的最佳实践。如果对以下四个问题都能够自信地回答“是”，那么通常就具备对样品进行定量分析的条件。"
 
 #: ../../QuantitativeBioimaging.md:9
 msgid ""
 "Have I prepared my sample in a way that minimizes technical artifacts and "
 "lets me understand exactly which molecule(s) I am observing?"
-msgstr "我是否以最大程度减少技术误差并让我准确了解我观察到的分子的方式制备了我的样品？"
+msgstr "我是否以一种能够最大限度减少技术性伪影，并让我清楚了解自己正在观察的是哪些分子的方式来制备样品？"
 
 #: ../../QuantitativeBioimaging.md:10
 msgid ""
 "Have I conducted my microscopy so that I minimize technical artifacts and am"
 " in the quantitative range of the detector attached to my microscope?"
-msgstr "我进行显微镜观察时，是否尽量减少了技术误差，并且观察范围在显微镜探测器的定量范围内？"
+msgstr "我进行显微镜观察时，是否尽量减少技术误差，并确保成像信号处于显微镜探测器的定量线性范围内？"
 
 #: ../../QuantitativeBioimaging.md:11
 msgid ""
@@ -78,7 +82,7 @@ msgid ""
 " - [continuous optimization through multiple rounds of answering these "
 "questions](qb-decision-cycle) is typically needed for best results."
 msgstr ""
-"回答这些问题需要思考、专业知识，而且往往需要大量的反复试验；要应对生物成像实验中所有技术细节和注意事项，可能会让人感到不知所措。然而，这些问题**_是__能够得到解答的，尽管通常无法一次性解决——为了获得最佳结果，通常需要通过多轮解答这些问题进行持续优化。"
+"回答这些问题需要思考、专业知识，而且往往需要大量的反复试验；要应对生物成像实验中所有技术细节和注意事项，可能会让人感到不知所措。然而，这些问题是能够得到解答的，尽管通常无法一次性解决。为了获得最佳结果，通常需要通过多轮解答这些问题进行持续优化。"
 
 #: ../../QuantitativeBioimaging.md:16
 msgid ""
@@ -98,5 +102,5 @@ msgid ""
 "planning and performing quantitative bioimaging "
 "experiments_**](https://doi.org/10.1371/journal.pbio.3002167)."
 msgstr ""
-"**定量生物成像的决策周期 {cite}`Senft2023-zy`** 摘自 Senft 和 Diaz-Rohrer "
-"等人，[**_生物学家规划和执行定量生物成像实验指南_**](https://doi.org/10.1371/journal.pbio.3002167)。"
+"定量生物成像的决策循环 (Senft2023)。转载自 Senft 和 Diaz‑Rohrer 等人撰写的《生物学家定量生物成像实验规划与实施指南》 "
+"(https://doi.org/10.1371/journal.pbio.3002167)。"
