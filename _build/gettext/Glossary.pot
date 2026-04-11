@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Python \n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2024-03-29 09:37-0400\n"
+"POT-Creation-Date: 2026-04-11 14:17+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -129,7 +129,7 @@ msgid "Refractive index"
 msgstr ""
 
 #: ../../Glossary.md:44
-msgid "It's a measure of how light travels through a specific medium. It is an important value when calculating the numerical aperture of an objective, Ideally, a mismatch in refractive index between the sample (mounting medium), the coverslip and immersion media should be minimized in order to enhance the image quality. [See an interactive demo of refactive index at MicroscopyU](https://www.microscopyu.com/microscopy-basics/refractive-index-index-of-refraction)"
+msgid "It's a measure of how light travels through a specific medium. It is an important value when calculating the numerical aperture of an objective, Ideally, a mismatch in refractive index between the sample (mounting medium), the coverslip and immersion media should be minimized in order to enhance the image quality. [See an interactive demo of refractive index at MicroscopyU](https://www.microscopyu.com/microscopy-basics/refractive-index-index-of-refraction)"
 msgstr ""
 
 #: ../../Glossary.md:42
@@ -153,7 +153,7 @@ msgid "Semantic segmentation, where all parts of an image are part of a class, c
 msgstr ""
 
 #: ../../Glossary.md:52
-msgid "Instance segmentation, the segmentation is object based, not just detecting were the cells are but diving each cell as a separate object."
+msgid "Instance segmentation, the segmentation is object based, not just detecting where the cells are but diving each cell as a separate object."
 msgstr ""
 
 #: ../../Glossary.md:53

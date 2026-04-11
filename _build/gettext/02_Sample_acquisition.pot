@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Python \n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-05-23 21:07+0000\n"
+"POT-Creation-Date: 2026-04-11 14:17+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -47,7 +47,7 @@ msgid "**Confocal** - microscopes that remove out-of-focus light in the light pa
 msgstr ""
 
 #: ../../02_Sample_acquisition/Introduction.md:12
-msgid "**Multiphoton** microscopes utilize multiple pulses of longer-wavelength (lower energy) light to penetrate deep into tissue, since tissues are less likely to scatter these wavelengths; once there, multiple low-engergy photons hitting the fluorphore at the same time will use their combined energy to activate a fluorophore that each photon alone would be too weak to do. Because the benefit of these systems is in their deeper penetration, they are often used for performing live-animal imaging."
+msgid "**Multiphoton** microscopes utilize multiple pulses of longer-wavelength (lower energy) light to penetrate deep into tissue, since tissues are less likely to scatter these wavelengths; once there, multiple low-energy photons hitting the fluorophore at the same time will use their combined energy to activate a fluorophore that each photon alone would be too weak to do. Because the benefit of these systems is in their deeper penetration, they are often used for performing live-animal imaging."
 msgstr ""
 
 #: ../../02_Sample_acquisition/Introduction.md:13
@@ -107,7 +107,7 @@ msgid "Microscope objectives have a number of features that must be considered w
 msgstr ""
 
 #: ../../02_Sample_acquisition/Practical_considerations.md:9
-msgid "Magnification and resolution: the higher the numerical aperture (NA) of the lens, the finer the resolution one can obtain in one's sample. The NA is calculated as {math}`NA=RI * sin(θ)`, relating both to the {term}`refractive index` of the sample, glass, and {term}`immersion media` as well as the range of angles of emitted light that can be collected into the lens. Unless special techniques are used, the typical limit of resultion is calculated as {math}`d = λ / 2NA`, meaning the resolution is set both by the NA of the lens but also by the wavelength of light used for imaging."
+msgid "Magnification and resolution: the higher the numerical aperture (NA) of the lens, the finer the resolution one can obtain in one's sample. The NA is calculated as {math}`NA=RI * sin(θ)`, relating both to the {term}`refractive index` of the sample, glass, and {term}`immersion media` as well as the range of angles of emitted light that can be collected into the lens. Unless special techniques are used, the typical limit of resolution is calculated as {math}`d = λ / 2NA`, meaning the resolution is set both by the NA of the lens but also by the wavelength of light used for imaging."
 msgstr ""
 
 #: ../../02_Sample_acquisition/Practical_considerations.md:18
@@ -131,7 +131,7 @@ msgid "Filter sets"
 msgstr ""
 
 #: ../../02_Sample_acquisition/Practical_considerations.md:26
-msgid "It is important to make sure that the microscope that you want to image on has the correct filter sets for the fluorphores you wish to use. See the [section on bleedthrough](content/bleedthrough) for more information."
+msgid "It is important to make sure that the microscope that you want to image on has the correct filter sets for the fluorophores you wish to use. See the [section on bleedthrough](content/bleedthrough) for more information."
 msgstr ""
 
 #: ../../02_Sample_acquisition/Practical_considerations.md:28
@@ -139,7 +139,7 @@ msgid "Z sampling"
 msgstr ""
 
 #: ../../02_Sample_acquisition/Practical_considerations.md:30
-msgid "If you wish to capture multiple z sections, the spacing of these setions is important if you wish to be able to perform an accurate 3D reconstruction. SVI has a [fuller mathematical explanation of this](https://svi.nl/NyquistRate),as well as an easy-to-use [online calculator](https://svi.nl/NyquistCalculator) that you can use to calculate the optimal z section spacing for your imaging conditions."
+msgid "If you wish to capture multiple z sections, the spacing of these sections is important if you wish to be able to perform an accurate 3D reconstruction. SVI has a [fuller mathematical explanation of this](https://svi.nl/NyquistRate),as well as an easy-to-use [online calculator](https://svi.nl/NyquistCalculator) that you can use to calculate the optimal z section spacing for your imaging conditions."
 msgstr ""
 
 #: ../../02_Sample_acquisition/Practical_considerations.md:32
@@ -147,7 +147,7 @@ msgid "Acquisition power/speed"
 msgstr ""
 
 #: ../../02_Sample_acquisition/Practical_considerations.md:34
-msgid "The amount of signal captured from any fluorophore will be related not just to the intrinsic brightness of the fluorophore, but also the amount of excitation light it is exposed to (due to duration, power, or both) as well as amount of time and signal multiplication that happens at the detector (typically a camera or a photomultiplier tube (PMT)). An optimal experiment is typically one that minimizes the amount of light hitting the sample (to reduce photobleaching and/or phototoxicity) while acheiving adequate fluorescent signal and in minimal time on the equipment. How exactly to balance these competing factors will depend on the exact biology being studied and the researcher's constraints."
+msgid "The amount of signal captured from any fluorophore will be related not just to the intrinsic brightness of the fluorophore, but also the amount of excitation light it is exposed to (due to duration, power, or both) as well as amount of time and signal multiplication that happens at the detector (typically a camera or a photomultiplier tube (PMT)). An optimal experiment is typically one that minimizes the amount of light hitting the sample (to reduce photobleaching and/or phototoxicity) while achieving adequate fluorescent signal and in minimal time on the equipment. How exactly to balance these competing factors will depend on the exact biology being studied and the researcher's constraints."
 msgstr ""
 
 #: ../../02_Sample_acquisition/Resources.md:1

@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Python \n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2024-03-29 09:37-0400\n"
+"POT-Creation-Date: 2026-04-11 14:17+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -123,7 +123,7 @@ msgid "Some whole organisms are thin and transparent enough to image. Some anima
 msgstr ""
 
 #: ../../01_Sample_preparation/Considerations.md:69
-msgid "Imaging whole organisms or embyros provides the most possible intact biological context when studying a particular process or structure."
+msgid "Imaging whole organisms or embryos provides the most possible intact biological context when studying a particular process or structure."
 msgstr ""
 
 #: ../../01_Sample_preparation/Considerations.md:73
