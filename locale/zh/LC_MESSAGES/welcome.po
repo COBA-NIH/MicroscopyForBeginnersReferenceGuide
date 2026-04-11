@@ -5,6 +5,7 @@
 # 
 # Translators:
 # Beth Cimini, 2025
+# Li-Jiun Chen, 2026
 # 
 #, fuzzy
 msgid ""
@@ -13,7 +14,7 @@ msgstr ""
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2023-06-28 07:29-0400\n"
 "PO-Revision-Date: 2023-05-02 18:49+0000\n"
-"Last-Translator: Beth Cimini, 2025\n"
+"Last-Translator: Li-Jiun Chen, 2026\n"
 "Language-Team: Chinese (https://app.transifex.com/center-for-open-bioimage-analysis/teams/169123/zh/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -47,11 +48,11 @@ msgstr "欢迎"
 
 #: ../../welcome.md:3
 msgid "Welcome to the world of bioimaging and bioimage analysis! 🎉"
-msgstr "欢迎来到生物成像和生物图像分析的世界！🎉"
+msgstr "欢迎走进生物成像和生物图像分析的世界！🎉"
 
 #: ../../welcome.md:11
 msgid "BBBC image montage"
-msgstr "BBC图像蒙太奇"
+msgstr "BBBC 图像拼接"
 
 #: ../../welcome.md:11
 msgid ""
@@ -60,12 +61,13 @@ msgid ""
 "Institute).** Images shown are from experiments BBBC007, BBBC008, BBBC034, "
 "BBBC038, BBBC039, and BBBC020 from left to right, top to bottom."
 msgstr ""
-"**荧光显微镜图像蒙太奇，来自[BBBC](https://bbbc.broadinstitute.org/){cite}`Ljosa2012-fr`（博德研究所）。**"
-" 显示的图像来自实验BBBC007、BBBC008、BBBC034、BBBC038、BBBC039和BBBC020，从左到右，从上到下。"
+"**荧光显微镜图像拼接来自BBBC (https://bbbc.broadinstitute.org/)  文献来源: Ljosa "
+"2012（麻省理工学院与哈佛大学布罗德研究所)** 显示的图像来自实验 "
+"BBBC007、BBBC008、BBBC034、BBBC038、BBBC039和BBBC020， 排列顺序为从左到右，从上到下。"
 
 #: ../../welcome.md:13
 msgid "What is this book?"
-msgstr "这是什么类型的书？"
+msgstr "这是什么书？"
 
 #: ../../welcome.md:15
 msgid ""
@@ -76,7 +78,7 @@ msgid ""
 "set of resources for biologists looking to understand the factors that "
 "impact their fluorescence microscopy experiments."
 msgstr ""
-"本书是我们的论文《生物学家规划和执行定量生物成像实验指南》（https://doi.org/10.1371/journal.pbio.3002167）的配套网站。我们的目标是为希望了解影响荧光显微镜实验因素的生物学家提供建议和精选资源。"
+"本书是我们论文《生物学家定量生物成像实验规划与实施指南》（https://doi.org/10.1371/journal.pbio.3002167）的配套网站。我们的目标是为希望理解影响其荧光显微镜实验因素的生物学家提供实践性建议以及精心整理的资源合集。"
 
 #: ../../welcome.md:17
 msgid ""
@@ -89,7 +91,8 @@ msgid ""
 "list of high-quality, open source resources (full list available "
 "[here](bibliography)). We use icons to indicate the type of resource:"
 msgstr ""
-"本书由生物学、成像、图像分析、数据管理、解读和展示等领域的专家共同编写。我们的技巧和建议源于培训和指导生物成像及生物图像分析初学者的实际经验。初涉新领域时，你往往不知道自己有哪些知识盲区。本书提供背景知识、避免初学者常见错误的技巧，以及一份精选的高质量开源资源列表（完整列表请见[此处](参考文献)）。我们使用图标来表示资源类型："
+" "
+"本书由来自生物学、成像技术、图像分析以及数据管理、解读与展示领域的多位专家共同撰写而成。书中的技巧和建议源自我们在实际工作中，对生物成像和生物图像分析初学者进行培训与合作的真实经验。在进入一个新的研究领域时，人们往往并不清楚自己“还不知道什么”。因此，我们在此提供必要的背景信息、避免常见初学者错误的实用建议，以及一份经过筛选的高质量开源资源清单（完整列表见bibliography）。我们使用图标来标示不同类型的资源："
 
 #: ../../welcome.md:39
 msgid "What **isn't** this book?"
@@ -105,10 +108,10 @@ msgid ""
 " and [here](https://biii.eu/) {cite}`Paul-Gilloteaux2021-vw`). Our goal is "
 "to create a more streamlined, beginner-accessible guide."
 msgstr ""
-"本书**并非**旨在囊括所有资源。许多其他人已经整理了优秀的资源（参见[此处](https://febs.onlinelibrary.wiley.com/doi/10.1002/1873-3468.14451)"
-" {cite}`Haase2022-ad`、[此处](https://www.bioimagingnorthamerica.org/training-"
-"education-resources/) 和[此处](https://biii.eu/) {cite}`Paul-"
-"Gilloteaux2021-vw`）。我们的目标是创建一份更精简、更易于初学者理解的指南。"
+"本书并非旨在涵盖所有相关资源。许多其他人已经整理了优秀的资源（参见https://febs.onlinelibrary.wiley.com/doi/10.1002/1873-3468.14451"
+" (Haase 2022), https://www.bioimagingnorthamerica.org/training-education-"
+"resources/ 和 https://biii.eu/ (Paul-Gilloteaux "
+"2021)）。我们的目标是创建一份更精简、更易于初学者理解的指南。"
 
 #: ../../welcome.md:42
 msgid ""
@@ -117,7 +120,8 @@ msgid ""
 "interpretation are massive topics that we can't exhaustively cover in a "
 "guide for beginners."
 msgstr ""
-"本书**并非**操作规程或分步指南，尽管我们链接的某些资源可能包含此类内容。从样品制备到数据解读，每个小节都涉及大量主题，我们无法在一本面向初学者的指南中面面俱到。"
+"本书并非一本实验操作规程或逐步操作指南，尽管我们所链接的部分资源可能属于此类。\n"
+"从样品制备到数据解读，各个分专题本身都是非常庞大的研究领域，无法在面向初学者的指南中进行全面涵盖。"
 
 #: ../../welcome.md:45
 msgid "How to use this book:"
@@ -128,17 +132,17 @@ msgid ""
 "Please select a section using the navigation panel on the left to get "
 "started or begin with sample preparation by clicking the \"Next\" button "
 "below ↘️."
-msgstr "请使用左侧的导航面板选择一个部分开始，或者点击下面的“下一步”按钮开始样品准备↘️。"
+msgstr "请通过左侧的导航栏选择一个章节以开始阅读，或点击下方的“下一步”按钮，从样品制备章节开始↘️。"
 
 #: ../../welcome.md:48
 msgid ""
 "Most sections will guide you through individual subtopics using some or all "
 "of the following list of questions:"
-msgstr "大多数章节将通过以下部分或全部问题引导您了解各个子主题："
+msgstr "大多数章节将通过以下部分或全部问题，引导您了解各个子主题："
 
 #: ../../welcome.md:49
 msgid "What is it?"
-msgstr "那是什么？"
+msgstr "这是什么？"
 
 #: ../../welcome.md:50
 msgid "What are my options?"
@@ -161,11 +165,11 @@ msgid ""
 "Which questions are used and the exact phrasing may vary by section, but we "
 "hope this structure helps guide users to a deeper understanding of each "
 "subtopic."
-msgstr "各章节使用的具体问题和措辞可能会有所不同，但我们希望这种结构能够帮助用户更深入地了解每个子主题。"
+msgstr "各章节所采用的问题及其具体表述可能有所不同，但我们希望这种结构能够引导讀者更深入地理解每个子主题。"
 
 #: ../../welcome.md:57
 msgid "What if my resource/topic is not included?"
-msgstr "如果我的资源/主题没有被收录怎么办？"
+msgstr "如果我的资源或主题未被收录怎么办？"
 
 #: ../../welcome.md:58
 msgid ""
@@ -174,5 +178,6 @@ msgid ""
 " or pull request to contribute! We hope for this to be a living document "
 "reflecting the best practices and resources available."
 msgstr ""
-"欢迎您提交[issue](https://github.com/broadinstitute/MicroscopyForBeginnersReferenceGuide/issues)或pull"
-" request来贡献代码！我们希望这份文档能够不断更新，反映最佳实践和可用资源。"
+"欢迎随时通过提交 "
+"https://github.com/broadinstitute/MicroscopyForBeginnersReferenceGuide/issues"
+" 或 pull request 参与贡献! 我们希望本书能够成为一份持续演进的文档，反映当前可获得的最佳实践和优质资源。"
