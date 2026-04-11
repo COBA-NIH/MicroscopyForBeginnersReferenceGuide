@@ -5,6 +5,7 @@
 # 
 # Translators:
 # Beth Cimini, 2025
+# Li-Jiun Chen, 2026
 # 
 #, fuzzy
 msgid ""
@@ -13,7 +14,7 @@ msgstr ""
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-03-29 09:37-0400\n"
 "PO-Revision-Date: 2023-05-02 18:49+0000\n"
-"Last-Translator: Beth Cimini, 2025\n"
+"Last-Translator: Li-Jiun Chen, 2026\n"
 "Language-Team: Chinese (https://app.transifex.com/center-for-open-bioimage-analysis/teams/169123/zh/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -23,11 +24,11 @@ msgstr ""
 
 #: ../../Glossary.md:1
 msgid "Glossary"
-msgstr "词汇表"
+msgstr "术语表"
 
 #: ../../Glossary.md:0
 msgid "Blocking"
-msgstr "阻塞"
+msgstr "封闭"
 
 #: ../../Glossary.md:5
 msgid ""
@@ -37,7 +38,7 @@ msgid ""
 "normal sera, gelatin, or albumin before immunostaining in order to "
 "\"occupy\" all the non-specific binding sites in the sample."
 msgstr ""
-"在免疫染色过程中，尽量减少一抗或二抗的非特异性结合至关重要。大多数情况下，这可以通过封闭来实现，通常是在免疫染色前加入正常血清、明胶或白蛋白等物质，以“占据”样本中所有非特异性结合位点。"
+"在免疫染色过程中，降低一抗或二抗的非特异性结合至关重要。在大多数情况下，这可以通过封闭步骤来实现。封闭通常是在免疫染色之前加入正常血清、明胶或白蛋白等物质，以“占据”样品中所有非特异性结合位点。"
 
 #: ../../Glossary.md:3
 msgid "Deconvolution"
@@ -49,7 +50,8 @@ msgid ""
 " the known optical properties of the light path to \"reassign\" pixel "
 "intensity away from where it hit the camera and back onto the structure that"
 " emitted the light."
-msgstr "通过计算方法，利用光路的已知光学特性，将像素强度从相机照射到的位置“重新分配”到发出光线的结构上，从而消除显微图像中的模糊。"
+msgstr ""
+"一种利用已知的光路光学特性，通过计算方法从显微镜图像中去除模糊的过程，其原理是将像素强度从其在相机上的成像位置“重新分配”回发射该光信号的实际结构上。"
 
 #: ../../Glossary.md:6
 msgid "Ex-Vivo imaging"
@@ -64,17 +66,20 @@ msgid ""
 "through perfusion of oxygenated (95% oxygen and 5% CO2), temperature-"
 "controlled media using peristaltic pumps and microfluidics."
 msgstr ""
-"指的是在外部可控环境下（例如，培养皿上的组织块）对活体动物组织进行的成像。它能够对动物体内其他方式难以触及的活体组织进行高分辨率成像。成像系统利用蠕动泵和微流控技术，通过灌注含氧（95%氧气和5%二氧化碳）、温度可控的培养基来维持组织活性。"
+"指在可控的外部环境中对活体动物组织进行的成像（例如放置在培养皿中的组织外植体)。这种方法能够实现对活体组织的高分辨率成像，而这些组织在动物体内往往难以直接获取。成像过程中，通过使用蠕动泵和微流控系统灌流经氧合处理（95%"
+" 氧气、5% 二氧化碳）、并进行温控的培养基，以维持组织在成像系统中的存活状态。"
 
 #: ../../Glossary.md:9
 msgid "Fiji"
-msgstr "斐济"
+msgstr "Fiji：一款基于 ImageJ 的开源图像处理与分析软件，广泛用于生物成像和显微镜图像分析。"
 
 #: ../../Glossary.md:14
 msgid ""
 "[Fiji](https://imagej.net/software/fiji/) Is Just ImageJ. ImageJ2 plus a lot"
 " of common plugins."
-msgstr "[Fiji](https://imagej.net/software/fiji/) 就是 ImageJ。ImageJ2 加上许多常用插件。"
+msgstr ""
+"Fiji (https://imagej.net/software/fiji/) 是 “Fiji Is Just ImageJ” 的缩写，本质上是 "
+"ImageJ。它基于 ImageJ2，并预装了大量常用插件。"
 
 #: ../../Glossary.md:12
 msgid "Fixation"
@@ -90,7 +95,7 @@ msgid ""
 "molecular structures within a sample, and needs to be optimized depending on"
 " the sample or structure that is being imaged."
 msgstr ""
-"标本固定是指稳定样本内的细胞/分子成分，同时终止样本内的所有生物功能。所用固定剂（例如，多聚甲醛、戊二醛、甲醇）、浓度和条件（例如，缓冲液、温度）决定了样本内细胞和/或分子结构的保存程度，需要根据待成像的样本或结构进行优化。"
+"样品固定（fixation）是指在终止样品中所有生物学活性的同时，对样品内的细胞和/或分子组分进行稳定和保存的过程。所使用的固定剂（如多聚甲醛、戊二醛、甲醇）、其浓度以及固定条件（如缓冲液、温度）共同决定了样品中细胞和/或分子结构的保存程度，并且需要根据所成像的样品类型或目标结构进行优化。"
 
 #: ../../Glossary.md:15
 msgid "Image processing"
@@ -103,11 +108,11 @@ msgid ""
 " or more advanced (e.g. enhancing particular features of an image like "
 "circles or lines)."
 msgstr ""
-"图像处理是对图像执行的操作，可以生成另一幅图像。图像处理操作可以很简单（例如调整大小或旋转），也可以更高级（例如增强图像的特定特征，如圆形或线条）。"
+"指可作用于图像的一种操作，其结果是生成另一幅图像。图像处理操作既可以是简单的（例如图像缩放或旋转），也可以是较为复杂的（例如增强图像中特定特征，如圆形或线条）。"
 
 #: ../../Glossary.md:18
 msgid "Immersion media"
-msgstr "沉浸式媒体"
+msgstr "浸液"
 
 #: ../../Glossary.md:23
 msgid ""
@@ -118,8 +123,9 @@ msgid ""
 " of the mounting media to minimize aberrations and improve image quality. "
 "Immersion media can be air, water, silicone oil, glycerol or oil."
 msgstr ""
-"浸没介质是填充物镜与玻璃盖玻片或样品之间间隙的介质。它会影响物镜的数值孔径（NA=RI * "
-"sin(θ)），从而影响横向和轴向分辨率。为了最大限度地减少像差并提高图像质量，浸没介质的折射率必须与封片剂的折射率相匹配。浸没介质可以是空气、水、硅油、甘油或油。"
+"浸液是填充在物镜与玻璃盖玻片或样品之间间隙中的介质。它会影响物镜的数值孔径（numerical aperture, NA)，其关系式为 NA = RI "
+"× sin(θ)，从而进一步影响横向和轴向分辨率。为尽量减少光学像差并提高图像质量，将浸液的折射率（RI）与封片介质（mounting "
+"media）的折射率相匹配至关重要。常见的浸液包括空气、水、硅油、甘油和浸油。"
 
 #: ../../Glossary.md:21
 msgid "Immunolabeling"
@@ -136,8 +142,8 @@ msgid ""
 "Another good option is to use nano-bodies, which only have the heavy-chain "
 "and are significantly smaller than regular antibodies."
 msgstr ""
-"免疫标记是固定样品最常用的标记技术之一。您可以使用荧光标记的一抗来检测目标蛋白，或者采用两步标记法，先使用一抗，再使用荧光标记的二抗。一抗-"
-"二抗标记法通常可以增强信号。免疫标记的主要问题是抗体体积较大，需要进行大量的细胞膜通透处理。另一种不错的选择是使用纳米抗体，纳米抗体仅包含重链，体积远小于常规抗体。"
+"免疫标记（immunolabeling）是用于固定样品的最常见标记技术之一。可以使用与荧光染料偶联的一抗直接检测目标蛋白，或者采用两步标记策略，即先使用一抗，再使用与荧光染料偶联的二抗进行检测。一抗-"
+"二抗标记法通常可以增强信号。免疫标记的主要问题在于抗体分子体积较大，这通常需要较强的透化处理以保证其进入样品内部。另一种很好的替代方案是使用纳米抗体（nanobodies），它们仅包含重链结构，体积显著小于常规抗体。"
 
 #: ../../Glossary.md:24
 msgid "Intravital imaging"
@@ -153,11 +159,12 @@ msgid ""
 "windows. Intravital imaging is overseen by bioethical committees and needs "
 "to be approved by IACUC and/or other institutional committees."
 msgstr ""
-"它指的是在不取出器官或固定样本的情况下，对活体动物体内的细胞结构或生物过程进行实时成像。通常，它需要特定的仪器或具有更高光穿透力的技术，例如多光子显微镜，并且受限于能否进入特定器官，通常是通过光学窗口。活体成像受生物伦理委员会的监督，需要获得机构动物护理和使用委员会（IACUC）和/或其他机构委员会的批准。"
+"指在不取出器官或对样品进行固定的情况下，对活体动物体内的细胞结构或生物学过程进行实时成像。通常需要具备更强光穿透能力的专用仪器或成像方式，例如多光子显微镜，并且受限于对特定器官的可达性，往往需要借助光学窗口进行成像。活体成像实验需接受生物伦理委员会的监管，并必须获得"
+" IACUC 和/或其他相关机构委员会的批准。"
 
 #: ../../Glossary.md:27
 msgid "Mounting media"
-msgstr "安装介质"
+msgstr "封片介质"
 
 #: ../../Glossary.md:32
 msgid ""
@@ -168,7 +175,8 @@ msgid ""
 "glass) and minimizing photobleaching (depending on the medium). Mounting "
 "media prevents the sample from drying out allowing long-term storage."
 msgstr ""
-"封片剂是用于固定（封片）样本的溶液。它的作用是保存样本（包括其中的荧光团），并通过缓冲pH值、使样本整体折射率一致（理想情况下与玻璃的折射率一致）以及最大限度地减少光漂白（取决于所用介质）来提高成像质量。封片剂可以防止样本干燥，从而实现长期保存。"
+"封片介质是用于放置（封片）样品的溶液。其作用是在成像过程中保存样品（包括其中的荧光团），并提升成像质量。这主要通过缓冲 pH "
+"值、在整个样品中匹配折射率（理想情况下与玻璃的折射率相匹配），以及在一定程度上减少光漂白（取决于具体介质）来实现。此外，封片介质还能防止样品干燥，从而适于样品的长期保存。"
 
 #: ../../Glossary.md:30
 msgid "Object detection"
@@ -179,7 +187,9 @@ msgid ""
 "Is the image processing technique to detect objects within an image. It "
 "would not give you a mask of the objects but it could give you a bounding "
 "box, or and x,y position."
-msgstr "这是一种用于检测图像中物体的图像处理技术。它不会给出物体的掩膜，但可以给出物体的边界框或 x、y 坐标。"
+msgstr ""
+"一种用于在图像中检测目标的图像处理技术。该方法通常不会生成目标的像素级掩膜（mask），而是提供目标的边界框（bounding box）或其在图像中的 "
+"x、y 坐标位置。"
 
 #: ../../Glossary.md:33
 msgid "Oxygen scavengers"
@@ -195,7 +205,9 @@ msgid ""
 "as these scavengers can affect the ATP and oxygen levels within the sample, "
 "compromising its health and therefore biological function."
 msgstr ""
-"氧气容易导致有机染料和其他荧光团发生光漂白。在成像介质中添加氧清除剂，例如葡萄糖氧化酶或吡喃糖-2-氧化酶，可以显著降低样品中荧光团的光漂白。需要注意的是，使用氧清除剂可能会影响活细胞成像，因为这些清除剂会影响样品中的ATP和氧气水平，从而损害细胞的健康状况和生物学功能。"
+"氧气往往会诱导有机染料及其他荧光团发生光漂白。在成像介质中加入氧清除剂（如葡萄糖氧化酶或吡喃糖 "
+"2‑氧化酶）可以显著降低样品中荧光团的光漂白程度。需要注意的是，氧清除剂的使用可能会影响活细胞成像，因为这些试剂可能改变样品中的 ATP "
+"水平和氧气浓度，从而损害细胞健康并影响其生物学功能。"
 
 #: ../../Glossary.md:36
 msgid "Permeabilization"
@@ -210,7 +222,8 @@ msgid ""
 "antigen of interest, as it can result in a loss of cytoplasm or a "
 "degradation of the signal."
 msgstr ""
-"为了使免疫染色中使用的抗体或其他荧光染料能够穿透细胞或组织并与抗原结合，需要用温和的去污剂破坏细胞膜的完整性（形成孔隙）。由于去污步骤可能导致细胞质丢失或信号衰减，因此需要根据目标抗原仔细优化去污步骤。"
+"为使免疫染色过程中使用的抗体或其他荧光团能够进入细胞或组织内部并与其抗原结合，需要通过温和的去污剂破坏细胞膜的完整性（形成孔隙）。 "
+"透化步骤需要根据目标抗原进行仔细优化，因为过度透化可能导致细胞质流失或信号降解。"
 
 #: ../../Glossary.md:39
 msgid "Refractive index"
@@ -226,19 +239,19 @@ msgid ""
 "MicroscopyU](https://www.microscopyu.com/microscopy-basics/refractive-index-"
 "index-of-refraction)"
 msgstr ""
-"折射率是衡量光在特定介质中传播情况的指标。它是计算物镜数值孔径时的一个重要参数。理想情况下，应尽量减少样品（封片剂）、盖玻片和浸液之间的折射率差异，以提高成像质量。[请访问"
-" MicroscopyU 查看折射率的交互式演示](https://www.microscopyu.com/microscopy-"
-"basics/refractive-index-index-of-refraction)"
+"折射率描述了光在某种介质中传播的方式，是计算物镜数值孔径的重要参数。为获得更好的成像质量，应尽量使样品的封片介质、盖玻片和浸液之间的折射率相匹配。 "
+"可在以下链接中查看折射率的交互式演示：https://www.microscopyu.com/microscopy-basics/refractive-"
+"index-index-of-refraction"
 
 #: ../../Glossary.md:42
 msgid "ROIs"
-msgstr "投资回报率"
+msgstr "感兴趣区域"
 
 #: ../../Glossary.md:47
 msgid ""
 "Regions Of Interest. Pixels in your image that you care about (e.g., a "
 "region in tissue, a cell, a tumor, etc.)"
-msgstr "感兴趣区域。图像中您关注的像素（例如，组织中的某个区域、某个细胞、某个肿瘤等）。"
+msgstr "  图像中你感兴趣的像素区域（例如，组织中的某个区域、某个细胞、某个肿瘤等）。"
 
 #: ../../Glossary.md:45
 msgid "Segmentation"
@@ -254,13 +267,14 @@ msgstr "将图像分割成多个部分或区域的方法。分割有三种不同
 msgid ""
 "Semantic segmentation, where all parts of an image are part of a class, "
 "common in cell biology will be detecting cells and background on an image."
-msgstr "语义分割是指将图像的所有部分都归为某一类，在细胞生物学中很常见，例如检测图像中的细胞和背景。"
+msgstr ""
+"语义分割是一种图像分割方法，用于将图像中的每个像素分配到一个语义类别中，但不区分同一类别中的不同对象实例。在细胞生物学中，一个常见的应用示例是将图像中的像素区分为“细胞”和“背景”。"
 
 #: ../../Glossary.md:52
 msgid ""
 "Instance segmentation, the segmentation is object based, not just detecting "
 "were the cells are but diving each cell as a separate object."
-msgstr "实例分割，分割是基于对象的，不仅检测细胞的位置，而且将每个细胞划分为一个单独的对象。"
+msgstr "实例分割是一种基于对象的分割方法，不仅能够检测细胞的位置，还可以将每个细胞划分为一个独立的对象。"
 
 #: ../../Glossary.md:53
 msgid ""
@@ -269,7 +283,7 @@ msgid ""
 "biology might be detecting all the cells on an image and classifying them as"
 " dividing vs not."
 msgstr ""
-"全景分割可以定义为前两种方法的结合，因为它不仅能识别目标，还能对其进行分类。生物学中的一个例子是检测图像中的所有细胞，并将它们分类为正在分裂或未分裂的细胞。"
+"全景分割是一种将目标检测/实例分割与分类相结合的方法，不仅区分并分割出图像中的每个对象，还会为每个对象赋予类别标签。例如，在生物图像中，可以先识别所有细胞，再将其区分为正在分裂的细胞和未分裂的细胞。"
 
 #: ../../Glossary.md:51
 msgid "Thresholding"
@@ -307,7 +321,9 @@ msgid ""
 "and tissues using conventional microscopy techniques such as confocal "
 "microscopy without the need to physically section the sample."
 msgstr ""
-"由于组织内部折射率的不均匀性会导致光吸收和散射，从而造成光穿透力差，因此对整个组织厚度进行荧光成像极具挑战性。此外，来自样本不同部分的光线也会造成荧光模糊，显著降低任何给定平面上的对比度和分辨率。因此，研究人员通常采用组织切片技术，从二维薄片中提取细胞成分及其空间分布或相互关系的信息。然而，任何复杂生物系统（例如器官）中的大多数成分并不包含在这个二维体积内，因此，这种方法会影响对细胞成分之间空间关系的理解。组织透明化技术旨在通过平衡整个样本的折射率来减少组织内部的不均匀性。这使得光线能够穿过组织，从而可以使用共聚焦显微镜等传统显微镜技术对整个器官和组织进行高分辨率的体积成像，而无需对样本进行物理切片。"
+"由于组织内部折射率不均一所引起的光吸收和散射，荧光成像在获取整块组织厚度信息时面临很大挑战，导致光穿透能力较差。此外，来自样品不同深度的荧光信号会共同贡献成像，从而产生荧光模糊，显著降低任何给定成像平面的对比度和分辨率。因此，研究人员通常采用组织切片技术，从薄的二维切片中获取有关细胞组分及其空间分布或相互关系的信息。然而，在诸如器官等复杂的生物系统中，大多数结构并不完整地包含在单一的二维切片中，因此这种方法在理解细胞组分之间的空间关系方面存在局限性。\n"
+"\n"
+"组织透明化技术旨在通过在整个样品中平衡折射率来降低组织内部的光学不均一性。这使光能够更有效地穿透组织，从而无需对样品进行物理切片，便可利用共聚焦显微镜等常规显微成像技术，对整器官和完整组织进行高分辨率的三维体积成像。"
 
 #: ../../Glossary.md:57
 msgid "Tissue sectioning"
