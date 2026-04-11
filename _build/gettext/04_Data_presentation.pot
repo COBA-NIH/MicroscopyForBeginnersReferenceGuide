@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Python \n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-05-23 21:07+0000\n"
+"POT-Creation-Date: 2026-04-11 14:17+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -38,7 +38,7 @@ msgid "What is it?"
 msgstr ""
 
 #: ../../04_Data_presentation/Presentation_images.md:5
-msgid "Microscopy images are often shown in scientific papers to illustrate a particular conclusion. While qualitative conclusions are not a subsitute for quantitative comparisons (see next section), images can certainly guide our reasoning and our conclusions. Following a few consistent best practices ensures that these conclusions are correct and robust."
+msgid "Microscopy images are often shown in scientific papers to illustrate a particular conclusion. While qualitative conclusions are not a substitute for quantitative comparisons (see next section), images can certainly guide our reasoning and our conclusions. Following a few consistent best practices ensures that these conclusions are correct and robust."
 msgstr ""
 
 #: ../../04_Data_presentation/Presentation_images.md:14
@@ -165,7 +165,7 @@ msgid "Explain the image"
 msgstr ""
 
 #: ../../04_Data_presentation/Presentation_images.md:95
-msgid "To rapidly orient audiences, a minimal explanatory text should be presented along with images. This includes the figure legend and the methods section in scientific papers or the title of figures in posters and slides. Consider using a controlled vocabulary to reduce ambiguity and increase machine-readability of the descriptions of specimens, tissues, cell lines, and proteins etc. A useful tool is the [RRID (Reseach Resource Identifying Data)index](https://scicrunch.org/resources) , which provides indices for commonly used biological reagents and resources, e.g., plasmids, cell lines and antibodies ."
+msgid "To rapidly orient audiences, a minimal explanatory text should be presented along with images. This includes the figure legend and the methods section in scientific papers or the title of figures in posters and slides. Consider using a controlled vocabulary to reduce ambiguity and increase machine-readability of the descriptions of specimens, tissues, cell lines, and proteins etc. A useful tool is the [RRID (Research Resource Identifying Data)index](https://scicrunch.org/resources) , which provides indices for commonly used biological reagents and resources, e.g., plasmids, cell lines and antibodies ."
 msgstr ""
 
 #: ../../04_Data_presentation/Presentation_images.md:101
@@ -261,7 +261,7 @@ msgid "Statistics"
 msgstr ""
 
 #: ../../04_Data_presentation/Statistics.md:5
-msgid "Quantitative data is often summarized and analysed with statistical methods and visualized with plots/graphs/diagrams. Statistical methods reveal quantitative trends, patterns, and outliers in data, while plots and graphs help to convey them to audiences. Carrying out a suitable statistical analysis and choosing a suitable chart type for your data, identifying their potential pitfalls, and faithfully realising the analysis or generating the chart with suitable software are essential to back up experimental conclusions with data and reach communication goals."
+msgid "Quantitative data is often summarized and analyzed with statistical methods and visualized with plots/graphs/diagrams. Statistical methods reveal quantitative trends, patterns, and outliers in data, while plots and graphs help to convey them to audiences. Carrying out a suitable statistical analysis and choosing a suitable chart type for your data, identifying their potential pitfalls, and faithfully realizing the analysis or generating the chart with suitable software are essential to back up experimental conclusions with data and reach communication goals."
 msgstr ""
 
 #: ../../04_Data_presentation/Statistics.md:7
@@ -329,7 +329,7 @@ msgid "Normality testing"
 msgstr ""
 
 #: ../../04_Data_presentation/Statistics.md:58
-msgid "Normality testing is about assessing whether data follow a Gaussian (or nomal) distribution. Because the Gaussian distribution is frequently found in nature and has important mathematical properties, normality is a core assumption in many widely-used statistical tests. When this assumption is violated, their conclusions may not hold or be flawed. Normality testing is therefore an important step of the data analysis pipeline prior to any sort of statistical testing."
+msgid "Normality testing is about assessing whether data follow a Gaussian (or normal) distribution. Because the Gaussian distribution is frequently found in nature and has important mathematical properties, normality is a core assumption in many widely-used statistical tests. When this assumption is violated, their conclusions may not hold or be flawed. Normality testing is therefore an important step of the data analysis pipeline prior to any sort of statistical testing."
 msgstr ""
 
 #: ../../04_Data_presentation/Statistics.md:61
@@ -337,7 +337,7 @@ msgid "Normality of a data distribution can be qualitatively assessed through pl
 msgstr ""
 
 #: ../../04_Data_presentation/Statistics.md:65
-msgid "Although lots of the “standard” statistical methods have been designed with a normnality assumption, alternative approaches exist for non-normally-ditributed data. Many biological processes result in multimodal “states” (for instance differentiation) that are inherently not Gaussian. Normality testing should therefore not be mistaken for a quality assessment of the data: it merely informs on the types of tools that are appropriate to use when analyzing them."
+msgid "Although lots of the “standard” statistical methods have been designed with a normality assumption, alternative approaches exist for non-normally-distributed data. Many biological processes result in multimodal “states” (for instance differentiation) that are inherently not Gaussian. Normality testing should therefore not be mistaken for a quality assessment of the data: it merely informs on the types of tools that are appropriate to use when analyzing them."
 msgstr ""
 
 #: ../../04_Data_presentation/Statistics.md:68

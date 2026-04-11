@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Python \n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2024-03-29 09:37-0400\n"
+"POT-Creation-Date: 2026-04-11 14:17+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -45,7 +45,7 @@ msgid "Have I selected analysis metric(s) that truly answer my biological questi
 msgstr ""
 
 #: ../../QuantitativeBioimaging.md:12
-msgid "Have I chosen appropriate statistical comparisons and data presentation approaches so that the distribution of my metric(s) can be fairly compared across samples, answering my biolgical question?"
+msgid "Have I chosen appropriate statistical comparisons and data presentation approaches so that the distribution of my metric(s) can be fairly compared across samples, answering my biological question?"
 msgstr ""
 
 #: ../../QuantitativeBioimaging.md:14

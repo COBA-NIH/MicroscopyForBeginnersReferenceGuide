@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Python \n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-05-23 21:07+0000\n"
+"POT-Creation-Date: 2026-04-11 14:17+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -127,7 +127,7 @@ msgid "Colocalization is when two or more different labels (e.g., eGFP and mCher
 msgstr ""
 
 #: ../../03_Image_analysis/Colocalization.md:8
-msgid "It is also important to recognize that co-ocurrence does not _necessarily_ imply interaction."
+msgid "It is also important to recognize that co-occurrence does not _necessarily_ imply interaction."
 msgstr ""
 
 #: ../../03_Image_analysis/Colocalization.md:11
@@ -538,7 +538,7 @@ msgid "Microscopy images are inherently quantitative, which makes them a very po
 msgstr ""
 
 #: ../../03_Image_analysis/Introduction.md:26
-msgid "The specifics of your workflow depend on your biological question. Below we present a few common types of analysis for fluorescence microscopy experiments. For each, we’ll explain key ideas to understand before you begin, common pitfalls, and links to a few key resources to learn more. We encourage you to think about your analysis strategy even before beginning sample preparation. While not always possible, speaking with an image analysis expert{cite}`Cimini2024-uh` in your local core facility or asking a question on the [image.sc](https://image.sc) forum _before you begin_ can save you a ton of time and headache when it comes to designing an image analysis strategy. Some general concepts are also covered in a recent short review{cite}`."
+msgid "The specifics of your workflow depend on your biological question. Below we present a few common types of analysis for fluorescence microscopy experiments. For each, we’ll explain key ideas to understand before you begin, common pitfalls, and links to a few key resources to learn more. We encourage you to think about your analysis strategy even before beginning sample preparation. While not always possible, speaking with an image analysis expert{cite}`Cimini2024-uh` in your local core facility or asking a question on the [image.sc](https://image.sc) forum _before you begin_ can save you a ton of time and headache when it comes to designing an image analysis strategy. Some general concepts are also covered in a recent short review{cite}`Cimini2024-sz`."
 msgstr ""
 
 #: ../../03_Image_analysis/Introduction.md:28
