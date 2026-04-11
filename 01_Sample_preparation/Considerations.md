@@ -66,7 +66,7 @@ Some whole organisms are thin and transparent enough to image. Some animals also
 
 _Advantages_
 
-* Imaging whole organisms or embyros provides the most possible intact biological context when studying a particular process or structure. 
+* Imaging whole organisms or embryos provides the most possible intact biological context when studying a particular process or structure. 
 
 _Disadvantages_
 

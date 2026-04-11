@@ -2,7 +2,7 @@
 
 ## What is it?
 
-Microscopy images are often shown in scientific papers to illustrate a particular conclusion. While qualitative conclusions are not a subsitute for quantitative comparisons (see next section), images can certainly guide our reasoning and our conclusions. Following a few consistent best practices ensures that these conclusions are correct and robust.
+Microscopy images are often shown in scientific papers to illustrate a particular conclusion. While qualitative conclusions are not a substitute for quantitative comparisons (see next section), images can certainly guide our reasoning and our conclusions. Following a few consistent best practices ensures that these conclusions are correct and robust.
 
 ```{figure} ../images/10TipsHowToNotLieWithImages.png
 ---
@@ -93,7 +93,7 @@ To unambiguously reference probes consider using terms from the ISAC Probe Tag D
 
 ````{dropdown} Explain the image 
 To rapidly orient audiences, a minimal explanatory text should be presented along with images. This includes the figure legend and the methods section in scientific papers or the title of figures in posters and slides.
-Consider using a controlled vocabulary to reduce ambiguity and increase machine-readability of the descriptions of specimens, tissues, cell lines, and proteins etc. A useful tool is the [RRID (Reseach Resource Identifying Data)index](https://scicrunch.org/resources) , which provides indices for commonly used biological reagents and resources, e.g., plasmids, cell lines and antibodies . 
+Consider using a controlled vocabulary to reduce ambiguity and increase machine-readability of the descriptions of specimens, tissues, cell lines, and proteins etc. A useful tool is the [RRID (Research Resource Identifying Data)index](https://scicrunch.org/resources) , which provides indices for commonly used biological reagents and resources, e.g., plasmids, cell lines and antibodies . 
 ```{dropdown} 🤔 How do I do it?
 See the [cheat-sheet below](image-cheat-sheet) for more information. 
 ```

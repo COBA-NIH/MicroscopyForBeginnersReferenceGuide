@@ -2,7 +2,7 @@
 
 ## Introduction
 
-Quantitative data is often summarized and analysed with statistical methods and visualized with plots/graphs/diagrams. Statistical methods reveal quantitative trends, patterns, and outliers in data, while plots and graphs help to convey them to audiences. Carrying out a suitable statistical analysis and choosing a suitable chart type for your data, identifying their potential pitfalls, and faithfully realising the analysis or generating the chart with suitable software are essential to back up experimental conclusions with data and reach communication goals. 
+Quantitative data is often summarized and analyzed with statistical methods and visualized with plots/graphs/diagrams. Statistical methods reveal quantitative trends, patterns, and outliers in data, while plots and graphs help to convey them to audiences. Carrying out a suitable statistical analysis and choosing a suitable chart type for your data, identifying their potential pitfalls, and faithfully realizing the analysis or generating the chart with suitable software are essential to back up experimental conclusions with data and reach communication goals. 
 
 ## Dimensionality reduction
 
@@ -55,14 +55,14 @@ One major thing that would be nice to clarify in this particular case - how do y
 ## Normality testing
 
 ### What is it?
-Normality testing is about assessing whether data follow a Gaussian (or nomal) distribution. Because the Gaussian distribution is frequently found in nature and has important mathematical properties, normality is a core assumption in many widely-used statistical tests. When this assumption is violated, their conclusions may not hold or be flawed. Normality testing is therefore an important step of the data analysis pipeline prior to any sort of statistical testing. 
+Normality testing is about assessing whether data follow a Gaussian (or normal) distribution. Because the Gaussian distribution is frequently found in nature and has important mathematical properties, normality is a core assumption in many widely-used statistical tests. When this assumption is violated, their conclusions may not hold or be flawed. Normality testing is therefore an important step of the data analysis pipeline prior to any sort of statistical testing. 
 
 ```{dropdown} 📏 How do I do it?
 Normality of a data distribution can be qualitatively assessed through plotting, for instance relying on a histogram. For a more quantitative readout, statistical methods such as the Kolmogorov-Smirnov (KS) and Shapiro-Wilk tests (among many others) report how much the observed data distribution deviates from a Gaussian. These tests usually return and a p-value linked to the hypothesis that the data are sampled from a Gaussian distribution. A high p-value indicates that the data are not inconsistent with a normal distribution, but is not sufficient to prove that they indeed follow a Gaussian.
 A p-values smaller than a pre-defined significance threshold (usually 0.05) indicates that the data are not sampled from a normal distribution.
 ```
 ```{dropdown} <span style="color: red">⚠️</span> Where can things go wrong?
-Although lots of the “standard” statistical methods have been designed with a normnality assumption, alternative approaches exist for non-normally-ditributed data. Many biological processes result in multimodal “states” (for instance differentiation) that are inherently not Gaussian. Normality testing should therefore not be mistaken for a quality assessment of the data: it merely informs on the types of tools that are appropriate to use when analyzing them.
+Although lots of the “standard” statistical methods have been designed with a normality assumption, alternative approaches exist for non-normally-distributed data. Many biological processes result in multimodal “states” (for instance differentiation) that are inherently not Gaussian. Normality testing should therefore not be mistaken for a quality assessment of the data: it merely informs on the types of tools that are appropriate to use when analyzing them.
 ```
 ```{dropdown} 📚🤷‍♀️ Where can I learn more?
 * 📖 [Modern statistics for modern biology](https://www.huber.embl.de/msmb/) {cite}`Holmes2019-no`
