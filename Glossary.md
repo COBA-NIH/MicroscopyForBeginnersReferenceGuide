@@ -42,7 +42,7 @@ Permeabilization
   In order for the antibodies used during immunostaining or other fluorophores to penetrate and bind to their antigen within a cell or tissue, the membrane integrity (holes) needs to be challenged with a mild detergent. The permeabilization step needs to be carefully optimized depending on the antigen of interest, as it can result in a loss of cytoplasm or a degradation of the signal. 
 
 Refractive index
-  It's a measure of how light travels through a specific medium. It is an important value when calculating the numerical aperture of an objective, Ideally, a mismatch in refractive index between the sample (mounting medium), the coverslip and immersion media should be minimized in order to enhance the image quality. [See an interactive demo of refactive index at MicroscopyU](https://www.microscopyu.com/microscopy-basics/refractive-index-index-of-refraction)
+  It's a measure of how light travels through a specific medium. It is an important value when calculating the numerical aperture of an objective, Ideally, a mismatch in refractive index between the sample (mounting medium), the coverslip and immersion media should be minimized in order to enhance the image quality. [See an interactive demo of refractive index at MicroscopyU](https://www.microscopyu.com/microscopy-basics/refractive-index-index-of-refraction)
 
 ROIs
   Regions Of Interest. Pixels in your image that you care about (e.g., a region in tissue, a cell, a tumor, etc.) 
