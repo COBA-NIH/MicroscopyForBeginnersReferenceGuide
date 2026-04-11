@@ -5,6 +5,7 @@
 # 
 # Translators:
 # Beth Cimini, 2025
+# Li-Jiun Chen, 2026
 # 
 #, fuzzy
 msgid ""
@@ -13,7 +14,7 @@ msgstr ""
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2025-05-23 21:07+0000\n"
 "PO-Revision-Date: 2023-05-02 18:49+0000\n"
-"Last-Translator: Beth Cimini, 2025\n"
+"Last-Translator: Li-Jiun Chen, 2026\n"
 "Language-Team: Chinese (https://app.transifex.com/center-for-open-bioimage-analysis/teams/169123/zh/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -25,7 +26,7 @@ msgstr ""
 #: ../../02_Sample_acquisition/Picking.md:3
 #: ../../02_Sample_acquisition/_notinyet_Setting_up.md:3
 msgid "Introduction"
-msgstr "介绍"
+msgstr "引言"
 
 #: ../../02_Sample_acquisition/Introduction.md:3
 msgid ""
@@ -33,8 +34,7 @@ msgid ""
 "different optical components and devices. As a beginner, it is important to "
 "recognize the experimental parameters that can affect the quality and rigor "
 "of the imaging data, and by extension, its interpretation."
-msgstr ""
-"显微镜是光学仪器，因此由不同的光学元件和装置组成。作为初学者，了解可能影响成像数据质量和可靠性的实验参数至关重要，进而也会影响对数据的解读。"
+msgstr "显微镜是不同光学元件和装置组成的光学仪器。作为初学者，了解可能影响成像质量和可靠性的实验参数至关重要，进而也会影响对数据的解读。"
 
 #: ../../02_Sample_acquisition/Introduction.md:5
 msgid ""
@@ -51,7 +51,7 @@ msgid ""
 "view](https://www.microscopyu.com/microscopy-basics/components) gives more "
 "detail about the various parts."
 msgstr ""
-"一个基础概念是“光路”，它可以用来追踪光从光源到探测器的路径。在使用显微镜时，无论是细胞培养显微镜还是尖端的超分辨率系统，都必须花时间追踪系统中不同的光路。将系统视为各个组成部分的集合，意味着与将系统视为黑箱相比，优化和故障排除将成为一个系统化的过程。[MicroscopyU"
+"一个基础概念是“光路”，它可以用来追踪光从光源到探测器的路径。在使用显微镜时，无论是细胞培养显微镜还是尖端的超分辨率系统，都必须花时间追踪系统中不同的光路。将系统视为由各个组成部分构成的整体，有助于使优化和故障排查成为系统化的过程，而不是将系统当作“黑箱”来处理。[MicroscopyU"
 " "
 "上的交互式教程](https://www.microscopyu.com/tutorials/tepaths)展示了标准倒置显微镜中的光路；[此视图](https://www.microscopyu.com/microscopy-"
 "basics/components)提供了有关各个部分的更多详细信息。"
@@ -74,7 +74,9 @@ msgid ""
 "imaging dim samples. {term}`Deconvolution` is sometimes performed after "
 "imaging on a widefield microscope to remove blur."
 msgstr ""
-"**宽场显微镜**，有时也称为落射荧光显微镜，它通过单一光路接收所有可用的光线；这种方法所需的硬件最简单，并且在对暗弱样品成像时通常具有优势。{term}`反卷积`有时会在宽场显微镜成像后进行，以消除图像模糊。"
+"宽场显微镜（Widefield），有时也称为 表面照明（epifluorescence） "
+"显微镜，其特点是通过单一光路收集所有可获取的信号光。这种成像方式所需的硬件最为简单，并且在对弱信号样品进行成像时通常具有优势。在使用宽场显微镜成像后，有时会进行"
+" {term}反卷积（Deconvolution） 处理，以去除由离焦光引起的图像模糊。"
 
 #: ../../02_Sample_acquisition/Introduction.md:11
 msgid ""
@@ -84,7 +86,8 @@ msgid ""
 "microscopes are often preferred for live-cell imaging applications as they "
 "tend to minimize toxicity to the sample."
 msgstr ""
-"**共聚焦显微镜**——一种能够消除光路中离焦光线的显微镜，通常使用一个或多个针孔来物理阻挡这些光线。共聚焦显微镜有多种变体；转盘式共聚焦显微镜因其能最大程度地减少对样本的毒性，常用于活细胞成像应用。"
+"**共聚焦显微镜 "
+"(Confocal)**—一种能够消除光路中离焦光线的显微镜，通常使用一个或多个针孔来物理阻挡这些光线。共聚焦显微镜有多种变体；转盘式共聚焦显微镜因其能最大程度地减少对样本的光毒性，常用于活细胞成像应用。"
 
 #: ../../02_Sample_acquisition/Introduction.md:12
 msgid ""
@@ -96,7 +99,8 @@ msgid ""
 " do. Because the benefit of these systems is in their deeper penetration, "
 "they are often used for performing live-animal imaging."
 msgstr ""
-"多光子显微镜利用多束长波长（低能量）光脉冲穿透组织深处，因为组织对这些波长的光散射能力较弱；一旦穿透到组织内部，多个低能量光子同时照射到荧光团上，它们会利用自身的能量激活荧光团，而单个光子的能量不足以激活该荧光团。由于这些系统的优势在于其更深的穿透深度，因此它们常用于活体动物成像。"
+"多光子显微镜 (Multiphoton) "
+"利用多束长波长（低能量）光脉冲穿透组织深处，因为组织对这些波长的光散射能力较弱；一旦穿透到组织内部，多个低能量光子同时照射到荧光团上，它们会利用自身的能量激活荧光团，而单个光子的能量不足以激活该荧光团。由于这些系统的优势在于其更深的穿透深度，因此它们常用于活体动物成像。"
 
 #: ../../02_Sample_acquisition/Introduction.md:13
 msgid ""
@@ -106,8 +110,9 @@ msgid ""
 "achieved with specialized hardware (such as in STED and SIM) and sometimes "
 "with specialized probes (such as in PALM and STORM)."
 msgstr ""
-"**超分辨率**显微镜旨在使用户能够突破最小光学分辨率限制（通常为 200 nm，具体取决于样品），从而分辨非常小的结构。有时，这是通过专用硬件（例如 "
-"STED 和 SIM）实现的，有时则通过专用探针（例如 PALM 和 STORM）实现的。"
+"**超分辨率 (Superresolution) **显微镜旨在使用户能够突破最小光学分辨率限制（通常为 200 "
+"nm，具体取决于样品），从而分辨非常小的结构。有时，这是通过专用硬件（例如 STED 和 SIM）实现的，有时则通过专用探针（例如 PALM 和 "
+"STORM）实现的。"
 
 #: ../../02_Sample_acquisition/Introduction.md:14
 msgid ""
@@ -117,7 +122,8 @@ msgid ""
 "more considerations around sample mounting. Many variations on light sheet "
 "microscopes have emerged in recent years."
 msgstr ""
-"**光片显微镜**通过垂直于成像轴的方向照射样品，通常使用第二组正交物镜。这种显微镜可以对大体积样品进行薄层光学切片，但也对样品安装提出了更多要求。近年来，光片显微镜衍生出了许多不同的型号。"
+"**光片显微镜 (Light sheet) "
+"**通过垂直于成像轴的方向照射样品，通常使用第二组正交物镜。这种显微镜可以对大体积样品进行薄层光学切片，但也对样品装载方式提出了更多要求。近年来，光片显微镜衍生出了许多不同的型号。"
 
 #: ../../02_Sample_acquisition/Introduction.md:17
 msgid ""
@@ -132,7 +138,7 @@ msgid ""
 " users, so if something looks \"off\", make sure to talk with them before "
 "proceeding!"
 msgstr ""
-"无论你使用哪种显微镜，科学显微镜都是结构复杂的仪器，包含许多工作部件，所有部件通常都必须处于良好的工作状态并经过正确的校准/对准，才能进行定量成像。你的显微镜维护人员通常会确保这一点，但你也应该定期与他们沟通，提出你的疑问，并了解显微镜配置的更改可能会如何影响你进行某些测量的准确性。你的显微镜维护人员可能维护着大量显微镜，供众多独立用户使用，因此，如果发现任何异常情况，请务必在继续操作之前与他们沟通！"
+"无论你使用哪种显微镜，科学显微镜是包含许多工作部件结构复杂的仪器。所有部件通常都必须处于良好的工作状态并经过正确的校准/对准，才能进行定量成像。你的显微镜维护人员通常会确保这一点，但你也应该定期与他们沟通，提出你的疑问，并了解显微镜配置的更改可能会影响你进行某些测量的准确性。你的显微镜维护人员可能维护着大量显微镜，供众多独立用户使用，因此，如果发现任何异常情况，请务必在继续操作之前与他们沟通！"
 
 #: ../../02_Sample_acquisition/Picking.md:1
 msgid "Choosing the right microscopy modality"
@@ -150,11 +156,13 @@ msgid ""
 "tutorial](https://doi.org/10.1038/s41596-020-0313-9){cite}`Jonkman2020-bo`."
 msgstr ""
 "选择合适的显微镜进行实验，既取决于实验的具体要求，也取决于研究人员能够获得的资源。下图（来自 Jermey Sanderson "
-"的《显微镜学基础》）展示了选择显微镜时应考虑的因素；关于各种显微镜优缺点的更详细描述，请参阅这篇教程：[本教程](https://doi.org/10.1038/s41596-020-0313-9)。"
+"的《显微镜学基础》）(http://dx.doi.org/10.1002/cpmo.76) {cite}`Sanderson2020-qz`) "
+"展示了选择显微镜时应考虑的因素；关于各种显微镜优缺点的更详细描述，请参阅这篇教程：[本教程](https://doi.org/10.1038/s41596-020-0313-9)"
+" {cite}`Jonkman2020-bo`.。"
 
 #: ../../02_Sample_acquisition/Picking.md:14
 msgid "BBBC image montage"
-msgstr "BBC图像蒙太奇"
+msgstr "BBBC 图像拼接"
 
 #: ../../02_Sample_acquisition/Picking.md:14
 msgid ""
