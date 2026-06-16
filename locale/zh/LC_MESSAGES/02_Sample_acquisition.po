@@ -552,4 +552,4 @@ msgstr "为欧洲科学家提供显微成像设备及相关培训"
 
 #: ../../02_Sample_acquisition/_notinyet_Setting_up.md:1
 msgid "Setting up your acquisition"
-msgstr "设置您的收购"
+msgstr "设置图像采集"
