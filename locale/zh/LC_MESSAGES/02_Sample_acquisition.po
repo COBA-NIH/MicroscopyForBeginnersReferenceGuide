@@ -273,7 +273,7 @@ msgstr ""
 
 #: ../../02_Sample_acquisition/Practical_considerations.md:24
 msgid "Filter sets"
-msgstr "过滤器集"
+msgstr "显微镜滤光片组"
 
 #: ../../02_Sample_acquisition/Practical_considerations.md:26
 msgid ""
@@ -281,7 +281,7 @@ msgid ""
 "has the correct filter sets for the fluorphores you wish to use. See the "
 "[section on bleedthrough](content/bleedthrough) for more information."
 msgstr ""
-"务必确保您要成像的显微镜配备了与您要使用的荧光染料相匹配的滤光片组。更多信息请参阅[关于串色的部分](content/bleedthrough)。"
+"务必确保您要成像的显微镜配备了与您要使用的荧光染料相匹配的滤光片组。更多信息请参阅[关于成像串色的部分](content/bleedthrough)。"
 
 #: ../../02_Sample_acquisition/Practical_considerations.md:28
 msgid "Z sampling"
@@ -331,7 +331,7 @@ msgstr "资源名称"
 
 #: ../../02_Sample_acquisition/Resources.md:8
 msgid "**Link**"
-msgstr "**关联**"
+msgstr "**链接**"
 
 #: ../../02_Sample_acquisition/Resources.md:9
 msgid "**Brief description**"
@@ -377,7 +377,7 @@ msgstr "[链接](https://myscope.training/)"
 msgid ""
 "An interactive microscope simulator and learning environment developed by "
 "MicroscopyAustralia, covering a number of types of microscopy."
-msgstr "由 MicroscopyAustralia 开发的交互式显微镜模拟器和学习环境，涵盖多种类型的显微镜。"
+msgstr "由 MicroscopyAustralia 开发的交互式显微镜模拟器和学习环境，涵盖多种类型的显微镜法。"
 
 #: ../../02_Sample_acquisition/Resources.md:19
 msgid "📖 Visualizing Cells Through Microscopy"
@@ -548,8 +548,8 @@ msgstr "[链接](https://www.eurobioimaging.eu)"
 
 #: ../../02_Sample_acquisition/Resources.md:51
 msgid "Access to microcopy instruments and training for scientists in Europe"
-msgstr "欧洲科学家获取缩微复制仪器和培训的机会"
+msgstr "为欧洲科学家提供显微成像设备及相关培训"
 
 #: ../../02_Sample_acquisition/_notinyet_Setting_up.md:1
 msgid "Setting up your acquisition"
-msgstr "设置您的收购"
+msgstr "设置图像采集"
