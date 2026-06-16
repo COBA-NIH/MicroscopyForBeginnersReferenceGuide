@@ -281,7 +281,7 @@ msgid ""
 "has the correct filter sets for the fluorphores you wish to use. See the "
 "[section on bleedthrough](content/bleedthrough) for more information."
 msgstr ""
-"务必确保您要成像的显微镜配备了与您要使用的荧光染料相匹配的滤光片组。更多信息请参阅[关于串色的部分](content/bleedthrough)。"
+"务必确保您要成像的显微镜配备了与您要使用的荧光染料相匹配的滤光片组。更多信息请参阅[关于成像串色的部分](content/bleedthrough)。"
 
 #: ../../02_Sample_acquisition/Practical_considerations.md:28
 msgid "Z sampling"
