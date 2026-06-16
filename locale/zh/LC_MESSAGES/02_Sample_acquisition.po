@@ -377,7 +377,7 @@ msgstr "[链接](https://myscope.training/)"
 msgid ""
 "An interactive microscope simulator and learning environment developed by "
 "MicroscopyAustralia, covering a number of types of microscopy."
-msgstr "由 MicroscopyAustralia 开发的交互式显微镜模拟器和学习环境，涵盖多种类型的显微镜。"
+msgstr "由 MicroscopyAustralia 开发的交互式显微镜模拟器和学习环境，涵盖多种类型的显微镜法。"
 
 #: ../../02_Sample_acquisition/Resources.md:19
 msgid "📖 Visualizing Cells Through Microscopy"
