@@ -548,7 +548,7 @@ msgstr "[链接](https://www.eurobioimaging.eu)"
 
 #: ../../02_Sample_acquisition/Resources.md:51
 msgid "Access to microcopy instruments and training for scientists in Europe"
-msgstr "欧洲科学家获取缩微复制仪器和培训的机会"
+msgstr "为欧洲科学家提供显微成像设备及相关培训"
 
 #: ../../02_Sample_acquisition/_notinyet_Setting_up.md:1
 msgid "Setting up your acquisition"
